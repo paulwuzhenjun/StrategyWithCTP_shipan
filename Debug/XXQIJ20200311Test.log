@@ -1,0 +1,258 @@
+[2020-March-11 Wednesday, 08:57:25] Log File Opened..
+[2020-March-11 Wednesday, 08:57:26] CTP MD RspLogin Success.
+[2020-March-11 Wednesday, 08:57:33] Create CTPTrader Thread..
+[2020-March-11 Wednesday, 08:57:34] AccountID:932535,Balance:16575.350
+[2020-March-11 Wednesday, 08:57:34] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4090.00,TradeVol:1,SettlePrice:4014.00,-380.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 08:57:34] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 08:57:34] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 08:57:34] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 08:57:34] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 08:57:37] gStrategyImplIndex=0,gMapView->strategynum=0
+[2020-March-11 Wednesday, 08:57:37] AccountID:932535,Balance:16575.350
+[2020-March-11 Wednesday, 08:57:37] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4090.00,TradeVol:1,SettlePrice:4014.00,-380.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 08:57:37] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 08:57:37] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 08:57:37] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 08:57:37] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 08:57:56] Strategy Init..
+[2020-March-11 Wednesday, 08:57:56] TA-GD-00006_instance1,StrategyGridOpen,嶷尼志鹸,輝念扮寂=08:57:56,Shmindex:0
+[2020-March-11 Wednesday, 09:02:16] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:02:17] AccountID:932535,Balance:18575.350
+[2020-March-11 Wednesday, 09:02:17] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4090.00,TradeVol:1,SettlePrice:4014.00,-380.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:02:17] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:02:17] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:02:17] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:02:17] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:02:20] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:02:20] AccountID:932535,Balance:18575.350
+[2020-March-11 Wednesday, 09:02:20] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4090.00,TradeVol:1,SettlePrice:4014.00,-380.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:02:20] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:02:20] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:02:20] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:02:20] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:07:34] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:07:34] AccountID:932535,Balance:18275.350
+[2020-March-11 Wednesday, 09:07:34] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4090.00,TradeVol:1,SettlePrice:4014.00,-380.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:07:34] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:07:34] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:07:34] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:07:34] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:12:42] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:12:43] AccountID:932535,Balance:17725.350
+[2020-March-11 Wednesday, 09:12:43] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4090.00,TradeVol:1,SettlePrice:4014.00,-380.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:12:43] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:12:43] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:12:43] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:12:43] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:13:14] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:13:14] AccountID:932535,Balance:17675.350
+[2020-March-11 Wednesday, 09:13:14] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4090.00,TradeVol:1,SettlePrice:4014.00,-380.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:13:14] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:13:14] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:13:14] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:13:14] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:16:11] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:16:12] AccountID:932535,Balance:17825.350
+[2020-March-11 Wednesday, 09:16:12] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4090.00,TradeVol:1,SettlePrice:4014.00,-380.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:16:12] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:16:12] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:16:12] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:16:12] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:17:59] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:18:00] AccountID:932535,Balance:18025.350
+[2020-March-11 Wednesday, 09:18:00] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4090.00,TradeVol:1,SettlePrice:4014.00,-380.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:18:00] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:18:00] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:18:00] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:18:00] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:18:52] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:18:52] AccountID:932535,Balance:17975.350
+[2020-March-11 Wednesday, 09:18:52] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4090.00,TradeVol:1,SettlePrice:4014.00,-380.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:18:52] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:18:52] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:18:52] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:18:52] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:19:48] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:19:49] AccountID:932535,Balance:18075.350
+[2020-March-11 Wednesday, 09:19:49] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4090.00,TradeVol:1,SettlePrice:4014.00,-380.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:19:49] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:19:49] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:19:49] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:19:49] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:20:11] TA-GD-00006_instance1,Stop
+[2020-March-11 Wednesday, 09:20:29] Log File Opened..
+[2020-March-11 Wednesday, 09:20:30] CTP MD RspLogin Success.
+[2020-March-11 Wednesday, 09:20:37] Create CTPTrader Thread..
+[2020-March-11 Wednesday, 09:20:38] AccountID:932535,Balance:18175.350
+[2020-March-11 Wednesday, 09:20:38] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4090.00,TradeVol:1,SettlePrice:4014.00,-380.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:20:38] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:20:38] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:20:38] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:20:38] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:20:57] Strategy Init..
+[2020-March-11 Wednesday, 09:20:57] TA-GD-00006_instance1,StrategyGridOpen,嶷尼志鹸,輝念扮寂=09:20:57,Shmindex:0
+[2020-March-11 Wednesday, 09:20:58] TA-GD-00006_instance1,Buy Order Close,OrderId=-1,price=4128.00
+[2020-March-11 Wednesday, 09:20:58] CTP Insert!! 3,openOrClose=1,buyOrSell=1,price=3812.0000,vol=1,inst=TA009,iRet=0
+[2020-March-11 Wednesday, 09:20:58] TA-GD-00006_instance1,Buy Order Close,OrderId=-1,price=4108.00
+[2020-March-11 Wednesday, 09:20:58] CTP Insert!! 4,openOrClose=1,buyOrSell=1,price=3812.0000,vol=1,inst=TA009,iRet=0
+[2020-March-11 Wednesday, 09:20:58] DispatchTdMsg,orderSysId:1871,ref:3
+[2020-March-11 Wednesday, 09:20:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=1871,Status=3,VolRemain=1,OrderRef=3
+[2020-March-11 Wednesday, 09:20:58] DispatchTdMsg,orderSysId:1872,ref:3
+[2020-March-11 Wednesday, 09:20:58] DispatchTdMsg,orderSysId:1872,ref:3
+[2020-March-11 Wednesday, 09:20:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=1872,Status=3,VolRemain=1,OrderRef=3
+[2020-March-11 Wednesday, 09:20:58] DispatchTdMsg,orderSysId:111873,ref:3
+[2020-March-11 Wednesday, 09:20:58] DispatchTdMsg,orderSysId:1917,ref:4
+[2020-March-11 Wednesday, 09:20:58] DispatchTdMsg,orderSysId:1918,ref:4
+[2020-March-11 Wednesday, 09:20:58] DispatchTdMsg,orderSysId:1918,ref:4
+[2020-March-11 Wednesday, 09:20:58] DispatchTdMsg,orderSysId:111919,ref:4
+[2020-March-11 Wednesday, 09:20:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=1872,Status=9,VolRemain=0,OrderRef=3
+[2020-March-11 Wednesday, 09:20:58] TA-GD-00006_instance1,OnRtnTrade,OrderId=111873,vol=1,price=4076.00000
+[2020-March-11 Wednesday, 09:20:58] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA009,2020031100557328,-1,109949,111873;length:428
+[2020-March-11 Wednesday, 09:20:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=1917,Status=3,VolRemain=1,OrderRef=4
+[2020-March-11 Wednesday, 09:20:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=1918,Status=3,VolRemain=1,OrderRef=4
+[2020-March-11 Wednesday, 09:20:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=1918,Status=9,VolRemain=0,OrderRef=4
+[2020-March-11 Wednesday, 09:20:58] TA-GD-00006_instance1,OnRtnTrade,OrderId=111919,vol=1,price=4076.00000
+[2020-March-11 Wednesday, 09:20:58] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA009,2020031100557330,-1,1010163,111919;length:428
+[2020-March-11 Wednesday, 09:21:20] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:21:20] AccountID:932535,Balance:18119.327
+[2020-March-11 Wednesday, 09:21:20] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:21:20] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:21:20] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:28:34] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:28:35] AccountID:932535,Balance:17939.327
+[2020-March-11 Wednesday, 09:28:35] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:28:35] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:28:35] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:33:16] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:33:16] AccountID:932535,Balance:17789.327
+[2020-March-11 Wednesday, 09:33:16] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:33:16] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:33:16] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:34:26] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:34:27] AccountID:932535,Balance:17729.327
+[2020-March-11 Wednesday, 09:34:27] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:34:27] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:34:27] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:38:44] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:38:45] AccountID:932535,Balance:17819.327
+[2020-March-11 Wednesday, 09:38:45] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:38:45] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:38:45] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:44:40] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:44:40] AccountID:932535,Balance:17939.327
+[2020-March-11 Wednesday, 09:44:40] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:44:40] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:44:40] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:45:52] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:45:53] AccountID:932535,Balance:17939.327
+[2020-March-11 Wednesday, 09:45:53] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:45:53] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:45:53] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:47:27] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:47:28] AccountID:932535,Balance:18029.327
+[2020-March-11 Wednesday, 09:47:28] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:47:28] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:47:28] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:48:29] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 09:48:29] AccountID:932535,Balance:18029.327
+[2020-March-11 Wednesday, 09:48:29] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:48:29] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 09:48:29] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 10:11:42] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 10:11:43] AccountID:932535,Balance:18059.327
+[2020-March-11 Wednesday, 10:11:43] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 10:11:43] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 10:11:43] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 10:16:00] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 10:16:01] AccountID:932535,Balance:18119.327
+[2020-March-11 Wednesday, 10:16:01] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 10:16:01] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 10:16:01] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 10:32:28] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 10:32:29] AccountID:932535,Balance:18179.327
+[2020-March-11 Wednesday, 10:32:29] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 10:32:29] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 10:32:29] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-270.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 11:15:12] TA-GD-00006_instance1,Buy Order Close,OrderId=-1,price=4168.00
+[2020-March-11 Wednesday, 11:15:12] CTP Insert!! 5,openOrClose=1,buyOrSell=1,price=3812.0000,vol=1,inst=TA009,iRet=0
+[2020-March-11 Wednesday, 11:15:12] TA-GD-00006_instance1,Buy Order Close,OrderId=-1,price=4148.00
+[2020-March-11 Wednesday, 11:15:12] CTP Insert!! 6,openOrClose=1,buyOrSell=1,price=3812.0000,vol=1,inst=TA009,iRet=0
+[2020-March-11 Wednesday, 11:15:12] DispatchTdMsg,orderSysId:5173,ref:6
+[2020-March-11 Wednesday, 11:15:12] DispatchTdMsg,orderSysId:5174,ref:6
+[2020-March-11 Wednesday, 11:15:12] DispatchTdMsg,orderSysId:5174,ref:6
+[2020-March-11 Wednesday, 11:15:12] DispatchTdMsg,orderSysId:115175,ref:6
+[2020-March-11 Wednesday, 11:15:12] DispatchTdMsg,orderSysId:5317,ref:5
+[2020-March-11 Wednesday, 11:15:12] DispatchTdMsg,orderSysId:5318,ref:5
+[2020-March-11 Wednesday, 11:15:12] DispatchTdMsg,orderSysId:5318,ref:5
+[2020-March-11 Wednesday, 11:15:12] DispatchTdMsg,orderSysId:115319,ref:5
+[2020-March-11 Wednesday, 11:15:12] TA-GD-00006_instance1,OnRtnOrder,OrderId=5173,Status=3,VolRemain=1,OrderRef=6
+[2020-March-11 Wednesday, 11:15:12] TA-GD-00006_instance1,OnRtnOrder,OrderId=5174,Status=3,VolRemain=1,OrderRef=6
+[2020-March-11 Wednesday, 11:15:12] TA-GD-00006_instance1,OnRtnOrder,OrderId=5174,Status=9,VolRemain=0,OrderRef=6
+[2020-March-11 Wednesday, 11:15:12] TA-GD-00006_instance1,OnRtnTrade,OrderId=115175,vol=1,price=4086.00000
+[2020-March-11 Wednesday, 11:15:12] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA009,2020031101457727,-1,1010120,115175;length:428
+[2020-March-11 Wednesday, 11:15:12] TA-GD-00006_instance1,OnRtnOrder,OrderId=5317,Status=3,VolRemain=1,OrderRef=5
+[2020-March-11 Wednesday, 11:15:12] TA-GD-00006_instance1,OnRtnOrder,OrderId=5318,Status=3,VolRemain=1,OrderRef=5
+[2020-March-11 Wednesday, 11:15:12] TA-GD-00006_instance1,OnRtnOrder,OrderId=5318,Status=9,VolRemain=0,OrderRef=5
+[2020-March-11 Wednesday, 11:15:12] TA-GD-00006_instance1,OnRtnTrade,OrderId=115319,vol=1,price=4086.00000
+[2020-March-11 Wednesday, 11:15:12] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA009,2020031101457729,-1,109892,115319;length:428
+[2020-March-11 Wednesday, 11:28:12] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 11:28:13] AccountID:932535,Balance:18253.304
+[2020-March-11 Wednesday, 11:28:13] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 11:28:34] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 11:28:35] AccountID:932535,Balance:18273.304
+[2020-March-11 Wednesday, 11:28:35] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 11:32:03] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 11:32:03] AccountID:932535,Balance:18273.304
+[2020-March-11 Wednesday, 11:32:03] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 13:30:37] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 13:30:37] AccountID:932535,Balance:18173.304
+[2020-March-11 Wednesday, 13:30:37] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 13:34:07] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 13:34:07] AccountID:932535,Balance:18133.304
+[2020-March-11 Wednesday, 13:34:07] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 13:34:55] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 13:34:55] AccountID:932535,Balance:18113.304
+[2020-March-11 Wednesday, 13:34:55] ClientNo:932535,Inst:TA009,Direct:0,TradePrice:4058.00,TradeVol:1,SettlePrice:4014.00,-220.00,MatchDateTime:20200310
+[2020-March-11 Wednesday, 13:36:24] DispatchTdMsg,orderSysId:6591,ref:19
+[2020-March-11 Wednesday, 13:36:24] DispatchTdMsg,orderSysId:6592,ref:19
+[2020-March-11 Wednesday, 13:36:24] DispatchTdMsg,orderSysId:6592,ref:19
+[2020-March-11 Wednesday, 13:36:24] DispatchTdMsg,orderSysId:116593,ref:19
+[2020-March-11 Wednesday, 13:36:39] TA-GD-00006_instance1,Stop
+[2020-March-11 Wednesday, 13:36:52] Strategy Init..
+[2020-March-11 Wednesday, 13:38:59] TA-GD-00006_instance1,Stop
+[2020-March-11 Wednesday, 13:39:09] Strategy Init..
+[2020-March-11 Wednesday, 13:39:22] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 13:39:23] AccountID:932535,Balance:18130.293
+[2020-March-11 Wednesday, 13:40:11] TA-GD-00006_instance1,Stop
+[2020-March-11 Wednesday, 13:40:26] Log File Opened..
+[2020-March-11 Wednesday, 13:40:28] CTP MD RspLogin Success.
+[2020-March-11 Wednesday, 13:40:33] Create CTPTrader Thread..
+[2020-March-11 Wednesday, 13:40:34] AccountID:932535,Balance:18130.293
+[2020-March-11 Wednesday, 13:41:05] Strategy Init..
+[2020-March-11 Wednesday, 13:42:04] CTP Insert!! 3,openOrClose=0,buyOrSell=1,price=3812.0000,vol=1,inst=TA009,iRet=0
+[2020-March-11 Wednesday, 13:42:04] TA-GD-00006_instance1,貧利鯉蝕花,沢=3812.00000,扮寂=13:42:05,利鯉:30
+[2020-March-11 Wednesday, 13:42:04] DispatchTdMsg,orderSysId:6858,ref:3
+[2020-March-11 Wednesday, 13:42:04] DispatchTdMsg,orderSysId:6859,ref:3
+[2020-March-11 Wednesday, 13:42:04] TA-GD-00006_instance1,OnRtnOrder,OrderId=6858,Status=3,VolRemain=1,OrderRef=3
+[2020-March-11 Wednesday, 13:42:04] TA-GD-00006_instance1,OnRtnOrder,OrderId=6859,Status=3,VolRemain=1,OrderRef=3
+[2020-March-11 Wednesday, 13:42:04] DispatchTdMsg,orderSysId:6859,ref:3
+[2020-March-11 Wednesday, 13:42:04] DispatchTdMsg,orderSysId:116860,ref:3
+[2020-March-11 Wednesday, 13:42:04] TA-GD-00006_instance1,OnRtnOrder,OrderId=6859,Status=9,VolRemain=0,OrderRef=3
+[2020-March-11 Wednesday, 13:42:04] TA-GD-00006_instance1,OnRtnTrade,OrderId=116860,vol=1,price=4052.00000
+[2020-March-11 Wednesday, 13:42:04] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA009,2020031101854023,-1,116860,-1;length:428
+[2020-March-11 Wednesday, 13:42:32] ClientNo:932535,Inst:TA009,Direct:1,TradePrice:4052.00,TradeVol:1,SettlePrice:4014.00,0.00,MatchDateTime:20200311
+[2020-March-11 Wednesday, 13:46:25] CTP Insert!! 4,openOrClose=0,buyOrSell=1,price=3812.0000,vol=1,inst=TA009,iRet=0
+[2020-March-11 Wednesday, 13:46:25] TA-GD-00006_instance1,貧利鯉蝕花,沢=3812.00000,扮寂=13:46:26,利鯉:31
+[2020-March-11 Wednesday, 13:46:25] DispatchTdMsg,orderSysId:7144,ref:4
+[2020-March-11 Wednesday, 13:46:25] TA-GD-00006_instance1,OnRtnOrder,OrderId=7144,Status=3,VolRemain=1,OrderRef=4
+[2020-March-11 Wednesday, 13:46:25] DispatchTdMsg,orderSysId:7145,ref:4
+[2020-March-11 Wednesday, 13:46:25] DispatchTdMsg,orderSysId:7145,ref:4
+[2020-March-11 Wednesday, 13:46:25] DispatchTdMsg,orderSysId:117146,ref:4
+[2020-March-11 Wednesday, 13:46:25] TA-GD-00006_instance1,OnRtnOrder,OrderId=7145,Status=3,VolRemain=1,OrderRef=4
+[2020-March-11 Wednesday, 13:46:25] TA-GD-00006_instance1,OnRtnOrder,OrderId=7145,Status=9,VolRemain=0,OrderRef=4
+[2020-March-11 Wednesday, 13:46:25] TA-GD-00006_instance1,OnRtnTrade,OrderId=117146,vol=1,price=4068.00000
+[2020-March-11 Wednesday, 13:46:25] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA009,2020031101913301,-1,117146,-1;length:428
+[2020-March-11 Wednesday, 14:00:20] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-11 Wednesday, 14:00:20] AccountID:932535,Balance:17964.270
+[2020-March-11 Wednesday, 14:00:20] ClientNo:932535,Inst:TA009,Direct:1,TradePrice:4068.00,TradeVol:1,SettlePrice:4014.00,-10.00,MatchDateTime:20200311
+[2020-March-11 Wednesday, 14:00:20] ClientNo:932535,Inst:TA009,Direct:1,TradePrice:4052.00,TradeVol:1,SettlePrice:4014.00,0.00,MatchDateTime:20200311

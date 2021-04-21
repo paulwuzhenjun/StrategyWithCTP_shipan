@@ -1,0 +1,174 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stdafx.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  database.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“const TCHAR *”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): message : 请考虑在格式字符串中使用“%ls”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): message : 请考虑在格式字符串中使用“%lls”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): message : 请考虑在格式字符串中使用“%Ls”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): message : 请考虑在格式字符串中使用“%ws”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“LPCTSTR”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): message : 请考虑在格式字符串中使用“%ls”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): message : 请考虑在格式字符串中使用“%lls”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): message : 请考虑在格式字符串中使用“%Ls”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): message : 请考虑在格式字符串中使用“%ws”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“LPCTSTR”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): message : 请考虑在格式字符串中使用“%ls”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): message : 请考虑在格式字符串中使用“%lls”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): message : 请考虑在格式字符串中使用“%Ls”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\database.cpp(55,18): message : 请考虑在格式字符串中使用“%ws”
+  ado_conn.cpp
+  TradesDisplayDlg.cpp
+  TradeDataList.cpp
+  TickDataList.cpp
+  ThostTraderSpi.cpp
+  ThostMdSpi.cpp
+  StrategyWaveOpenAdd.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyWaveOpenAdd.cpp(870,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  StrategyWaveOpen.cpp
+  StrategyUpDownR.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyUpDownR.cpp(958,41): warning C4101: “d_vol”: 未引用的局部变量
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyUpDownR.cpp(1693,41): warning C4101: “d_vol”: 未引用的局部变量
+  StrategyThreeK.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyThreeK.cpp(2148,41): warning C4101: “d_vol”: 未引用的局部变量
+  StrategySpeedBreak.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategySpeedBreak.cpp(1759,41): warning C4101: “d_vol”: 未引用的局部变量
+  StrategyRecoverDlg.cpp
+  StrategyOpenPriceOpeningNight.cpp
+  StrategyOpenPriceOpeningNew.cpp
+  StrategyOpenPriceOpeningAsia.cpp
+  StrategyOpenPriceOpening.cpp
+  StrategyLastTTimeOpen.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyLastTTimeOpen.cpp(1442,41): warning C4101: “d_vol”: 未引用的局部变量
+  StrategyKDJ.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyKDJ.cpp(1832,41): warning C4101: “d_vol”: 未引用的局部变量
+  StrategyGridOpen.cpp
+  正在生成代码...
+  正在编译...
+  StrategyGridMAStopGTCChop.cpp
+  StrategyDT.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(292,20): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“double”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(292,160): warning C4474: sprintf: 格式字符串中传递的参数太多
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(292,160): message : 占位符和其参数预计 4 可变参数，但提供的却是 5 参数
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(323,20): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“double”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(323,160): warning C4474: sprintf: 格式字符串中传递的参数太多
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(323,160): message : 占位符和其参数预计 4 可变参数，但提供的却是 5 参数
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(962,41): warning C4101: “d_vol”: 未引用的局部变量
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(1969,39): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(1969,39): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(1969,39): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(1993,38): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(1993,38): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(1993,38): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(2002,32): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(2002,32): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(2002,32): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+  StrategyBaseGridOpen_plus.cpp
+  StrategyBaseGridOpenCffex.cpp
+  StrategyBaseGridOpen.cpp
+  StrategyBaseGridMAStopOpenCffex.cpp
+  StrategyBaseGridMAStopOpen.cpp
+  StrategyBar.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBar.cpp(776,72): warning C4804: “>=”: 在操作中使用类型“bool”不安全
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBar.cpp(1971,41): warning C4101: “d_vol”: 未引用的局部变量
+  StrategyBaoChe.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBaoChe.cpp(470,34): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBaoChe.cpp(514,34): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBaoChe.cpp(643,31): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBaoChe.cpp(675,31): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBaoChe.cpp(758,35): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBaoChe.cpp(801,35): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBaoChe.cpp(828,35): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBaoChe.cpp(871,35): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBaoChe.cpp(943,31): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBaoChe.cpp(947,38): warning C4244: “=”: 从“time_t”转换到“unsigned long”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBaoChe.cpp(990,31): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBaoChe.cpp(994,38): warning C4244: “=”: 从“time_t”转换到“unsigned long”，可能丢失数据
+  StrategyBandMomnt.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyBandMomnt.cpp(1739,41): warning C4101: “d_vol”: 未引用的局部变量
+  StrategyAvgLine.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgLine.cpp(1068,41): warning C4101: “d_vol”: 未引用的局部变量
+  StrategyAvgDown.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1049,41): warning C4101: “d_vol”: 未引用的局部变量
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1838,39): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1838,39): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1838,39): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1970,39): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1970,39): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1970,39): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1994,38): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1994,38): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1994,38): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(2003,32): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(2003,32): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(2003,32): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+  Strategy.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\Strategy.cpp(70,14): warning C4101: “shm_tick”: 未引用的局部变量
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\Strategy.cpp(57,14): warning C4101: “curtick”: 未引用的局部变量
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\Strategy.cpp(58,11): warning C4101: “tickData”: 未引用的局部变量
+  SgitTraderSpi.cpp
+  SgitMdSpi.cpp
+  ScreenDisplayThread.cpp
+  RiskManagementTcp.cpp
+  RSMsgList.cpp
+  PositionsMgrDlg.cpp
+  ParamsMgrDlg.cpp
+  正在生成代码...
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\RiskManagementTcp.cpp(312): warning C4715: “pTcpClientThread”: 不是所有的控件路径都返回值
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1838): warning C4700: 使用了未初始化的局部变量“nSec2”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1838): warning C4700: 使用了未初始化的局部变量“nMin2”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1838): warning C4700: 使用了未初始化的局部变量“nHour2”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1970): warning C4700: 使用了未初始化的局部变量“nSec2”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1970): warning C4700: 使用了未初始化的局部变量“nMin2”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1970): warning C4700: 使用了未初始化的局部变量“nHour2”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1994): warning C4700: 使用了未初始化的局部变量“nSec3”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1994): warning C4700: 使用了未初始化的局部变量“nMin3”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(1994): warning C4700: 使用了未初始化的局部变量“nHour3”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(2003): warning C4700: 使用了未初始化的局部变量“nSec4”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(2003): warning C4700: 使用了未初始化的局部变量“nMin4”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyAvgDown.cpp(2003): warning C4700: 使用了未初始化的局部变量“nHour4”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(1969): warning C4700: 使用了未初始化的局部变量“nSec2”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(1969): warning C4700: 使用了未初始化的局部变量“nMin2”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(1969): warning C4700: 使用了未初始化的局部变量“nHour2”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(1993): warning C4700: 使用了未初始化的局部变量“nSec3”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(1993): warning C4700: 使用了未初始化的局部变量“nMin3”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(1993): warning C4700: 使用了未初始化的局部变量“nHour3”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(2002): warning C4700: 使用了未初始化的局部变量“nSec4”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(2002): warning C4700: 使用了未初始化的局部变量“nMin4”
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\StrategyDT.cpp(2002): warning C4700: 使用了未初始化的局部变量“nHour4”
+  正在编译...
+  OrdersMgrDlg.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\OrdersMgrDlg.cpp(130,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\OrdersMgrDlg.cpp(137,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\OrdersMgrDlg.cpp(192,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\OrdersMgrDlg.cpp(199,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  OrderDataList.cpp
+  MyTimer.cpp
+  MyThread.cpp
+  MessageList.cpp
+  Message.cpp
+  MdSpi.cpp
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\MdSpi.cpp(126,36): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\MdSpi.cpp(128,36): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  MdDlg.cpp
+  MIndicator.cpp
+  MDDataDispatchThread.cpp
+  LogMsgThread.cpp
+  LockVariable.cpp
+  LocalCLMgrDlg.cpp
+  InstMgrDlg.cpp
+  InstListDlg.cpp
+  InsertOrderDlg.cpp
+  HitTraderApiDlg.cpp
+  HitTraderApi.cpp
+  GlobalFunc.cpp
+  EsunTraderSpi.cpp
+  正在生成代码...
+  正在编译...
+  EsunMdSpi.cpp
+  EnterCTPUserDlg.cpp
+  DispatchTdMsgThread.cpp
+  CMdInstMgrDlg.cpp
+  正在生成代码...
+ado_conn.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  TestTraderApi.vcxproj -> C:\work\StrategyWithCTP_shipan\StrategyWithCTP_shipan\Debug\StrategyWithCTPFinalMDTD.exe

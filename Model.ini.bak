@@ -1,0 +1,104 @@
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,InstCodeName,合约名称,SHFE ag ag1812
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,StartTime,开始时间,2018-09-17 14:53:49
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,EndTime,结束时间,2018-09-17 23:00:00
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,OpenBuyAllow,允许开买单,0
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,OpenSellAllow,允许开卖单,1
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,OpenTime,开盘时间,21:00:00
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,CloseTime,收盘时间,15:00:00
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,BasePrice,基准价格,3396
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,UpGridCount,上网格数量,30
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,UpGridDistPoint,上网格间距,10
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,DnGridCount,下网格数量,30
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,DnGridDistPoint,下网格间距,10
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,ProfitPoint,网格止盈点,12
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,StoplossPoint,网格止损点,100
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,GridVol,手数,4
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,IsBasePrice,固定基准价,0
+TTimeOpenModel,BaseGridOpen,ag-GD-00006-2,60,instance1,LoopTimes,交易时段内开仓次数,500
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,InstCodeName,合约名称,SHFE au au1812
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,StartTime,开始时间,2018-09-17 14:53:49
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,EndTime,结束时间,2018-09-17 23:00:00
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,OpenBuyAllow,允许开买单,0
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,OpenSellAllow,允许开卖单,0
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,OpenTime,开盘时间,21:00:00
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,CloseTime,收盘时间,15:00:00
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,BasePrice,基准价格,263.4
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,UpGridCount,上网格数量,20
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,UpGridDistPoint,上网格间距,6
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,DnGridCount,下网格数量,20
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,DnGridDistPoint,下网格间距,6
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,ProfitPoint,网格止盈点,8
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,StoplossPoint,网格止损点,100
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,GridVol,手数,1
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,IsBasePrice,固定基准价,0
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance1,LoopTimes,交易时段内开仓次数,500
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,InstCodeName,合约名称,SHFE au au1812
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,StartTime,开始时间,2018-09-17 14:53:49
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,EndTime,结束时间,2018-09-17 23:00:00
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,OpenBuyAllow,允许开买单,0
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,OpenSellAllow,允许开卖单,1
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,OpenTime,开盘时间,21:00:00
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,CloseTime,收盘时间,15:00:00
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,BasePrice,基准价格,263.4
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,UpGridCount,上网格数量,20
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,UpGridDistPoint,上网格间距,6
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,DnGridCount,下网格数量,20
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,DnGridDistPoint,下网格间距,6
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,ProfitPoint,网格止盈点,8
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,StoplossPoint,网格止损点,100
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,GridVol,手数,1
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,IsBasePrice,固定基准价,0
+TTimeOpenModel,BaseGridOpen,au-GD-00006-2,20,instance2,LoopTimes,交易时段内开仓次数,500
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,InstCodeName,合约名称,INE sc sc1812
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,StartTime,开始时间,2018-09-17 14:53:49
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,EndTime,结束时间,2018-09-18 12:00:00
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,OpenBuyAllow,允许开买单,1
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,OpenSellAllow,允许开卖单,0
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,OpenTime,开盘时间,21:00:00
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,CloseTime,收盘时间,15:00:00
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,BasePrice,基准价格,536.4
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,UpGridCount,上网格数量,10
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,UpGridDistPoint,上网格间距,30
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,DnGridCount,下网格数量,10
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,DnGridDistPoint,下网格间距,30
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,ProfitPoint,网格止盈点,32
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,StoplossPoint,网格止损点,100
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,GridVol,手数,1
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,IsBasePrice,固定基准价,0
+TTimeOpenModel,BaseGridOpen,sc-GD-00006-2,20,instance1,LoopTimes,交易时段内开仓次数,500
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,InstCodeName,合约名称,SHFE ag ag1812
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,StartTime,开始时间,2018-09-17 14:53:49
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,EndTime,结束时间,2018-09-17 23:00:00
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,OpenBuyAllow,允许开买单,0
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,OpenSellAllow,允许开卖单,1
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,OpenTime,开盘时间,21:00:00
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,CloseTime,收盘时间,15:00:00
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,BasePrice,基准价格,3396
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,UpGridCount,上网格数量,15
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,UpGridDistPoint,上网格间距,20
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,DnGridCount,下网格数量,15
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,DnGridDistPoint,下网格间距,20
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,ProfitPoint,网格止盈点,30
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,StoplossPoint,网格止损点,100
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,GridVol,手数,4
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,IsBasePrice,固定基准价,0
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,BackPerc,回撤百分比,0.3
+TTimeOpenModel,BaseGridMAStopOpen,ag-GD-00007,60,instance1,LoopTimes,交易时段内开仓次数,500
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,InstCodeName,合约名称,SHFE au au1812
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,StartTime,开始时间,2018-09-17 14:53:49
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,EndTime,结束时间,2018-09-17 23:00:00
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,OpenBuyAllow,允许开买单,0
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,OpenSellAllow,允许开卖单,1
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,OpenTime,开盘时间,21:00:00
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,CloseTime,收盘时间,15:00:00
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,BasePrice,基准价格,263.4
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,UpGridCount,上网格数量,10
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,UpGridDistPoint,上网格间距,12
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,DnGridCount,下网格数量,10
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,DnGridDistPoint,下网格间距,12
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,ProfitPoint,网格止盈点,14
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,StoplossPoint,网格止损点,100
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,GridVol,手数,1
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,IsBasePrice,固定基准价,0
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,BackPerc,回撤百分比,0.3
+TTimeOpenModel,BaseGridMAStopOpen,au-GD-00007,60,instance1,LoopTimes,交易时段内开仓次数,500

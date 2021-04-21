@@ -1,0 +1,126 @@
+[2019-January-04 Friday, 09:21:34] Log File Opened..
+[2019-January-04 Friday, 09:21:35] CTP MD RspLogin Success.
+[2019-January-04 Friday, 09:28:48] Log File Opened..
+[2019-January-04 Friday, 09:28:49] CTP MD RspLogin Success.
+[2019-January-04 Friday, 09:29:07] Create CTPTrader Thread..
+[2019-January-04 Friday, 09:29:07] AccountID:2208002102,Balance:1806332.460
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:2,SettlePrice:289.10,9100.00,MatchDateTime:20181226
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:m1905,Direct:1,TradePrice:2679.00,TradeVol:3,SettlePrice:0.00,-240.00,MatchDateTime:20190104
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:m1905,Direct:1,TradePrice:2679.00,TradeVol:1,SettlePrice:0.00,-80.00,MatchDateTime:20190104
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:1,SettlePrice:0.00,1550.00,MatchDateTime:20190104
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:4,SettlePrice:0.00,6200.00,MatchDateTime:20190104
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:4,SettlePrice:0.00,6200.00,MatchDateTime:20190104
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:1,SettlePrice:0.00,1550.00,MatchDateTime:20190104
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-7400.00,MatchDateTime:20181219
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-7400.00,MatchDateTime:20181219
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-7400.00,MatchDateTime:20181219
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:2,SettlePrice:384.30,-14800.00,MatchDateTime:20181219
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.00,TradeVol:1,SettlePrice:384.30,-6600.00,MatchDateTime:20181219
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:1,SettlePrice:289.10,4550.00,MatchDateTime:20181226
+[2019-January-04 Friday, 09:29:07] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:7,SettlePrice:289.10,31850.00,MatchDateTime:20181226
+[2019-January-04 Friday, 09:29:15] Strategy Init..
+[2019-一月-04 星期五, 09:53:25] KDJ_Instance1,Stop
+[2019-January-04 Friday, 09:57:03] Log File Opened..
+[2019-January-04 Friday, 09:57:04] CTP MD RspLogin Success.
+[2019-January-04 Friday, 09:57:11] Create CTPTrader Thread..
+[2019-January-04 Friday, 09:57:11] AccountID:2208002102,Balance:1811932.460
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:2,SettlePrice:289.10,8400.00,MatchDateTime:20181226
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:m1905,Direct:1,TradePrice:2679.00,TradeVol:3,SettlePrice:0.00,-240.00,MatchDateTime:20190104
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:m1905,Direct:1,TradePrice:2679.00,TradeVol:1,SettlePrice:0.00,-80.00,MatchDateTime:20190104
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:1,SettlePrice:0.00,1200.00,MatchDateTime:20190104
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:4,SettlePrice:0.00,4800.00,MatchDateTime:20190104
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:4,SettlePrice:0.00,4800.00,MatchDateTime:20190104
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:1,SettlePrice:0.00,1200.00,MatchDateTime:20190104
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-5300.00,MatchDateTime:20181219
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-5300.00,MatchDateTime:20181219
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-5300.00,MatchDateTime:20181219
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:2,SettlePrice:384.30,-10600.00,MatchDateTime:20181219
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.00,TradeVol:1,SettlePrice:384.30,-4500.00,MatchDateTime:20181219
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:1,SettlePrice:289.10,4200.00,MatchDateTime:20181226
+[2019-January-04 Friday, 09:57:11] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:7,SettlePrice:289.10,29400.00,MatchDateTime:20181226
+[2019-January-04 Friday, 09:57:15] Strategy Init..
+[2019-January-04 Friday, 10:31:08] Log File Opened..
+[2019-January-04 Friday, 10:31:09] CTP MD RspLogin Success.
+[2019-January-04 Friday, 10:33:23] Log File Opened..
+[2019-January-04 Friday, 10:33:24] CTP MD RspLogin Success.
+[2019-January-04 Friday, 10:34:01] Create CTPTrader Thread..
+[2019-January-04 Friday, 10:34:01] AccountID:2208002102,Balance:1818772.460
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:2,SettlePrice:289.10,8900.00,MatchDateTime:20181226
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:m1905,Direct:1,TradePrice:2679.00,TradeVol:3,SettlePrice:0.00,-210.00,MatchDateTime:20190104
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:m1905,Direct:1,TradePrice:2679.00,TradeVol:1,SettlePrice:0.00,-70.00,MatchDateTime:20190104
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:1,SettlePrice:0.00,1450.00,MatchDateTime:20190104
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:4,SettlePrice:0.00,5800.00,MatchDateTime:20190104
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:4,SettlePrice:0.00,5800.00,MatchDateTime:20190104
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:1,SettlePrice:0.00,1450.00,MatchDateTime:20190104
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-5000.00,MatchDateTime:20181219
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-5000.00,MatchDateTime:20181219
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-5000.00,MatchDateTime:20181219
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:2,SettlePrice:384.30,-10000.00,MatchDateTime:20181219
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.00,TradeVol:1,SettlePrice:384.30,-4200.00,MatchDateTime:20181219
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:1,SettlePrice:289.10,4450.00,MatchDateTime:20181226
+[2019-January-04 Friday, 10:34:01] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:7,SettlePrice:289.10,31150.00,MatchDateTime:20181226
+[2019-January-04 Friday, 10:34:05] Strategy Init..
+[2019-January-04 Friday, 10:34:05] cannot open the csv hst file
+[2019-January-04 Friday, 11:13:22] Log File Opened..
+[2019-January-04 Friday, 11:13:23] CTP MD RspLogin Success.
+[2019-January-04 Friday, 11:13:34] Create CTPTrader Thread..
+[2019-January-04 Friday, 11:13:34] AccountID:2208002102,Balance:1812572.460
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:2,SettlePrice:289.10,8000.00,MatchDateTime:20181226
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:m1905,Direct:1,TradePrice:2679.00,TradeVol:3,SettlePrice:0.00,-360.00,MatchDateTime:20190104
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:m1905,Direct:1,TradePrice:2679.00,TradeVol:1,SettlePrice:0.00,-120.00,MatchDateTime:20190104
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:1,SettlePrice:0.00,1000.00,MatchDateTime:20190104
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:4,SettlePrice:0.00,4000.00,MatchDateTime:20190104
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:4,SettlePrice:0.00,4000.00,MatchDateTime:20190104
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:1,SettlePrice:0.00,1000.00,MatchDateTime:20190104
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-4500.00,MatchDateTime:20181219
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-4500.00,MatchDateTime:20181219
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-4500.00,MatchDateTime:20181219
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:2,SettlePrice:384.30,-9000.00,MatchDateTime:20181219
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.00,TradeVol:1,SettlePrice:384.30,-3700.00,MatchDateTime:20181219
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:1,SettlePrice:289.10,4000.00,MatchDateTime:20181226
+[2019-January-04 Friday, 11:13:34] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:7,SettlePrice:289.10,28000.00,MatchDateTime:20181226
+[2019-January-04 Friday, 11:13:39] Strategy Init..
+[2019-January-04 Friday, 11:13:39] cannot open the csv hst file
+[2019-January-04 Friday, 14:59:02] DispatchTdMsg,orderSysId:1632,ref:9
+[2019-January-04 Friday, 14:59:02] DispatchTdMsg,orderSysId:1769,ref:10
+[2019-January-04 Friday, 14:59:02] DispatchTdMsg,orderSysId:15401,ref:9
+[2019-January-04 Friday, 14:59:02] DispatchTdMsg,orderSysId:15262,ref:10
+[2019-January-04 Friday, 14:59:02] DispatchTdMsg,orderSysId:15402,ref:14
+[2019-January-04 Friday, 14:59:02] DispatchTdMsg,orderSysId:15402,ref:14
+[2019-January-04 Friday, 14:59:02] DispatchTdMsg,orderSysId:415403,ref:14
+[2019-January-04 Friday, 14:59:02] DispatchTdMsg,orderSysId:15263,ref:15
+[2019-January-04 Friday, 14:59:02] DispatchTdMsg,orderSysId:15263,ref:15
+[2019-January-04 Friday, 14:59:02] DispatchTdMsg,orderSysId:415264,ref:15
+[2019-January-04 Friday, 15:05:37] AccountID:2208002102,Balance:1821495.760
+[2019-January-04 Friday, 15:05:37] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:2,SettlePrice:289.10,7300.00,MatchDateTime:20181226
+[2019-January-04 Friday, 15:05:37] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:1,SettlePrice:0.00,650.00,MatchDateTime:20190104
+[2019-January-04 Friday, 15:05:37] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:4,SettlePrice:0.00,2600.00,MatchDateTime:20190104
+[2019-January-04 Friday, 15:05:37] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:4,SettlePrice:0.00,2600.00,MatchDateTime:20190104
+[2019-January-04 Friday, 15:05:37] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:1,SettlePrice:0.00,650.00,MatchDateTime:20190104
+[2019-January-04 Friday, 15:05:37] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-1800.00,MatchDateTime:20181219
+[2019-January-04 Friday, 15:05:37] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-1800.00,MatchDateTime:20181219
+[2019-January-04 Friday, 15:05:37] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:384.30,-1800.00,MatchDateTime:20181219
+[2019-January-04 Friday, 15:05:37] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:2,SettlePrice:384.30,-3600.00,MatchDateTime:20181219
+[2019-January-04 Friday, 15:05:37] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.00,TradeVol:1,SettlePrice:384.30,-1000.00,MatchDateTime:20181219
+[2019-January-04 Friday, 15:05:37] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:1,SettlePrice:289.10,3650.00,MatchDateTime:20181226
+[2019-January-04 Friday, 15:05:37] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:7,SettlePrice:289.10,25550.00,MatchDateTime:20181226
+[2019-January-04 Friday, 20:45:42] cannot open the csv hst file
+[2019-January-04 Friday, 20:45:45] Create CTPTrader Thread..
+[2019-January-04 Friday, 20:45:45] CTP MD RspLogin Success.
+[2019-January-04 Friday, 20:45:45] AccountID:2208002102,Balance:1821495.750
+[2019-January-04 Friday, 20:45:45] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:1,SettlePrice:290.40,650.00,MatchDateTime:20190104
+[2019-January-04 Friday, 20:45:45] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:393.90,-1800.00,MatchDateTime:20181219
+[2019-January-04 Friday, 20:45:45] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:393.90,-1800.00,MatchDateTime:20181219
+[2019-January-04 Friday, 20:45:45] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:1,SettlePrice:393.90,-1800.00,MatchDateTime:20181219
+[2019-January-04 Friday, 20:45:45] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.80,TradeVol:2,SettlePrice:393.90,-3600.00,MatchDateTime:20181219
+[2019-January-04 Friday, 20:45:45] ClientNo:2208002102,Inst:sc1903,Direct:0,TradePrice:399.00,TradeVol:1,SettlePrice:393.90,-1000.00,MatchDateTime:20181219
+[2019-January-04 Friday, 20:45:45] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:1,SettlePrice:290.40,3650.00,MatchDateTime:20181226
+[2019-January-04 Friday, 20:45:45] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:7,SettlePrice:290.40,25550.00,MatchDateTime:20181226
+[2019-January-04 Friday, 20:45:45] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:286.90,TradeVol:2,SettlePrice:290.40,7300.00,MatchDateTime:20181226
+[2019-January-04 Friday, 20:45:45] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:1,SettlePrice:290.40,650.00,MatchDateTime:20190104
+[2019-January-04 Friday, 20:45:45] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:4,SettlePrice:290.40,2600.00,MatchDateTime:20190104
+[2019-January-04 Friday, 20:45:45] ClientNo:2208002102,Inst:au1906,Direct:0,TradePrice:289.90,TradeVol:4,SettlePrice:290.40,2600.00,MatchDateTime:20190104
+[2019-January-04 Friday, 21:00:03] DispatchTdMsg,orderSysId:157,ref:17
+[2019-January-04 Friday, 23:29:03] DispatchTdMsg,orderSysId:157,ref:17
+[2019-January-04 Friday, 23:29:03] DispatchTdMsg,orderSysId:4738,ref:17
+[2019-January-06 Sunday, 18:48:44] SR-RD-00009_Instance1,Stop

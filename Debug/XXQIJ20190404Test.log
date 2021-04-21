@@ -1,0 +1,56 @@
+[2019-April-04 Thursday, 10:15:18] Log File Opened..
+[2019-April-04 Thursday, 10:15:19] CTP MD RspLogin Success.
+[2019-April-04 Thursday, 10:15:34] Create CTPTrader Thread..
+[2019-April-04 Thursday, 10:15:34] AccountID:2208002103,Balance:2424342.000
+[2019-April-04 Thursday, 10:15:34] ClientNo:2208002103,Inst:sc1905,Direct:0,TradePrice:455.00,TradeVol:1,SettlePrice:471.30,15300.00,MatchDateTime:20190328
+[2019-April-04 Thursday, 10:15:34] ClientNo:2208002103,Inst:sc1905,Direct:1,TradePrice:456.50,TradeVol:1,SettlePrice:471.30,-13800.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:15:34] ClientNo:2208002103,Inst:sc1905,Direct:1,TradePrice:456.60,TradeVol:1,SettlePrice:471.30,-13700.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:15:34] ClientNo:2208002103,Inst:sc1905,Direct:1,TradePrice:456.40,TradeVol:1,SettlePrice:471.30,-13900.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:15:34] ClientNo:2208002103,Inst:sc1905,Direct:1,TradePrice:456.20,TradeVol:1,SettlePrice:471.30,-14100.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:15:34] ClientNo:2208002103,Inst:sc1905,Direct:0,TradePrice:454.40,TradeVol:2,SettlePrice:471.30,31800.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:15:34] ClientNo:2208002103,Inst:sc1905,Direct:0,TradePrice:454.40,TradeVol:1,SettlePrice:471.30,15900.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:15:34] ClientNo:2208002103,Inst:sc1905,Direct:0,TradePrice:454.40,TradeVol:1,SettlePrice:471.30,15900.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:15:34] ClientNo:2208002103,Inst:sc1905,Direct:0,TradePrice:454.40,TradeVol:2,SettlePrice:471.30,31800.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:15:34] ClientNo:2208002103,Inst:sc1905,Direct:0,TradePrice:455.00,TradeVol:1,SettlePrice:471.30,15300.00,MatchDateTime:20190328
+[2019-April-04 Thursday, 10:35:14] Log File Opened..
+[2019-April-04 Thursday, 10:35:15] CTP MD RspLogin Success.
+[2019-April-04 Thursday, 10:35:29] Create CTPTrader Thread..
+[2019-April-04 Thursday, 10:35:29] AccountID:2208002103,Balance:2424742.000
+[2019-April-04 Thursday, 10:35:29] ClientNo:2208002103,Inst:sc1905,Direct:0,TradePrice:455.00,TradeVol:1,SettlePrice:471.30,15400.00,MatchDateTime:20190328
+[2019-April-04 Thursday, 10:35:29] ClientNo:2208002103,Inst:sc1905,Direct:1,TradePrice:456.50,TradeVol:1,SettlePrice:471.30,-13900.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:35:29] ClientNo:2208002103,Inst:sc1905,Direct:1,TradePrice:456.60,TradeVol:1,SettlePrice:471.30,-13800.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:35:29] ClientNo:2208002103,Inst:sc1905,Direct:1,TradePrice:456.40,TradeVol:1,SettlePrice:471.30,-14000.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:35:29] ClientNo:2208002103,Inst:sc1905,Direct:1,TradePrice:456.20,TradeVol:1,SettlePrice:471.30,-14200.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:35:29] ClientNo:2208002103,Inst:sc1905,Direct:0,TradePrice:454.40,TradeVol:2,SettlePrice:471.30,32000.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:35:29] ClientNo:2208002103,Inst:sc1905,Direct:0,TradePrice:454.40,TradeVol:1,SettlePrice:471.30,16000.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:35:29] ClientNo:2208002103,Inst:sc1905,Direct:0,TradePrice:454.40,TradeVol:1,SettlePrice:471.30,16000.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:35:29] ClientNo:2208002103,Inst:sc1905,Direct:0,TradePrice:454.40,TradeVol:2,SettlePrice:471.30,32000.00,MatchDateTime:20190320
+[2019-April-04 Thursday, 10:35:29] ClientNo:2208002103,Inst:sc1905,Direct:0,TradePrice:455.00,TradeVol:1,SettlePrice:471.30,15400.00,MatchDateTime:20190328
+[2019-April-04 Thursday, 10:36:07] Strategy Init..
+[2019-April-04 Thursday, 10:36:07] sc-GD-00006-3_instance2,StrategyGridOpen,重启恢复,当前时间=10:36:07,Shmindex:0
+[2019-April-04 Thursday, 16:12:46] Log File Opened..
+[2019-April-04 Thursday, 16:12:47] CTP MD RspLogin Success.
+[2019-April-04 Thursday, 16:12:53] Create CTPTrader Thread..
+[2019-April-04 Thursday, 16:12:54] AccountID:2208002006,Balance:3623096.471
+[2019-April-04 Thursday, 16:12:54] ClientNo:2208002006,Inst:sc1905,Direct:0,TradePrice:470.80,TradeVol:1,SettlePrice:471.30,-1800.00,MatchDateTime:20190403
+[2019-April-04 Thursday, 16:12:54] ClientNo:2208002006,Inst:cu1905,Direct:0,TradePrice:49480.00,TradeVol:9,SettlePrice:49230.00,1800.00,MatchDateTime:20190404
+[2019-April-04 Thursday, 16:12:54] ClientNo:2208002006,Inst:cu1905,Direct:0,TradePrice:49510.00,TradeVol:5,SettlePrice:0.00,250.00,MatchDateTime:20190404
+[2019-April-04 Thursday, 16:12:54] ClientNo:2208002006,Inst:cu1905,Direct:0,TradePrice:49510.00,TradeVol:4,SettlePrice:0.00,200.00,MatchDateTime:20190404
+[2019-April-04 Thursday, 16:12:54] ClientNo:2208002006,Inst:sc1905,Direct:0,TradePrice:468.60,TradeVol:1,SettlePrice:471.30,400.00,MatchDateTime:20190404
+[2019-April-04 Thursday, 16:12:54] ClientNo:2208002006,Inst:sc1905,Direct:0,TradePrice:468.60,TradeVol:1,SettlePrice:471.30,400.00,MatchDateTime:20190404
+[2019-April-04 Thursday, 16:12:54] ClientNo:2208002006,Inst:sc1905,Direct:0,TradePrice:472.90,TradeVol:1,SettlePrice:471.30,-3900.00,MatchDateTime:20190403
+[2019-April-04 Thursday, 16:12:54] ClientNo:2208002006,Inst:sc1905,Direct:0,TradePrice:472.80,TradeVol:1,SettlePrice:471.30,-3800.00,MatchDateTime:20190403
+[2019-April-04 Thursday, 16:12:54] ClientNo:2208002006,Inst:sc1905,Direct:0,TradePrice:473.50,TradeVol:1,SettlePrice:471.30,-4500.00,MatchDateTime:20190403
+[2019-April-04 Thursday, 16:12:54] ClientNo:2208002006,Inst:sc1905,Direct:0,TradePrice:458.50,TradeVol:2,SettlePrice:471.30,21000.00,MatchDateTime:20190327
+[2019-April-04 Thursday, 16:12:54] ClientNo:2208002006,Inst:sc1905,Direct:0,TradePrice:448.70,TradeVol:2,SettlePrice:471.30,40600.00,MatchDateTime:20190325
+[2019-April-04 Thursday, 16:12:54] ClientNo:2208002006,Inst:sc1905,Direct:0,TradePrice:456.30,TradeVol:2,SettlePrice:471.30,25400.00,MatchDateTime:20190328
+[2019-April-04 Thursday, 16:15:04] Log File Opened..
+[2019-April-04 Thursday, 16:15:18] Create CTPTrader Thread..
+[2019-April-04 Thursday, 16:15:18] AccountID:2208002006,Balance:3623096.471
+[2019-April-04 Thursday, 16:15:28] Log File Opened..
+[2019-April-04 Thursday, 16:15:40] Create CTPTrader Thread..
+[2019-April-04 Thursday, 16:15:40] AccountID:2208002005,Balance:3345373.982
+[2019-April-04 Thursday, 16:15:51] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5799.80,TradeVol:1,SettlePrice:5818.60,16560.00,MatchDateTime:20190402
+[2019-April-04 Thursday, 16:16:36] ClientNo:2208002005,Inst:IH1904,Direct:0,TradePrice:2935.00,TradeVol:1,SettlePrice:2918.40,7500.00,MatchDateTime:20190404
+[2019-April-04 Thursday, 16:16:39] ClientNo:2208002005,Inst:IH1904,Direct:1,TradePrice:2937.00,TradeVol:1,SettlePrice:2918.40,-6900.00,MatchDateTime:20190404
+[2019-April-04 Thursday, 16:16:39] ClientNo:2208002005,Inst:IH1904,Direct:0,TradePrice:2906.00,TradeVol:1,SettlePrice:2918.40,16200.00,MatchDateTime:20190402

@@ -1,0 +1,496 @@
+[2019-December-23 Monday, 09:07:43] Log File Opened..
+[2019-December-23 Monday, 09:07:44] CTP MD RspLogin Success.
+[2019-December-23 Monday, 09:07:51] Create CTPTrader Thread..
+[2019-December-23 Monday, 09:07:58] AccountID:932535,Balance:5035.744
+[2019-December-23 Monday, 09:08:08] Strategy Init..
+[2019-December-23 Monday, 09:08:21] CTP Insert!! 3,openOrClose=0,buyOrSell=0,price=3539.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:08:22] DispatchTdMsg,orderSysId:10753,ref:3
+[2019-December-23 Monday, 09:08:22] rb-GD-00006_instance1,OnRtnOrder,OrderId=10753,Status=3,VolRemain=1,OrderRef=3
+[2019-December-23 Monday, 09:08:26] DispatchTdMsg,orderSysId:10763,ref:3
+[2019-December-23 Monday, 09:08:26] DispatchTdMsg,orderSysId:10763,ref:3
+[2019-December-23 Monday, 09:08:26] rb-GD-00006_instance1,OnRtnOrder,OrderId=10763,Status=3,VolRemain=1,OrderRef=3
+[2019-December-23 Monday, 09:08:26] rb-GD-00006_instance1,OnRtnOrder,OrderId=10763,Status=9,VolRemain=0,OrderRef=3
+[2019-December-23 Monday, 09:08:26] DispatchTdMsg,orderSysId:2310764,ref:3
+[2019-December-23 Monday, 09:08:36] CTP Insert!! 4,openOrClose=1,buyOrSell=1,price=3537.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:08:36] DispatchTdMsg,orderSysId:10616,ref:4
+[2019-December-23 Monday, 09:08:36] rb-GD-00006_instance1,OnRtnOrder,OrderId=10616,Status=3,VolRemain=1,OrderRef=4
+[2019-December-23 Monday, 09:08:37] DispatchTdMsg,orderSysId:10618,ref:4
+[2019-December-23 Monday, 09:08:37] DispatchTdMsg,orderSysId:10618,ref:4
+[2019-December-23 Monday, 09:08:37] rb-GD-00006_instance1,OnRtnOrder,OrderId=10618,Status=3,VolRemain=1,OrderRef=4
+[2019-December-23 Monday, 09:08:37] DispatchTdMsg,orderSysId:2310619,ref:4
+[2019-December-23 Monday, 09:08:37] rb-GD-00006_instance1,OnRtnOrder,OrderId=10618,Status=9,VolRemain=0,OrderRef=4
+[2019-December-23 Monday, 09:08:37] CTP Insert!! 5,openOrClose=0,buyOrSell=0,price=3536.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:08:37] DispatchTdMsg,orderSysId:10783,ref:5
+[2019-December-23 Monday, 09:08:37] rb-GD-00006_instance1,OnRtnOrder,OrderId=10783,Status=3,VolRemain=1,OrderRef=5
+[2019-December-23 Monday, 09:08:41] DispatchTdMsg,orderSysId:10789,ref:5
+[2019-December-23 Monday, 09:08:41] DispatchTdMsg,orderSysId:10789,ref:5
+[2019-December-23 Monday, 09:08:41] rb-GD-00006_instance1,OnRtnOrder,OrderId=10789,Status=3,VolRemain=1,OrderRef=5
+[2019-December-23 Monday, 09:08:41] DispatchTdMsg,orderSysId:2310790,ref:5
+[2019-December-23 Monday, 09:08:41] rb-GD-00006_instance1,OnRtnOrder,OrderId=10789,Status=9,VolRemain=0,OrderRef=5
+[2019-December-23 Monday, 09:09:07] CTP Insert!! 6,openOrClose=1,buyOrSell=1,price=3537.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:09:07] DispatchTdMsg,orderSysId:10684,ref:6
+[2019-December-23 Monday, 09:09:07] rb-GD-00006_instance1,OnRtnOrder,OrderId=10684,Status=3,VolRemain=1,OrderRef=6
+[2019-December-23 Monday, 09:09:11] DispatchTdMsg,orderSysId:10684,ref:6
+[2019-December-23 Monday, 09:09:11] rb-GD-00006_instance1,OnRtnOrder,OrderId=10684,Status=3,VolRemain=1,OrderRef=6
+[2019-December-23 Monday, 09:09:11] DispatchTdMsg,orderSysId:10690,ref:6
+[2019-December-23 Monday, 09:09:11] rb-GD-00006_instance1,OnRtnOrder,OrderId=10690,Status=7,VolRemain=1,OrderRef=6
+[2019-December-23 Monday, 09:09:11] CTP Insert!! 8,openOrClose=1,buyOrSell=1,price=3536.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:09:11] DispatchTdMsg,orderSysId:10691,ref:8
+[2019-December-23 Monday, 09:09:11] rb-GD-00006_instance1,OnRtnOrder,OrderId=10691,Status=3,VolRemain=1,OrderRef=8
+[2019-December-23 Monday, 09:09:16] DispatchTdMsg,orderSysId:10702,ref:8
+[2019-December-23 Monday, 09:09:16] rb-GD-00006_instance1,OnRtnOrder,OrderId=10702,Status=3,VolRemain=1,OrderRef=8
+[2019-December-23 Monday, 09:09:16] DispatchTdMsg,orderSysId:10702,ref:8
+[2019-December-23 Monday, 09:09:16] DispatchTdMsg,orderSysId:2310703,ref:8
+[2019-December-23 Monday, 09:09:16] rb-GD-00006_instance1,OnRtnOrder,OrderId=10702,Status=9,VolRemain=0,OrderRef=8
+[2019-December-23 Monday, 09:09:17] CTP Insert!! 9,openOrClose=0,buyOrSell=0,price=3535.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:09:17] DispatchTdMsg,orderSysId:10846,ref:9
+[2019-December-23 Monday, 09:09:17] rb-GD-00006_instance1,OnRtnOrder,OrderId=10846,Status=3,VolRemain=1,OrderRef=9
+[2019-December-23 Monday, 09:09:20] DispatchTdMsg,orderSysId:10853,ref:9
+[2019-December-23 Monday, 09:09:20] rb-GD-00006_instance1,OnRtnOrder,OrderId=10853,Status=3,VolRemain=1,OrderRef=9
+[2019-December-23 Monday, 09:09:20] DispatchTdMsg,orderSysId:10853,ref:9
+[2019-December-23 Monday, 09:09:20] DispatchTdMsg,orderSysId:2310854,ref:9
+[2019-December-23 Monday, 09:09:20] rb-GD-00006_instance1,OnRtnOrder,OrderId=10853,Status=9,VolRemain=0,OrderRef=9
+[2019-December-23 Monday, 09:10:27] CTP Insert!! 10,openOrClose=1,buyOrSell=1,price=3539.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:10:27] DispatchTdMsg,orderSysId:10995,ref:10
+[2019-December-23 Monday, 09:10:27] rb-GD-00006_instance1,OnRtnOrder,OrderId=10995,Status=3,VolRemain=1,OrderRef=10
+[2019-December-23 Monday, 09:10:27] DispatchTdMsg,orderSysId:10998,ref:10
+[2019-December-23 Monday, 09:10:27] DispatchTdMsg,orderSysId:10998,ref:10
+[2019-December-23 Monday, 09:10:27] rb-GD-00006_instance1,OnRtnOrder,OrderId=10998,Status=3,VolRemain=1,OrderRef=10
+[2019-December-23 Monday, 09:10:27] DispatchTdMsg,orderSysId:2310999,ref:10
+[2019-December-23 Monday, 09:10:27] rb-GD-00006_instance1,OnRtnOrder,OrderId=10998,Status=9,VolRemain=0,OrderRef=10
+[2019-December-23 Monday, 09:11:48] CTP Insert!! 11,openOrClose=0,buyOrSell=1,price=3538.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:11:49] DispatchTdMsg,orderSysId:11072,ref:11
+[2019-December-23 Monday, 09:11:49] rb-GD-00006_instance1,OnRtnOrder,OrderId=11072,Status=3,VolRemain=1,OrderRef=11
+[2019-December-23 Monday, 09:11:51] DispatchTdMsg,orderSysId:11082,ref:11
+[2019-December-23 Monday, 09:11:51] rb-GD-00006_instance1,OnRtnOrder,OrderId=11082,Status=3,VolRemain=1,OrderRef=11
+[2019-December-23 Monday, 09:11:51] DispatchTdMsg,orderSysId:11082,ref:11
+[2019-December-23 Monday, 09:11:51] rb-GD-00006_instance1,OnRtnOrder,OrderId=11082,Status=9,VolRemain=0,OrderRef=11
+[2019-December-23 Monday, 09:11:51] DispatchTdMsg,orderSysId:2311083,ref:11
+[2019-December-23 Monday, 09:12:43] CTP Insert!! 12,openOrClose=1,buyOrSell=0,price=3540.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:12:43] DispatchTdMsg,orderSysId:11158,ref:12
+[2019-December-23 Monday, 09:12:43] rb-GD-00006_instance1,OnRtnOrder,OrderId=11158,Status=3,VolRemain=1,OrderRef=12
+[2019-December-23 Monday, 09:12:45] DispatchTdMsg,orderSysId:11158,ref:12
+[2019-December-23 Monday, 09:12:45] DispatchTdMsg,orderSysId:11159,ref:12
+[2019-December-23 Monday, 09:12:45] rb-GD-00006_instance1,OnRtnOrder,OrderId=11158,Status=3,VolRemain=1,OrderRef=12
+[2019-December-23 Monday, 09:12:45] rb-GD-00006_instance1,OnRtnOrder,OrderId=11159,Status=7,VolRemain=1,OrderRef=12
+[2019-December-23 Monday, 09:12:45] CTP Insert!! 14,openOrClose=1,buyOrSell=0,price=3541.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:12:45] DispatchTdMsg,orderSysId:11160,ref:14
+[2019-December-23 Monday, 09:12:45] rb-GD-00006_instance1,OnRtnOrder,OrderId=11160,Status=3,VolRemain=1,OrderRef=14
+[2019-December-23 Monday, 09:12:58] DispatchTdMsg,orderSysId:11189,ref:14
+[2019-December-23 Monday, 09:12:58] DispatchTdMsg,orderSysId:11189,ref:14
+[2019-December-23 Monday, 09:12:58] DispatchTdMsg,orderSysId:2311190,ref:14
+[2019-December-23 Monday, 09:12:58] rb-GD-00006_instance1,OnRtnOrder,OrderId=11189,Status=3,VolRemain=1,OrderRef=14
+[2019-December-23 Monday, 09:12:58] rb-GD-00006_instance1,OnRtnOrder,OrderId=11189,Status=9,VolRemain=0,OrderRef=14
+[2019-December-23 Monday, 09:13:43] gStrategyImplIndex=1,gMapView->strategynum=1
+[2019-December-23 Monday, 09:13:44] AccountID:932535,Balance:4997.140
+[2019-December-23 Monday, 09:14:01] gStrategyImplIndex=1,gMapView->strategynum=1
+[2019-December-23 Monday, 09:14:01] AccountID:932535,Balance:4997.140
+[2019-December-23 Monday, 09:19:02] CTP Insert!! 15,openOrClose=0,buyOrSell=0,price=3537.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:19:02] DispatchTdMsg,orderSysId:11434,ref:15
+[2019-December-23 Monday, 09:19:02] rb-GD-00006_instance1,OnRtnOrder,OrderId=11434,Status=3,VolRemain=1,OrderRef=15
+[2019-December-23 Monday, 09:19:29] DispatchTdMsg,orderSysId:11469,ref:15
+[2019-December-23 Monday, 09:19:29] DispatchTdMsg,orderSysId:11469,ref:15
+[2019-December-23 Monday, 09:19:29] DispatchTdMsg,orderSysId:2311470,ref:15
+[2019-December-23 Monday, 09:19:29] rb-GD-00006_instance1,OnRtnOrder,OrderId=11469,Status=3,VolRemain=1,OrderRef=15
+[2019-December-23 Monday, 09:19:29] rb-GD-00006_instance1,OnRtnOrder,OrderId=11469,Status=9,VolRemain=0,OrderRef=15
+[2019-December-23 Monday, 09:20:01] gStrategyImplIndex=1,gMapView->strategynum=1
+[2019-December-23 Monday, 09:20:02] AccountID:932535,Balance:4983.565
+[2019-December-23 Monday, 09:20:02] ClientNo:932535,Inst:rb2005,Direct:0,TradePrice:3537.00,TradeVol:1,SettlePrice:3515.00,0.00,MatchDateTime:20191223
+[2019-December-23 Monday, 09:20:30] CTP Insert!! 16,openOrClose=1,buyOrSell=1,price=3538.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:20:30] DispatchTdMsg,orderSysId:11585,ref:16
+[2019-December-23 Monday, 09:20:30] rb-GD-00006_instance1,OnRtnOrder,OrderId=11585,Status=3,VolRemain=1,OrderRef=16
+[2019-December-23 Monday, 09:20:39] DispatchTdMsg,orderSysId:11585,ref:16
+[2019-December-23 Monday, 09:20:39] DispatchTdMsg,orderSysId:11595,ref:16
+[2019-December-23 Monday, 09:20:39] rb-GD-00006_instance1,OnRtnOrder,OrderId=11585,Status=3,VolRemain=1,OrderRef=16
+[2019-December-23 Monday, 09:20:39] rb-GD-00006_instance1,OnRtnOrder,OrderId=11595,Status=7,VolRemain=1,OrderRef=16
+[2019-December-23 Monday, 09:20:39] CTP Insert!! 18,openOrClose=1,buyOrSell=1,price=3537.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:20:39] DispatchTdMsg,orderSysId:11814,ref:18
+[2019-December-23 Monday, 09:20:39] rb-GD-00006_instance1,OnRtnOrder,OrderId=11814,Status=3,VolRemain=1,OrderRef=18
+[2019-December-23 Monday, 09:20:40] DispatchTdMsg,orderSysId:11815,ref:18
+[2019-December-23 Monday, 09:20:40] rb-GD-00006_instance1,OnRtnOrder,OrderId=11815,Status=3,VolRemain=1,OrderRef=18
+[2019-December-23 Monday, 09:20:40] DispatchTdMsg,orderSysId:11815,ref:18
+[2019-December-23 Monday, 09:20:40] DispatchTdMsg,orderSysId:2311816,ref:18
+[2019-December-23 Monday, 09:20:40] rb-GD-00006_instance1,OnRtnOrder,OrderId=11815,Status=9,VolRemain=0,OrderRef=18
+[2019-December-23 Monday, 09:20:49] CTP Insert!! 19,openOrClose=0,buyOrSell=1,price=3538.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:20:49] DispatchTdMsg,orderSysId:11603,ref:19
+[2019-December-23 Monday, 09:20:49] rb-GD-00006_instance1,OnRtnOrder,OrderId=11603,Status=3,VolRemain=1,OrderRef=19
+[2019-December-23 Monday, 09:20:51] DispatchTdMsg,orderSysId:11603,ref:19
+[2019-December-23 Monday, 09:20:51] rb-GD-00006_instance1,OnRtnOrder,OrderId=11603,Status=3,VolRemain=1,OrderRef=19
+[2019-December-23 Monday, 09:20:51] DispatchTdMsg,orderSysId:11604,ref:19
+[2019-December-23 Monday, 09:20:51] rb-GD-00006_instance1,OnRtnOrder,OrderId=11604,Status=7,VolRemain=1,OrderRef=19
+[2019-December-23 Monday, 09:20:52] CTP Insert!! 21,openOrClose=0,buyOrSell=1,price=3538.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:20:52] DispatchTdMsg,orderSysId:11825,ref:21
+[2019-December-23 Monday, 09:20:52] rb-GD-00006_instance1,OnRtnOrder,OrderId=11825,Status=3,VolRemain=1,OrderRef=21
+[2019-December-23 Monday, 09:20:53] DispatchTdMsg,orderSysId:11825,ref:21
+[2019-December-23 Monday, 09:20:53] rb-GD-00006_instance1,OnRtnOrder,OrderId=11825,Status=3,VolRemain=1,OrderRef=21
+[2019-December-23 Monday, 09:20:53] DispatchTdMsg,orderSysId:11827,ref:21
+[2019-December-23 Monday, 09:20:53] rb-GD-00006_instance1,OnRtnOrder,OrderId=11827,Status=7,VolRemain=1,OrderRef=21
+[2019-December-23 Monday, 09:22:20] CTP Insert!! 23,openOrClose=0,buyOrSell=1,price=3539.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:22:20] DispatchTdMsg,orderSysId:11736,ref:23
+[2019-December-23 Monday, 09:22:20] rb-GD-00006_instance1,OnRtnOrder,OrderId=11736,Status=3,VolRemain=1,OrderRef=23
+[2019-December-23 Monday, 09:22:45] DispatchTdMsg,orderSysId:11736,ref:23
+[2019-December-23 Monday, 09:22:45] rb-GD-00006_instance1,OnRtnOrder,OrderId=11736,Status=3,VolRemain=1,OrderRef=23
+[2019-December-23 Monday, 09:22:45] DispatchTdMsg,orderSysId:11751,ref:23
+[2019-December-23 Monday, 09:22:45] rb-GD-00006_instance1,OnRtnOrder,OrderId=11751,Status=7,VolRemain=1,OrderRef=23
+[2019-December-23 Monday, 09:23:32] CTP Insert!! 25,openOrClose=0,buyOrSell=0,price=3537.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:23:32] DispatchTdMsg,orderSysId:11764,ref:25
+[2019-December-23 Monday, 09:23:32] rb-GD-00006_instance1,OnRtnOrder,OrderId=11764,Status=3,VolRemain=1,OrderRef=25
+[2019-December-23 Monday, 09:23:58] DispatchTdMsg,orderSysId:11764,ref:25
+[2019-December-23 Monday, 09:23:58] rb-GD-00006_instance1,OnRtnOrder,OrderId=11764,Status=3,VolRemain=1,OrderRef=25
+[2019-December-23 Monday, 09:23:58] DispatchTdMsg,orderSysId:11771,ref:25
+[2019-December-23 Monday, 09:23:58] rb-GD-00006_instance1,OnRtnOrder,OrderId=11771,Status=7,VolRemain=1,OrderRef=25
+[2019-December-23 Monday, 09:24:19] CTP Insert!! 27,openOrClose=0,buyOrSell=0,price=3537.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:24:19] DispatchTdMsg,orderSysId:11982,ref:27
+[2019-December-23 Monday, 09:24:19] rb-GD-00006_instance1,OnRtnOrder,OrderId=11982,Status=3,VolRemain=1,OrderRef=27
+[2019-December-23 Monday, 09:24:20] DispatchTdMsg,orderSysId:11982,ref:27
+[2019-December-23 Monday, 09:24:20] DispatchTdMsg,orderSysId:11984,ref:27
+[2019-December-23 Monday, 09:24:20] rb-GD-00006_instance1,OnRtnOrder,OrderId=11982,Status=3,VolRemain=1,OrderRef=27
+[2019-December-23 Monday, 09:24:20] rb-GD-00006_instance1,OnRtnOrder,OrderId=11984,Status=7,VolRemain=1,OrderRef=27
+[2019-December-23 Monday, 09:24:22] CTP Insert!! 29,openOrClose=0,buyOrSell=0,price=3537.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:24:23] DispatchTdMsg,orderSysId:11993,ref:29
+[2019-December-23 Monday, 09:24:23] rb-GD-00006_instance1,OnRtnOrder,OrderId=11993,Status=3,VolRemain=1,OrderRef=29
+[2019-December-23 Monday, 09:24:25] DispatchTdMsg,orderSysId:11993,ref:29
+[2019-December-23 Monday, 09:24:25] rb-GD-00006_instance1,OnRtnOrder,OrderId=11993,Status=3,VolRemain=1,OrderRef=29
+[2019-December-23 Monday, 09:24:25] DispatchTdMsg,orderSysId:11996,ref:29
+[2019-December-23 Monday, 09:24:25] rb-GD-00006_instance1,OnRtnOrder,OrderId=11996,Status=7,VolRemain=1,OrderRef=29
+[2019-December-23 Monday, 09:25:17] CTP Insert!! 31,openOrClose=0,buyOrSell=1,price=3539.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:25:17] DispatchTdMsg,orderSysId:11878,ref:31
+[2019-December-23 Monday, 09:25:17] rb-GD-00006_instance1,OnRtnOrder,OrderId=11878,Status=3,VolRemain=1,OrderRef=31
+[2019-December-23 Monday, 09:25:59] CTP Insert!! 33,openOrClose=0,buyOrSell=0,price=3537.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:26:00] DispatchTdMsg,orderSysId:11878,ref:31
+[2019-December-23 Monday, 09:26:00] rb-GD-00006_instance1,OnRtnOrder,OrderId=11878,Status=3,VolRemain=1,OrderRef=31
+[2019-December-23 Monday, 09:26:00] DispatchTdMsg,orderSysId:11909,ref:31
+[2019-December-23 Monday, 09:26:00] DispatchTdMsg,orderSysId:12080,ref:33
+[2019-December-23 Monday, 09:26:00] rb-GD-00006_instance1,OnRtnOrder,OrderId=11909,Status=7,VolRemain=1,OrderRef=31
+[2019-December-23 Monday, 09:26:00] rb-GD-00006_instance1,OnRtnOrder,OrderId=12080,Status=3,VolRemain=1,OrderRef=33
+[2019-December-23 Monday, 09:26:22] DispatchTdMsg,orderSysId:12083,ref:33
+[2019-December-23 Monday, 09:26:22] DispatchTdMsg,orderSysId:12083,ref:33
+[2019-December-23 Monday, 09:26:22] rb-GD-00006_instance1,OnRtnOrder,OrderId=12083,Status=3,VolRemain=1,OrderRef=33
+[2019-December-23 Monday, 09:26:22] DispatchTdMsg,orderSysId:2312084,ref:33
+[2019-December-23 Monday, 09:26:22] rb-GD-00006_instance1,OnRtnOrder,OrderId=12083,Status=9,VolRemain=0,OrderRef=33
+[2019-December-23 Monday, 09:26:45] CTP Insert!! 34,openOrClose=1,buyOrSell=1,price=3538.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:26:45] DispatchTdMsg,orderSysId:12091,ref:34
+[2019-December-23 Monday, 09:26:45] rb-GD-00006_instance1,OnRtnOrder,OrderId=12091,Status=3,VolRemain=1,OrderRef=34
+[2019-December-23 Monday, 09:26:47] DispatchTdMsg,orderSysId:12092,ref:34
+[2019-December-23 Monday, 09:26:47] rb-GD-00006_instance1,OnRtnOrder,OrderId=12092,Status=3,VolRemain=1,OrderRef=34
+[2019-December-23 Monday, 09:26:47] DispatchTdMsg,orderSysId:12092,ref:34
+[2019-December-23 Monday, 09:26:47] rb-GD-00006_instance1,OnRtnOrder,OrderId=12092,Status=9,VolRemain=0,OrderRef=34
+[2019-December-23 Monday, 09:26:47] DispatchTdMsg,orderSysId:2312093,ref:34
+[2019-December-23 Monday, 09:26:56] CTP Insert!! 35,openOrClose=0,buyOrSell=1,price=3540.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:26:56] DispatchTdMsg,orderSysId:11922,ref:35
+[2019-December-23 Monday, 09:26:56] rb-GD-00006_instance1,OnRtnOrder,OrderId=11922,Status=3,VolRemain=1,OrderRef=35
+[2019-December-23 Monday, 09:27:56] DispatchTdMsg,orderSysId:11922,ref:35
+[2019-December-23 Monday, 09:27:56] rb-GD-00006_instance1,OnRtnOrder,OrderId=11922,Status=3,VolRemain=1,OrderRef=35
+[2019-December-23 Monday, 09:27:56] DispatchTdMsg,orderSysId:11957,ref:35
+[2019-December-23 Monday, 09:27:56] rb-GD-00006_instance1,OnRtnOrder,OrderId=11957,Status=7,VolRemain=1,OrderRef=35
+[2019-December-23 Monday, 09:27:57] CTP Insert!! 37,openOrClose=0,buyOrSell=1,price=3540.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:27:57] DispatchTdMsg,orderSysId:12132,ref:37
+[2019-December-23 Monday, 09:27:57] rb-GD-00006_instance1,OnRtnOrder,OrderId=12132,Status=3,VolRemain=1,OrderRef=37
+[2019-December-23 Monday, 09:28:04] DispatchTdMsg,orderSysId:12136,ref:37
+[2019-December-23 Monday, 09:28:04] DispatchTdMsg,orderSysId:12136,ref:37
+[2019-December-23 Monday, 09:28:04] rb-GD-00006_instance1,OnRtnOrder,OrderId=12136,Status=3,VolRemain=1,OrderRef=37
+[2019-December-23 Monday, 09:28:04] DispatchTdMsg,orderSysId:2312137,ref:37
+[2019-December-23 Monday, 09:28:04] rb-GD-00006_instance1,OnRtnOrder,OrderId=12136,Status=9,VolRemain=0,OrderRef=37
+[2019-December-23 Monday, 09:29:04] CTP Insert!! 38,openOrClose=1,buyOrSell=0,price=3540.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:29:04] DispatchTdMsg,orderSysId:12244,ref:38
+[2019-December-23 Monday, 09:29:04] rb-GD-00006_instance1,OnRtnOrder,OrderId=12244,Status=3,VolRemain=1,OrderRef=38
+[2019-December-23 Monday, 09:29:14] DispatchTdMsg,orderSysId:12244,ref:38
+[2019-December-23 Monday, 09:29:14] rb-GD-00006_instance1,OnRtnOrder,OrderId=12244,Status=3,VolRemain=1,OrderRef=38
+[2019-December-23 Monday, 09:29:14] DispatchTdMsg,orderSysId:12260,ref:38
+[2019-December-23 Monday, 09:29:14] rb-GD-00006_instance1,OnRtnOrder,OrderId=12260,Status=7,VolRemain=1,OrderRef=38
+[2019-December-23 Monday, 09:29:14] CTP Insert!! 40,openOrClose=1,buyOrSell=0,price=3541.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:29:14] DispatchTdMsg,orderSysId:12037,ref:40
+[2019-December-23 Monday, 09:29:14] rb-GD-00006_instance1,OnRtnOrder,OrderId=12037,Status=3,VolRemain=1,OrderRef=40
+[2019-December-23 Monday, 09:29:15] DispatchTdMsg,orderSysId:12037,ref:40
+[2019-December-23 Monday, 09:29:15] rb-GD-00006_instance1,OnRtnOrder,OrderId=12037,Status=3,VolRemain=1,OrderRef=40
+[2019-December-23 Monday, 09:29:15] DispatchTdMsg,orderSysId:12043,ref:40
+[2019-December-23 Monday, 09:29:15] rb-GD-00006_instance1,OnRtnOrder,OrderId=12043,Status=7,VolRemain=1,OrderRef=40
+[2019-December-23 Monday, 09:29:15] CTP Insert!! 42,openOrClose=1,buyOrSell=0,price=3547.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:29:15] DispatchTdMsg,orderSysId:12044,ref:42
+[2019-December-23 Monday, 09:29:15] rb-GD-00006_instance1,OnRtnOrder,OrderId=12044,Status=9,VolRemain=0,OrderRef=42
+[2019-December-23 Monday, 09:29:15] DispatchTdMsg,orderSysId:2312045,ref:42
+[2019-December-23 Monday, 09:29:16] CTP Insert!! 43,openOrClose=0,buyOrSell=1,price=3543.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:29:16] DispatchTdMsg,orderSysId:12071,ref:43
+[2019-December-23 Monday, 09:29:16] rb-GD-00006_instance1,OnRtnOrder,OrderId=12071,Status=3,VolRemain=1,OrderRef=43
+[2019-December-23 Monday, 09:29:17] CTP Insert!! 45,openOrClose=0,buyOrSell=1,price=3542.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:29:17] DispatchTdMsg,orderSysId:12071,ref:43
+[2019-December-23 Monday, 09:29:17] DispatchTdMsg,orderSysId:12074,ref:43
+[2019-December-23 Monday, 09:29:17] rb-GD-00006_instance1,OnRtnOrder,OrderId=12071,Status=3,VolRemain=1,OrderRef=43
+[2019-December-23 Monday, 09:29:17] rb-GD-00006_instance1,OnRtnOrder,OrderId=12074,Status=7,VolRemain=1,OrderRef=43
+[2019-December-23 Monday, 09:32:40] gStrategyImplIndex=1,gMapView->strategynum=1
+[2019-December-23 Monday, 09:32:41] AccountID:932535,Balance:4955.681
+[2019-December-23 Monday, 09:35:30] gStrategyImplIndex=1,gMapView->strategynum=1
+[2019-December-23 Monday, 09:35:31] AccountID:932535,Balance:4955.681
+[2019-December-23 Monday, 09:43:42] rb-GD-00006_instance1,Stop
+[2019-December-23 Monday, 09:45:02] Log File Opened..
+[2019-December-23 Monday, 09:45:03] CTP MD RspLogin Success.
+[2019-December-23 Monday, 09:45:13] Create CTPTrader Thread..
+[2019-December-23 Monday, 09:45:14] AccountID:932535,Balance:4955.681
+[2019-December-23 Monday, 09:46:07] Log File Opened..
+[2019-December-23 Monday, 09:46:08] CTP MD RspLogin Success.
+[2019-December-23 Monday, 09:46:14] Create CTPTrader Thread..
+[2019-December-23 Monday, 09:46:15] AccountID:932535,Balance:4955.681
+[2019-December-23 Monday, 09:46:39] Strategy Init..
+[2019-December-23 Monday, 09:47:52] CTP Insert!! 3,openOrClose=0,buyOrSell=1,price=3544.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:47:52] DispatchTdMsg,orderSysId:13172,ref:3
+[2019-December-23 Monday, 09:47:52] rb-GD-00006_instance1,OnRtnOrder,OrderId=13172,Status=3,VolRemain=1,OrderRef=3
+[2019-December-23 Monday, 09:47:59] DispatchTdMsg,orderSysId:13172,ref:3
+[2019-December-23 Monday, 09:47:59] rb-GD-00006_instance1,OnRtnOrder,OrderId=13172,Status=3,VolRemain=1,OrderRef=3
+[2019-December-23 Monday, 09:47:59] DispatchTdMsg,orderSysId:13181,ref:3
+[2019-December-23 Monday, 09:47:59] rb-GD-00006_instance1,OnRtnOrder,OrderId=13181,Status=7,VolRemain=1,OrderRef=3
+[2019-December-23 Monday, 09:48:09] CTP Insert!! 5,openOrClose=0,buyOrSell=1,price=3543.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:48:09] DispatchTdMsg,orderSysId:13187,ref:5
+[2019-December-23 Monday, 09:48:09] rb-GD-00006_instance1,OnRtnOrder,OrderId=13187,Status=3,VolRemain=1,OrderRef=5
+[2019-December-23 Monday, 09:48:23] DispatchTdMsg,orderSysId:13193,ref:5
+[2019-December-23 Monday, 09:48:23] rb-GD-00006_instance1,OnRtnOrder,OrderId=13193,Status=3,VolRemain=1,OrderRef=5
+[2019-December-23 Monday, 09:48:23] DispatchTdMsg,orderSysId:13193,ref:5
+[2019-December-23 Monday, 09:48:23] DispatchTdMsg,orderSysId:2313194,ref:5
+[2019-December-23 Monday, 09:48:23] rb-GD-00006_instance1,OnRtnOrder,OrderId=13193,Status=9,VolRemain=0,OrderRef=5
+[2019-December-23 Monday, 09:49:23] CTP Insert!! 6,openOrClose=1,buyOrSell=0,price=3542.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:49:23] DispatchTdMsg,orderSysId:12969,ref:6
+[2019-December-23 Monday, 09:49:23] rb-GD-00006_instance1,OnRtnOrder,OrderId=12969,Status=3,VolRemain=1,OrderRef=6
+[2019-December-23 Monday, 09:51:45] DispatchTdMsg,orderSysId:12969,ref:6
+[2019-December-23 Monday, 09:51:45] rb-GD-00006_instance1,OnRtnOrder,OrderId=12969,Status=3,VolRemain=1,OrderRef=6
+[2019-December-23 Monday, 09:51:45] DispatchTdMsg,orderSysId:13065,ref:6
+[2019-December-23 Monday, 09:51:45] rb-GD-00006_instance1,OnRtnOrder,OrderId=13065,Status=7,VolRemain=1,OrderRef=6
+[2019-December-23 Monday, 09:51:45] CTP Insert!! 8,openOrClose=1,buyOrSell=0,price=3543.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:51:45] DispatchTdMsg,orderSysId:13414,ref:8
+[2019-December-23 Monday, 09:51:45] rb-GD-00006_instance1,OnRtnOrder,OrderId=13414,Status=3,VolRemain=1,OrderRef=8
+[2019-December-23 Monday, 09:52:33] DispatchTdMsg,orderSysId:13414,ref:8
+[2019-December-23 Monday, 09:52:33] rb-GD-00006_instance1,OnRtnOrder,OrderId=13414,Status=3,VolRemain=1,OrderRef=8
+[2019-December-23 Monday, 09:52:33] DispatchTdMsg,orderSysId:13430,ref:8
+[2019-December-23 Monday, 09:52:33] rb-GD-00006_instance1,OnRtnOrder,OrderId=13430,Status=7,VolRemain=1,OrderRef=8
+[2019-December-23 Monday, 09:52:33] CTP Insert!! 10,openOrClose=1,buyOrSell=0,price=3544.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:52:33] DispatchTdMsg,orderSysId:13431,ref:10
+[2019-December-23 Monday, 09:52:33] rb-GD-00006_instance1,OnRtnOrder,OrderId=13431,Status=3,VolRemain=1,OrderRef=10
+[2019-December-23 Monday, 09:52:35] DispatchTdMsg,orderSysId:13437,ref:10
+[2019-December-23 Monday, 09:52:35] rb-GD-00006_instance1,OnRtnOrder,OrderId=13437,Status=3,VolRemain=1,OrderRef=10
+[2019-December-23 Monday, 09:52:36] DispatchTdMsg,orderSysId:13437,ref:10
+[2019-December-23 Monday, 09:52:36] rb-GD-00006_instance1,OnRtnOrder,OrderId=13437,Status=9,VolRemain=0,OrderRef=10
+[2019-December-23 Monday, 09:52:36] DispatchTdMsg,orderSysId:2313438,ref:10
+[2019-December-23 Monday, 09:52:47] CTP Insert!! 11,openOrClose=0,buyOrSell=1,price=3545.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:52:47] DispatchTdMsg,orderSysId:13111,ref:11
+[2019-December-23 Monday, 09:52:47] rb-GD-00006_instance1,OnRtnOrder,OrderId=13111,Status=3,VolRemain=1,OrderRef=11
+[2019-December-23 Monday, 09:52:52] DispatchTdMsg,orderSysId:13111,ref:11
+[2019-December-23 Monday, 09:52:52] rb-GD-00006_instance1,OnRtnOrder,OrderId=13111,Status=3,VolRemain=1,OrderRef=11
+[2019-December-23 Monday, 09:52:52] DispatchTdMsg,orderSysId:13113,ref:11
+[2019-December-23 Monday, 09:52:52] rb-GD-00006_instance1,OnRtnOrder,OrderId=13113,Status=7,VolRemain=1,OrderRef=11
+[2019-December-23 Monday, 09:52:52] gStrategyImplIndex=1,gMapView->strategynum=1
+[2019-December-23 Monday, 09:52:53] AccountID:932535,Balance:4938.518
+[2019-December-23 Monday, 09:53:04] CTP Insert!! 13,openOrClose=0,buyOrSell=1,price=3545.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:53:04] DispatchTdMsg,orderSysId:13470,ref:13
+[2019-December-23 Monday, 09:53:04] rb-GD-00006_instance1,OnRtnOrder,OrderId=13470,Status=3,VolRemain=1,OrderRef=13
+[2019-December-23 Monday, 09:53:19] DispatchTdMsg,orderSysId:13470,ref:13
+[2019-December-23 Monday, 09:53:19] rb-GD-00006_instance1,OnRtnOrder,OrderId=13470,Status=3,VolRemain=1,OrderRef=13
+[2019-December-23 Monday, 09:53:19] DispatchTdMsg,orderSysId:13475,ref:13
+[2019-December-23 Monday, 09:53:19] rb-GD-00006_instance1,OnRtnOrder,OrderId=13475,Status=7,VolRemain=1,OrderRef=13
+[2019-December-23 Monday, 09:53:21] CTP Insert!! 15,openOrClose=0,buyOrSell=0,price=3543.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:53:21] DispatchTdMsg,orderSysId:13476,ref:15
+[2019-December-23 Monday, 09:53:21] rb-GD-00006_instance1,OnRtnOrder,OrderId=13476,Status=3,VolRemain=1,OrderRef=15
+[2019-December-23 Monday, 09:53:23] DispatchTdMsg,orderSysId:13476,ref:15
+[2019-December-23 Monday, 09:53:23] rb-GD-00006_instance1,OnRtnOrder,OrderId=13476,Status=3,VolRemain=1,OrderRef=15
+[2019-December-23 Monday, 09:53:23] DispatchTdMsg,orderSysId:13477,ref:15
+[2019-December-23 Monday, 09:53:23] rb-GD-00006_instance1,OnRtnOrder,OrderId=13477,Status=7,VolRemain=1,OrderRef=15
+[2019-December-23 Monday, 09:53:27] CTP Insert!! 17,openOrClose=0,buyOrSell=0,price=3543.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:53:27] DispatchTdMsg,orderSysId:13481,ref:17
+[2019-December-23 Monday, 09:53:27] rb-GD-00006_instance1,OnRtnOrder,OrderId=13481,Status=3,VolRemain=1,OrderRef=17
+[2019-December-23 Monday, 09:53:28] DispatchTdMsg,orderSysId:13481,ref:17
+[2019-December-23 Monday, 09:53:28] rb-GD-00006_instance1,OnRtnOrder,OrderId=13481,Status=3,VolRemain=1,OrderRef=17
+[2019-December-23 Monday, 09:53:28] DispatchTdMsg,orderSysId:13485,ref:17
+[2019-December-23 Monday, 09:53:28] rb-GD-00006_instance1,OnRtnOrder,OrderId=13485,Status=7,VolRemain=1,OrderRef=17
+[2019-December-23 Monday, 09:53:28] CTP Insert!! 19,openOrClose=0,buyOrSell=0,price=3543.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:53:29] DispatchTdMsg,orderSysId:13486,ref:19
+[2019-December-23 Monday, 09:53:29] rb-GD-00006_instance1,OnRtnOrder,OrderId=13486,Status=3,VolRemain=1,OrderRef=19
+[2019-December-23 Monday, 09:53:37] DispatchTdMsg,orderSysId:13486,ref:19
+[2019-December-23 Monday, 09:53:37] rb-GD-00006_instance1,OnRtnOrder,OrderId=13486,Status=3,VolRemain=1,OrderRef=19
+[2019-December-23 Monday, 09:53:37] DispatchTdMsg,orderSysId:13489,ref:19
+[2019-December-23 Monday, 09:53:37] rb-GD-00006_instance1,OnRtnOrder,OrderId=13489,Status=7,VolRemain=1,OrderRef=19
+[2019-December-23 Monday, 09:53:40] CTP Insert!! 21,openOrClose=0,buyOrSell=1,price=3545.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:53:40] DispatchTdMsg,orderSysId:13490,ref:21
+[2019-December-23 Monday, 09:53:40] rb-GD-00006_instance1,OnRtnOrder,OrderId=13490,Status=3,VolRemain=1,OrderRef=21
+[2019-December-23 Monday, 09:54:32] DispatchTdMsg,orderSysId:13548,ref:21
+[2019-December-23 Monday, 09:54:32] DispatchTdMsg,orderSysId:13548,ref:21
+[2019-December-23 Monday, 09:54:32] rb-GD-00006_instance1,OnRtnOrder,OrderId=13548,Status=3,VolRemain=1,OrderRef=21
+[2019-December-23 Monday, 09:54:32] DispatchTdMsg,orderSysId:2313549,ref:21
+[2019-December-23 Monday, 09:54:32] rb-GD-00006_instance1,OnRtnOrder,OrderId=13548,Status=9,VolRemain=0,OrderRef=21
+[2019-December-23 Monday, 09:55:26] CTP Insert!! 22,openOrClose=1,buyOrSell=0,price=3546.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:55:26] DispatchTdMsg,orderSysId:13230,ref:22
+[2019-December-23 Monday, 09:55:26] rb-GD-00006_instance1,OnRtnOrder,OrderId=13230,Status=3,VolRemain=1,OrderRef=22
+[2019-December-23 Monday, 09:55:28] DispatchTdMsg,orderSysId:13235,ref:22
+[2019-December-23 Monday, 09:55:28] rb-GD-00006_instance1,OnRtnOrder,OrderId=13235,Status=3,VolRemain=1,OrderRef=22
+[2019-December-23 Monday, 09:55:28] DispatchTdMsg,orderSysId:13235,ref:22
+[2019-December-23 Monday, 09:55:28] DispatchTdMsg,orderSysId:2313237,ref:22
+[2019-December-23 Monday, 09:55:28] rb-GD-00006_instance1,OnRtnOrder,OrderId=13235,Status=9,VolRemain=0,OrderRef=22
+[2019-December-23 Monday, 09:55:28] CTP Insert!! 23,openOrClose=0,buyOrSell=1,price=3547.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:55:28] DispatchTdMsg,orderSysId:13238,ref:23
+[2019-December-23 Monday, 09:55:28] rb-GD-00006_instance1,OnRtnOrder,OrderId=13238,Status=3,VolRemain=1,OrderRef=23
+[2019-December-23 Monday, 09:55:28] DispatchTdMsg,orderSysId:13238,ref:23
+[2019-December-23 Monday, 09:55:28] rb-GD-00006_instance1,OnRtnOrder,OrderId=13238,Status=3,VolRemain=1,OrderRef=23
+[2019-December-23 Monday, 09:55:28] DispatchTdMsg,orderSysId:13239,ref:23
+[2019-December-23 Monday, 09:55:28] rb-GD-00006_instance1,OnRtnOrder,OrderId=13239,Status=7,VolRemain=1,OrderRef=23
+[2019-December-23 Monday, 09:56:00] CTP Insert!! 25,openOrClose=0,buyOrSell=0,price=3544.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:56:00] DispatchTdMsg,orderSysId:13259,ref:25
+[2019-December-23 Monday, 09:56:00] rb-GD-00006_instance1,OnRtnOrder,OrderId=13259,Status=3,VolRemain=1,OrderRef=25
+[2019-December-23 Monday, 09:56:03] DispatchTdMsg,orderSysId:13259,ref:25
+[2019-December-23 Monday, 09:56:03] rb-GD-00006_instance1,OnRtnOrder,OrderId=13259,Status=3,VolRemain=1,OrderRef=25
+[2019-December-23 Monday, 09:56:03] DispatchTdMsg,orderSysId:13264,ref:25
+[2019-December-23 Monday, 09:56:03] rb-GD-00006_instance1,OnRtnOrder,OrderId=13264,Status=7,VolRemain=1,OrderRef=25
+[2019-December-23 Monday, 09:56:11] CTP Insert!! 27,openOrClose=0,buyOrSell=1,price=3546.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:56:11] DispatchTdMsg,orderSysId:13265,ref:27
+[2019-December-23 Monday, 09:56:11] rb-GD-00006_instance1,OnRtnOrder,OrderId=13265,Status=3,VolRemain=1,OrderRef=27
+[2019-December-23 Monday, 09:56:21] DispatchTdMsg,orderSysId:13265,ref:27
+[2019-December-23 Monday, 09:56:21] rb-GD-00006_instance1,OnRtnOrder,OrderId=13265,Status=3,VolRemain=1,OrderRef=27
+[2019-December-23 Monday, 09:56:21] DispatchTdMsg,orderSysId:13266,ref:27
+[2019-December-23 Monday, 09:56:21] rb-GD-00006_instance1,OnRtnOrder,OrderId=13266,Status=7,VolRemain=1,OrderRef=27
+[2019-December-23 Monday, 09:56:25] CTP Insert!! 29,openOrClose=0,buyOrSell=0,price=3544.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:56:25] DispatchTdMsg,orderSysId:13614,ref:29
+[2019-December-23 Monday, 09:56:25] rb-GD-00006_instance1,OnRtnOrder,OrderId=13614,Status=3,VolRemain=1,OrderRef=29
+[2019-December-23 Monday, 09:56:27] DispatchTdMsg,orderSysId:13614,ref:29
+[2019-December-23 Monday, 09:56:27] rb-GD-00006_instance1,OnRtnOrder,OrderId=13614,Status=3,VolRemain=1,OrderRef=29
+[2019-December-23 Monday, 09:56:27] DispatchTdMsg,orderSysId:13617,ref:29
+[2019-December-23 Monday, 09:56:27] rb-GD-00006_instance1,OnRtnOrder,OrderId=13617,Status=7,VolRemain=1,OrderRef=29
+[2019-December-23 Monday, 09:56:32] CTP Insert!! 31,openOrClose=0,buyOrSell=0,price=3544.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:56:32] DispatchTdMsg,orderSysId:13620,ref:31
+[2019-December-23 Monday, 09:56:32] rb-GD-00006_instance1,OnRtnOrder,OrderId=13620,Status=3,VolRemain=1,OrderRef=31
+[2019-December-23 Monday, 09:56:37] DispatchTdMsg,orderSysId:13620,ref:31
+[2019-December-23 Monday, 09:56:37] rb-GD-00006_instance1,OnRtnOrder,OrderId=13620,Status=3,VolRemain=1,OrderRef=31
+[2019-December-23 Monday, 09:56:37] DispatchTdMsg,orderSysId:13621,ref:31
+[2019-December-23 Monday, 09:56:37] rb-GD-00006_instance1,OnRtnOrder,OrderId=13621,Status=7,VolRemain=1,OrderRef=31
+[2019-December-23 Monday, 09:56:50] CTP Insert!! 33,openOrClose=0,buyOrSell=1,price=3547.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:56:50] DispatchTdMsg,orderSysId:13286,ref:33
+[2019-December-23 Monday, 09:56:50] rb-GD-00006_instance1,OnRtnOrder,OrderId=13286,Status=3,VolRemain=1,OrderRef=33
+[2019-December-23 Monday, 09:57:04] DispatchTdMsg,orderSysId:13324,ref:33
+[2019-December-23 Monday, 09:57:04] DispatchTdMsg,orderSysId:13324,ref:33
+[2019-December-23 Monday, 09:57:04] DispatchTdMsg,orderSysId:2313325,ref:33
+[2019-December-23 Monday, 09:57:04] rb-GD-00006_instance1,OnRtnOrder,OrderId=13324,Status=3,VolRemain=1,OrderRef=33
+[2019-December-23 Monday, 09:57:04] rb-GD-00006_instance1,OnRtnOrder,OrderId=13324,Status=9,VolRemain=0,OrderRef=33
+[2019-December-23 Monday, 09:58:05] CTP Insert!! 34,openOrClose=1,buyOrSell=0,price=3546.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:58:05] DispatchTdMsg,orderSysId:13386,ref:34
+[2019-December-23 Monday, 09:58:05] rb-GD-00006_instance1,OnRtnOrder,OrderId=13386,Status=3,VolRemain=1,OrderRef=34
+[2019-December-23 Monday, 09:58:11] DispatchTdMsg,orderSysId:13386,ref:34
+[2019-December-23 Monday, 09:58:11] DispatchTdMsg,orderSysId:13399,ref:34
+[2019-December-23 Monday, 09:58:11] rb-GD-00006_instance1,OnRtnOrder,OrderId=13386,Status=3,VolRemain=1,OrderRef=34
+[2019-December-23 Monday, 09:58:11] rb-GD-00006_instance1,OnRtnOrder,OrderId=13399,Status=7,VolRemain=1,OrderRef=34
+[2019-December-23 Monday, 09:58:11] CTP Insert!! 36,openOrClose=1,buyOrSell=0,price=3547.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:58:11] DispatchTdMsg,orderSysId:13400,ref:36
+[2019-December-23 Monday, 09:58:11] rb-GD-00006_instance1,OnRtnOrder,OrderId=13400,Status=3,VolRemain=1,OrderRef=36
+[2019-December-23 Monday, 09:58:12] DispatchTdMsg,orderSysId:13432,ref:36
+[2019-December-23 Monday, 09:58:12] rb-GD-00006_instance1,OnRtnOrder,OrderId=13432,Status=3,VolRemain=1,OrderRef=36
+[2019-December-23 Monday, 09:58:12] DispatchTdMsg,orderSysId:13432,ref:36
+[2019-December-23 Monday, 09:58:12] DispatchTdMsg,orderSysId:2313433,ref:36
+[2019-December-23 Monday, 09:58:12] rb-GD-00006_instance1,OnRtnOrder,OrderId=13432,Status=9,VolRemain=0,OrderRef=36
+[2019-December-23 Monday, 09:58:12] CTP Insert!! 37,openOrClose=0,buyOrSell=1,price=3548.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:58:12] DispatchTdMsg,orderSysId:13755,ref:37
+[2019-December-23 Monday, 09:58:12] rb-GD-00006_instance1,OnRtnOrder,OrderId=13755,Status=3,VolRemain=1,OrderRef=37
+[2019-December-23 Monday, 09:58:23] DispatchTdMsg,orderSysId:13755,ref:37
+[2019-December-23 Monday, 09:58:23] rb-GD-00006_instance1,OnRtnOrder,OrderId=13755,Status=3,VolRemain=1,OrderRef=37
+[2019-December-23 Monday, 09:58:23] DispatchTdMsg,orderSysId:13764,ref:37
+[2019-December-23 Monday, 09:58:23] rb-GD-00006_instance1,OnRtnOrder,OrderId=13764,Status=7,VolRemain=1,OrderRef=37
+[2019-December-23 Monday, 09:58:24] CTP Insert!! 39,openOrClose=0,buyOrSell=0,price=3546.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:58:25] DispatchTdMsg,orderSysId:13767,ref:39
+[2019-December-23 Monday, 09:58:25] rb-GD-00006_instance1,OnRtnOrder,OrderId=13767,Status=3,VolRemain=1,OrderRef=39
+[2019-December-23 Monday, 09:58:42] DispatchTdMsg,orderSysId:13773,ref:39
+[2019-December-23 Monday, 09:58:42] rb-GD-00006_instance1,OnRtnOrder,OrderId=13773,Status=3,VolRemain=1,OrderRef=39
+[2019-December-23 Monday, 09:58:42] DispatchTdMsg,orderSysId:13773,ref:39
+[2019-December-23 Monday, 09:58:42] rb-GD-00006_instance1,OnRtnOrder,OrderId=13773,Status=9,VolRemain=0,OrderRef=39
+[2019-December-23 Monday, 09:58:42] DispatchTdMsg,orderSysId:2313774,ref:39
+[2019-December-23 Monday, 09:58:47] CTP Insert!! 40,openOrClose=1,buyOrSell=1,price=3544.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:58:48] DispatchTdMsg,orderSysId:13782,ref:40
+[2019-December-23 Monday, 09:58:48] rb-GD-00006_instance1,OnRtnOrder,OrderId=13782,Status=3,VolRemain=1,OrderRef=40
+[2019-December-23 Monday, 09:58:48] DispatchTdMsg,orderSysId:13783,ref:40
+[2019-December-23 Monday, 09:58:48] DispatchTdMsg,orderSysId:13783,ref:40
+[2019-December-23 Monday, 09:58:48] rb-GD-00006_instance1,OnRtnOrder,OrderId=13783,Status=3,VolRemain=1,OrderRef=40
+[2019-December-23 Monday, 09:58:48] DispatchTdMsg,orderSysId:2313784,ref:40
+[2019-December-23 Monday, 09:58:48] rb-GD-00006_instance1,OnRtnOrder,OrderId=13783,Status=9,VolRemain=0,OrderRef=40
+[2019-December-23 Monday, 09:58:48] CTP Insert!! 41,openOrClose=0,buyOrSell=0,price=3544.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:58:48] DispatchTdMsg,orderSysId:13787,ref:41
+[2019-December-23 Monday, 09:58:48] rb-GD-00006_instance1,OnRtnOrder,OrderId=13787,Status=3,VolRemain=1,OrderRef=41
+[2019-December-23 Monday, 09:58:48] DispatchTdMsg,orderSysId:13788,ref:41
+[2019-December-23 Monday, 09:58:48] rb-GD-00006_instance1,OnRtnOrder,OrderId=13788,Status=3,VolRemain=1,OrderRef=41
+[2019-December-23 Monday, 09:58:48] DispatchTdMsg,orderSysId:13788,ref:41
+[2019-December-23 Monday, 09:58:48] rb-GD-00006_instance1,OnRtnOrder,OrderId=13788,Status=9,VolRemain=0,OrderRef=41
+[2019-December-23 Monday, 09:58:48] DispatchTdMsg,orderSysId:2313789,ref:41
+[2019-December-23 Monday, 09:59:22] CTP Insert!! 42,openOrClose=1,buyOrSell=1,price=3543.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:59:22] DispatchTdMsg,orderSysId:13494,ref:42
+[2019-December-23 Monday, 09:59:22] rb-GD-00006_instance1,OnRtnOrder,OrderId=13494,Status=3,VolRemain=1,OrderRef=42
+[2019-December-23 Monday, 09:59:23] DispatchTdMsg,orderSysId:13494,ref:42
+[2019-December-23 Monday, 09:59:23] DispatchTdMsg,orderSysId:13496,ref:42
+[2019-December-23 Monday, 09:59:23] rb-GD-00006_instance1,OnRtnOrder,OrderId=13494,Status=3,VolRemain=1,OrderRef=42
+[2019-December-23 Monday, 09:59:23] rb-GD-00006_instance1,OnRtnOrder,OrderId=13496,Status=7,VolRemain=1,OrderRef=42
+[2019-December-23 Monday, 09:59:23] CTP Insert!! 44,openOrClose=1,buyOrSell=1,price=3542.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:59:23] DispatchTdMsg,orderSysId:13799,ref:44
+[2019-December-23 Monday, 09:59:23] rb-GD-00006_instance1,OnRtnOrder,OrderId=13799,Status=3,VolRemain=1,OrderRef=44
+[2019-December-23 Monday, 09:59:43] DispatchTdMsg,orderSysId:13802,ref:44
+[2019-December-23 Monday, 09:59:43] rb-GD-00006_instance1,OnRtnOrder,OrderId=13802,Status=3,VolRemain=1,OrderRef=44
+[2019-December-23 Monday, 09:59:43] DispatchTdMsg,orderSysId:13802,ref:44
+[2019-December-23 Monday, 09:59:43] DispatchTdMsg,orderSysId:2313803,ref:44
+[2019-December-23 Monday, 09:59:43] rb-GD-00006_instance1,OnRtnOrder,OrderId=13802,Status=9,VolRemain=0,OrderRef=44
+[2019-December-23 Monday, 09:59:56] CTP Insert!! 45,openOrClose=0,buyOrSell=0,price=3541.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 09:59:57] DispatchTdMsg,orderSysId:13809,ref:45
+[2019-December-23 Monday, 09:59:57] rb-GD-00006_instance1,OnRtnOrder,OrderId=13809,Status=3,VolRemain=1,OrderRef=45
+[2019-December-23 Monday, 09:59:58] DispatchTdMsg,orderSysId:13809,ref:45
+[2019-December-23 Monday, 09:59:58] DispatchTdMsg,orderSysId:13810,ref:45
+[2019-December-23 Monday, 09:59:58] rb-GD-00006_instance1,OnRtnOrder,OrderId=13809,Status=3,VolRemain=1,OrderRef=45
+[2019-December-23 Monday, 09:59:58] rb-GD-00006_instance1,OnRtnOrder,OrderId=13810,Status=7,VolRemain=1,OrderRef=45
+[2019-December-23 Monday, 10:00:01] CTP Insert!! 47,openOrClose=0,buyOrSell=1,price=3544.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 10:00:01] DispatchTdMsg,orderSysId:13519,ref:47
+[2019-December-23 Monday, 10:00:01] rb-GD-00006_instance1,OnRtnOrder,OrderId=13519,Status=3,VolRemain=1,OrderRef=47
+[2019-December-23 Monday, 10:00:02] DispatchTdMsg,orderSysId:13519,ref:47
+[2019-December-23 Monday, 10:00:02] DispatchTdMsg,orderSysId:13521,ref:47
+[2019-December-23 Monday, 10:00:02] rb-GD-00006_instance1,OnRtnOrder,OrderId=13519,Status=3,VolRemain=1,OrderRef=47
+[2019-December-23 Monday, 10:00:02] rb-GD-00006_instance1,OnRtnOrder,OrderId=13521,Status=7,VolRemain=1,OrderRef=47
+[2019-December-23 Monday, 10:00:03] CTP Insert!! 49,openOrClose=0,buyOrSell=0,price=3541.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 10:00:03] DispatchTdMsg,orderSysId:13820,ref:49
+[2019-December-23 Monday, 10:00:03] rb-GD-00006_instance1,OnRtnOrder,OrderId=13820,Status=3,VolRemain=1,OrderRef=49
+[2019-December-23 Monday, 10:00:08] DispatchTdMsg,orderSysId:13820,ref:49
+[2019-December-23 Monday, 10:00:08] DispatchTdMsg,orderSysId:13828,ref:49
+[2019-December-23 Monday, 10:00:08] rb-GD-00006_instance1,OnRtnOrder,OrderId=13820,Status=3,VolRemain=1,OrderRef=49
+[2019-December-23 Monday, 10:00:08] rb-GD-00006_instance1,OnRtnOrder,OrderId=13828,Status=7,VolRemain=1,OrderRef=49
+[2019-December-23 Monday, 10:00:10] CTP Insert!! 51,openOrClose=0,buyOrSell=0,price=3541.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 10:00:10] DispatchTdMsg,orderSysId:13829,ref:51
+[2019-December-23 Monday, 10:00:10] rb-GD-00006_instance1,OnRtnOrder,OrderId=13829,Status=3,VolRemain=1,OrderRef=51
+[2019-December-23 Monday, 10:00:11] DispatchTdMsg,orderSysId:13829,ref:51
+[2019-December-23 Monday, 10:00:11] DispatchTdMsg,orderSysId:13830,ref:51
+[2019-December-23 Monday, 10:00:11] rb-GD-00006_instance1,OnRtnOrder,OrderId=13829,Status=3,VolRemain=1,OrderRef=51
+[2019-December-23 Monday, 10:00:11] rb-GD-00006_instance1,OnRtnOrder,OrderId=13830,Status=7,VolRemain=1,OrderRef=51
+[2019-December-23 Monday, 10:00:13] CTP Insert!! 53,openOrClose=0,buyOrSell=0,price=3541.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 10:00:14] DispatchTdMsg,orderSysId:13544,ref:53
+[2019-December-23 Monday, 10:00:14] rb-GD-00006_instance1,OnRtnOrder,OrderId=13544,Status=3,VolRemain=1,OrderRef=53
+[2019-December-23 Monday, 10:00:19] DispatchTdMsg,orderSysId:13544,ref:53
+[2019-December-23 Monday, 10:00:19] rb-GD-00006_instance1,OnRtnOrder,OrderId=13544,Status=3,VolRemain=1,OrderRef=53
+[2019-December-23 Monday, 10:00:19] DispatchTdMsg,orderSysId:13554,ref:53
+[2019-December-23 Monday, 10:00:19] rb-GD-00006_instance1,OnRtnOrder,OrderId=13554,Status=7,VolRemain=1,OrderRef=53
+[2019-December-23 Monday, 10:00:27] CTP Insert!! 55,openOrClose=0,buyOrSell=0,price=3541.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 10:00:28] DispatchTdMsg,orderSysId:13860,ref:55
+[2019-December-23 Monday, 10:00:28] rb-GD-00006_instance1,OnRtnOrder,OrderId=13860,Status=3,VolRemain=1,OrderRef=55
+[2019-December-23 Monday, 10:01:10] DispatchTdMsg,orderSysId:13887,ref:55
+[2019-December-23 Monday, 10:01:10] DispatchTdMsg,orderSysId:13887,ref:55
+[2019-December-23 Monday, 10:01:10] rb-GD-00006_instance1,OnRtnOrder,OrderId=13887,Status=3,VolRemain=1,OrderRef=55
+[2019-December-23 Monday, 10:01:10] rb-GD-00006_instance1,OnRtnOrder,OrderId=13887,Status=9,VolRemain=0,OrderRef=55
+[2019-December-23 Monday, 10:01:10] DispatchTdMsg,orderSysId:2313888,ref:55
+[2019-December-23 Monday, 10:02:10] CTP Insert!! 56,openOrClose=1,buyOrSell=1,price=3540.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 10:02:10] DispatchTdMsg,orderSysId:13719,ref:56
+[2019-December-23 Monday, 10:02:10] rb-GD-00006_instance1,OnRtnOrder,OrderId=13719,Status=3,VolRemain=1,OrderRef=56
+[2019-December-23 Monday, 10:02:14] DispatchTdMsg,orderSysId:13719,ref:56
+[2019-December-23 Monday, 10:02:14] rb-GD-00006_instance1,OnRtnOrder,OrderId=13719,Status=3,VolRemain=1,OrderRef=56
+[2019-December-23 Monday, 10:02:14] DispatchTdMsg,orderSysId:13722,ref:56
+[2019-December-23 Monday, 10:02:14] rb-GD-00006_instance1,OnRtnOrder,OrderId=13722,Status=7,VolRemain=1,OrderRef=56
+[2019-December-23 Monday, 10:02:14] CTP Insert!! 58,openOrClose=1,buyOrSell=1,price=3539.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 10:02:14] DispatchTdMsg,orderSysId:13723,ref:58
+[2019-December-23 Monday, 10:02:14] rb-GD-00006_instance1,OnRtnOrder,OrderId=13723,Status=3,VolRemain=1,OrderRef=58
+[2019-December-23 Monday, 10:02:16] DispatchTdMsg,orderSysId:13727,ref:58
+[2019-December-23 Monday, 10:02:16] DispatchTdMsg,orderSysId:13727,ref:58
+[2019-December-23 Monday, 10:02:16] DispatchTdMsg,orderSysId:2313728,ref:58
+[2019-December-23 Monday, 10:02:16] rb-GD-00006_instance1,OnRtnOrder,OrderId=13727,Status=3,VolRemain=1,OrderRef=58
+[2019-December-23 Monday, 10:02:16] rb-GD-00006_instance1,OnRtnOrder,OrderId=13727,Status=9,VolRemain=0,OrderRef=58
+[2019-December-23 Monday, 10:02:16] CTP Insert!! 59,openOrClose=0,buyOrSell=1,price=3540.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 10:02:16] DispatchTdMsg,orderSysId:13733,ref:59
+[2019-December-23 Monday, 10:02:16] rb-GD-00006_instance1,OnRtnOrder,OrderId=13733,Status=3,VolRemain=1,OrderRef=59
+[2019-December-23 Monday, 10:02:17] CTP Insert!! 61,openOrClose=0,buyOrSell=1,price=3539.0000,vol=1,inst=rb2005,iRet=0
+[2019-December-23 Monday, 10:02:17] DispatchTdMsg,orderSysId:13733,ref:59
+[2019-December-23 Monday, 10:02:17] rb-GD-00006_instance1,OnRtnOrder,OrderId=13733,Status=3,VolRemain=1,OrderRef=59
+[2019-December-23 Monday, 10:02:17] DispatchTdMsg,orderSysId:13734,ref:59
+[2019-December-23 Monday, 10:02:17] rb-GD-00006_instance1,OnRtnOrder,OrderId=13734,Status=7,VolRemain=1,OrderRef=59
+[2019-December-23 Monday, 10:03:25] gStrategyImplIndex=1,gMapView->strategynum=1
+[2019-December-23 Monday, 10:03:26] AccountID:932535,Balance:4832.698
+[2019-December-23 Monday, 10:04:00] rb-GD-00006_instance1,Stop

@@ -1,0 +1,92 @@
+[2019-June-12 Wednesday, 13:30:00] Log File Opened..
+[2019-June-12 Wednesday, 13:30:01] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 13:31:35] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 13:31:35] AccountID:034607,Balance:4729448.600
+[2019-June-12 Wednesday, 13:31:36] ClientNo:034607,Inst:zn1907,Direct:1,TradePrice:20655.00,TradeVol:1,SettlePrice:20680.00,-25.00,MatchDateTime:20190612
+[2019-June-12 Wednesday, 13:31:39] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-June-12 Wednesday, 13:31:40] AccountID:034607,Balance:4729423.600
+[2019-June-12 Wednesday, 13:31:41] ClientNo:034607,Inst:zn1907,Direct:1,TradePrice:20655.00,TradeVol:1,SettlePrice:20680.00,-25.00,MatchDateTime:20190612
+[2019-June-12 Wednesday, 13:32:38] StrategyGridMAStopGTCChop Init..
+[2019-June-12 Wednesday, 13:34:19] DispatchTdMsg,orderSysId:134194,ref:2
+[2019-June-12 Wednesday, 13:34:19] DispatchTdMsg,orderSysId:12134195,ref:2
+[2019-June-12 Wednesday, 13:36:18] CTP Insert!! 3,openOrClose=0,buyOrSell=1,price=19645.0000,vol=1,inst=zn1907,iRet=0
+[2019-June-12 Wednesday, 13:36:18] zn-GD-00023-WHY_instance1,上网格开仓,卖=19645.00000,时间=13:36:21,网格:30
+[2019-June-12 Wednesday, 13:36:18] DispatchTdMsg,orderSysId:135571,ref:3
+[2019-June-12 Wednesday, 13:36:18] zn-GD-00023-WHY_instance1,OnRtnOrder,OrderId=135571,Status=9,VolRemain=0
+[2019-June-12 Wednesday, 13:36:18] DispatchTdMsg,orderSysId:12135572,ref:3
+[2019-June-12 Wednesday, 13:36:18] zn-GD-00023-WHY_instance1,OnRtnTrade,OrderId=12135572,vol=1,price=20615.00000
+[2019-June-12 Wednesday, 13:36:18] send:C1171,zn-GD-00023-WHY,instance1,SHFE zn zn1907,       62345,-1,12135572,-1;length:428
+[2019-June-12 Wednesday, 13:38:50] zn-GD-00023-WHY_instance1,Stop
+[2019-June-12 Wednesday, 13:39:07] Log File Opened..
+[2019-June-12 Wednesday, 13:39:08] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 13:39:16] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 13:39:16] AccountID:034607,Balance:4729745.600
+[2019-June-12 Wednesday, 13:39:17] ClientNo:034607,Inst:zn1907,Direct:1,TradePrice:20615.00,TradeVol:1,SettlePrice:20680.00,0.00,MatchDateTime:20190612
+[2019-June-12 Wednesday, 13:39:45] StrategyGridMAStopGTCChop Init..
+[2019-June-12 Wednesday, 13:39:45] zn-GD-00023-WHY_instance1,StrategyGridOpen,重启恢复,当前时间=13:39:45
+[2019-June-12 Wednesday, 13:42:12] Log File Opened..
+[2019-June-12 Wednesday, 13:42:13] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 13:42:22] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 13:42:23] AccountID:034607,Balance:4729745.600
+[2019-June-12 Wednesday, 13:42:24] ClientNo:034607,Inst:zn1907,Direct:1,TradePrice:20615.00,TradeVol:1,SettlePrice:20680.00,0.00,MatchDateTime:20190612
+[2019-June-12 Wednesday, 13:42:39] StrategyGridMAStopGTCChop Init..
+[2019-June-12 Wednesday, 13:42:40] zn-GD-00023-WHY_instance1,StrategyGridOpen,重启恢复,当前时间=13:42:40
+[2019-June-12 Wednesday, 14:04:41] Log File Opened..
+[2019-June-12 Wednesday, 14:04:42] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 14:04:50] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 14:04:50] AccountID:034607,Balance:4729745.600
+[2019-June-12 Wednesday, 14:04:51] ClientNo:034607,Inst:zn1907,Direct:1,TradePrice:20615.00,TradeVol:1,SettlePrice:20680.00,0.00,MatchDateTime:20190612
+[2019-June-12 Wednesday, 14:06:47] Log File Opened..
+[2019-June-12 Wednesday, 14:06:48] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 14:06:55] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 14:06:55] AccountID:034607,Balance:4729745.600
+[2019-June-12 Wednesday, 14:06:56] ClientNo:034607,Inst:zn1907,Direct:1,TradePrice:20615.00,TradeVol:1,SettlePrice:20680.00,0.00,MatchDateTime:20190612
+[2019-June-12 Wednesday, 14:12:37] Log File Opened..
+[2019-June-12 Wednesday, 14:12:38] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 14:12:48] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 14:12:48] AccountID:034607,Balance:4729895.600
+[2019-June-12 Wednesday, 14:12:49] ClientNo:034607,Inst:zn1907,Direct:1,TradePrice:20615.00,TradeVol:1,SettlePrice:20680.00,0.00,MatchDateTime:20190612
+[2019-June-12 Wednesday, 14:12:58] Strategy Init..
+[2019-六月-12 星期三, 14:13:30] DispatchTdMsg,orderSysId:147309,ref:4
+[2019-六月-12 星期三, 14:13:30] DispatchTdMsg,orderSysId:12147310,ref:4
+[2019-June-12 Wednesday, 14:20:21] Log File Opened..
+[2019-June-12 Wednesday, 14:20:22] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 14:20:29] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 14:20:29] AccountID:034607,Balance:4729845.600
+[2019-June-12 Wednesday, 14:20:35] Strategy Init..
+[2019-June-12 Wednesday, 14:24:57] Log File Opened..
+[2019-June-12 Wednesday, 14:24:58] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 14:25:05] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 14:25:05] AccountID:034607,Balance:4729845.600
+[2019-June-12 Wednesday, 14:25:14] Strategy Init..
+[2019-June-12 Wednesday, 14:28:42] Log File Opened..
+[2019-June-12 Wednesday, 14:28:43] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 14:28:56] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 14:28:56] AccountID:034607,Balance:4729845.600
+[2019-June-12 Wednesday, 14:29:07] Strategy Init..
+[2019-June-12 Wednesday, 14:34:10] Log File Opened..
+[2019-June-12 Wednesday, 14:34:11] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 14:34:21] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 14:34:21] AccountID:034607,Balance:4729845.600
+[2019-June-12 Wednesday, 14:34:31] Strategy Init..
+[2019-June-12 Wednesday, 14:45:49] Log File Opened..
+[2019-June-12 Wednesday, 14:45:50] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 14:46:00] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 14:46:00] AccountID:034607,Balance:4729845.600
+[2019-June-12 Wednesday, 14:46:14] Strategy Init..
+[2019-June-12 Wednesday, 14:55:33] Log File Opened..
+[2019-June-12 Wednesday, 14:55:34] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 14:55:42] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 14:55:43] AccountID:034607,Balance:4729845.600
+[2019-June-12 Wednesday, 14:56:04] Strategy Init..
+[2019-June-12 Wednesday, 14:56:30] Log File Opened..
+[2019-June-12 Wednesday, 14:56:31] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 14:56:38] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 14:56:38] AccountID:034607,Balance:4729845.600
+[2019-June-12 Wednesday, 14:56:52] Strategy Init..
+[2019-June-12 Wednesday, 15:06:23] Log File Opened..
+[2019-June-12 Wednesday, 15:06:25] CTP MD RspLogin Success.
+[2019-June-12 Wednesday, 15:06:33] Create CTPTrader Thread..
+[2019-June-12 Wednesday, 15:06:33] AccountID:034607,Balance:4729845.600
+[2019-June-12 Wednesday, 15:06:51] Strategy Init..
+[2019-June-12 Wednesday, 15:13:03] zn-GD-00023-test_instance1,Stop

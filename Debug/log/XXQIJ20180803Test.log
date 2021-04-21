@@ -1,0 +1,21 @@
+[2018-August-03 Friday, 09:26:51] Log File Opened..
+[2018-August-03 Friday, 09:26:52] CTP MD RspLogin Success.
+[2018-August-03 Friday, 09:27:18] Create CTPTrader Thread..
+[2018-August-03 Friday, 09:27:18] 连接CTP当前时间:2018-08-03 09:27:18
+[2018-August-03 Friday, 09:27:19] AccountID:094440,Balance:955640.020
+[2018-August-03 Friday, 09:27:20] AccountID:094440,Balance:955640.020
+[2018-August-03 Friday, 09:27:31] Strategy Init..
+[2018-August-03 Friday, 09:33:18] Log File Opened..
+[2018-August-03 Friday, 09:33:19] CTP MD RspLogin Success.
+[2018-August-03 Friday, 09:33:27] Create CTPTrader Thread..
+[2018-August-03 Friday, 09:33:27] 连接CTP当前时间:2018-08-03 09:33:27
+[2018-August-03 Friday, 09:33:27] AccountID:094440,Balance:945740.020
+[2018-August-03 Friday, 09:33:28] AccountID:094440,Balance:945740.020
+[2018-August-03 Friday, 09:34:06] Strategy Init..
+[2018-August-03 Friday, 09:34:06] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=09:34:06
+[2018-August-03 Friday, 09:34:08] CTP Insert!! 100054,openOrClose=1,buyOrSell=0,price=513.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-03 Friday, 09:34:08] CTP Insert!! 100055,openOrClose=1,buyOrSell=1,price=511.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-03 Friday, 09:34:08] CTP Insert!! 100056,openOrClose=0,buyOrSell=0,price=507.2000,vol=1,inst=sc1809,iRet=0
+[2018-August-03 Friday, 09:34:08] sc-GD-00006-2_instance1,下网格开仓,买=507.20000,时间=09:34:15,网格:27
+[2018-August-03 Friday, 09:34:08] sc-GD-00006-2_instance1,OnRtnOrder,OrderId=518,Status=3,VolRemain=1,OrderRef=100056
+[2018-August-03 Friday, 09:35:02] sc-GD-00006-2_instance1,Stop

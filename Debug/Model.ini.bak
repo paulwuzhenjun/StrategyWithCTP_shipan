@@ -1,0 +1,6 @@
+OpenAddedModel,OpenAdded-CL,OpenDistPoint,距离开盘价点位,0.02
+OpenAddedModel,OpenAdded-CL,OpenVol1,第一单开仓手数,1
+OpenAddedModel,OpenAdded-CL,SecondOpenDistPoint,第二单距离开盘价点位,0.04
+OpenAddedModel,OpenAdded-CL,OpenVol2,第二单开仓手数,1
+OpenAddedModel,OpenAdded-CL,ProfitPoint,止盈点位,0.03
+OpenAddedModel,OpenAdded-CL,StoplossPoint,止损点位,0.12

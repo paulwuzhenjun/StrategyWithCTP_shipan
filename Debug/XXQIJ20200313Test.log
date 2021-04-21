@@ -1,0 +1,1262 @@
+[2020-March-13 Friday, 12:32:52] Log File Opened..
+[2020-March-13 Friday, 12:32:53] CTP MD RspLogin Success.
+[2020-March-13 Friday, 12:32:59] Create CTPTrader Thread..
+[2020-March-13 Friday, 12:33:01] AccountID:932535,Balance:19745.998
+[2020-March-13 Friday, 12:33:01] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 12:33:01] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3776.00,TradeVol:1,SettlePrice:3854.00,-20.00,MatchDateTime:20200313
+[2020-March-13 Friday, 12:33:01] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3778.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 12:33:14] Strategy Init..
+[2020-March-13 Friday, 12:33:14] TA-GD-00006_instance1,StrategyGridOpen,重启恢复,当前时间=12:33:14,Shmindex:0
+[2020-March-13 Friday, 13:22:38] TA-GD-00006_instance1,Stop
+[2020-March-13 Friday, 13:30:35] Log File Opened..
+[2020-March-13 Friday, 13:30:37] CTP MD RspLogin Success.
+[2020-March-13 Friday, 13:30:49] Create CTPTrader Thread..
+[2020-March-13 Friday, 13:30:50] AccountID:932535,Balance:18695.993
+[2020-March-13 Friday, 13:30:56] gStrategyImplIndex=0,gMapView->strategynum=0
+[2020-March-13 Friday, 13:30:57] AccountID:932535,Balance:18695.993
+[2020-March-13 Friday, 13:32:30] Strategy Init..
+[2020-March-13 Friday, 13:32:42] RN-00006_instance1,Stop
+[2020-March-13 Friday, 13:33:09] Strategy Init..
+[2020-March-13 Friday, 13:33:10] CTP Insert!! 3,openOrClose=0,buyOrSell=0,price=3854.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:33:10] RN-00006_instance1,下网格开仓,买=3854.00000,时间=13:33:12,网格:29
+[2020-March-13 Friday, 13:33:10] DispatchTdMsg,orderSysId:12613,ref:3
+[2020-March-13 Friday, 13:33:10] RN-00006_instance1,OnRtnOrder,OrderId=12613,Status=3,VolRemain=1,OrderRef=3
+[2020-March-13 Friday, 13:33:10] DispatchTdMsg,orderSysId:12614,ref:3
+[2020-March-13 Friday, 13:33:10] DispatchTdMsg,orderSysId:12614,ref:3
+[2020-March-13 Friday, 13:33:10] DispatchTdMsg,orderSysId:1312615,ref:3
+[2020-March-13 Friday, 13:33:10] RN-00006_instance1,OnRtnOrder,OrderId=12614,Status=3,VolRemain=1,OrderRef=3
+[2020-March-13 Friday, 13:33:10] RN-00006_instance1,OnRtnOrder,OrderId=12614,Status=9,VolRemain=0,OrderRef=3
+[2020-March-13 Friday, 13:33:10] RN-00006_instance1,OnRtnTrade,OrderId=1312615,vol=1,price=3852.00000
+[2020-March-13 Friday, 13:33:10] CTP Insert!! 4,openOrClose=1,buyOrSell=1,price=3856.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:33:10] DispatchTdMsg,orderSysId:12616,ref:4
+[2020-March-13 Friday, 13:33:10] RN-00006_instance1,OnRtnOrder,OrderId=12616,Status=3,VolRemain=1,OrderRef=4
+[2020-March-13 Friday, 13:33:10] CTP Insert!! 5,openOrClose=0,buyOrSell=0,price=3852.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:33:10] RN-00006_instance1,下网格开仓,买=3852.00000,时间=13:33:12,网格:28
+[2020-March-13 Friday, 13:33:10] DispatchTdMsg,orderSysId:12619,ref:5
+[2020-March-13 Friday, 13:33:10] DispatchTdMsg,orderSysId:12620,ref:5
+[2020-March-13 Friday, 13:33:10] RN-00006_instance1,OnRtnOrder,OrderId=12619,Status=3,VolRemain=1,OrderRef=5
+[2020-March-13 Friday, 13:33:10] RN-00006_instance1,OnRtnOrder,OrderId=12620,Status=3,VolRemain=1,OrderRef=5
+[2020-March-13 Friday, 13:33:10] DispatchTdMsg,orderSysId:12620,ref:5
+[2020-March-13 Friday, 13:33:10] DispatchTdMsg,orderSysId:1312621,ref:5
+[2020-March-13 Friday, 13:33:10] RN-00006_instance1,OnRtnOrder,OrderId=12620,Status=9,VolRemain=0,OrderRef=5
+[2020-March-13 Friday, 13:33:10] RN-00006_instance1,OnRtnTrade,OrderId=1312621,vol=1,price=3850.00000
+[2020-March-13 Friday, 13:33:10] CTP Insert!! 6,openOrClose=1,buyOrSell=1,price=3854.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:33:10] DispatchTdMsg,orderSysId:12179,ref:6
+[2020-March-13 Friday, 13:33:10] RN-00006_instance1,OnRtnOrder,OrderId=12179,Status=3,VolRemain=1,OrderRef=6
+[2020-March-13 Friday, 13:33:11] CTP Insert!! 7,openOrClose=0,buyOrSell=0,price=3850.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:33:11] DispatchTdMsg,orderSysId:12182,ref:7
+[2020-March-13 Friday, 13:33:11] RN-00006_instance1,下网格开仓,买=3850.00000,时间=13:33:13,网格:27
+[2020-March-13 Friday, 13:33:12] RN-00006_instance1,OnRtnOrder,OrderId=12182,Status=3,VolRemain=1,OrderRef=7
+[2020-March-13 Friday, 13:33:12] DispatchTdMsg,orderSysId:12188,ref:7
+[2020-March-13 Friday, 13:33:12] RN-00006_instance1,OnRtnOrder,OrderId=12188,Status=3,VolRemain=1,OrderRef=7
+[2020-March-13 Friday, 13:33:12] DispatchTdMsg,orderSysId:12188,ref:7
+[2020-March-13 Friday, 13:33:12] DispatchTdMsg,orderSysId:1312189,ref:7
+[2020-March-13 Friday, 13:33:12] RN-00006_instance1,OnRtnOrder,OrderId=12188,Status=9,VolRemain=0,OrderRef=7
+[2020-March-13 Friday, 13:33:12] RN-00006_instance1,OnRtnTrade,OrderId=1312189,vol=1,price=3850.00000
+[2020-March-13 Friday, 13:33:12] CTP Insert!! 8,openOrClose=1,buyOrSell=1,price=3852.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:33:12] DispatchTdMsg,orderSysId:12630,ref:8
+[2020-March-13 Friday, 13:33:12] RN-00006_instance1,OnRtnOrder,OrderId=12630,Status=3,VolRemain=1,OrderRef=8
+[2020-March-13 Friday, 13:33:12] CTP Insert!! 9,openOrClose=0,buyOrSell=0,price=3848.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:33:12] RN-00006_instance1,下网格开仓,买=3848.00000,时间=13:33:15,网格:26
+[2020-March-13 Friday, 13:33:12] DispatchTdMsg,orderSysId:12633,ref:9
+[2020-March-13 Friday, 13:33:12] RN-00006_instance1,OnRtnOrder,OrderId=12633,Status=3,VolRemain=1,OrderRef=9
+[2020-March-13 Friday, 13:33:38] DispatchTdMsg,orderSysId:12675,ref:8
+[2020-March-13 Friday, 13:33:38] DispatchTdMsg,orderSysId:12675,ref:8
+[2020-March-13 Friday, 13:33:38] RN-00006_instance1,OnRtnOrder,OrderId=12675,Status=3,VolRemain=1,OrderRef=8
+[2020-March-13 Friday, 13:33:38] DispatchTdMsg,orderSysId:1312676,ref:8
+[2020-March-13 Friday, 13:33:38] RN-00006_instance1,OnRtnOrder,OrderId=12675,Status=9,VolRemain=0,OrderRef=8
+[2020-March-13 Friday, 13:33:38] RN-00006_instance1,OnRtnTrade,OrderId=1312676,vol=1,price=3852.00000
+[2020-March-13 Friday, 13:33:38] CTP Insert!! 10,openOrClose=0,buyOrSell=0,price=3850.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:33:38] RN-00006_instance1,开仓,卖=3850.00000,时间=20200313 13:33:41,网格:27
+[2020-March-13 Friday, 13:33:38] RN-00006_instance1,ReqOrderDelete,orderId,12633,ref:9
+[2020-March-13 Friday, 13:33:38] DispatchTdMsg,orderSysId:12633,ref:9
+[2020-March-13 Friday, 13:33:38] RN-00006_instance1,OnRtnOrder,OrderId=12633,Status=3,VolRemain=1,OrderRef=9
+[2020-March-13 Friday, 13:33:38] DispatchTdMsg,orderSysId:12677,ref:10
+[2020-March-13 Friday, 13:33:38] RN-00006_instance1,OnRtnOrder,OrderId=12677,Status=3,VolRemain=1,OrderRef=10
+[2020-March-13 Friday, 13:33:38] DispatchTdMsg,orderSysId:12678,ref:9
+[2020-March-13 Friday, 13:33:38] RN-00006_instance1,OnRtnOrder,OrderId=12678,Status=7,VolRemain=1,OrderRef=9
+[2020-March-13 Friday, 13:33:41] DispatchTdMsg,orderSysId:12682,ref:10
+[2020-March-13 Friday, 13:33:41] DispatchTdMsg,orderSysId:12682,ref:10
+[2020-March-13 Friday, 13:33:41] DispatchTdMsg,orderSysId:1312683,ref:10
+[2020-March-13 Friday, 13:33:41] RN-00006_instance1,OnRtnOrder,OrderId=12682,Status=3,VolRemain=1,OrderRef=10
+[2020-March-13 Friday, 13:33:41] RN-00006_instance1,OnRtnOrder,OrderId=12682,Status=9,VolRemain=0,OrderRef=10
+[2020-March-13 Friday, 13:33:41] RN-00006_instance1,OnRtnTrade,OrderId=1312683,vol=1,price=3850.00000
+[2020-March-13 Friday, 13:33:41] CTP Insert!! 12,openOrClose=1,buyOrSell=1,price=3852.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:33:41] DispatchTdMsg,orderSysId:12391,ref:12
+[2020-March-13 Friday, 13:33:41] RN-00006_instance1,OnRtnOrder,OrderId=12391,Status=3,VolRemain=1,OrderRef=12
+[2020-March-13 Friday, 13:33:41] CTP Insert!! 13,openOrClose=0,buyOrSell=0,price=3848.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:33:41] RN-00006_instance1,下网格开仓,买=3848.00000,时间=13:33:44,网格:26
+[2020-March-13 Friday, 13:33:41] DispatchTdMsg,orderSysId:12392,ref:13
+[2020-March-13 Friday, 13:33:41] RN-00006_instance1,OnRtnOrder,OrderId=12392,Status=3,VolRemain=1,OrderRef=13
+[2020-March-13 Friday, 13:34:08] DispatchTdMsg,orderSysId:12555,ref:12
+[2020-March-13 Friday, 13:34:08] RN-00006_instance1,OnRtnOrder,OrderId=12555,Status=3,VolRemain=1,OrderRef=12
+[2020-March-13 Friday, 13:34:08] DispatchTdMsg,orderSysId:12555,ref:12
+[2020-March-13 Friday, 13:34:08] RN-00006_instance1,OnRtnOrder,OrderId=12555,Status=9,VolRemain=0,OrderRef=12
+[2020-March-13 Friday, 13:34:08] DispatchTdMsg,orderSysId:1312556,ref:12
+[2020-March-13 Friday, 13:34:08] RN-00006_instance1,OnRtnTrade,OrderId=1312556,vol=1,price=3852.00000
+[2020-March-13 Friday, 13:34:08] CTP Insert!! 14,openOrClose=0,buyOrSell=0,price=3850.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:08] RN-00006_instance1,开仓,卖=3850.00000,时间=20200313 13:34:11,网格:27
+[2020-March-13 Friday, 13:34:08] RN-00006_instance1,ReqOrderDelete,orderId,12392,ref:13
+[2020-March-13 Friday, 13:34:08] DispatchTdMsg,orderSysId:12392,ref:13
+[2020-March-13 Friday, 13:34:08] RN-00006_instance1,OnRtnOrder,OrderId=12392,Status=3,VolRemain=1,OrderRef=13
+[2020-March-13 Friday, 13:34:08] DispatchTdMsg,orderSysId:12557,ref:14
+[2020-March-13 Friday, 13:34:08] RN-00006_instance1,OnRtnOrder,OrderId=12557,Status=3,VolRemain=1,OrderRef=14
+[2020-March-13 Friday, 13:34:08] DispatchTdMsg,orderSysId:12558,ref:13
+[2020-March-13 Friday, 13:34:08] RN-00006_instance1,OnRtnOrder,OrderId=12558,Status=7,VolRemain=1,OrderRef=13
+[2020-March-13 Friday, 13:34:12] DispatchTdMsg,orderSysId:12559,ref:6
+[2020-March-13 Friday, 13:34:12] RN-00006_instance1,OnRtnOrder,OrderId=12559,Status=3,VolRemain=1,OrderRef=6
+[2020-March-13 Friday, 13:34:12] DispatchTdMsg,orderSysId:12559,ref:6
+[2020-March-13 Friday, 13:34:12] DispatchTdMsg,orderSysId:1312560,ref:6
+[2020-March-13 Friday, 13:34:12] RN-00006_instance1,OnRtnOrder,OrderId=12559,Status=9,VolRemain=0,OrderRef=6
+[2020-March-13 Friday, 13:34:12] RN-00006_instance1,OnRtnTrade,OrderId=1312560,vol=1,price=3854.00000
+[2020-March-13 Friday, 13:34:12] CTP Insert!! 16,openOrClose=0,buyOrSell=0,price=3852.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:12] RN-00006_instance1,开仓,卖=3852.00000,时间=20200313 13:34:15,网格:28
+[2020-March-13 Friday, 13:34:12] RN-00006_instance1,ReqOrderDelete,orderId,12557,ref:14
+[2020-March-13 Friday, 13:34:12] DispatchTdMsg,orderSysId:12557,ref:14
+[2020-March-13 Friday, 13:34:12] RN-00006_instance1,OnRtnOrder,OrderId=12557,Status=3,VolRemain=1,OrderRef=14
+[2020-March-13 Friday, 13:34:12] DispatchTdMsg,orderSysId:12561,ref:14
+[2020-March-13 Friday, 13:34:12] DispatchTdMsg,orderSysId:12562,ref:16
+[2020-March-13 Friday, 13:34:12] RN-00006_instance1,OnRtnOrder,OrderId=12561,Status=7,VolRemain=1,OrderRef=14
+[2020-March-13 Friday, 13:34:12] RN-00006_instance1,OnRtnOrder,OrderId=12562,Status=3,VolRemain=1,OrderRef=16
+[2020-March-13 Friday, 13:34:13] DispatchTdMsg,orderSysId:12738,ref:4
+[2020-March-13 Friday, 13:34:13] DispatchTdMsg,orderSysId:12738,ref:4
+[2020-March-13 Friday, 13:34:13] DispatchTdMsg,orderSysId:1312739,ref:4
+[2020-March-13 Friday, 13:34:13] RN-00006_instance1,OnRtnOrder,OrderId=12738,Status=3,VolRemain=1,OrderRef=4
+[2020-March-13 Friday, 13:34:13] RN-00006_instance1,OnRtnOrder,OrderId=12738,Status=9,VolRemain=0,OrderRef=4
+[2020-March-13 Friday, 13:34:13] RN-00006_instance1,OnRtnTrade,OrderId=1312739,vol=1,price=3856.00000
+[2020-March-13 Friday, 13:34:13] CTP Insert!! 18,openOrClose=0,buyOrSell=0,price=3854.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:13] RN-00006_instance1,开仓,卖=3854.00000,时间=20200313 13:34:16,网格:29
+[2020-March-13 Friday, 13:34:13] RN-00006_instance1,ReqOrderDelete,orderId,12562,ref:16
+[2020-March-13 Friday, 13:34:13] DispatchTdMsg,orderSysId:12562,ref:16
+[2020-March-13 Friday, 13:34:13] RN-00006_instance1,OnRtnOrder,OrderId=12562,Status=3,VolRemain=1,OrderRef=16
+[2020-March-13 Friday, 13:34:13] DispatchTdMsg,orderSysId:12563,ref:18
+[2020-March-13 Friday, 13:34:13] DispatchTdMsg,orderSysId:12564,ref:16
+[2020-March-13 Friday, 13:34:13] RN-00006_instance1,OnRtnOrder,OrderId=12563,Status=3,VolRemain=1,OrderRef=18
+[2020-March-13 Friday, 13:34:13] RN-00006_instance1,OnRtnOrder,OrderId=12564,Status=7,VolRemain=1,OrderRef=16
+[2020-March-13 Friday, 13:34:35] DispatchTdMsg,orderSysId:12627,ref:18
+[2020-March-13 Friday, 13:34:35] DispatchTdMsg,orderSysId:12627,ref:18
+[2020-March-13 Friday, 13:34:35] RN-00006_instance1,OnRtnOrder,OrderId=12627,Status=3,VolRemain=1,OrderRef=18
+[2020-March-13 Friday, 13:34:35] RN-00006_instance1,OnRtnOrder,OrderId=12627,Status=9,VolRemain=0,OrderRef=18
+[2020-March-13 Friday, 13:34:36] DispatchTdMsg,orderSysId:1312628,ref:18
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,OnRtnTrade,OrderId=1312628,vol=1,price=3854.00000
+[2020-March-13 Friday, 13:34:36] CTP Insert!! 20,openOrClose=1,buyOrSell=1,price=3856.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:36] CTP Insert!! 21,openOrClose=0,buyOrSell=0,price=3860.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,下网格开仓,买=3860.00000,时间=13:34:38,网格:28
+[2020-March-13 Friday, 13:34:36] DispatchTdMsg,orderSysId:12796,ref:20
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,OnRtnOrder,OrderId=12796,Status=3,VolRemain=1,OrderRef=20
+[2020-March-13 Friday, 13:34:36] DispatchTdMsg,orderSysId:12629,ref:21
+[2020-March-13 Friday, 13:34:36] DispatchTdMsg,orderSysId:12630,ref:21
+[2020-March-13 Friday, 13:34:36] DispatchTdMsg,orderSysId:12630,ref:21
+[2020-March-13 Friday, 13:34:36] DispatchTdMsg,orderSysId:1312631,ref:21
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,OnRtnOrder,OrderId=12629,Status=3,VolRemain=1,OrderRef=21
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,OnRtnOrder,OrderId=12630,Status=3,VolRemain=1,OrderRef=21
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,OnRtnOrder,OrderId=12630,Status=9,VolRemain=0,OrderRef=21
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,OnRtnTrade,OrderId=1312631,vol=1,price=3856.00000
+[2020-March-13 Friday, 13:34:36] CTP Insert!! 22,openOrClose=1,buyOrSell=1,price=3862.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:36] DispatchTdMsg,orderSysId:12799,ref:22
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,OnRtnOrder,OrderId=12799,Status=3,VolRemain=1,OrderRef=22
+[2020-March-13 Friday, 13:34:36] CTP Insert!! 23,openOrClose=0,buyOrSell=0,price=3858.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,下网格开仓,买=3858.00000,时间=13:34:39,网格:27
+[2020-March-13 Friday, 13:34:36] DispatchTdMsg,orderSysId:12803,ref:23
+[2020-March-13 Friday, 13:34:36] DispatchTdMsg,orderSysId:12804,ref:23
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,OnRtnOrder,OrderId=12803,Status=3,VolRemain=1,OrderRef=23
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,OnRtnOrder,OrderId=12804,Status=3,VolRemain=1,OrderRef=23
+[2020-March-13 Friday, 13:34:36] DispatchTdMsg,orderSysId:12804,ref:23
+[2020-March-13 Friday, 13:34:36] DispatchTdMsg,orderSysId:1312805,ref:23
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,OnRtnOrder,OrderId=12804,Status=9,VolRemain=0,OrderRef=23
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,OnRtnTrade,OrderId=1312805,vol=1,price=3856.00000
+[2020-March-13 Friday, 13:34:36] CTP Insert!! 24,openOrClose=1,buyOrSell=1,price=3860.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:36] DispatchTdMsg,orderSysId:12633,ref:24
+[2020-March-13 Friday, 13:34:36] RN-00006_instance1,OnRtnOrder,OrderId=12633,Status=3,VolRemain=1,OrderRef=24
+[2020-March-13 Friday, 13:34:37] CTP Insert!! 25,openOrClose=0,buyOrSell=0,price=3856.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:37] RN-00006_instance1,下网格开仓,买=3856.00000,时间=13:34:40,网格:26
+[2020-March-13 Friday, 13:34:37] DispatchTdMsg,orderSysId:12806,ref:25
+[2020-March-13 Friday, 13:34:37] DispatchTdMsg,orderSysId:12807,ref:25
+[2020-March-13 Friday, 13:34:37] RN-00006_instance1,OnRtnOrder,OrderId=12806,Status=3,VolRemain=1,OrderRef=25
+[2020-March-13 Friday, 13:34:37] RN-00006_instance1,OnRtnOrder,OrderId=12807,Status=3,VolRemain=1,OrderRef=25
+[2020-March-13 Friday, 13:34:37] DispatchTdMsg,orderSysId:12807,ref:25
+[2020-March-13 Friday, 13:34:37] RN-00006_instance1,OnRtnOrder,OrderId=12807,Status=9,VolRemain=0,OrderRef=25
+[2020-March-13 Friday, 13:34:37] DispatchTdMsg,orderSysId:1312808,ref:25
+[2020-March-13 Friday, 13:34:37] RN-00006_instance1,OnRtnTrade,OrderId=1312808,vol=1,price=3856.00000
+[2020-March-13 Friday, 13:34:37] CTP Insert!! 26,openOrClose=1,buyOrSell=1,price=3858.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:37] DispatchTdMsg,orderSysId:12634,ref:26
+[2020-March-13 Friday, 13:34:37] RN-00006_instance1,OnRtnOrder,OrderId=12634,Status=3,VolRemain=1,OrderRef=26
+[2020-March-13 Friday, 13:34:37] CTP Insert!! 27,openOrClose=0,buyOrSell=0,price=3854.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:37] RN-00006_instance1,下网格开仓,买=3854.00000,时间=13:34:40,网格:25
+[2020-March-13 Friday, 13:34:37] DispatchTdMsg,orderSysId:12635,ref:27
+[2020-March-13 Friday, 13:34:37] RN-00006_instance1,OnRtnOrder,OrderId=12635,Status=3,VolRemain=1,OrderRef=27
+[2020-March-13 Friday, 13:34:38] DispatchTdMsg,orderSysId:12639,ref:27
+[2020-March-13 Friday, 13:34:38] RN-00006_instance1,OnRtnOrder,OrderId=12639,Status=3,VolRemain=1,OrderRef=27
+[2020-March-13 Friday, 13:34:38] DispatchTdMsg,orderSysId:12639,ref:27
+[2020-March-13 Friday, 13:34:38] DispatchTdMsg,orderSysId:1312640,ref:27
+[2020-March-13 Friday, 13:34:38] RN-00006_instance1,OnRtnOrder,OrderId=12639,Status=9,VolRemain=0,OrderRef=27
+[2020-March-13 Friday, 13:34:38] RN-00006_instance1,OnRtnTrade,OrderId=1312640,vol=1,price=3854.00000
+[2020-March-13 Friday, 13:34:38] CTP Insert!! 28,openOrClose=1,buyOrSell=1,price=3856.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:38] DispatchTdMsg,orderSysId:12641,ref:28
+[2020-March-13 Friday, 13:34:38] RN-00006_instance1,OnRtnOrder,OrderId=12641,Status=3,VolRemain=1,OrderRef=28
+[2020-March-13 Friday, 13:34:39] CTP Insert!! 29,openOrClose=0,buyOrSell=0,price=3852.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:39] RN-00006_instance1,下网格开仓,买=3852.00000,时间=13:34:41,网格:24
+[2020-March-13 Friday, 13:34:39] DispatchTdMsg,orderSysId:12642,ref:29
+[2020-March-13 Friday, 13:34:39] RN-00006_instance1,OnRtnOrder,OrderId=12642,Status=3,VolRemain=1,OrderRef=29
+[2020-March-13 Friday, 13:34:40] DispatchTdMsg,orderSysId:12821,ref:20
+[2020-March-13 Friday, 13:34:40] DispatchTdMsg,orderSysId:12821,ref:20
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,OnRtnOrder,OrderId=12821,Status=3,VolRemain=1,OrderRef=20
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,OnRtnOrder,OrderId=12821,Status=9,VolRemain=0,OrderRef=20
+[2020-March-13 Friday, 13:34:40] DispatchTdMsg,orderSysId:1312822,ref:20
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,OnRtnTrade,OrderId=1312822,vol=1,price=3856.00000
+[2020-March-13 Friday, 13:34:40] CTP Insert!! 30,openOrClose=0,buyOrSell=0,price=3862.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,开仓,卖=3862.00000,时间=20200313 13:34:43,网格:29
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,ReqOrderDelete,orderId,12642,ref:29
+[2020-March-13 Friday, 13:34:40] DispatchTdMsg,orderSysId:12642,ref:29
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,OnRtnOrder,OrderId=12642,Status=3,VolRemain=1,OrderRef=29
+[2020-March-13 Friday, 13:34:40] DispatchTdMsg,orderSysId:12823,ref:30
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,OnRtnOrder,OrderId=12823,Status=3,VolRemain=1,OrderRef=30
+[2020-March-13 Friday, 13:34:40] DispatchTdMsg,orderSysId:12824,ref:30
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,OnRtnOrder,OrderId=12824,Status=3,VolRemain=1,OrderRef=30
+[2020-March-13 Friday, 13:34:40] DispatchTdMsg,orderSysId:12824,ref:30
+[2020-March-13 Friday, 13:34:40] DispatchTdMsg,orderSysId:1312825,ref:30
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,OnRtnOrder,OrderId=12824,Status=9,VolRemain=0,OrderRef=30
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,OnRtnTrade,OrderId=1312825,vol=1,price=3856.00000
+[2020-March-13 Friday, 13:34:40] CTP Insert!! 32,openOrClose=1,buyOrSell=1,price=3864.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:40] DispatchTdMsg,orderSysId:12644,ref:29
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,OnRtnOrder,OrderId=12644,Status=7,VolRemain=1,OrderRef=29
+[2020-March-13 Friday, 13:34:40] DispatchTdMsg,orderSysId:12826,ref:32
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,OnRtnOrder,OrderId=12826,Status=3,VolRemain=1,OrderRef=32
+[2020-March-13 Friday, 13:34:40] CTP Insert!! 33,openOrClose=0,buyOrSell=0,price=3852.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,下网格开仓,买=3852.00000,时间=13:34:43,网格:24
+[2020-March-13 Friday, 13:34:40] DispatchTdMsg,orderSysId:12645,ref:33
+[2020-March-13 Friday, 13:34:40] RN-00006_instance1,OnRtnOrder,OrderId=12645,Status=3,VolRemain=1,OrderRef=33
+[2020-March-13 Friday, 13:34:42] DispatchTdMsg,orderSysId:12650,ref:28
+[2020-March-13 Friday, 13:34:42] DispatchTdMsg,orderSysId:12650,ref:28
+[2020-March-13 Friday, 13:34:42] DispatchTdMsg,orderSysId:1312651,ref:28
+[2020-March-13 Friday, 13:34:42] RN-00006_instance1,OnRtnOrder,OrderId=12650,Status=3,VolRemain=1,OrderRef=28
+[2020-March-13 Friday, 13:34:42] RN-00006_instance1,OnRtnOrder,OrderId=12650,Status=9,VolRemain=0,OrderRef=28
+[2020-March-13 Friday, 13:34:42] RN-00006_instance1,OnRtnTrade,OrderId=1312651,vol=1,price=3856.00000
+[2020-March-13 Friday, 13:34:42] CTP Insert!! 34,openOrClose=0,buyOrSell=0,price=3854.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:42] RN-00006_instance1,开仓,卖=3854.00000,时间=20200313 13:34:45,网格:25
+[2020-March-13 Friday, 13:34:42] RN-00006_instance1,ReqOrderDelete,orderId,12645,ref:33
+[2020-March-13 Friday, 13:34:42] DispatchTdMsg,orderSysId:12645,ref:33
+[2020-March-13 Friday, 13:34:42] RN-00006_instance1,OnRtnOrder,OrderId=12645,Status=3,VolRemain=1,OrderRef=33
+[2020-March-13 Friday, 13:34:42] DispatchTdMsg,orderSysId:12830,ref:34
+[2020-March-13 Friday, 13:34:42] RN-00006_instance1,OnRtnOrder,OrderId=12830,Status=3,VolRemain=1,OrderRef=34
+[2020-March-13 Friday, 13:34:42] DispatchTdMsg,orderSysId:12652,ref:33
+[2020-March-13 Friday, 13:34:42] RN-00006_instance1,OnRtnOrder,OrderId=12652,Status=7,VolRemain=1,OrderRef=33
+[2020-March-13 Friday, 13:34:43] DispatchTdMsg,orderSysId:12831,ref:34
+[2020-March-13 Friday, 13:34:43] DispatchTdMsg,orderSysId:12831,ref:34
+[2020-March-13 Friday, 13:34:43] RN-00006_instance1,OnRtnOrder,OrderId=12831,Status=3,VolRemain=1,OrderRef=34
+[2020-March-13 Friday, 13:34:43] DispatchTdMsg,orderSysId:1312832,ref:34
+[2020-March-13 Friday, 13:34:43] RN-00006_instance1,OnRtnOrder,OrderId=12831,Status=9,VolRemain=0,OrderRef=34
+[2020-March-13 Friday, 13:34:43] RN-00006_instance1,OnRtnTrade,OrderId=1312832,vol=1,price=3854.00000
+[2020-March-13 Friday, 13:34:43] CTP Insert!! 36,openOrClose=1,buyOrSell=1,price=3856.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:43] DispatchTdMsg,orderSysId:12833,ref:36
+[2020-March-13 Friday, 13:34:43] RN-00006_instance1,OnRtnOrder,OrderId=12833,Status=3,VolRemain=1,OrderRef=36
+[2020-March-13 Friday, 13:34:43] CTP Insert!! 37,openOrClose=0,buyOrSell=0,price=3852.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:43] RN-00006_instance1,下网格开仓,买=3852.00000,时间=13:34:46,网格:24
+[2020-March-13 Friday, 13:34:43] DispatchTdMsg,orderSysId:12653,ref:37
+[2020-March-13 Friday, 13:34:43] RN-00006_instance1,OnRtnOrder,OrderId=12653,Status=3,VolRemain=1,OrderRef=37
+[2020-March-13 Friday, 13:34:44] DispatchTdMsg,orderSysId:12834,ref:36
+[2020-March-13 Friday, 13:34:44] DispatchTdMsg,orderSysId:12834,ref:36
+[2020-March-13 Friday, 13:34:44] RN-00006_instance1,OnRtnOrder,OrderId=12834,Status=3,VolRemain=1,OrderRef=36
+[2020-March-13 Friday, 13:34:44] DispatchTdMsg,orderSysId:1312835,ref:36
+[2020-March-13 Friday, 13:34:44] RN-00006_instance1,OnRtnOrder,OrderId=12834,Status=9,VolRemain=0,OrderRef=36
+[2020-March-13 Friday, 13:34:44] RN-00006_instance1,OnRtnTrade,OrderId=1312835,vol=1,price=3856.00000
+[2020-March-13 Friday, 13:34:44] CTP Insert!! 38,openOrClose=0,buyOrSell=0,price=3854.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:44] RN-00006_instance1,开仓,卖=3854.00000,时间=20200313 13:34:47,网格:25
+[2020-March-13 Friday, 13:34:44] RN-00006_instance1,ReqOrderDelete,orderId,12653,ref:37
+[2020-March-13 Friday, 13:34:44] DispatchTdMsg,orderSysId:12653,ref:37
+[2020-March-13 Friday, 13:34:44] RN-00006_instance1,OnRtnOrder,OrderId=12653,Status=3,VolRemain=1,OrderRef=37
+[2020-March-13 Friday, 13:34:44] DispatchTdMsg,orderSysId:12836,ref:38
+[2020-March-13 Friday, 13:34:44] RN-00006_instance1,OnRtnOrder,OrderId=12836,Status=3,VolRemain=1,OrderRef=38
+[2020-March-13 Friday, 13:34:44] DispatchTdMsg,orderSysId:12655,ref:37
+[2020-March-13 Friday, 13:34:44] RN-00006_instance1,OnRtnOrder,OrderId=12655,Status=7,VolRemain=1,OrderRef=37
+[2020-March-13 Friday, 13:34:48] DispatchTdMsg,orderSysId:12844,ref:38
+[2020-March-13 Friday, 13:34:48] RN-00006_instance1,OnRtnOrder,OrderId=12844,Status=3,VolRemain=1,OrderRef=38
+[2020-March-13 Friday, 13:34:48] DispatchTdMsg,orderSysId:12844,ref:38
+[2020-March-13 Friday, 13:34:48] DispatchTdMsg,orderSysId:1312845,ref:38
+[2020-March-13 Friday, 13:34:48] RN-00006_instance1,OnRtnOrder,OrderId=12844,Status=9,VolRemain=0,OrderRef=38
+[2020-March-13 Friday, 13:34:48] RN-00006_instance1,OnRtnTrade,OrderId=1312845,vol=1,price=3854.00000
+[2020-March-13 Friday, 13:34:48] CTP Insert!! 40,openOrClose=1,buyOrSell=1,price=3856.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:48] DispatchTdMsg,orderSysId:12846,ref:40
+[2020-March-13 Friday, 13:34:48] RN-00006_instance1,OnRtnOrder,OrderId=12846,Status=3,VolRemain=1,OrderRef=40
+[2020-March-13 Friday, 13:34:48] CTP Insert!! 41,openOrClose=0,buyOrSell=0,price=3852.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:48] RN-00006_instance1,下网格开仓,买=3852.00000,时间=13:34:51,网格:24
+[2020-March-13 Friday, 13:34:48] DispatchTdMsg,orderSysId:12847,ref:41
+[2020-March-13 Friday, 13:34:48] RN-00006_instance1,OnRtnOrder,OrderId=12847,Status=3,VolRemain=1,OrderRef=41
+[2020-March-13 Friday, 13:34:50] DispatchTdMsg,orderSysId:12849,ref:41
+[2020-March-13 Friday, 13:34:50] RN-00006_instance1,OnRtnOrder,OrderId=12849,Status=3,VolRemain=1,OrderRef=41
+[2020-March-13 Friday, 13:34:50] DispatchTdMsg,orderSysId:12849,ref:41
+[2020-March-13 Friday, 13:34:50] DispatchTdMsg,orderSysId:1312850,ref:41
+[2020-March-13 Friday, 13:34:50] RN-00006_instance1,OnRtnOrder,OrderId=12849,Status=9,VolRemain=0,OrderRef=41
+[2020-March-13 Friday, 13:34:50] RN-00006_instance1,OnRtnTrade,OrderId=1312850,vol=1,price=3852.00000
+[2020-March-13 Friday, 13:34:50] CTP Insert!! 42,openOrClose=1,buyOrSell=1,price=3854.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:50] DispatchTdMsg,orderSysId:12667,ref:42
+[2020-March-13 Friday, 13:34:50] RN-00006_instance1,OnRtnOrder,OrderId=12667,Status=3,VolRemain=1,OrderRef=42
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,Buy Order Stoploss Close,3848.00000,OrderId=12799
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,ReqOrderDelete,orderId,12799,ref:22
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,Buy Order Stoploss Close,3848.00000,OrderId=12633
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,ReqOrderDelete,orderId,12633,ref:24
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,Buy Order Stoploss Close,3848.00000,OrderId=12634
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,ReqOrderDelete,orderId,12634,ref:26
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,Buy Order Stoploss Close,3848.00000,OrderId=12826
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,ReqOrderDelete,orderId,12826,ref:32
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,Buy Order Stoploss Close,3848.00000,OrderId=12846
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,ReqOrderDelete,orderId,12846,ref:40
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,Buy Order Stoploss Close,3848.00000,OrderId=12667
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,ReqOrderDelete,orderId,12667,ref:42
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12799,ref:22
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12633,ref:24
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12634,ref:26
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12799,Status=3,VolRemain=1,OrderRef=22
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12633,Status=3,VolRemain=1,OrderRef=24
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12634,Status=3,VolRemain=1,OrderRef=26
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12826,ref:32
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12846,ref:40
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12667,ref:42
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12826,Status=3,VolRemain=1,OrderRef=32
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12873,ref:22
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12846,Status=3,VolRemain=1,OrderRef=40
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12667,Status=3,VolRemain=1,OrderRef=42
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12873,Status=7,VolRemain=1,OrderRef=22
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,Buy Order Stoploss Close,OrderId=12873
+[2020-March-13 Friday, 13:34:59] CTP Insert!! 49,openOrClose=1,buyOrSell=1,price=3826.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12702,ref:24
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12703,ref:26
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12874,ref:40
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12702,Status=7,VolRemain=1,OrderRef=24
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,Buy Order Stoploss Close,OrderId=12702
+[2020-March-13 Friday, 13:34:59] CTP Insert!! 50,openOrClose=1,buyOrSell=1,price=3826.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12875,ref:32
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12703,Status=7,VolRemain=1,OrderRef=26
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,Buy Order Stoploss Close,OrderId=12703
+[2020-March-13 Friday, 13:34:59] CTP Insert!! 51,openOrClose=1,buyOrSell=1,price=3826.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12874,Status=7,VolRemain=1,OrderRef=40
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,Buy Order Stoploss Close,OrderId=12874
+[2020-March-13 Friday, 13:34:59] CTP Insert!! 52,openOrClose=1,buyOrSell=1,price=3826.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12875,Status=7,VolRemain=1,OrderRef=32
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,Buy Order Stoploss Close,OrderId=12875
+[2020-March-13 Friday, 13:34:59] CTP Insert!! 53,openOrClose=1,buyOrSell=1,price=3826.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12704,ref:42
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12704,Status=7,VolRemain=1,OrderRef=42
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,Buy Order Stoploss Close,OrderId=12704
+[2020-March-13 Friday, 13:34:59] CTP Insert!! 54,openOrClose=1,buyOrSell=1,price=3826.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12705,ref:49
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12706,ref:49
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12705,Status=3,VolRemain=1,OrderRef=49
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12706,ref:49
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12706,Status=3,VolRemain=1,OrderRef=49
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12706,Status=9,VolRemain=0,OrderRef=49
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:1312707,ref:49
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnTrade,OrderId=1312707,vol=1,price=3846.00000
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12876,ref:50
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12876,Status=3,VolRemain=1,OrderRef=50
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12877,ref:50
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12877,ref:50
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:1312878,ref:50
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12877,Status=3,VolRemain=1,OrderRef=50
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12877,Status=9,VolRemain=0,OrderRef=50
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnTrade,OrderId=1312878,vol=1,price=3846.00000
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12708,ref:51
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12708,Status=3,VolRemain=1,OrderRef=51
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12709,ref:51
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12709,ref:51
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:1312710,ref:51
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12709,Status=3,VolRemain=1,OrderRef=51
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12709,Status=9,VolRemain=0,OrderRef=51
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnTrade,OrderId=1312710,vol=1,price=3846.00000
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12879,ref:52
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12879,Status=3,VolRemain=1,OrderRef=52
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12880,ref:52
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12880,ref:52
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12880,Status=3,VolRemain=1,OrderRef=52
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:1312881,ref:52
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12880,Status=9,VolRemain=0,OrderRef=52
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12882,ref:54
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnTrade,OrderId=1312881,vol=1,price=3846.00000
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12882,Status=3,VolRemain=1,OrderRef=54
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12883,ref:54
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12883,ref:54
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:1312884,ref:54
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12883,Status=3,VolRemain=1,OrderRef=54
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12711,ref:53
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12712,ref:53
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:12712,ref:53
+[2020-March-13 Friday, 13:34:59] DispatchTdMsg,orderSysId:1312713,ref:53
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12883,Status=9,VolRemain=0,OrderRef=54
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnTrade,OrderId=1312884,vol=1,price=3846.00000
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12711,Status=3,VolRemain=1,OrderRef=53
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12712,Status=3,VolRemain=1,OrderRef=53
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnOrder,OrderId=12712,Status=9,VolRemain=0,OrderRef=53
+[2020-March-13 Friday, 13:34:59] RN-00006_instance1,OnRtnTrade,OrderId=1312713,vol=1,price=3846.00000
+[2020-March-13 Friday, 13:35:30] RN-00006_instance1,Stop
+[2020-March-13 Friday, 13:36:11] Strategy Init..
+[2020-March-13 Friday, 13:36:12] CTP Insert!! 55,openOrClose=0,buyOrSell=0,price=3848.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:12] RN-00006_instance1,下网格开仓,买=3848.00000,时间=13:36:15,网格:29
+[2020-March-13 Friday, 13:36:12] DispatchTdMsg,orderSysId:12859,ref:55
+[2020-March-13 Friday, 13:36:12] RN-00006_instance1,OnRtnOrder,OrderId=12859,Status=3,VolRemain=1,OrderRef=55
+[2020-March-13 Friday, 13:36:12] DispatchTdMsg,orderSysId:12860,ref:55
+[2020-March-13 Friday, 13:36:12] RN-00006_instance1,OnRtnOrder,OrderId=12860,Status=3,VolRemain=1,OrderRef=55
+[2020-March-13 Friday, 13:36:12] DispatchTdMsg,orderSysId:12860,ref:55
+[2020-March-13 Friday, 13:36:12] DispatchTdMsg,orderSysId:1312861,ref:55
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,OnRtnOrder,OrderId=12860,Status=9,VolRemain=0,OrderRef=55
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,OnRtnTrade,OrderId=1312861,vol=1,price=3844.00000
+[2020-March-13 Friday, 13:36:13] CTP Insert!! 56,openOrClose=1,buyOrSell=1,price=3850.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:13] CTP Insert!! 57,openOrClose=0,buyOrSell=0,price=3846.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,下网格开仓,买=3846.00000,时间=13:36:16,网格:28
+[2020-March-13 Friday, 13:36:13] DispatchTdMsg,orderSysId:12862,ref:56
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,OnRtnOrder,OrderId=12862,Status=3,VolRemain=1,OrderRef=56
+[2020-March-13 Friday, 13:36:13] DispatchTdMsg,orderSysId:13024,ref:57
+[2020-March-13 Friday, 13:36:13] DispatchTdMsg,orderSysId:13025,ref:57
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,OnRtnOrder,OrderId=13024,Status=3,VolRemain=1,OrderRef=57
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,OnRtnOrder,OrderId=13025,Status=3,VolRemain=1,OrderRef=57
+[2020-March-13 Friday, 13:36:13] DispatchTdMsg,orderSysId:13025,ref:57
+[2020-March-13 Friday, 13:36:13] DispatchTdMsg,orderSysId:1313026,ref:57
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,OnRtnOrder,OrderId=13025,Status=9,VolRemain=0,OrderRef=57
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,OnRtnTrade,OrderId=1313026,vol=1,price=3844.00000
+[2020-March-13 Friday, 13:36:13] CTP Insert!! 58,openOrClose=1,buyOrSell=1,price=3848.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:13] DispatchTdMsg,orderSysId:12863,ref:58
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,OnRtnOrder,OrderId=12863,Status=3,VolRemain=1,OrderRef=58
+[2020-March-13 Friday, 13:36:13] CTP Insert!! 59,openOrClose=0,buyOrSell=0,price=3844.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,下网格开仓,买=3844.00000,时间=13:36:16,网格:27
+[2020-March-13 Friday, 13:36:13] DispatchTdMsg,orderSysId:12864,ref:59
+[2020-March-13 Friday, 13:36:13] DispatchTdMsg,orderSysId:12865,ref:59
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,OnRtnOrder,OrderId=12864,Status=3,VolRemain=1,OrderRef=59
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,OnRtnOrder,OrderId=12865,Status=3,VolRemain=1,OrderRef=59
+[2020-March-13 Friday, 13:36:13] DispatchTdMsg,orderSysId:12865,ref:59
+[2020-March-13 Friday, 13:36:13] DispatchTdMsg,orderSysId:1312866,ref:59
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,OnRtnOrder,OrderId=12865,Status=9,VolRemain=0,OrderRef=59
+[2020-March-13 Friday, 13:36:13] RN-00006_instance1,OnRtnTrade,OrderId=1312866,vol=1,price=3844.00000
+[2020-March-13 Friday, 13:36:13] CTP Insert!! 60,openOrClose=1,buyOrSell=1,price=3846.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:14] CTP Insert!! 61,openOrClose=0,buyOrSell=0,price=3842.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:14] RN-00006_instance1,下网格开仓,买=3842.00000,时间=13:36:17,网格:26
+[2020-March-13 Friday, 13:36:14] DispatchTdMsg,orderSysId:13027,ref:60
+[2020-March-13 Friday, 13:36:14] DispatchTdMsg,orderSysId:12867,ref:61
+[2020-March-13 Friday, 13:36:14] RN-00006_instance1,OnRtnOrder,OrderId=13027,Status=3,VolRemain=1,OrderRef=60
+[2020-March-13 Friday, 13:36:14] RN-00006_instance1,OnRtnOrder,OrderId=12867,Status=3,VolRemain=1,OrderRef=61
+[2020-March-13 Friday, 13:36:15] DispatchTdMsg,orderSysId:13031,ref:60
+[2020-March-13 Friday, 13:36:15] DispatchTdMsg,orderSysId:13031,ref:60
+[2020-March-13 Friday, 13:36:15] RN-00006_instance1,OnRtnOrder,OrderId=13031,Status=3,VolRemain=1,OrderRef=60
+[2020-March-13 Friday, 13:36:15] RN-00006_instance1,OnRtnOrder,OrderId=13031,Status=9,VolRemain=0,OrderRef=60
+[2020-March-13 Friday, 13:36:15] DispatchTdMsg,orderSysId:1313032,ref:60
+[2020-March-13 Friday, 13:36:15] RN-00006_instance1,OnRtnTrade,OrderId=1313032,vol=1,price=3846.00000
+[2020-March-13 Friday, 13:36:15] CTP Insert!! 62,openOrClose=0,buyOrSell=0,price=3844.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:15] RN-00006_instance1,开仓,卖=3844.00000,时间=20200313 13:36:18,网格:27
+[2020-March-13 Friday, 13:36:15] RN-00006_instance1,ReqOrderDelete,orderId,12867,ref:61
+[2020-March-13 Friday, 13:36:15] DispatchTdMsg,orderSysId:12867,ref:61
+[2020-March-13 Friday, 13:36:15] RN-00006_instance1,OnRtnOrder,OrderId=12867,Status=3,VolRemain=1,OrderRef=61
+[2020-March-13 Friday, 13:36:15] DispatchTdMsg,orderSysId:13033,ref:62
+[2020-March-13 Friday, 13:36:15] RN-00006_instance1,OnRtnOrder,OrderId=13033,Status=3,VolRemain=1,OrderRef=62
+[2020-March-13 Friday, 13:36:15] DispatchTdMsg,orderSysId:12868,ref:61
+[2020-March-13 Friday, 13:36:15] RN-00006_instance1,OnRtnOrder,OrderId=12868,Status=7,VolRemain=1,OrderRef=61
+[2020-March-13 Friday, 13:36:27] DispatchTdMsg,orderSysId:12887,ref:58
+[2020-March-13 Friday, 13:36:27] RN-00006_instance1,OnRtnOrder,OrderId=12887,Status=3,VolRemain=1,OrderRef=58
+[2020-March-13 Friday, 13:36:27] DispatchTdMsg,orderSysId:12887,ref:58
+[2020-March-13 Friday, 13:36:27] DispatchTdMsg,orderSysId:1312888,ref:58
+[2020-March-13 Friday, 13:36:27] RN-00006_instance1,OnRtnOrder,OrderId=12887,Status=9,VolRemain=0,OrderRef=58
+[2020-March-13 Friday, 13:36:27] RN-00006_instance1,OnRtnTrade,OrderId=1312888,vol=1,price=3848.00000
+[2020-March-13 Friday, 13:36:27] CTP Insert!! 64,openOrClose=0,buyOrSell=0,price=3846.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:27] RN-00006_instance1,开仓,卖=3846.00000,时间=20200313 13:36:30,网格:28
+[2020-March-13 Friday, 13:36:27] RN-00006_instance1,ReqOrderDelete,orderId,13033,ref:62
+[2020-March-13 Friday, 13:36:27] DispatchTdMsg,orderSysId:13033,ref:62
+[2020-March-13 Friday, 13:36:27] RN-00006_instance1,OnRtnOrder,OrderId=13033,Status=3,VolRemain=1,OrderRef=62
+[2020-March-13 Friday, 13:36:27] DispatchTdMsg,orderSysId:13052,ref:64
+[2020-March-13 Friday, 13:36:27] DispatchTdMsg,orderSysId:13053,ref:62
+[2020-March-13 Friday, 13:36:27] RN-00006_instance1,OnRtnOrder,OrderId=13052,Status=3,VolRemain=1,OrderRef=64
+[2020-March-13 Friday, 13:36:27] RN-00006_instance1,OnRtnOrder,OrderId=13053,Status=7,VolRemain=1,OrderRef=62
+[2020-March-13 Friday, 13:36:34] DispatchTdMsg,orderSysId:13068,ref:64
+[2020-March-13 Friday, 13:36:34] RN-00006_instance1,OnRtnOrder,OrderId=13068,Status=3,VolRemain=1,OrderRef=64
+[2020-March-13 Friday, 13:36:34] DispatchTdMsg,orderSysId:13068,ref:64
+[2020-March-13 Friday, 13:36:34] DispatchTdMsg,orderSysId:1313069,ref:64
+[2020-March-13 Friday, 13:36:36] RN-00006_instance1,OnRtnOrder,OrderId=13068,Status=9,VolRemain=0,OrderRef=64
+[2020-March-13 Friday, 13:36:38] RN-00006_instance1,OnRtnTrade,OrderId=1313069,vol=1,price=3846.00000
+[2020-March-13 Friday, 13:36:38] CTP Insert!! 66,openOrClose=1,buyOrSell=1,price=3848.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:38] DispatchTdMsg,orderSysId:13072,ref:66
+[2020-March-13 Friday, 13:36:40] CTP Insert!! 67,openOrClose=0,buyOrSell=0,price=3844.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:40] RN-00006_instance1,下网格开仓,买=3844.00000,时间=13:36:36,网格:27
+[2020-March-13 Friday, 13:36:40] DispatchTdMsg,orderSysId:13074,ref:67
+[2020-March-13 Friday, 13:36:40] DispatchTdMsg,orderSysId:13075,ref:67
+[2020-March-13 Friday, 13:36:40] DispatchTdMsg,orderSysId:13075,ref:67
+[2020-March-13 Friday, 13:36:40] DispatchTdMsg,orderSysId:1313076,ref:67
+[2020-March-13 Friday, 13:36:44] RN-00006_instance1,OnRtnOrder,OrderId=13072,Status=3,VolRemain=1,OrderRef=66
+[2020-March-13 Friday, 13:36:44] RN-00006_instance1,OnRtnOrder,OrderId=13074,Status=3,VolRemain=1,OrderRef=67
+[2020-March-13 Friday, 13:36:44] RN-00006_instance1,OnRtnOrder,OrderId=13075,Status=3,VolRemain=1,OrderRef=67
+[2020-March-13 Friday, 13:36:44] RN-00006_instance1,OnRtnOrder,OrderId=13075,Status=9,VolRemain=0,OrderRef=67
+[2020-March-13 Friday, 13:36:44] RN-00006_instance1,OnRtnTrade,OrderId=1313076,vol=1,price=3844.00000
+[2020-March-13 Friday, 13:36:44] CTP Insert!! 68,openOrClose=1,buyOrSell=1,price=3846.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:44] DispatchTdMsg,orderSysId:12896,ref:68
+[2020-March-13 Friday, 13:36:44] RN-00006_instance1,OnRtnOrder,OrderId=12896,Status=3,VolRemain=1,OrderRef=68
+[2020-March-13 Friday, 13:36:44] CTP Insert!! 69,openOrClose=0,buyOrSell=0,price=3842.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:36:44] RN-00006_instance1,下网格开仓,买=3842.00000,时间=13:36:41,网格:26
+[2020-March-13 Friday, 13:36:44] DispatchTdMsg,orderSysId:13079,ref:69
+[2020-March-13 Friday, 13:36:44] RN-00006_instance1,OnRtnOrder,OrderId=13079,Status=3,VolRemain=1,OrderRef=69
+[2020-March-13 Friday, 13:36:51] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:36:52] AccountID:932535,Balance:18481.769
+[2020-March-13 Friday, 13:36:52] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3844.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:36:52] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3846.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:36:52] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3844.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:37:13] DispatchTdMsg,orderSysId:13096,ref:69
+[2020-March-13 Friday, 13:37:13] DispatchTdMsg,orderSysId:13096,ref:69
+[2020-March-13 Friday, 13:37:13] DispatchTdMsg,orderSysId:1313097,ref:69
+[2020-March-13 Friday, 13:37:13] RN-00006_instance1,OnRtnOrder,OrderId=13096,Status=3,VolRemain=1,OrderRef=69
+[2020-March-13 Friday, 13:37:13] RN-00006_instance1,OnRtnOrder,OrderId=13096,Status=9,VolRemain=0,OrderRef=69
+[2020-March-13 Friday, 13:37:13] RN-00006_instance1,OnRtnTrade,OrderId=1313097,vol=1,price=3842.00000
+[2020-March-13 Friday, 13:37:13] CTP Insert!! 70,openOrClose=1,buyOrSell=1,price=3844.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:37:13] DispatchTdMsg,orderSysId:13098,ref:70
+[2020-March-13 Friday, 13:37:13] RN-00006_instance1,OnRtnOrder,OrderId=13098,Status=3,VolRemain=1,OrderRef=70
+[2020-March-13 Friday, 13:37:13] CTP Insert!! 71,openOrClose=0,buyOrSell=0,price=3840.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:37:13] RN-00006_instance1,下网格开仓,买=3840.00000,时间=13:37:15,网格:25
+[2020-March-13 Friday, 13:37:13] DispatchTdMsg,orderSysId:12919,ref:71
+[2020-March-13 Friday, 13:37:13] RN-00006_instance1,OnRtnOrder,OrderId=12919,Status=3,VolRemain=1,OrderRef=71
+[2020-March-13 Friday, 13:37:17] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:37:17] AccountID:932535,Balance:18448.758
+[2020-March-13 Friday, 13:37:17] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3842.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:37:17] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3844.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:37:17] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3846.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:37:17] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3844.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:37:25] DispatchTdMsg,orderSysId:12941,ref:71
+[2020-March-13 Friday, 13:37:25] RN-00006_instance1,OnRtnOrder,OrderId=12941,Status=3,VolRemain=1,OrderRef=71
+[2020-March-13 Friday, 13:37:25] DispatchTdMsg,orderSysId:12941,ref:71
+[2020-March-13 Friday, 13:37:25] DispatchTdMsg,orderSysId:1312942,ref:71
+[2020-March-13 Friday, 13:37:25] RN-00006_instance1,OnRtnOrder,OrderId=12941,Status=9,VolRemain=0,OrderRef=71
+[2020-March-13 Friday, 13:37:25] RN-00006_instance1,OnRtnTrade,OrderId=1312942,vol=1,price=3840.00000
+[2020-March-13 Friday, 13:37:25] CTP Insert!! 72,openOrClose=1,buyOrSell=1,price=3842.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:37:25] DispatchTdMsg,orderSysId:13135,ref:72
+[2020-March-13 Friday, 13:37:25] RN-00006_instance1,OnRtnOrder,OrderId=13135,Status=3,VolRemain=1,OrderRef=72
+[2020-March-13 Friday, 13:37:25] CTP Insert!! 73,openOrClose=0,buyOrSell=0,price=3838.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:37:25] RN-00006_instance1,下网格开仓,买=3838.00000,时间=13:37:28,网格:24
+[2020-March-13 Friday, 13:37:25] DispatchTdMsg,orderSysId:13136,ref:73
+[2020-March-13 Friday, 13:37:25] RN-00006_instance1,OnRtnOrder,OrderId=13136,Status=3,VolRemain=1,OrderRef=73
+[2020-March-13 Friday, 13:37:27] DispatchTdMsg,orderSysId:13141,ref:73
+[2020-March-13 Friday, 13:37:27] RN-00006_instance1,OnRtnOrder,OrderId=13141,Status=3,VolRemain=1,OrderRef=73
+[2020-March-13 Friday, 13:37:27] DispatchTdMsg,orderSysId:13141,ref:73
+[2020-March-13 Friday, 13:37:27] DispatchTdMsg,orderSysId:1313142,ref:73
+[2020-March-13 Friday, 13:37:27] RN-00006_instance1,OnRtnOrder,OrderId=13141,Status=9,VolRemain=0,OrderRef=73
+[2020-March-13 Friday, 13:37:27] RN-00006_instance1,OnRtnTrade,OrderId=1313142,vol=1,price=3838.00000
+[2020-March-13 Friday, 13:37:27] CTP Insert!! 74,openOrClose=1,buyOrSell=1,price=3840.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:37:27] DispatchTdMsg,orderSysId:13143,ref:74
+[2020-March-13 Friday, 13:37:27] RN-00006_instance1,OnRtnOrder,OrderId=13143,Status=3,VolRemain=1,OrderRef=74
+[2020-March-13 Friday, 13:37:40] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:37:40] AccountID:932535,Balance:18352.735
+[2020-March-13 Friday, 13:37:40] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:37:40] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3840.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:37:40] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3842.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:37:40] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3844.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:37:40] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3846.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:37:40] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3844.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:37:50] CTP Insert!! 75,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:37:50] RN-00006_instance1,下网格开仓,买=3830.00000,时间=13:37:53,网格:23
+[2020-March-13 Friday, 13:37:50] DispatchTdMsg,orderSysId:12977,ref:75
+[2020-March-13 Friday, 13:37:50] RN-00006_instance1,OnRtnOrder,OrderId=12977,Status=3,VolRemain=1,OrderRef=75
+[2020-March-13 Friday, 13:37:57] DispatchTdMsg,orderSysId:13229,ref:74
+[2020-March-13 Friday, 13:37:57] DispatchTdMsg,orderSysId:13229,ref:74
+[2020-March-13 Friday, 13:37:57] DispatchTdMsg,orderSysId:1313230,ref:74
+[2020-March-13 Friday, 13:37:57] RN-00006_instance1,OnRtnOrder,OrderId=13229,Status=3,VolRemain=1,OrderRef=74
+[2020-March-13 Friday, 13:37:57] RN-00006_instance1,OnRtnOrder,OrderId=13229,Status=9,VolRemain=0,OrderRef=74
+[2020-March-13 Friday, 13:37:57] RN-00006_instance1,OnRtnTrade,OrderId=1313230,vol=1,price=3840.00000
+[2020-March-13 Friday, 13:37:57] CTP Insert!! 76,openOrClose=0,buyOrSell=0,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:37:57] RN-00006_instance1,开仓,卖=3832.00000,时间=20200313 13:38:00,网格:24
+[2020-March-13 Friday, 13:37:57] RN-00006_instance1,ReqOrderDelete,orderId,12977,ref:75
+[2020-March-13 Friday, 13:37:57] DispatchTdMsg,orderSysId:12977,ref:75
+[2020-March-13 Friday, 13:37:57] RN-00006_instance1,OnRtnOrder,OrderId=12977,Status=3,VolRemain=1,OrderRef=75
+[2020-March-13 Friday, 13:37:57] DispatchTdMsg,orderSysId:12979,ref:75
+[2020-March-13 Friday, 13:37:57] RN-00006_instance1,OnRtnOrder,OrderId=12979,Status=7,VolRemain=1,OrderRef=75
+[2020-March-13 Friday, 13:37:57] DispatchTdMsg,orderSysId:12980,ref:76
+[2020-March-13 Friday, 13:37:57] RN-00006_instance1,OnRtnOrder,OrderId=12980,Status=3,VolRemain=1,OrderRef=76
+[2020-March-13 Friday, 13:38:44] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:38:44] AccountID:932535,Balance:18412.734
+[2020-March-13 Friday, 13:38:44] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:38:44] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3840.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:38:44] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3842.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:38:44] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3844.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:38:44] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3846.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:38:57] DispatchTdMsg,orderSysId:13403,ref:72
+[2020-March-13 Friday, 13:38:57] DispatchTdMsg,orderSysId:13403,ref:72
+[2020-March-13 Friday, 13:38:57] RN-00006_instance1,OnRtnOrder,OrderId=13403,Status=3,VolRemain=1,OrderRef=72
+[2020-March-13 Friday, 13:38:57] DispatchTdMsg,orderSysId:1313404,ref:72
+[2020-March-13 Friday, 13:38:57] RN-00006_instance1,OnRtnOrder,OrderId=13403,Status=9,VolRemain=0,OrderRef=72
+[2020-March-13 Friday, 13:38:57] RN-00006_instance1,OnRtnTrade,OrderId=1313404,vol=1,price=3842.00000
+[2020-March-13 Friday, 13:38:57] CTP Insert!! 78,openOrClose=0,buyOrSell=0,price=3834.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:38:57] RN-00006_instance1,开仓,卖=3834.00000,时间=20200313 13:39:01,网格:25
+[2020-March-13 Friday, 13:38:57] RN-00006_instance1,ReqOrderDelete,orderId,12980,ref:76
+[2020-March-13 Friday, 13:38:57] DispatchTdMsg,orderSysId:12980,ref:76
+[2020-March-13 Friday, 13:38:57] RN-00006_instance1,OnRtnOrder,OrderId=12980,Status=3,VolRemain=1,OrderRef=76
+[2020-March-13 Friday, 13:38:58] DispatchTdMsg,orderSysId:13405,ref:78
+[2020-March-13 Friday, 13:38:58] RN-00006_instance1,OnRtnOrder,OrderId=13405,Status=3,VolRemain=1,OrderRef=78
+[2020-March-13 Friday, 13:38:58] DispatchTdMsg,orderSysId:13059,ref:76
+[2020-March-13 Friday, 13:38:58] RN-00006_instance1,OnRtnOrder,OrderId=13059,Status=7,VolRemain=1,OrderRef=76
+[2020-March-13 Friday, 13:39:19] DispatchTdMsg,orderSysId:13405,ref:78
+[2020-March-13 Friday, 13:39:19] RN-00006_instance1,OnRtnOrder,OrderId=13405,Status=3,VolRemain=1,OrderRef=78
+[2020-March-13 Friday, 13:39:19] DispatchTdMsg,orderSysId:13429,ref:78
+[2020-March-13 Friday, 13:39:19] RN-00006_instance1,OnRtnOrder,OrderId=13429,Status=7,VolRemain=1,OrderRef=78
+[2020-March-13 Friday, 13:39:20] CTP Insert!! 80,openOrClose=0,buyOrSell=0,price=3834.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:39:20] RN-00006_instance1,下网格开仓,买=3834.00000,时间=13:39:23,网格:25
+[2020-March-13 Friday, 13:39:20] DispatchTdMsg,orderSysId:13085,ref:80
+[2020-March-13 Friday, 13:39:20] RN-00006_instance1,OnRtnOrder,OrderId=13085,Status=3,VolRemain=1,OrderRef=80
+[2020-March-13 Friday, 13:39:23] DispatchTdMsg,orderSysId:13087,ref:80
+[2020-March-13 Friday, 13:39:23] RN-00006_instance1,OnRtnOrder,OrderId=13087,Status=3,VolRemain=1,OrderRef=80
+[2020-March-13 Friday, 13:39:23] DispatchTdMsg,orderSysId:13087,ref:80
+[2020-March-13 Friday, 13:39:23] DispatchTdMsg,orderSysId:1313088,ref:80
+[2020-March-13 Friday, 13:39:23] RN-00006_instance1,OnRtnOrder,OrderId=13087,Status=9,VolRemain=0,OrderRef=80
+[2020-March-13 Friday, 13:39:23] RN-00006_instance1,OnRtnTrade,OrderId=1313088,vol=1,price=3834.00000
+[2020-March-13 Friday, 13:39:23] CTP Insert!! 81,openOrClose=1,buyOrSell=1,price=3836.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:39:23] CTP Insert!! 82,openOrClose=0,buyOrSell=0,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:39:23] RN-00006_instance1,下网格开仓,买=3832.00000,时间=13:39:26,网格:24
+[2020-March-13 Friday, 13:39:24] DispatchTdMsg,orderSysId:13434,ref:81
+[2020-March-13 Friday, 13:39:24] DispatchTdMsg,orderSysId:13089,ref:82
+[2020-March-13 Friday, 13:39:24] RN-00006_instance1,OnRtnOrder,OrderId=13434,Status=3,VolRemain=1,OrderRef=81
+[2020-March-13 Friday, 13:39:24] RN-00006_instance1,OnRtnOrder,OrderId=13089,Status=3,VolRemain=1,OrderRef=82
+[2020-March-13 Friday, 13:39:27] DispatchTdMsg,orderSysId:13092,ref:82
+[2020-March-13 Friday, 13:39:27] DispatchTdMsg,orderSysId:13092,ref:82
+[2020-March-13 Friday, 13:39:27] RN-00006_instance1,OnRtnOrder,OrderId=13092,Status=3,VolRemain=1,OrderRef=82
+[2020-March-13 Friday, 13:39:27] RN-00006_instance1,OnRtnOrder,OrderId=13092,Status=9,VolRemain=0,OrderRef=82
+[2020-March-13 Friday, 13:39:27] DispatchTdMsg,orderSysId:1313093,ref:82
+[2020-March-13 Friday, 13:39:27] RN-00006_instance1,OnRtnTrade,OrderId=1313093,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:39:27] CTP Insert!! 83,openOrClose=1,buyOrSell=1,price=3834.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:39:27] DispatchTdMsg,orderSysId:13442,ref:83
+[2020-March-13 Friday, 13:39:27] RN-00006_instance1,OnRtnOrder,OrderId=13442,Status=3,VolRemain=1,OrderRef=83
+[2020-March-13 Friday, 13:39:27] CTP Insert!! 84,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:39:27] RN-00006_instance1,下网格开仓,买=3830.00000,时间=13:39:30,网格:23
+[2020-March-13 Friday, 13:39:27] DispatchTdMsg,orderSysId:13443,ref:84
+[2020-March-13 Friday, 13:39:27] RN-00006_instance1,OnRtnOrder,OrderId=13443,Status=3,VolRemain=1,OrderRef=84
+[2020-March-13 Friday, 13:39:44] DispatchTdMsg,orderSysId:13453,ref:83
+[2020-March-13 Friday, 13:39:44] RN-00006_instance1,OnRtnOrder,OrderId=13453,Status=3,VolRemain=1,OrderRef=83
+[2020-March-13 Friday, 13:39:44] DispatchTdMsg,orderSysId:13453,ref:83
+[2020-March-13 Friday, 13:39:44] DispatchTdMsg,orderSysId:1313454,ref:83
+[2020-March-13 Friday, 13:39:44] RN-00006_instance1,OnRtnOrder,OrderId=13453,Status=9,VolRemain=0,OrderRef=83
+[2020-March-13 Friday, 13:39:44] RN-00006_instance1,OnRtnTrade,OrderId=1313454,vol=1,price=3834.00000
+[2020-March-13 Friday, 13:39:44] CTP Insert!! 85,openOrClose=0,buyOrSell=0,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:39:44] RN-00006_instance1,开仓,卖=3832.00000,时间=20200313 13:39:47,网格:24
+[2020-March-13 Friday, 13:39:44] RN-00006_instance1,ReqOrderDelete,orderId,13443,ref:84
+[2020-March-13 Friday, 13:39:44] DispatchTdMsg,orderSysId:13443,ref:84
+[2020-March-13 Friday, 13:39:44] RN-00006_instance1,OnRtnOrder,OrderId=13443,Status=3,VolRemain=1,OrderRef=84
+[2020-March-13 Friday, 13:39:44] DispatchTdMsg,orderSysId:13455,ref:85
+[2020-March-13 Friday, 13:39:44] RN-00006_instance1,OnRtnOrder,OrderId=13455,Status=3,VolRemain=1,OrderRef=85
+[2020-March-13 Friday, 13:39:44] DispatchTdMsg,orderSysId:13456,ref:84
+[2020-March-13 Friday, 13:39:44] RN-00006_instance1,OnRtnOrder,OrderId=13456,Status=7,VolRemain=1,OrderRef=84
+[2020-March-13 Friday, 13:39:57] DispatchTdMsg,orderSysId:13557,ref:81
+[2020-March-13 Friday, 13:39:57] DispatchTdMsg,orderSysId:13557,ref:81
+[2020-March-13 Friday, 13:39:57] DispatchTdMsg,orderSysId:1313558,ref:81
+[2020-March-13 Friday, 13:39:57] RN-00006_instance1,OnRtnOrder,OrderId=13557,Status=3,VolRemain=1,OrderRef=81
+[2020-March-13 Friday, 13:39:57] RN-00006_instance1,OnRtnOrder,OrderId=13557,Status=9,VolRemain=0,OrderRef=81
+[2020-March-13 Friday, 13:39:57] RN-00006_instance1,OnRtnTrade,OrderId=1313558,vol=1,price=3836.00000
+[2020-March-13 Friday, 13:39:57] CTP Insert!! 87,openOrClose=0,buyOrSell=0,price=3834.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:39:57] RN-00006_instance1,开仓,卖=3834.00000,时间=20200313 13:40:00,网格:25
+[2020-March-13 Friday, 13:39:57] RN-00006_instance1,ReqOrderDelete,orderId,13455,ref:85
+[2020-March-13 Friday, 13:39:57] DispatchTdMsg,orderSysId:13455,ref:85
+[2020-March-13 Friday, 13:39:57] RN-00006_instance1,OnRtnOrder,OrderId=13455,Status=3,VolRemain=1,OrderRef=85
+[2020-March-13 Friday, 13:39:57] DispatchTdMsg,orderSysId:13112,ref:87
+[2020-March-13 Friday, 13:39:57] RN-00006_instance1,OnRtnOrder,OrderId=13112,Status=3,VolRemain=1,OrderRef=87
+[2020-March-13 Friday, 13:39:57] DispatchTdMsg,orderSysId:13559,ref:85
+[2020-March-13 Friday, 13:39:57] RN-00006_instance1,OnRtnOrder,OrderId=13559,Status=7,VolRemain=1,OrderRef=85
+[2020-March-13 Friday, 13:40:07] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:40:08] AccountID:932535,Balance:18316.707
+[2020-March-13 Friday, 13:40:08] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:08] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3834.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:08] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:08] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3840.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:23] DispatchTdMsg,orderSysId:13137,ref:87
+[2020-March-13 Friday, 13:40:23] RN-00006_instance1,OnRtnOrder,OrderId=13137,Status=3,VolRemain=1,OrderRef=87
+[2020-March-13 Friday, 13:40:23] DispatchTdMsg,orderSysId:13137,ref:87
+[2020-March-13 Friday, 13:40:23] DispatchTdMsg,orderSysId:1313138,ref:87
+[2020-March-13 Friday, 13:40:23] RN-00006_instance1,OnRtnOrder,OrderId=13137,Status=9,VolRemain=0,OrderRef=87
+[2020-March-13 Friday, 13:40:23] RN-00006_instance1,OnRtnTrade,OrderId=1313138,vol=1,price=3834.00000
+[2020-March-13 Friday, 13:40:23] CTP Insert!! 89,openOrClose=1,buyOrSell=1,price=3836.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:40:23] DispatchTdMsg,orderSysId:13636,ref:89
+[2020-March-13 Friday, 13:40:23] RN-00006_instance1,OnRtnOrder,OrderId=13636,Status=3,VolRemain=1,OrderRef=89
+[2020-March-13 Friday, 13:40:23] CTP Insert!! 90,openOrClose=0,buyOrSell=0,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:40:23] RN-00006_instance1,下网格开仓,买=3832.00000,时间=13:40:26,网格:24
+[2020-March-13 Friday, 13:40:24] DispatchTdMsg,orderSysId:13139,ref:90
+[2020-March-13 Friday, 13:40:24] RN-00006_instance1,OnRtnOrder,OrderId=13139,Status=3,VolRemain=1,OrderRef=90
+[2020-March-13 Friday, 13:40:26] DispatchTdMsg,orderSysId:13140,ref:90
+[2020-March-13 Friday, 13:40:26] RN-00006_instance1,OnRtnOrder,OrderId=13140,Status=3,VolRemain=1,OrderRef=90
+[2020-March-13 Friday, 13:40:26] DispatchTdMsg,orderSysId:13140,ref:90
+[2020-March-13 Friday, 13:40:26] RN-00006_instance1,OnRtnOrder,OrderId=13140,Status=9,VolRemain=0,OrderRef=90
+[2020-March-13 Friday, 13:40:26] DispatchTdMsg,orderSysId:1313141,ref:90
+[2020-March-13 Friday, 13:40:26] RN-00006_instance1,OnRtnTrade,OrderId=1313141,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:40:26] CTP Insert!! 91,openOrClose=1,buyOrSell=1,price=3834.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:40:27] DispatchTdMsg,orderSysId:13637,ref:91
+[2020-March-13 Friday, 13:40:27] RN-00006_instance1,OnRtnOrder,OrderId=13637,Status=3,VolRemain=1,OrderRef=91
+[2020-March-13 Friday, 13:40:27] CTP Insert!! 92,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:40:27] RN-00006_instance1,下网格开仓,买=3830.00000,时间=13:40:30,网格:23
+[2020-March-13 Friday, 13:40:27] DispatchTdMsg,orderSysId:13638,ref:92
+[2020-March-13 Friday, 13:40:27] RN-00006_instance1,OnRtnOrder,OrderId=13638,Status=3,VolRemain=1,OrderRef=92
+[2020-March-13 Friday, 13:40:34] DispatchTdMsg,orderSysId:13640,ref:92
+[2020-March-13 Friday, 13:40:34] DispatchTdMsg,orderSysId:13640,ref:92
+[2020-March-13 Friday, 13:40:34] RN-00006_instance1,OnRtnOrder,OrderId=13640,Status=3,VolRemain=1,OrderRef=92
+[2020-March-13 Friday, 13:40:34] RN-00006_instance1,OnRtnOrder,OrderId=13640,Status=9,VolRemain=0,OrderRef=92
+[2020-March-13 Friday, 13:40:34] DispatchTdMsg,orderSysId:1313641,ref:92
+[2020-March-13 Friday, 13:40:34] RN-00006_instance1,OnRtnTrade,OrderId=1313641,vol=1,price=3830.00000
+[2020-March-13 Friday, 13:40:34] CTP Insert!! 93,openOrClose=1,buyOrSell=1,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:40:34] DispatchTdMsg,orderSysId:13642,ref:93
+[2020-March-13 Friday, 13:40:34] RN-00006_instance1,OnRtnOrder,OrderId=13642,Status=3,VolRemain=1,OrderRef=93
+[2020-March-13 Friday, 13:40:40] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:40:41] AccountID:932535,Balance:18127.673
+[2020-March-13 Friday, 13:40:41] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:41] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:41] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3834.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:41] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:41] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3834.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:41] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:41] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3840.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:47] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:40:48] AccountID:932535,Balance:18057.673
+[2020-March-13 Friday, 13:40:48] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:48] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:48] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3834.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:48] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:48] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3834.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:48] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:40:48] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3840.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:41:02] DispatchTdMsg,orderSysId:13757,ref:93
+[2020-March-13 Friday, 13:41:02] RN-00006_instance1,OnRtnOrder,OrderId=13757,Status=3,VolRemain=1,OrderRef=93
+[2020-March-13 Friday, 13:41:02] DispatchTdMsg,orderSysId:13757,ref:93
+[2020-March-13 Friday, 13:41:02] DispatchTdMsg,orderSysId:1313759,ref:93
+[2020-March-13 Friday, 13:41:02] RN-00006_instance1,OnRtnOrder,OrderId=13757,Status=9,VolRemain=0,OrderRef=93
+[2020-March-13 Friday, 13:41:02] RN-00006_instance1,OnRtnTrade,OrderId=1313759,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:41:02] CTP Insert!! 94,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:41:02] RN-00006_instance1,开仓,卖=3830.00000,时间=20200313 13:41:05,网格:23
+[2020-March-13 Friday, 13:41:02] DispatchTdMsg,orderSysId:13760,ref:94
+[2020-March-13 Friday, 13:41:02] RN-00006_instance1,OnRtnOrder,OrderId=13760,Status=3,VolRemain=1,OrderRef=94
+[2020-March-13 Friday, 13:41:05] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:41:06] AccountID:932535,Balance:18267.672
+[2020-March-13 Friday, 13:41:06] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:41:06] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:41:06] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3834.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:41:06] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:41:06] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3834.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:41:06] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:41:20] DispatchTdMsg,orderSysId:13807,ref:91
+[2020-March-13 Friday, 13:41:20] DispatchTdMsg,orderSysId:13807,ref:91
+[2020-March-13 Friday, 13:41:20] RN-00006_instance1,OnRtnOrder,OrderId=13807,Status=3,VolRemain=1,OrderRef=91
+[2020-March-13 Friday, 13:41:20] DispatchTdMsg,orderSysId:1313808,ref:91
+[2020-March-13 Friday, 13:41:20] RN-00006_instance1,OnRtnOrder,OrderId=13807,Status=9,VolRemain=0,OrderRef=91
+[2020-March-13 Friday, 13:41:20] RN-00006_instance1,OnRtnTrade,OrderId=1313808,vol=1,price=3834.00000
+[2020-March-13 Friday, 13:41:20] CTP Insert!! 95,openOrClose=0,buyOrSell=0,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:41:20] RN-00006_instance1,开仓,卖=3832.00000,时间=20200313 13:41:23,网格:24
+[2020-March-13 Friday, 13:41:20] RN-00006_instance1,ReqOrderDelete,orderId,13760,ref:94
+[2020-March-13 Friday, 13:41:20] DispatchTdMsg,orderSysId:13760,ref:94
+[2020-March-13 Friday, 13:41:20] RN-00006_instance1,OnRtnOrder,OrderId=13760,Status=3,VolRemain=1,OrderRef=94
+[2020-March-13 Friday, 13:41:20] DispatchTdMsg,orderSysId:13809,ref:95
+[2020-March-13 Friday, 13:41:20] DispatchTdMsg,orderSysId:13810,ref:94
+[2020-March-13 Friday, 13:41:20] RN-00006_instance1,OnRtnOrder,OrderId=13809,Status=3,VolRemain=1,OrderRef=95
+[2020-March-13 Friday, 13:41:20] RN-00006_instance1,OnRtnOrder,OrderId=13810,Status=7,VolRemain=1,OrderRef=94
+[2020-March-13 Friday, 13:41:38] DispatchTdMsg,orderSysId:13892,ref:95
+[2020-March-13 Friday, 13:41:38] RN-00006_instance1,OnRtnOrder,OrderId=13892,Status=3,VolRemain=1,OrderRef=95
+[2020-March-13 Friday, 13:41:38] DispatchTdMsg,orderSysId:13892,ref:95
+[2020-March-13 Friday, 13:41:38] RN-00006_instance1,OnRtnOrder,OrderId=13892,Status=9,VolRemain=0,OrderRef=95
+[2020-March-13 Friday, 13:41:38] DispatchTdMsg,orderSysId:1313893,ref:95
+[2020-March-13 Friday, 13:41:38] RN-00006_instance1,OnRtnTrade,OrderId=1313893,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:41:38] CTP Insert!! 97,openOrClose=1,buyOrSell=1,price=3834.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:41:38] DispatchTdMsg,orderSysId:13234,ref:97
+[2020-March-13 Friday, 13:41:38] RN-00006_instance1,OnRtnOrder,OrderId=13234,Status=3,VolRemain=1,OrderRef=97
+[2020-March-13 Friday, 13:41:38] CTP Insert!! 98,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:41:38] RN-00006_instance1,下网格开仓,买=3830.00000,时间=13:41:41,网格:23
+[2020-March-13 Friday, 13:41:38] DispatchTdMsg,orderSysId:13235,ref:98
+[2020-March-13 Friday, 13:41:38] RN-00006_instance1,OnRtnOrder,OrderId=13235,Status=3,VolRemain=1,OrderRef=98
+[2020-March-13 Friday, 13:41:47] DispatchTdMsg,orderSysId:13238,ref:98
+[2020-March-13 Friday, 13:41:47] DispatchTdMsg,orderSysId:13238,ref:98
+[2020-March-13 Friday, 13:41:47] RN-00006_instance1,OnRtnOrder,OrderId=13238,Status=3,VolRemain=1,OrderRef=98
+[2020-March-13 Friday, 13:41:47] DispatchTdMsg,orderSysId:1313239,ref:98
+[2020-March-13 Friday, 13:41:47] RN-00006_instance1,OnRtnOrder,OrderId=13238,Status=9,VolRemain=0,OrderRef=98
+[2020-March-13 Friday, 13:41:47] RN-00006_instance1,OnRtnTrade,OrderId=1313239,vol=1,price=3830.00000
+[2020-March-13 Friday, 13:41:47] CTP Insert!! 99,openOrClose=1,buyOrSell=1,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:41:47] DispatchTdMsg,orderSysId:13932,ref:99
+[2020-March-13 Friday, 13:41:47] RN-00006_instance1,OnRtnOrder,OrderId=13932,Status=3,VolRemain=1,OrderRef=99
+[2020-March-13 Friday, 13:42:01] DispatchTdMsg,orderSysId:13937,ref:99
+[2020-March-13 Friday, 13:42:01] RN-00006_instance1,OnRtnOrder,OrderId=13937,Status=3,VolRemain=1,OrderRef=99
+[2020-March-13 Friday, 13:42:01] DispatchTdMsg,orderSysId:13937,ref:99
+[2020-March-13 Friday, 13:42:01] DispatchTdMsg,orderSysId:1313938,ref:99
+[2020-March-13 Friday, 13:42:01] RN-00006_instance1,OnRtnOrder,OrderId=13937,Status=9,VolRemain=0,OrderRef=99
+[2020-March-13 Friday, 13:42:01] RN-00006_instance1,OnRtnTrade,OrderId=1313938,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:42:01] CTP Insert!! 100,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:42:01] RN-00006_instance1,开仓,卖=3830.00000,时间=20200313 13:42:04,网格:23
+[2020-March-13 Friday, 13:42:01] DispatchTdMsg,orderSysId:13939,ref:100
+[2020-March-13 Friday, 13:42:01] RN-00006_instance1,OnRtnOrder,OrderId=13939,Status=3,VolRemain=1,OrderRef=100
+[2020-March-13 Friday, 13:42:05] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:42:05] AccountID:932535,Balance:18281.646
+[2020-March-13 Friday, 13:42:05] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:42:05] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:42:05] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:42:05] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:42:05] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3834.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:42:05] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:42:21] DispatchTdMsg,orderSysId:13961,ref:100
+[2020-March-13 Friday, 13:42:21] RN-00006_instance1,OnRtnOrder,OrderId=13961,Status=3,VolRemain=1,OrderRef=100
+[2020-March-13 Friday, 13:42:21] DispatchTdMsg,orderSysId:13961,ref:100
+[2020-March-13 Friday, 13:42:21] DispatchTdMsg,orderSysId:1313962,ref:100
+[2020-March-13 Friday, 13:42:21] RN-00006_instance1,OnRtnOrder,OrderId=13961,Status=9,VolRemain=0,OrderRef=100
+[2020-March-13 Friday, 13:42:21] RN-00006_instance1,OnRtnTrade,OrderId=1313962,vol=1,price=3830.00000
+[2020-March-13 Friday, 13:42:21] CTP Insert!! 101,openOrClose=1,buyOrSell=1,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:42:21] DispatchTdMsg,orderSysId:13963,ref:101
+[2020-March-13 Friday, 13:42:21] RN-00006_instance1,OnRtnOrder,OrderId=13963,Status=3,VolRemain=1,OrderRef=101
+[2020-March-13 Friday, 13:42:36] DispatchTdMsg,orderSysId:13973,ref:101
+[2020-March-13 Friday, 13:42:36] RN-00006_instance1,OnRtnOrder,OrderId=13973,Status=3,VolRemain=1,OrderRef=101
+[2020-March-13 Friday, 13:42:36] DispatchTdMsg,orderSysId:13973,ref:101
+[2020-March-13 Friday, 13:42:36] DispatchTdMsg,orderSysId:1313974,ref:101
+[2020-March-13 Friday, 13:42:36] RN-00006_instance1,OnRtnOrder,OrderId=13973,Status=9,VolRemain=0,OrderRef=101
+[2020-March-13 Friday, 13:42:36] RN-00006_instance1,OnRtnTrade,OrderId=1313974,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:42:36] CTP Insert!! 102,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:42:36] RN-00006_instance1,开仓,卖=3830.00000,时间=20200313 13:42:39,网格:23
+[2020-March-13 Friday, 13:42:36] DispatchTdMsg,orderSysId:13283,ref:102
+[2020-March-13 Friday, 13:42:36] RN-00006_instance1,OnRtnOrder,OrderId=13283,Status=3,VolRemain=1,OrderRef=102
+[2020-March-13 Friday, 13:42:43] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:42:44] AccountID:932535,Balance:18228.633
+[2020-March-13 Friday, 13:42:44] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:42:44] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:42:44] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:42:44] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:42:44] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:42:44] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3834.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:42:45] DispatchTdMsg,orderSysId:13285,ref:102
+[2020-March-13 Friday, 13:42:45] DispatchTdMsg,orderSysId:13285,ref:102
+[2020-March-13 Friday, 13:42:45] DispatchTdMsg,orderSysId:1313286,ref:102
+[2020-March-13 Friday, 13:42:45] RN-00006_instance1,OnRtnOrder,OrderId=13285,Status=3,VolRemain=1,OrderRef=102
+[2020-March-13 Friday, 13:42:45] RN-00006_instance1,OnRtnOrder,OrderId=13285,Status=9,VolRemain=0,OrderRef=102
+[2020-March-13 Friday, 13:42:45] RN-00006_instance1,OnRtnTrade,OrderId=1313286,vol=1,price=3830.00000
+[2020-March-13 Friday, 13:42:45] CTP Insert!! 103,openOrClose=1,buyOrSell=1,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:42:45] DispatchTdMsg,orderSysId:13978,ref:103
+[2020-March-13 Friday, 13:42:45] RN-00006_instance1,OnRtnOrder,OrderId=13978,Status=3,VolRemain=1,OrderRef=103
+[2020-March-13 Friday, 13:43:42] DispatchTdMsg,orderSysId:14031,ref:103
+[2020-March-13 Friday, 13:43:42] DispatchTdMsg,orderSysId:14031,ref:103
+[2020-March-13 Friday, 13:43:42] RN-00006_instance1,OnRtnOrder,OrderId=14031,Status=3,VolRemain=1,OrderRef=103
+[2020-March-13 Friday, 13:43:42] RN-00006_instance1,OnRtnOrder,OrderId=14031,Status=9,VolRemain=0,OrderRef=103
+[2020-March-13 Friday, 13:43:42] DispatchTdMsg,orderSysId:1314032,ref:103
+[2020-March-13 Friday, 13:43:42] RN-00006_instance1,OnRtnTrade,OrderId=1314032,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:43:42] CTP Insert!! 104,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:43:42] RN-00006_instance1,开仓,卖=3830.00000,时间=20200313 13:43:45,网格:23
+[2020-March-13 Friday, 13:43:42] DispatchTdMsg,orderSysId:13352,ref:104
+[2020-March-13 Friday, 13:43:42] RN-00006_instance1,OnRtnOrder,OrderId=13352,Status=3,VolRemain=1,OrderRef=104
+[2020-March-13 Friday, 13:43:49] DispatchTdMsg,orderSysId:13360,ref:104
+[2020-March-13 Friday, 13:43:49] RN-00006_instance1,OnRtnOrder,OrderId=13360,Status=3,VolRemain=1,OrderRef=104
+[2020-March-13 Friday, 13:43:49] DispatchTdMsg,orderSysId:13360,ref:104
+[2020-March-13 Friday, 13:43:49] DispatchTdMsg,orderSysId:1313361,ref:104
+[2020-March-13 Friday, 13:43:49] RN-00006_instance1,OnRtnOrder,OrderId=13360,Status=9,VolRemain=0,OrderRef=104
+[2020-March-13 Friday, 13:43:49] RN-00006_instance1,OnRtnTrade,OrderId=1313361,vol=1,price=3830.00000
+[2020-March-13 Friday, 13:43:49] CTP Insert!! 105,openOrClose=1,buyOrSell=1,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:43:49] DispatchTdMsg,orderSysId:13362,ref:105
+[2020-March-13 Friday, 13:43:49] RN-00006_instance1,OnRtnOrder,OrderId=13362,Status=3,VolRemain=1,OrderRef=105
+[2020-March-13 Friday, 13:47:50] DispatchTdMsg,orderSysId:13619,ref:105
+[2020-March-13 Friday, 13:47:50] RN-00006_instance1,OnRtnOrder,OrderId=13619,Status=3,VolRemain=1,OrderRef=105
+[2020-March-13 Friday, 13:47:50] DispatchTdMsg,orderSysId:13619,ref:105
+[2020-March-13 Friday, 13:47:50] DispatchTdMsg,orderSysId:1313620,ref:105
+[2020-March-13 Friday, 13:47:50] RN-00006_instance1,OnRtnOrder,OrderId=13619,Status=9,VolRemain=0,OrderRef=105
+[2020-March-13 Friday, 13:47:50] RN-00006_instance1,OnRtnTrade,OrderId=1313620,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:47:50] CTP Insert!! 106,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:47:50] RN-00006_instance1,开仓,卖=3830.00000,时间=20200313 13:47:53,网格:23
+[2020-March-13 Friday, 13:47:50] DispatchTdMsg,orderSysId:13621,ref:106
+[2020-March-13 Friday, 13:47:50] RN-00006_instance1,OnRtnOrder,OrderId=13621,Status=3,VolRemain=1,OrderRef=106
+[2020-March-13 Friday, 13:48:02] DispatchTdMsg,orderSysId:13649,ref:106
+[2020-March-13 Friday, 13:48:02] RN-00006_instance1,OnRtnOrder,OrderId=13649,Status=3,VolRemain=1,OrderRef=106
+[2020-March-13 Friday, 13:48:03] DispatchTdMsg,orderSysId:13649,ref:106
+[2020-March-13 Friday, 13:48:03] DispatchTdMsg,orderSysId:1313650,ref:106
+[2020-March-13 Friday, 13:48:03] RN-00006_instance1,OnRtnOrder,OrderId=13649,Status=9,VolRemain=0,OrderRef=106
+[2020-March-13 Friday, 13:48:03] RN-00006_instance1,OnRtnTrade,OrderId=1313650,vol=1,price=3830.00000
+[2020-March-13 Friday, 13:48:03] CTP Insert!! 107,openOrClose=1,buyOrSell=1,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:48:03] DispatchTdMsg,orderSysId:13651,ref:107
+[2020-March-13 Friday, 13:48:03] RN-00006_instance1,OnRtnOrder,OrderId=13651,Status=3,VolRemain=1,OrderRef=107
+[2020-March-13 Friday, 13:48:23] DispatchTdMsg,orderSysId:13680,ref:107
+[2020-March-13 Friday, 13:48:23] RN-00006_instance1,OnRtnOrder,OrderId=13680,Status=3,VolRemain=1,OrderRef=107
+[2020-March-13 Friday, 13:48:23] DispatchTdMsg,orderSysId:13680,ref:107
+[2020-March-13 Friday, 13:48:23] DispatchTdMsg,orderSysId:1313681,ref:107
+[2020-March-13 Friday, 13:48:23] RN-00006_instance1,OnRtnOrder,OrderId=13680,Status=9,VolRemain=0,OrderRef=107
+[2020-March-13 Friday, 13:48:23] RN-00006_instance1,OnRtnTrade,OrderId=1313681,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:48:23] CTP Insert!! 108,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:48:23] RN-00006_instance1,开仓,卖=3830.00000,时间=20200313 13:48:26,网格:23
+[2020-March-13 Friday, 13:48:23] DispatchTdMsg,orderSysId:14431,ref:108
+[2020-March-13 Friday, 13:48:23] RN-00006_instance1,OnRtnOrder,OrderId=14431,Status=3,VolRemain=1,OrderRef=108
+[2020-March-13 Friday, 13:48:36] DispatchTdMsg,orderSysId:13687,ref:97
+[2020-March-13 Friday, 13:48:36] DispatchTdMsg,orderSysId:13687,ref:97
+[2020-March-13 Friday, 13:48:36] DispatchTdMsg,orderSysId:1313689,ref:97
+[2020-March-13 Friday, 13:48:36] RN-00006_instance1,OnRtnOrder,OrderId=13687,Status=3,VolRemain=1,OrderRef=97
+[2020-March-13 Friday, 13:48:36] RN-00006_instance1,OnRtnOrder,OrderId=13687,Status=9,VolRemain=0,OrderRef=97
+[2020-March-13 Friday, 13:48:36] RN-00006_instance1,OnRtnTrade,OrderId=1313689,vol=1,price=3834.00000
+[2020-March-13 Friday, 13:48:36] CTP Insert!! 109,openOrClose=0,buyOrSell=0,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:48:36] RN-00006_instance1,开仓,卖=3832.00000,时间=20200313 13:48:39,网格:24
+[2020-March-13 Friday, 13:48:36] RN-00006_instance1,ReqOrderDelete,orderId,14431,ref:108
+[2020-March-13 Friday, 13:48:36] DispatchTdMsg,orderSysId:14431,ref:108
+[2020-March-13 Friday, 13:48:36] RN-00006_instance1,OnRtnOrder,OrderId=14431,Status=3,VolRemain=1,OrderRef=108
+[2020-March-13 Friday, 13:48:36] DispatchTdMsg,orderSysId:14434,ref:109
+[2020-March-13 Friday, 13:48:36] RN-00006_instance1,OnRtnOrder,OrderId=14434,Status=3,VolRemain=1,OrderRef=109
+[2020-March-13 Friday, 13:48:36] DispatchTdMsg,orderSysId:14435,ref:108
+[2020-March-13 Friday, 13:48:36] RN-00006_instance1,OnRtnOrder,OrderId=14435,Status=7,VolRemain=1,OrderRef=108
+[2020-March-13 Friday, 13:48:54] DispatchTdMsg,orderSysId:14449,ref:109
+[2020-March-13 Friday, 13:48:54] RN-00006_instance1,OnRtnOrder,OrderId=14449,Status=3,VolRemain=1,OrderRef=109
+[2020-March-13 Friday, 13:48:54] DispatchTdMsg,orderSysId:14449,ref:109
+[2020-March-13 Friday, 13:48:54] RN-00006_instance1,OnRtnOrder,OrderId=14449,Status=9,VolRemain=0,OrderRef=109
+[2020-March-13 Friday, 13:48:54] DispatchTdMsg,orderSysId:1314450,ref:109
+[2020-March-13 Friday, 13:48:54] RN-00006_instance1,OnRtnTrade,OrderId=1314450,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:48:54] CTP Insert!! 111,openOrClose=1,buyOrSell=1,price=3834.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:48:54] DispatchTdMsg,orderSysId:13697,ref:111
+[2020-March-13 Friday, 13:48:54] RN-00006_instance1,OnRtnOrder,OrderId=13697,Status=3,VolRemain=1,OrderRef=111
+[2020-March-13 Friday, 13:48:54] CTP Insert!! 112,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:48:54] RN-00006_instance1,下网格开仓,买=3830.00000,时间=13:48:57,网格:23
+[2020-March-13 Friday, 13:48:55] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:48:55] DispatchTdMsg,orderSysId:13698,ref:112
+[2020-March-13 Friday, 13:48:55] DispatchTdMsg,orderSysId:13699,ref:112
+[2020-March-13 Friday, 13:48:55] DispatchTdMsg,orderSysId:13699,ref:112
+[2020-March-13 Friday, 13:48:55] DispatchTdMsg,orderSysId:1313700,ref:112
+[2020-March-13 Friday, 13:48:55] RN-00006_instance1,OnRtnOrder,OrderId=13698,Status=3,VolRemain=1,OrderRef=112
+[2020-March-13 Friday, 13:48:55] RN-00006_instance1,OnRtnOrder,OrderId=13699,Status=3,VolRemain=1,OrderRef=112
+[2020-March-13 Friday, 13:48:55] RN-00006_instance1,OnRtnOrder,OrderId=13699,Status=9,VolRemain=0,OrderRef=112
+[2020-March-13 Friday, 13:48:55] RN-00006_instance1,OnRtnTrade,OrderId=1313700,vol=1,price=3830.00000
+[2020-March-13 Friday, 13:48:55] CTP Insert!! 113,openOrClose=1,buyOrSell=1,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:48:55] AccountID:932535,Balance:18323.571
+[2020-March-13 Friday, 13:48:55] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:48:55] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:48:55] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:48:55] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:48:55] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:48:55] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:48:55] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:48:55] DispatchTdMsg,orderSysId:14452,ref:113
+[2020-March-13 Friday, 13:48:55] RN-00006_instance1,OnRtnOrder,OrderId=14452,Status=3,VolRemain=1,OrderRef=113
+[2020-March-13 Friday, 13:49:05] DispatchTdMsg,orderSysId:14453,ref:113
+[2020-March-13 Friday, 13:49:05] DispatchTdMsg,orderSysId:14453,ref:113
+[2020-March-13 Friday, 13:49:05] DispatchTdMsg,orderSysId:1314454,ref:113
+[2020-March-13 Friday, 13:49:05] RN-00006_instance1,OnRtnOrder,OrderId=14453,Status=3,VolRemain=1,OrderRef=113
+[2020-March-13 Friday, 13:49:05] RN-00006_instance1,OnRtnOrder,OrderId=14453,Status=9,VolRemain=0,OrderRef=113
+[2020-March-13 Friday, 13:49:05] RN-00006_instance1,OnRtnTrade,OrderId=1314454,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:49:05] CTP Insert!! 114,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:49:05] RN-00006_instance1,开仓,卖=3830.00000,时间=20200313 13:49:08,网格:23
+[2020-March-13 Friday, 13:49:05] DispatchTdMsg,orderSysId:13706,ref:114
+[2020-March-13 Friday, 13:49:05] RN-00006_instance1,OnRtnOrder,OrderId=13706,Status=3,VolRemain=1,OrderRef=114
+[2020-March-13 Friday, 13:49:15] DispatchTdMsg,orderSysId:13708,ref:114
+[2020-March-13 Friday, 13:49:15] RN-00006_instance1,OnRtnOrder,OrderId=13708,Status=3,VolRemain=1,OrderRef=114
+[2020-March-13 Friday, 13:49:15] DispatchTdMsg,orderSysId:13708,ref:114
+[2020-March-13 Friday, 13:49:15] DispatchTdMsg,orderSysId:1313710,ref:114
+[2020-March-13 Friday, 13:49:15] RN-00006_instance1,OnRtnOrder,OrderId=13708,Status=9,VolRemain=0,OrderRef=114
+[2020-March-13 Friday, 13:49:15] RN-00006_instance1,OnRtnTrade,OrderId=1313710,vol=1,price=3830.00000
+[2020-March-13 Friday, 13:49:15] CTP Insert!! 115,openOrClose=1,buyOrSell=1,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:49:15] DispatchTdMsg,orderSysId:14458,ref:115
+[2020-March-13 Friday, 13:49:15] RN-00006_instance1,OnRtnOrder,OrderId=14458,Status=3,VolRemain=1,OrderRef=115
+[2020-March-13 Friday, 13:49:37] DispatchTdMsg,orderSysId:14472,ref:115
+[2020-March-13 Friday, 13:49:37] RN-00006_instance1,OnRtnOrder,OrderId=14472,Status=3,VolRemain=1,OrderRef=115
+[2020-March-13 Friday, 13:49:37] DispatchTdMsg,orderSysId:14472,ref:115
+[2020-March-13 Friday, 13:49:37] DispatchTdMsg,orderSysId:1314473,ref:115
+[2020-March-13 Friday, 13:49:37] RN-00006_instance1,OnRtnOrder,OrderId=14472,Status=9,VolRemain=0,OrderRef=115
+[2020-March-13 Friday, 13:49:37] RN-00006_instance1,OnRtnTrade,OrderId=1314473,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:49:37] CTP Insert!! 116,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:49:37] RN-00006_instance1,开仓,卖=3830.00000,时间=20200313 13:49:40,网格:23
+[2020-March-13 Friday, 13:49:37] DispatchTdMsg,orderSysId:13719,ref:116
+[2020-March-13 Friday, 13:49:37] RN-00006_instance1,OnRtnOrder,OrderId=13719,Status=3,VolRemain=1,OrderRef=116
+[2020-March-13 Friday, 13:49:43] DispatchTdMsg,orderSysId:13722,ref:116
+[2020-March-13 Friday, 13:49:43] DispatchTdMsg,orderSysId:13722,ref:116
+[2020-March-13 Friday, 13:49:43] DispatchTdMsg,orderSysId:1313723,ref:116
+[2020-March-13 Friday, 13:49:43] RN-00006_instance1,OnRtnOrder,OrderId=13722,Status=3,VolRemain=1,OrderRef=116
+[2020-March-13 Friday, 13:49:43] RN-00006_instance1,OnRtnOrder,OrderId=13722,Status=9,VolRemain=0,OrderRef=116
+[2020-March-13 Friday, 13:49:43] RN-00006_instance1,OnRtnTrade,OrderId=1313723,vol=1,price=3830.00000
+[2020-March-13 Friday, 13:49:43] CTP Insert!! 117,openOrClose=1,buyOrSell=1,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:49:43] DispatchTdMsg,orderSysId:13724,ref:117
+[2020-March-13 Friday, 13:49:43] RN-00006_instance1,OnRtnOrder,OrderId=13724,Status=3,VolRemain=1,OrderRef=117
+[2020-March-13 Friday, 13:51:13] DispatchTdMsg,orderSysId:13798,ref:117
+[2020-March-13 Friday, 13:51:13] RN-00006_instance1,OnRtnOrder,OrderId=13798,Status=3,VolRemain=1,OrderRef=117
+[2020-March-13 Friday, 13:51:14] DispatchTdMsg,orderSysId:13798,ref:117
+[2020-March-13 Friday, 13:51:14] DispatchTdMsg,orderSysId:1313799,ref:117
+[2020-March-13 Friday, 13:51:14] RN-00006_instance1,OnRtnOrder,OrderId=13798,Status=9,VolRemain=0,OrderRef=117
+[2020-March-13 Friday, 13:51:14] RN-00006_instance1,OnRtnTrade,OrderId=1313799,vol=1,price=3832.00000
+[2020-March-13 Friday, 13:51:14] CTP Insert!! 118,openOrClose=0,buyOrSell=0,price=3830.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:51:14] RN-00006_instance1,开仓,卖=3830.00000,时间=20200313 13:51:16,网格:23
+[2020-March-13 Friday, 13:51:14] DispatchTdMsg,orderSysId:13800,ref:118
+[2020-March-13 Friday, 13:51:14] RN-00006_instance1,OnRtnOrder,OrderId=13800,Status=3,VolRemain=1,OrderRef=118
+[2020-March-13 Friday, 13:51:16] DispatchTdMsg,orderSysId:13804,ref:111
+[2020-March-13 Friday, 13:51:16] RN-00006_instance1,OnRtnOrder,OrderId=13804,Status=3,VolRemain=1,OrderRef=111
+[2020-March-13 Friday, 13:51:16] DispatchTdMsg,orderSysId:13804,ref:111
+[2020-March-13 Friday, 13:51:16] DispatchTdMsg,orderSysId:1313805,ref:111
+[2020-March-13 Friday, 13:51:16] RN-00006_instance1,OnRtnOrder,OrderId=13804,Status=9,VolRemain=0,OrderRef=111
+[2020-March-13 Friday, 13:51:16] RN-00006_instance1,OnRtnTrade,OrderId=1313805,vol=1,price=3834.00000
+[2020-March-13 Friday, 13:51:16] CTP Insert!! 119,openOrClose=0,buyOrSell=0,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:51:16] RN-00006_instance1,开仓,卖=3832.00000,时间=20200313 13:51:19,网格:24
+[2020-March-13 Friday, 13:51:16] RN-00006_instance1,ReqOrderDelete,orderId,13800,ref:118
+[2020-March-13 Friday, 13:51:16] DispatchTdMsg,orderSysId:13800,ref:118
+[2020-March-13 Friday, 13:51:16] RN-00006_instance1,OnRtnOrder,OrderId=13800,Status=3,VolRemain=1,OrderRef=118
+[2020-March-13 Friday, 13:51:16] DispatchTdMsg,orderSysId:14569,ref:119
+[2020-March-13 Friday, 13:51:16] RN-00006_instance1,OnRtnOrder,OrderId=14569,Status=3,VolRemain=1,OrderRef=119
+[2020-March-13 Friday, 13:51:16] DispatchTdMsg,orderSysId:13806,ref:118
+[2020-March-13 Friday, 13:51:16] RN-00006_instance1,OnRtnOrder,OrderId=13806,Status=7,VolRemain=1,OrderRef=118
+[2020-March-13 Friday, 13:51:24] DispatchTdMsg,orderSysId:14574,ref:89
+[2020-March-13 Friday, 13:51:24] DispatchTdMsg,orderSysId:14574,ref:89
+[2020-March-13 Friday, 13:51:24] RN-00006_instance1,OnRtnOrder,OrderId=14574,Status=3,VolRemain=1,OrderRef=89
+[2020-March-13 Friday, 13:51:24] DispatchTdMsg,orderSysId:1314575,ref:89
+[2020-March-13 Friday, 13:51:24] RN-00006_instance1,OnRtnOrder,OrderId=14574,Status=9,VolRemain=0,OrderRef=89
+[2020-March-13 Friday, 13:51:24] RN-00006_instance1,OnRtnTrade,OrderId=1314575,vol=1,price=3836.00000
+[2020-March-13 Friday, 13:51:24] CTP Insert!! 121,openOrClose=0,buyOrSell=0,price=3834.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:51:24] RN-00006_instance1,开仓,卖=3834.00000,时间=20200313 13:51:27,网格:25
+[2020-March-13 Friday, 13:51:24] RN-00006_instance1,ReqOrderDelete,orderId,14569,ref:119
+[2020-March-13 Friday, 13:51:24] DispatchTdMsg,orderSysId:14569,ref:119
+[2020-March-13 Friday, 13:51:24] RN-00006_instance1,OnRtnOrder,OrderId=14569,Status=3,VolRemain=1,OrderRef=119
+[2020-March-13 Friday, 13:51:24] DispatchTdMsg,orderSysId:14576,ref:121
+[2020-March-13 Friday, 13:51:24] RN-00006_instance1,OnRtnOrder,OrderId=14576,Status=3,VolRemain=1,OrderRef=121
+[2020-March-13 Friday, 13:51:24] DispatchTdMsg,orderSysId:14577,ref:119
+[2020-March-13 Friday, 13:51:24] RN-00006_instance1,OnRtnOrder,OrderId=14577,Status=7,VolRemain=1,OrderRef=119
+[2020-March-13 Friday, 13:51:31] DispatchTdMsg,orderSysId:14586,ref:121
+[2020-March-13 Friday, 13:51:31] RN-00006_instance1,OnRtnOrder,OrderId=14586,Status=3,VolRemain=1,OrderRef=121
+[2020-March-13 Friday, 13:51:31] DispatchTdMsg,orderSysId:14586,ref:121
+[2020-March-13 Friday, 13:51:31] DispatchTdMsg,orderSysId:1314587,ref:121
+[2020-March-13 Friday, 13:51:31] RN-00006_instance1,OnRtnOrder,OrderId=14586,Status=9,VolRemain=0,OrderRef=121
+[2020-March-13 Friday, 13:51:31] RN-00006_instance1,OnRtnTrade,OrderId=1314587,vol=1,price=3834.00000
+[2020-March-13 Friday, 13:51:31] CTP Insert!! 123,openOrClose=1,buyOrSell=1,price=3836.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:51:31] DispatchTdMsg,orderSysId:13833,ref:123
+[2020-March-13 Friday, 13:51:31] RN-00006_instance1,OnRtnOrder,OrderId=13833,Status=3,VolRemain=1,OrderRef=123
+[2020-March-13 Friday, 13:51:32] CTP Insert!! 124,openOrClose=0,buyOrSell=0,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:51:32] RN-00006_instance1,下网格开仓,买=3832.00000,时间=13:51:35,网格:24
+[2020-March-13 Friday, 13:51:32] DispatchTdMsg,orderSysId:14589,ref:124
+[2020-March-13 Friday, 13:51:32] RN-00006_instance1,OnRtnOrder,OrderId=14589,Status=3,VolRemain=1,OrderRef=124
+[2020-March-13 Friday, 13:51:39] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:51:40] AccountID:932535,Balance:18404.531
+[2020-March-13 Friday, 13:51:40] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3834.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:51:40] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:51:40] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:51:40] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:51:40] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3832.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:51:42] DispatchTdMsg,orderSysId:13848,ref:123
+[2020-March-13 Friday, 13:51:42] RN-00006_instance1,OnRtnOrder,OrderId=13848,Status=3,VolRemain=1,OrderRef=123
+[2020-March-13 Friday, 13:51:42] DispatchTdMsg,orderSysId:13848,ref:123
+[2020-March-13 Friday, 13:51:42] RN-00006_instance1,OnRtnOrder,OrderId=13848,Status=9,VolRemain=0,OrderRef=123
+[2020-March-13 Friday, 13:51:42] DispatchTdMsg,orderSysId:1313849,ref:123
+[2020-March-13 Friday, 13:51:42] RN-00006_instance1,OnRtnTrade,OrderId=1313849,vol=1,price=3836.00000
+[2020-March-13 Friday, 13:51:42] CTP Insert!! 125,openOrClose=0,buyOrSell=0,price=3834.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:51:42] RN-00006_instance1,开仓,卖=3834.00000,时间=20200313 13:51:45,网格:25
+[2020-March-13 Friday, 13:51:42] RN-00006_instance1,ReqOrderDelete,orderId,14589,ref:124
+[2020-March-13 Friday, 13:51:42] DispatchTdMsg,orderSysId:14589,ref:124
+[2020-March-13 Friday, 13:51:42] RN-00006_instance1,OnRtnOrder,OrderId=14589,Status=3,VolRemain=1,OrderRef=124
+[2020-March-13 Friday, 13:51:42] DispatchTdMsg,orderSysId:13850,ref:125
+[2020-March-13 Friday, 13:51:42] RN-00006_instance1,OnRtnOrder,OrderId=13850,Status=3,VolRemain=1,OrderRef=125
+[2020-March-13 Friday, 13:51:42] DispatchTdMsg,orderSysId:14622,ref:124
+[2020-March-13 Friday, 13:51:42] RN-00006_instance1,OnRtnOrder,OrderId=14622,Status=7,VolRemain=1,OrderRef=124
+[2020-March-13 Friday, 13:52:40] DispatchTdMsg,orderSysId:13894,ref:125
+[2020-March-13 Friday, 13:52:40] RN-00006_instance1,OnRtnOrder,OrderId=13894,Status=3,VolRemain=1,OrderRef=125
+[2020-March-13 Friday, 13:52:40] DispatchTdMsg,orderSysId:13894,ref:125
+[2020-March-13 Friday, 13:52:40] RN-00006_instance1,OnRtnOrder,OrderId=13894,Status=9,VolRemain=0,OrderRef=125
+[2020-March-13 Friday, 13:52:40] DispatchTdMsg,orderSysId:1313895,ref:125
+[2020-March-13 Friday, 13:52:40] RN-00006_instance1,OnRtnTrade,OrderId=1313895,vol=1,price=3834.00000
+[2020-March-13 Friday, 13:52:40] CTP Insert!! 127,openOrClose=1,buyOrSell=1,price=3836.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:52:41] DispatchTdMsg,orderSysId:14669,ref:127
+[2020-March-13 Friday, 13:52:41] RN-00006_instance1,OnRtnOrder,OrderId=14669,Status=3,VolRemain=1,OrderRef=127
+[2020-March-13 Friday, 13:52:41] CTP Insert!! 128,openOrClose=0,buyOrSell=0,price=3832.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:52:41] RN-00006_instance1,下网格开仓,买=3832.00000,时间=13:52:43,网格:24
+[2020-March-13 Friday, 13:52:41] DispatchTdMsg,orderSysId:13896,ref:128
+[2020-March-13 Friday, 13:52:41] RN-00006_instance1,OnRtnOrder,OrderId=13896,Status=3,VolRemain=1,OrderRef=128
+[2020-March-13 Friday, 13:52:56] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:52:56] AccountID:932535,Balance:18411.518
+[2020-March-13 Friday, 13:52:56] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3834.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:52:56] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3834.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:52:56] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:52:56] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:52:56] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3830.00,TradeVol:1,SettlePrice:3854.00,10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:52:58] DispatchTdMsg,orderSysId:14680,ref:127
+[2020-March-13 Friday, 13:52:58] RN-00006_instance1,OnRtnOrder,OrderId=14680,Status=3,VolRemain=1,OrderRef=127
+[2020-March-13 Friday, 13:52:58] DispatchTdMsg,orderSysId:14680,ref:127
+[2020-March-13 Friday, 13:52:58] DispatchTdMsg,orderSysId:1314681,ref:127
+[2020-March-13 Friday, 13:52:58] RN-00006_instance1,OnRtnOrder,OrderId=14680,Status=9,VolRemain=0,OrderRef=127
+[2020-March-13 Friday, 13:52:58] RN-00006_instance1,OnRtnTrade,OrderId=1314681,vol=1,price=3836.00000
+[2020-March-13 Friday, 13:52:58] CTP Insert!! 129,openOrClose=0,buyOrSell=0,price=3834.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:52:58] RN-00006_instance1,开仓,卖=3834.00000,时间=20200313 13:53:01,网格:25
+[2020-March-13 Friday, 13:52:58] RN-00006_instance1,ReqOrderDelete,orderId,13896,ref:128
+[2020-March-13 Friday, 13:52:58] DispatchTdMsg,orderSysId:13896,ref:128
+[2020-March-13 Friday, 13:52:58] RN-00006_instance1,OnRtnOrder,OrderId=13896,Status=3,VolRemain=1,OrderRef=128
+[2020-March-13 Friday, 13:52:58] DispatchTdMsg,orderSysId:14682,ref:129
+[2020-March-13 Friday, 13:52:58] RN-00006_instance1,OnRtnOrder,OrderId=14682,Status=3,VolRemain=1,OrderRef=129
+[2020-March-13 Friday, 13:52:58] DispatchTdMsg,orderSysId:13902,ref:128
+[2020-March-13 Friday, 13:52:58] RN-00006_instance1,OnRtnOrder,OrderId=13902,Status=7,VolRemain=1,OrderRef=128
+[2020-March-13 Friday, 13:54:16] RN-00006_instance1,Stop
+[2020-March-13 Friday, 13:54:32] DispatchTdMsg,orderSysId:12862,ref:56
+[2020-March-13 Friday, 13:54:32] DispatchTdMsg,orderSysId:13072,ref:66
+[2020-March-13 Friday, 13:54:32] DispatchTdMsg,orderSysId:13977,ref:56
+[2020-March-13 Friday, 13:54:32] DispatchTdMsg,orderSysId:12896,ref:68
+[2020-March-13 Friday, 13:54:32] DispatchTdMsg,orderSysId:14747,ref:66
+[2020-March-13 Friday, 13:54:32] DispatchTdMsg,orderSysId:13098,ref:70
+[2020-March-13 Friday, 13:54:32] DispatchTdMsg,orderSysId:13978,ref:68
+[2020-March-13 Friday, 13:54:32] DispatchTdMsg,orderSysId:14682,ref:129
+[2020-March-13 Friday, 13:54:32] DispatchTdMsg,orderSysId:14748,ref:70
+[2020-March-13 Friday, 13:54:32] DispatchTdMsg,orderSysId:14749,ref:129
+[2020-March-13 Friday, 13:54:37] DispatchTdMsg,orderSysId:14750,ref:131
+[2020-March-13 Friday, 13:54:37] DispatchTdMsg,orderSysId:14751,ref:131
+[2020-March-13 Friday, 13:54:37] DispatchTdMsg,orderSysId:14751,ref:131
+[2020-March-13 Friday, 13:54:37] DispatchTdMsg,orderSysId:1314752,ref:131
+[2020-March-13 Friday, 13:54:37] DispatchTdMsg,orderSysId:14751,ref:131
+[2020-March-13 Friday, 13:54:37] DispatchTdMsg,orderSysId:1314753,ref:131
+[2020-March-13 Friday, 13:54:37] DispatchTdMsg,orderSysId:14751,ref:131
+[2020-March-13 Friday, 13:54:37] DispatchTdMsg,orderSysId:1314754,ref:131
+[2020-March-13 Friday, 13:54:37] DispatchTdMsg,orderSysId:14751,ref:131
+[2020-March-13 Friday, 13:54:37] DispatchTdMsg,orderSysId:1314755,ref:131
+[2020-March-13 Friday, 13:54:39] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:54:39] AccountID:932535,Balance:18541.511
+[2020-March-13 Friday, 13:56:25] Strategy Init..
+[2020-March-13 Friday, 13:57:42] CTP Insert!! 131,openOrClose=0,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:57:42] TA-GD-00006_instance1,下网格开仓,买=4048.00000,时间=13:57:45,网格:29
+[2020-March-13 Friday, 13:57:43] DispatchTdMsg,orderSysId:14844,ref:131
+[2020-March-13 Friday, 13:57:43] DispatchTdMsg,orderSysId:14845,ref:131
+[2020-March-13 Friday, 13:57:43] DispatchTdMsg,orderSysId:14845,ref:131
+[2020-March-13 Friday, 13:57:43] DispatchTdMsg,orderSysId:1314846,ref:131
+[2020-March-13 Friday, 13:57:43] TA-GD-00006_instance1,OnRtnOrder,OrderId=14844,Status=3,VolRemain=1,OrderRef=131
+[2020-March-13 Friday, 13:57:43] TA-GD-00006_instance1,OnRtnOrder,OrderId=14845,Status=3,VolRemain=1,OrderRef=131
+[2020-March-13 Friday, 13:57:43] TA-GD-00006_instance1,OnRtnOrder,OrderId=14845,Status=9,VolRemain=0,OrderRef=131
+[2020-March-13 Friday, 13:57:43] TA-GD-00006_instance1,OnRtnTrade,OrderId=1314846,vol=1,price=3838.00000
+[2020-March-13 Friday, 13:57:43] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303169584,1,1314846,-1;length:428
+[2020-March-13 Friday, 13:57:43] CTP Insert!! 132,openOrClose=0,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 13:57:43] TA-GD-00006_instance1,下网格开仓,买=4048.00000,时间=13:57:46,网格:28
+[2020-March-13 Friday, 13:57:43] DispatchTdMsg,orderSysId:14067,ref:132
+[2020-March-13 Friday, 13:57:43] TA-GD-00006_instance1,OnRtnOrder,OrderId=14067,Status=3,VolRemain=1,OrderRef=132
+[2020-March-13 Friday, 13:57:43] DispatchTdMsg,orderSysId:14068,ref:132
+[2020-March-13 Friday, 13:57:43] DispatchTdMsg,orderSysId:14068,ref:132
+[2020-March-13 Friday, 13:57:43] DispatchTdMsg,orderSysId:1314069,ref:132
+[2020-March-13 Friday, 13:57:43] TA-GD-00006_instance1,OnRtnOrder,OrderId=14068,Status=3,VolRemain=1,OrderRef=132
+[2020-March-13 Friday, 13:57:43] TA-GD-00006_instance1,OnRtnOrder,OrderId=14068,Status=9,VolRemain=0,OrderRef=132
+[2020-March-13 Friday, 13:57:43] TA-GD-00006_instance1,OnRtnTrade,OrderId=1314069,vol=1,price=3838.00000
+[2020-March-13 Friday, 13:57:43] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303169649,1,1314069,-1;length:428
+[2020-March-13 Friday, 13:58:21] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 13:58:22] AccountID:932535,Balance:18515.489
+[2020-March-13 Friday, 13:58:22] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 13:58:22] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 14:00:28] Strategy Init..
+[2020-March-13 Friday, 14:02:41] RN-00006_instance1,Stop
+[2020-March-13 Friday, 14:02:54] Strategy Init..
+[2020-March-13 Friday, 14:03:32] gStrategyImplIndex=2,gMapView->strategynum=2
+[2020-March-13 Friday, 14:03:32] AccountID:932535,Balance:18435.489
+[2020-March-13 Friday, 14:03:32] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 14:03:32] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 14:06:59] MaxTotalOnHandPosition:60,TotalOnHandPosition:7,MaxTotalCancelTimes:400,TotalCancelTimes:31
+[2020-March-13 Friday, 14:06:59] CTP Insert!! 133,openOrClose=0,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 14:06:59] CTP Insert!! 134,openOrClose=0,buyOrSell=0,price=3824.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 14:06:59] TA-GD-00006_instance1,下网格开仓,买=4048.00000,时间=14:07:02,网格:27
+[2020-March-13 Friday, 14:06:59] RN-00006_instance1,下网格开仓,买=3824.00000,时间=14:07:02,网格:29
+[2020-March-13 Friday, 14:06:59] DispatchTdMsg,orderSysId:14355,ref:133
+[2020-March-13 Friday, 14:06:59] DispatchTdMsg,orderSysId:14356,ref:133
+[2020-March-13 Friday, 14:06:59] TA-GD-00006_instance1,OnRtnOrder,OrderId=14355,Status=3,VolRemain=1,OrderRef=133
+[2020-March-13 Friday, 14:06:59] TA-GD-00006_instance1,OnRtnOrder,OrderId=14356,Status=3,VolRemain=1,OrderRef=133
+[2020-March-13 Friday, 14:06:59] DispatchTdMsg,orderSysId:14356,ref:133
+[2020-March-13 Friday, 14:06:59] TA-GD-00006_instance1,OnRtnOrder,OrderId=14356,Status=9,VolRemain=0,OrderRef=133
+[2020-March-13 Friday, 14:06:59] DispatchTdMsg,orderSysId:1314357,ref:133
+[2020-March-13 Friday, 14:06:59] DispatchTdMsg,orderSysId:15164,ref:134
+[2020-March-13 Friday, 14:06:59] TA-GD-00006_instance1,OnRtnTrade,OrderId=1314357,vol=1,price=3826.00000
+[2020-March-13 Friday, 14:06:59] RN-00006_instance1,OnRtnOrder,OrderId=15164,Status=3,VolRemain=1,OrderRef=134
+[2020-March-13 Friday, 14:06:59] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303266425,1,1314357,-1;length:428
+[2020-March-13 Friday, 14:06:59] CTP Insert!! 135,openOrClose=0,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 14:06:59] TA-GD-00006_instance1,下网格开仓,买=4048.00000,时间=14:07:02,网格:26
+[2020-March-13 Friday, 14:06:59] DispatchTdMsg,orderSysId:14358,ref:135
+[2020-March-13 Friday, 14:06:59] TA-GD-00006_instance1,OnRtnOrder,OrderId=14358,Status=3,VolRemain=1,OrderRef=135
+[2020-March-13 Friday, 14:06:59] DispatchTdMsg,orderSysId:14359,ref:135
+[2020-March-13 Friday, 14:06:59] TA-GD-00006_instance1,OnRtnOrder,OrderId=14359,Status=3,VolRemain=1,OrderRef=135
+[2020-March-13 Friday, 14:06:59] DispatchTdMsg,orderSysId:14359,ref:135
+[2020-March-13 Friday, 14:06:59] DispatchTdMsg,orderSysId:1314360,ref:135
+[2020-March-13 Friday, 14:06:59] TA-GD-00006_instance1,OnRtnOrder,OrderId=14359,Status=9,VolRemain=0,OrderRef=135
+[2020-March-13 Friday, 14:06:59] TA-GD-00006_instance1,OnRtnTrade,OrderId=1314360,vol=1,price=3826.00000
+[2020-March-13 Friday, 14:06:59] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303266527,1,1314360,-1;length:428
+[2020-March-13 Friday, 14:07:00] CTP Insert!! 136,openOrClose=0,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 14:07:00] TA-GD-00006_instance1,下网格开仓,买=4048.00000,时间=14:07:03,网格:25
+[2020-March-13 Friday, 14:07:01] DispatchTdMsg,orderSysId:15165,ref:136
+[2020-March-13 Friday, 14:07:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=15165,Status=3,VolRemain=1,OrderRef=136
+[2020-March-13 Friday, 14:07:01] DispatchTdMsg,orderSysId:15166,ref:136
+[2020-March-13 Friday, 14:07:01] DispatchTdMsg,orderSysId:15166,ref:136
+[2020-March-13 Friday, 14:07:01] DispatchTdMsg,orderSysId:1315167,ref:136
+[2020-March-13 Friday, 14:07:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=15166,Status=3,VolRemain=1,OrderRef=136
+[2020-March-13 Friday, 14:07:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=15166,Status=9,VolRemain=0,OrderRef=136
+[2020-March-13 Friday, 14:07:01] TA-GD-00006_instance1,OnRtnTrade,OrderId=1315167,vol=1,price=3826.00000
+[2020-March-13 Friday, 14:07:01] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303266680,1,1315167,-1;length:428
+[2020-March-13 Friday, 14:08:21] gStrategyImplIndex=2,gMapView->strategynum=2
+[2020-March-13 Friday, 14:08:21] AccountID:932535,Balance:18506.455
+[2020-March-13 Friday, 14:08:21] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3826.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 14:08:21] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3826.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 14:08:21] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3826.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 14:08:21] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 14:08:21] ClientNo:932535,Inst:TA005,Direct:0,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 14:08:35] RN-00006_instance1,Stop
+[2020-March-13 Friday, 14:08:43] DispatchTdMsg,orderSysId:15164,ref:134
+[2020-March-13 Friday, 14:08:43] DispatchTdMsg,orderSysId:15204,ref:134
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,Buy Order Close,OrderId=-1,price=4120.00
+[2020-March-13 Friday, 14:41:48] CTP Insert!! 137,openOrClose=1,buyOrSell=1,price=3660.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,Buy Order Close,OrderId=-1,price=4020.00
+[2020-March-13 Friday, 14:41:48] CTP Insert!! 138,openOrClose=1,buyOrSell=1,price=3660.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,Buy Order Close,OrderId=-1,price=3920.00
+[2020-March-13 Friday, 14:41:48] CTP Insert!! 139,openOrClose=1,buyOrSell=1,price=3660.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:16469,ref:137
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:16470,ref:137
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:16470,ref:137
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:1316471,ref:137
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnOrder,OrderId=16469,Status=3,VolRemain=1,OrderRef=137
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:15746,ref:138
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnOrder,OrderId=16470,Status=3,VolRemain=1,OrderRef=137
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnOrder,OrderId=16470,Status=9,VolRemain=0,OrderRef=137
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnTrade,OrderId=1316471,vol=1,price=3844.00000
+[2020-March-13 Friday, 14:41:48] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303614880,-1,1314357,1316471;length:428
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnOrder,OrderId=15746,Status=3,VolRemain=1,OrderRef=138
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:15747,ref:138
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnOrder,OrderId=15747,Status=3,VolRemain=1,OrderRef=138
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:15747,ref:138
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnOrder,OrderId=15747,Status=9,VolRemain=0,OrderRef=138
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:1315748,ref:138
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnTrade,OrderId=1315748,vol=1,price=3844.00000
+[2020-March-13 Friday, 14:41:48] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303614882,-1,1314360,1315748;length:428
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:16472,ref:139
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:16473,ref:139
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:16473,ref:139
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnOrder,OrderId=16472,Status=3,VolRemain=1,OrderRef=139
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:1316474,ref:139
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnOrder,OrderId=16473,Status=3,VolRemain=1,OrderRef=139
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnOrder,OrderId=16473,Status=9,VolRemain=0,OrderRef=139
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnTrade,OrderId=1316474,vol=1,price=3844.00000
+[2020-March-13 Friday, 14:41:48] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303614884,-1,1315167,1316474;length:428
+[2020-March-13 Friday, 14:41:48] CTP Insert!! 140,openOrClose=0,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,下网格开仓,买=4048.00000,时间=14:41:51,网格:27
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:16475,ref:140
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:16476,ref:140
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnOrder,OrderId=16475,Status=3,VolRemain=1,OrderRef=140
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnOrder,OrderId=16476,Status=3,VolRemain=1,OrderRef=140
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:16476,ref:140
+[2020-March-13 Friday, 14:41:48] DispatchTdMsg,orderSysId:1316477,ref:140
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnOrder,OrderId=16476,Status=9,VolRemain=0,OrderRef=140
+[2020-March-13 Friday, 14:41:48] TA-GD-00006_instance1,OnRtnTrade,OrderId=1316477,vol=1,price=3846.00000
+[2020-March-13 Friday, 14:41:48] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303614906,1,1316477,-1;length:428
+[2020-March-13 Friday, 14:41:49] CTP Insert!! 141,openOrClose=0,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 14:41:49] TA-GD-00006_instance1,下网格开仓,买=4048.00000,时间=14:41:52,网格:26
+[2020-March-13 Friday, 14:41:49] DispatchTdMsg,orderSysId:15750,ref:141
+[2020-March-13 Friday, 14:41:49] TA-GD-00006_instance1,OnRtnOrder,OrderId=15750,Status=3,VolRemain=1,OrderRef=141
+[2020-March-13 Friday, 14:41:49] DispatchTdMsg,orderSysId:15751,ref:141
+[2020-March-13 Friday, 14:41:49] TA-GD-00006_instance1,OnRtnOrder,OrderId=15751,Status=3,VolRemain=1,OrderRef=141
+[2020-March-13 Friday, 14:41:49] DispatchTdMsg,orderSysId:15751,ref:141
+[2020-March-13 Friday, 14:41:49] DispatchTdMsg,orderSysId:1315752,ref:141
+[2020-March-13 Friday, 14:41:49] TA-GD-00006_instance1,OnRtnOrder,OrderId=15751,Status=9,VolRemain=0,OrderRef=141
+[2020-March-13 Friday, 14:41:49] TA-GD-00006_instance1,OnRtnTrade,OrderId=1315752,vol=1,price=3846.00000
+[2020-March-13 Friday, 14:41:49] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303615077,1,1315752,-1;length:428
+[2020-March-13 Friday, 14:41:49] CTP Insert!! 142,openOrClose=0,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 14:41:49] TA-GD-00006_instance1,下网格开仓,买=4048.00000,时间=14:41:52,网格:25
+[2020-March-13 Friday, 14:41:49] DispatchTdMsg,orderSysId:16478,ref:142
+[2020-March-13 Friday, 14:41:49] DispatchTdMsg,orderSysId:16479,ref:142
+[2020-March-13 Friday, 14:41:49] TA-GD-00006_instance1,OnRtnOrder,OrderId=16478,Status=3,VolRemain=1,OrderRef=142
+[2020-March-13 Friday, 14:41:49] TA-GD-00006_instance1,OnRtnOrder,OrderId=16479,Status=3,VolRemain=1,OrderRef=142
+[2020-March-13 Friday, 14:41:49] DispatchTdMsg,orderSysId:16479,ref:142
+[2020-March-13 Friday, 14:41:49] DispatchTdMsg,orderSysId:1316480,ref:142
+[2020-March-13 Friday, 14:41:49] TA-GD-00006_instance1,OnRtnOrder,OrderId=16479,Status=9,VolRemain=0,OrderRef=142
+[2020-March-13 Friday, 14:41:49] TA-GD-00006_instance1,OnRtnTrade,OrderId=1316480,vol=1,price=3846.00000
+[2020-March-13 Friday, 14:41:49] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303615098,1,1316480,-1;length:428
+[2020-March-13 Friday, 14:56:01] TA-GD-00006_instance1,Buy Order Close,OrderId=-1,price=4320.00
+[2020-March-13 Friday, 14:56:01] CTP Insert!! 143,openOrClose=1,buyOrSell=1,price=3660.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 14:56:01] TA-GD-00006_instance1,Buy Order Close,OrderId=-1,price=4220.00
+[2020-March-13 Friday, 14:56:01] CTP Insert!! 144,openOrClose=1,buyOrSell=1,price=3660.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 14:56:01] DispatchTdMsg,orderSysId:16482,ref:143
+[2020-March-13 Friday, 14:56:01] DispatchTdMsg,orderSysId:16483,ref:143
+[2020-March-13 Friday, 14:56:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=16482,Status=3,VolRemain=1,OrderRef=143
+[2020-March-13 Friday, 14:56:01] DispatchTdMsg,orderSysId:16483,ref:143
+[2020-March-13 Friday, 14:56:01] DispatchTdMsg,orderSysId:1316484,ref:143
+[2020-March-13 Friday, 14:56:01] DispatchTdMsg,orderSysId:17281,ref:144
+[2020-March-13 Friday, 14:56:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=16483,Status=3,VolRemain=1,OrderRef=143
+[2020-March-13 Friday, 14:56:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=16483,Status=9,VolRemain=0,OrderRef=143
+[2020-March-13 Friday, 14:56:01] DispatchTdMsg,orderSysId:17282,ref:144
+[2020-March-13 Friday, 14:56:01] DispatchTdMsg,orderSysId:17282,ref:144
+[2020-March-13 Friday, 14:56:01] TA-GD-00006_instance1,OnRtnTrade,OrderId=1316484,vol=1,price=3854.00000
+[2020-March-13 Friday, 14:56:01] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303838673,-1,1314846,1316484;length:428
+[2020-March-13 Friday, 14:56:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=17281,Status=3,VolRemain=1,OrderRef=144
+[2020-March-13 Friday, 14:56:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=17282,Status=3,VolRemain=1,OrderRef=144
+[2020-March-13 Friday, 14:56:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=17282,Status=9,VolRemain=0,OrderRef=144
+[2020-March-13 Friday, 14:56:01] DispatchTdMsg,orderSysId:1317283,ref:144
+[2020-March-13 Friday, 14:56:01] TA-GD-00006_instance1,OnRtnTrade,OrderId=1317283,vol=1,price=3854.00000
+[2020-March-13 Friday, 14:56:01] send:烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031303838675,-1,1314069,1317283;length:428
+[2020-March-13 Friday, 14:59:34] DispatchTdMsg,orderSysId:17479,ref:157
+[2020-March-13 Friday, 14:59:34] DispatchTdMsg,orderSysId:17480,ref:157
+[2020-March-13 Friday, 14:59:34] DispatchTdMsg,orderSysId:17480,ref:157
+[2020-March-13 Friday, 14:59:34] DispatchTdMsg,orderSysId:1317481,ref:157
+[2020-March-13 Friday, 14:59:34] DispatchTdMsg,orderSysId:17480,ref:157
+[2020-March-13 Friday, 14:59:34] DispatchTdMsg,orderSysId:1317482,ref:157
+[2020-March-13 Friday, 14:59:34] DispatchTdMsg,orderSysId:17480,ref:157
+[2020-March-13 Friday, 14:59:34] DispatchTdMsg,orderSysId:1317483,ref:157
+[2020-March-13 Friday, 15:00:02] TA-GD-00006_instance1,Stop
+[2020-March-13 Friday, 15:05:50] AccountID:932535,Balance:19097.410

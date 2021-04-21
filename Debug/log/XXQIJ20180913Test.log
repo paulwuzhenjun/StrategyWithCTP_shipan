@@ -1,0 +1,48 @@
+[2018-September-13 Thursday, 12:30:11] Log File Opened..
+[2018-September-13 Thursday, 12:30:14] CTP MD RspLogin Success.
+[2018-September-13 Thursday, 12:30:18] Create CTPTrader Thread..
+[2018-September-13 Thursday, 12:30:18] 连接CTP当前时间:2018-09-13 12:30:18
+[2018-September-13 Thursday, 12:30:20] AccountID:094440,Balance:982685.755
+[2018-September-13 Thursday, 12:30:21] AccountID:094440,Balance:982685.755
+[2018-September-13 Thursday, 12:30:34] Strategy Init..
+[2018-September-13 Thursday, 12:30:34] rb-GD-00016_instance1,OpenPriceOpening,重启恢复,当前时间=12:30:34,原始开盘价=0.00000
+[2018-September-13 Thursday, 12:32:07] rb-GD-00016_instance1,Stop
+[2018-September-13 Thursday, 21:09:13] Log File Opened..
+[2018-September-13 Thursday, 21:09:20] Create CTPTrader Thread..
+[2018-September-13 Thursday, 21:09:21] 连接CTP当前时间:2018-09-13 21:09:20
+[2018-September-13 Thursday, 21:09:35] CTP MD RspLogin Success.
+[2018-September-13 Thursday, 21:10:34] AccountID:094440,Balance:962091.303
+[2018-September-13 Thursday, 21:10:34] AccountID:094440,Balance:962566.303
+[2018-September-13 Thursday, 21:14:22] Log File Opened..
+[2018-September-13 Thursday, 21:14:29] Create CTPTrader Thread..
+[2018-September-13 Thursday, 21:14:29] 连接CTP当前时间:2018-09-13 21:14:29
+[2018-September-13 Thursday, 21:14:44] CTP MD RspLogin Success.
+[2018-September-13 Thursday, 21:15:20] Strategy Init..
+[2018-September-13 Thursday, 21:15:20] ag-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=21:15:20,Shmindex:0
+[2018-September-13 Thursday, 21:15:21] CTP Insert!! 108805,openOrClose=1,buyOrSell=0,price=3394.0000,vol=4,inst=ag1812,iRet=0
+[2018-September-13 Thursday, 21:15:21] CTP Insert!! 108806,openOrClose=1,buyOrSell=0,price=3404.0000,vol=4,inst=ag1812,iRet=0
+[2018-September-13 Thursday, 21:15:21] CTP Insert!! 108807,openOrClose=1,buyOrSell=0,price=3414.0000,vol=4,inst=ag1812,iRet=0
+[2018-September-13 Thursday, 21:16:20] ag-GD-00006-2_instance1,Stop
+[2018-September-13 Thursday, 21:16:47] Log File Opened..
+[2018-September-13 Thursday, 21:16:54] Create CTPTrader Thread..
+[2018-September-13 Thursday, 21:16:54] 连接CTP当前时间:2018-09-13 21:16:54
+[2018-September-13 Thursday, 21:17:09] CTP MD RspLogin Success.
+[2018-September-13 Thursday, 21:17:37] AccountID:094440,Balance:962926.303
+[2018-September-13 Thursday, 21:17:38] AccountID:094440,Balance:983726.303
+[2018-September-13 Thursday, 21:17:43] Strategy Init..
+[2018-September-13 Thursday, 21:17:43] ag-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=21:17:43,Shmindex:0
+[2018-September-13 Thursday, 21:17:43] CTP Insert!! 108809,openOrClose=1,buyOrSell=0,price=3394.0000,vol=4,inst=ag1812,iRet=0
+[2018-September-13 Thursday, 21:17:43] CTP Insert!! 108810,openOrClose=1,buyOrSell=0,price=3404.0000,vol=4,inst=ag1812,iRet=0
+[2018-September-13 Thursday, 21:17:43] CTP Insert!! 108811,openOrClose=1,buyOrSell=0,price=3414.0000,vol=4,inst=ag1812,iRet=0
+[2018-September-13 Thursday, 21:18:22] ag-GD-00006-2_instance1,Stop
+[2018-September-13 Thursday, 21:22:58] Log File Opened..
+[2018-September-13 Thursday, 21:23:05] Create CTPTrader Thread..
+[2018-September-13 Thursday, 21:23:05] 连接CTP当前时间:2018-09-13 21:23:05
+[2018-September-13 Thursday, 21:24:03] CTP MD RspLogin Success.
+[2018-September-13 Thursday, 21:24:39] AccountID:094440,Balance:1000176.303
+[2018-September-13 Thursday, 21:24:39] AccountID:094440,Balance:999921.303
+[2018-September-13 Thursday, 21:36:01] CTP MD RspLogin Success.
+[2018-September-13 Thursday, 21:36:01] AccountID:094440,Balance:963091.303
+[2018-September-13 Thursday, 21:36:02] AccountID:094440,Balance:963151.303
+[2018-September-13 Thursday, 21:42:19] AccountID:094440,Balance:963681.303
+[2018-September-13 Thursday, 21:42:20] AccountID:094440,Balance:963766.303

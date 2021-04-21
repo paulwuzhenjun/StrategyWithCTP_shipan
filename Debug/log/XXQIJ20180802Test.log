@@ -1,0 +1,136 @@
+[2018-August-02 Thursday, 13:01:35] Log File Opened..
+[2018-August-02 Thursday, 13:01:37] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 13:01:42] Create CTPTrader Thread..
+[2018-August-02 Thursday, 13:01:42] 连接CTP当前时间:2018-08-02 13:01:42
+[2018-August-02 Thursday, 13:02:14] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 13:02:14] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 13:02:59] Strategy Init..
+[2018-August-02 Thursday, 13:11:26] Log File Opened..
+[2018-August-02 Thursday, 13:11:27] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 13:11:33] Create CTPTrader Thread..
+[2018-August-02 Thursday, 13:11:33] 连接CTP当前时间:2018-08-02 13:11:33
+[2018-August-02 Thursday, 13:11:33] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 13:11:34] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 13:11:46] Strategy Init..
+[2018-August-02 Thursday, 13:30:42] Log File Opened..
+[2018-August-02 Thursday, 13:30:43] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 13:30:50] Create CTPTrader Thread..
+[2018-August-02 Thursday, 13:30:50] 连接CTP当前时间:2018-08-02 13:30:50
+[2018-August-02 Thursday, 13:30:50] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 13:30:51] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 13:32:27] Log File Opened..
+[2018-August-02 Thursday, 13:32:28] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 13:32:37] Create CTPTrader Thread..
+[2018-August-02 Thursday, 13:32:37] 连接CTP当前时间:2018-08-02 13:32:37
+[2018-August-02 Thursday, 13:32:37] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 13:32:38] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 13:32:53] Strategy Init..
+[2018-August-02 Thursday, 13:32:53] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=13:32:53
+[2018-August-02 Thursday, 13:32:54] CTP Insert!! 100018,openOrClose=1,buyOrSell=0,price=497.2000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 13:32:54] CTP Insert!! 100019,openOrClose=1,buyOrSell=1,price=513.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 13:32:54] CTP Insert!! 100020,openOrClose=1,buyOrSell=1,price=511.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 13:32:54] CTP Insert!! 100021,openOrClose=1,buyOrSell=1,price=509.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 13:32:54] CTP Insert!! 100022,openOrClose=1,buyOrSell=1,price=505.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 13:38:56] Log File Opened..
+[2018-August-02 Thursday, 13:38:57] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 13:39:03] Create CTPTrader Thread..
+[2018-August-02 Thursday, 13:39:03] 连接CTP当前时间:2018-08-02 13:39:03
+[2018-August-02 Thursday, 13:39:03] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 13:39:04] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 13:39:44] Strategy Init..
+[2018-August-02 Thursday, 13:39:44] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=13:39:44
+[2018-August-02 Thursday, 13:58:03] Log File Opened..
+[2018-August-02 Thursday, 13:58:04] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 13:58:15] Create CTPTrader Thread..
+[2018-August-02 Thursday, 13:58:15] 连接CTP当前时间:2018-08-02 13:58:15
+[2018-August-02 Thursday, 13:58:16] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 13:58:16] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 13:58:27] Strategy Init..
+[2018-August-02 Thursday, 13:58:27] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=13:58:27
+[2018-August-02 Thursday, 13:58:37] CTP Insert!! 100019,openOrClose=1,buyOrSell=0,price=497.2000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 13:58:37] CTP Insert!! 100020,openOrClose=1,buyOrSell=1,price=513.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 13:58:37] CTP Insert!! 100021,openOrClose=1,buyOrSell=1,price=511.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 13:58:37] CTP Insert!! 100022,openOrClose=1,buyOrSell=1,price=509.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 13:58:37] CTP Insert!! 100023,openOrClose=1,buyOrSell=1,price=505.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 14:08:44] Log File Opened..
+[2018-August-02 Thursday, 14:08:45] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 14:08:52] Create CTPTrader Thread..
+[2018-August-02 Thursday, 14:08:52] 连接CTP当前时间:2018-08-02 14:08:52
+[2018-August-02 Thursday, 14:08:52] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 14:08:53] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 14:09:02] Strategy Init..
+[2018-August-02 Thursday, 14:14:20] Log File Opened..
+[2018-August-02 Thursday, 14:14:21] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 14:14:26] Create CTPTrader Thread..
+[2018-August-02 Thursday, 14:14:26] 连接CTP当前时间:2018-08-02 14:14:26
+[2018-August-02 Thursday, 14:39:48] Log File Opened..
+[2018-August-02 Thursday, 14:39:50] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 14:40:01] Create CTPTrader Thread..
+[2018-August-02 Thursday, 14:40:01] 连接CTP当前时间:2018-08-02 14:40:01
+[2018-August-02 Thursday, 14:40:01] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 14:40:02] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 14:40:13] Strategy Init..
+[2018-August-02 Thursday, 14:40:17] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=14:40:17
+[2018-August-02 Thursday, 14:41:57] Log File Opened..
+[2018-August-02 Thursday, 14:41:58] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 14:42:05] Create CTPTrader Thread..
+[2018-August-02 Thursday, 14:42:05] 连接CTP当前时间:2018-08-02 14:42:05
+[2018-August-02 Thursday, 14:42:19] Strategy Init..
+[2018-August-02 Thursday, 14:42:19] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=14:42:19
+[2018-August-02 Thursday, 14:45:44] Log File Opened..
+[2018-August-02 Thursday, 14:45:45] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 14:45:51] Create CTPTrader Thread..
+[2018-August-02 Thursday, 14:45:51] 连接CTP当前时间:2018-08-02 14:45:51
+[2018-August-02 Thursday, 14:46:04] Strategy Init..
+[2018-August-02 Thursday, 14:46:04] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=14:46:04
+[2018-August-02 Thursday, 15:00:22] Log File Opened..
+[2018-August-02 Thursday, 15:00:23] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 15:00:32] Create CTPTrader Thread..
+[2018-August-02 Thursday, 15:00:32] 连接CTP当前时间:2018-08-02 15:00:32
+[2018-August-02 Thursday, 15:00:32] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 15:00:33] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 15:00:45] Strategy Init..
+[2018-August-02 Thursday, 15:00:45] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=15:00:45
+[2018-August-02 Thursday, 15:05:32] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 15:13:07] Log File Opened..
+[2018-August-02 Thursday, 15:13:08] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 15:13:14] Create CTPTrader Thread..
+[2018-August-02 Thursday, 15:13:14] 连接CTP当前时间:2018-08-02 15:13:14
+[2018-August-02 Thursday, 15:13:32] Strategy Init..
+[2018-August-02 Thursday, 15:13:32] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=15:13:32
+[2018-August-02 Thursday, 15:15:44] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 15:15:49] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 15:16:15] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 15:16:16] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 16:24:38] Log File Opened..
+[2018-August-02 Thursday, 16:24:50] Create CTPTrader Thread..
+[2018-August-02 Thursday, 16:25:20] Strategy Init..
+[2018-August-02 Thursday, 16:25:20] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=16:25:20
+[2018-August-02 Thursday, 16:32:49] Log File Opened..
+[2018-August-02 Thursday, 16:33:02] Create CTPTrader Thread..
+[2018-August-02 Thursday, 16:33:13] Strategy Init..
+[2018-August-02 Thursday, 16:33:13] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=16:33:13
+[2018-August-02 Thursday, 16:35:59] sc-GD-00006-2_instance1,Stop
+[2018-August-02 Thursday, 19:55:06] Log File Opened..
+[2018-August-02 Thursday, 19:55:07] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 19:55:14] Create CTPTrader Thread..
+[2018-August-02 Thursday, 19:55:25] Strategy Init..
+[2018-August-02 Thursday, 19:55:25] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=19:55:25
+[2018-August-02 Thursday, 20:59:19] Log File Opened..
+[2018-August-02 Thursday, 20:59:20] CTP MD RspLogin Success.
+[2018-August-02 Thursday, 20:59:27] Create CTPTrader Thread..
+[2018-August-02 Thursday, 20:59:27] 连接CTP当前时间:2018-08-02 20:59:27
+[2018-August-02 Thursday, 20:59:27] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 20:59:28] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 20:59:32] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-August-02 Thursday, 20:59:32] AccountID:094440,Balance:936890.140
+[2018-August-02 Thursday, 20:59:58] Strategy Init..
+[2018-August-02 Thursday, 20:59:58] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=20:59:58
+[2018-August-02 Thursday, 21:00:02] CTP Insert!! 100019,openOrClose=1,buyOrSell=1,price=513.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 21:00:02] CTP Insert!! 100020,openOrClose=1,buyOrSell=1,price=511.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 21:00:02] CTP Insert!! 100021,openOrClose=1,buyOrSell=1,price=509.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 21:00:02] CTP Insert!! 100022,openOrClose=1,buyOrSell=1,price=507.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 21:00:02] CTP Insert!! 100023,openOrClose=1,buyOrSell=1,price=505.4000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 21:00:02] CTP Insert!! 100024,openOrClose=0,buyOrSell=0,price=501.2000,vol=1,inst=sc1809,iRet=0
+[2018-August-02 Thursday, 21:00:02] sc-GD-00006-2_instance1,下网格开仓,买=501.20000,时间=21:00:07,网格:24
+[2018-August-02 Thursday, 21:00:02] sc-GD-00006-2_instance1,OnRtnOrder,OrderId=2,Status=3,VolRemain=1,OrderRef=100024

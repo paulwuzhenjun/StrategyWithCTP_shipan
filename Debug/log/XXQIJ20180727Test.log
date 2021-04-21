@@ -1,0 +1,237 @@
+[2018-July-27 Friday, 13:16:32] Log File Opened..
+[2018-July-27 Friday, 13:16:33] CTP MD RspLogin Success.
+[2018-July-27 Friday, 13:17:46] Log File Opened..
+[2018-July-27 Friday, 13:17:47] CTP MD RspLogin Success.
+[2018-July-27 Friday, 13:17:53] Create CTPTrader Thread..
+[2018-July-27 Friday, 13:17:53] 连接CTP当前时间:2018-07-27 13:17:53
+[2018-July-27 Friday, 13:17:54] AccountID:094440,Balance:921531.705
+[2018-July-27 Friday, 13:17:55] AccountID:094440,Balance:921531.705
+[2018-July-27 Friday, 13:18:12] Strategy Init..
+[2018-July-27 Friday, 13:26:12] CTP MD RspLogin Success.
+[2018-July-27 Friday, 13:26:17] AccountID:094440,Balance:921529.705
+[2018-July-27 Friday, 13:26:18] AccountID:094440,Balance:921529.705
+[2018-July-27 Friday, 13:27:00] IF-GD-00006-2_instance2,Stop
+[2018-July-27 Friday, 14:12:16] Log File Opened..
+[2018-July-27 Friday, 14:12:17] CTP MD RspLogin Success.
+[2018-July-27 Friday, 14:12:24] Create CTPTrader Thread..
+[2018-July-27 Friday, 14:12:24] 连接CTP当前时间:2018-07-27 14:12:24
+[2018-July-27 Friday, 14:12:24] AccountID:094440,Balance:922129.705
+[2018-July-27 Friday, 14:12:25] AccountID:094440,Balance:922129.705
+[2018-July-27 Friday, 14:12:26] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-27 Friday, 14:12:27] AccountID:094440,Balance:922129.705
+[2018-July-27 Friday, 14:12:48] Strategy Init..
+[2018-July-27 Friday, 14:12:48] ag-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=14:12:48
+[2018-July-27 Friday, 14:14:18] Log File Opened..
+[2018-July-27 Friday, 14:14:19] CTP MD RspLogin Success.
+[2018-July-27 Friday, 14:14:25] Create CTPTrader Thread..
+[2018-July-27 Friday, 14:14:25] 连接CTP当前时间:2018-07-27 14:14:25
+[2018-July-27 Friday, 14:14:56] AccountID:094440,Balance:921929.705
+[2018-July-27 Friday, 14:14:56] AccountID:094440,Balance:921929.705
+[2018-July-27 Friday, 14:15:28] Log File Opened..
+[2018-July-27 Friday, 14:15:29] CTP MD RspLogin Success.
+[2018-July-27 Friday, 14:15:36] Create CTPTrader Thread..
+[2018-July-27 Friday, 14:15:36] 连接CTP当前时间:2018-07-27 14:15:36
+[2018-July-27 Friday, 14:15:36] AccountID:094440,Balance:921929.705
+[2018-July-27 Friday, 14:15:37] AccountID:094440,Balance:921929.705
+[2018-July-27 Friday, 14:17:41] Log File Opened..
+[2018-July-27 Friday, 14:17:42] CTP MD RspLogin Success.
+[2018-July-27 Friday, 14:17:49] Create CTPTrader Thread..
+[2018-July-27 Friday, 14:17:49] 连接CTP当前时间:2018-07-27 14:17:49
+[2018-July-27 Friday, 14:17:51] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-27 Friday, 14:17:53] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-27 Friday, 14:17:54] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-27 Friday, 14:19:23] AccountID:094440,Balance:922129.705
+[2018-July-27 Friday, 14:19:23] AccountID:094440,Balance:922129.705
+[2018-July-27 Friday, 14:19:23] AccountID:094440,Balance:922129.705
+[2018-July-27 Friday, 14:19:23] AccountID:094440,Balance:922129.705
+[2018-July-27 Friday, 14:19:24] AccountID:094440,Balance:922129.705
+[2018-July-27 Friday, 14:19:57] Strategy Init..
+[2018-July-27 Friday, 14:19:57] ag-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=14:19:57
+[2018-July-27 Friday, 14:20:09] Strategy Init..
+[2018-July-27 Friday, 14:20:09] au-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=14:20:09
+[2018-July-27 Friday, 14:20:20] Strategy Init..
+[2018-July-27 Friday, 14:20:20] au-GD-00006-2_instance2,StrategyGridOpen,重启恢复,当前时间=14:20:20
+[2018-July-27 Friday, 14:22:35] ag-GD-00006-2_instance1,Stop
+[2018-July-27 Friday, 14:22:35] au-GD-00006-2_instance2,Stop
+[2018-July-27 Friday, 14:22:35] au-GD-00006-2_instance1,Stop
+[2018-July-27 Friday, 14:35:53] Log File Opened..
+[2018-July-27 Friday, 14:35:54] CTP MD RspLogin Success.
+[2018-July-27 Friday, 14:37:09] Log File Opened..
+[2018-July-27 Friday, 14:37:10] CTP MD RspLogin Success.
+[2018-July-27 Friday, 14:37:28] Create CTPTrader Thread..
+[2018-July-27 Friday, 14:37:28] 连接CTP当前时间:2018-07-27 14:37:28
+[2018-July-27 Friday, 14:37:31] AccountID:094440,Balance:922129.705
+[2018-July-27 Friday, 14:37:32] AccountID:094440,Balance:922129.705
+[2018-July-27 Friday, 14:37:41] Strategy Init..
+[2018-July-27 Friday, 14:37:42] CTP Insert!! 100003,openOrClose=0,buyOrSell=0,price=5252.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:37:43] IC-GD-00006-2_instance2,下网格开仓,买=5252.00000,时间=14:37:38,网格:29
+[2018-July-27 Friday, 14:37:43] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7127,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:37:43] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7128,vol=1,price=5252.00000
+[2018-July-27 Friday, 14:37:43] CTP Insert!! 100004,openOrClose=1,buyOrSell=1,price=5253.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:37:43] CTP Insert!! 100005,openOrClose=0,buyOrSell=0,price=5248.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:37:43] IC-GD-00006-2_instance2,下网格开仓,买=5248.00000,时间=14:37:39,网格:28
+[2018-July-27 Friday, 14:37:43] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7129,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:37:43] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7130,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:40:24] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7183,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:40:24] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7183,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:40:24] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7184,vol=1,price=5253.00000
+[2018-July-27 Friday, 14:40:24] CTP Insert!! 100006,openOrClose=0,buyOrSell=0,price=5252.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:40:24] IC-GD-00006-2_instance2,开仓,卖=5252.00000,时间=20180727 14:40:21,网格:29
+[2018-July-27 Friday, 14:40:24] IC-GD-00006-2_instance2,ReqOrderDelete,7130
+[2018-July-27 Friday, 14:40:24] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7130,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:40:24] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7185,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:40:24] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7186,Status=7,VolRemain=1
+[2018-July-27 Friday, 14:42:26] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7238,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:42:26] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7238,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:42:26] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7239,vol=1,price=5252.00000
+[2018-July-27 Friday, 14:42:26] CTP Insert!! 100008,openOrClose=1,buyOrSell=1,price=5253.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:42:26] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7241,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:42:26] CTP Insert!! 100009,openOrClose=0,buyOrSell=0,price=5248.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:42:26] IC-GD-00006-2_instance2,下网格开仓,买=5248.00000,时间=14:42:23,网格:28
+[2018-July-27 Friday, 14:42:26] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7242,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:43:46] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7250,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:43:46] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7250,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:43:46] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7251,vol=1,price=5253.00000
+[2018-July-27 Friday, 14:43:46] CTP Insert!! 100010,openOrClose=0,buyOrSell=0,price=5252.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:43:46] IC-GD-00006-2_instance2,开仓,卖=5252.00000,时间=20180727 14:43:43,网格:29
+[2018-July-27 Friday, 14:43:46] IC-GD-00006-2_instance2,ReqOrderDelete,7242
+[2018-July-27 Friday, 14:43:46] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7252,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:43:46] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7242,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:43:46] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7253,Status=7,VolRemain=1
+[2018-July-27 Friday, 14:45:24] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7283,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:45:24] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7283,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:45:24] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7284,vol=1,price=5251.80000
+[2018-July-27 Friday, 14:45:24] CTP Insert!! 100012,openOrClose=1,buyOrSell=1,price=5253.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:45:24] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7285,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:45:24] CTP Insert!! 100013,openOrClose=0,buyOrSell=0,price=5248.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:45:24] IC-GD-00006-2_instance2,下网格开仓,买=5248.00000,时间=14:45:20,网格:28
+[2018-July-27 Friday, 14:45:24] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7286,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:45:36] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7291,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:45:36] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7291,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:45:36] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7292,vol=1,price=5254.00000
+[2018-July-27 Friday, 14:45:36] CTP Insert!! 100014,openOrClose=0,buyOrSell=0,price=5252.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:45:36] IC-GD-00006-2_instance2,开仓,卖=5252.00000,时间=20180727 14:45:32,网格:29
+[2018-July-27 Friday, 14:45:36] IC-GD-00006-2_instance2,ReqOrderDelete,7286
+[2018-July-27 Friday, 14:45:36] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7286,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:45:36] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7293,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:45:36] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7294,Status=7,VolRemain=1
+[2018-July-27 Friday, 14:46:59] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7302,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:46:59] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7302,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:46:59] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7303,vol=1,price=5252.00000
+[2018-July-27 Friday, 14:46:59] CTP Insert!! 100016,openOrClose=1,buyOrSell=1,price=5253.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:46:59] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7304,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:46:59] CTP Insert!! 100017,openOrClose=0,buyOrSell=0,price=5248.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:46:59] IC-GD-00006-2_instance2,下网格开仓,买=5248.00000,时间=14:46:55,网格:28
+[2018-July-27 Friday, 14:47:00] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7305,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:47:08] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7310,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:47:08] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7310,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:47:09] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7311,vol=1,price=5253.00000
+[2018-July-27 Friday, 14:47:09] CTP Insert!! 100018,openOrClose=0,buyOrSell=0,price=5252.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:47:09] IC-GD-00006-2_instance2,开仓,卖=5252.00000,时间=20180727 14:47:05,网格:29
+[2018-July-27 Friday, 14:47:09] IC-GD-00006-2_instance2,ReqOrderDelete,7305
+[2018-July-27 Friday, 14:47:09] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7305,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:47:09] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7312,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:47:09] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7313,Status=7,VolRemain=1
+[2018-July-27 Friday, 14:47:48] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7320,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:47:48] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7320,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:47:48] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7321,vol=1,price=5251.60000
+[2018-July-27 Friday, 14:47:48] CTP Insert!! 100020,openOrClose=1,buyOrSell=1,price=5253.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:47:48] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7322,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:47:49] CTP Insert!! 100021,openOrClose=0,buyOrSell=0,price=5248.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:47:49] IC-GD-00006-2_instance2,下网格开仓,买=5248.00000,时间=14:47:45,网格:28
+[2018-July-27 Friday, 14:47:49] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7323,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:48:48] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7335,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:48:48] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7335,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:48:48] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7336,vol=1,price=5247.80000
+[2018-July-27 Friday, 14:48:48] CTP Insert!! 100022,openOrClose=1,buyOrSell=1,price=5249.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:48:48] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7337,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:48:49] CTP Insert!! 100023,openOrClose=0,buyOrSell=0,price=5244.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:48:49] IC-GD-00006-2_instance2,下网格开仓,买=5244.00000,时间=14:48:45,网格:27
+[2018-July-27 Friday, 14:50:01] IC-GD-00006-2_instance2,Stop
+[2018-July-27 Friday, 14:54:57] Log File Opened..
+[2018-July-27 Friday, 14:54:58] CTP MD RspLogin Success.
+[2018-July-27 Friday, 14:55:56] Log File Opened..
+[2018-July-27 Friday, 14:55:57] CTP MD RspLogin Success.
+[2018-July-27 Friday, 14:56:07] Create CTPTrader Thread..
+[2018-July-27 Friday, 14:56:07] 连接CTP当前时间:2018-07-27 14:56:07
+[2018-July-27 Friday, 14:56:09] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-27 Friday, 14:56:10] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-27 Friday, 14:56:11] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-27 Friday, 14:56:12] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-27 Friday, 14:56:30] Log File Opened..
+[2018-July-27 Friday, 14:56:31] CTP MD RspLogin Success.
+[2018-July-27 Friday, 14:56:37] Create CTPTrader Thread..
+[2018-July-27 Friday, 14:56:37] 连接CTP当前时间:2018-07-27 14:56:37
+[2018-July-27 Friday, 14:56:37] AccountID:094440,Balance:917433.149
+[2018-July-27 Friday, 14:56:38] AccountID:094440,Balance:917433.149
+[2018-July-27 Friday, 14:56:38] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-27 Friday, 14:56:39] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-27 Friday, 14:56:39] AccountID:094440,Balance:917433.149
+[2018-July-27 Friday, 14:56:40] AccountID:094440,Balance:917433.149
+[2018-July-27 Friday, 14:56:49] Strategy Init..
+[2018-July-27 Friday, 14:56:49] CTP Insert!! 100003,openOrClose=0,buyOrSell=1,price=5238.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:56:49] IC-GD-00006-2_instance2,上网格开仓,卖=5238.00000,时间=14:56:45,网格:30
+[2018-July-27 Friday, 14:56:49] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7556,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:56:49] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7557,vol=1,price=5238.00000
+[2018-July-27 Friday, 14:56:49] CTP Insert!! 100004,openOrClose=1,buyOrSell=0,price=5237.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:56:49] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7558,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:56:50] CTP Insert!! 100005,openOrClose=0,buyOrSell=1,price=5246.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:56:51] IC-GD-00006-2_instance2,上网格开仓,卖=5246.00000,时间=14:56:46,网格:31
+[2018-July-27 Friday, 14:56:51] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7560,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:57:03] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7567,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:57:03] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7567,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:57:03] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7568,vol=1,price=5237.00000
+[2018-July-27 Friday, 14:57:03] CTP Insert!! 100006,openOrClose=0,buyOrSell=1,price=5238.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:57:03] IC-GD-00006-2_instance2,开仓,卖=5238.00000,时间=20180727 14:57:00,网格:30
+[2018-July-27 Friday, 14:57:03] IC-GD-00006-2_instance2,ReqOrderDelete,7560
+[2018-July-27 Friday, 14:57:03] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7560,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:57:03] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7569,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:57:03] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7570,Status=7,VolRemain=1
+[2018-July-27 Friday, 14:57:10] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7572,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:57:10] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7572,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:57:10] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7573,vol=1,price=5238.00000
+[2018-July-27 Friday, 14:57:10] CTP Insert!! 100008,openOrClose=1,buyOrSell=0,price=5237.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:57:10] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7574,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:57:11] CTP Insert!! 100009,openOrClose=0,buyOrSell=1,price=5246.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:57:11] IC-GD-00006-2_instance2,上网格开仓,卖=5246.00000,时间=14:57:07,网格:31
+[2018-July-27 Friday, 14:57:11] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7575,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:57:22] IC-GD-00006-2_instance2,Stop
+[2018-July-27 Friday, 14:58:02] Log File Opened..
+[2018-July-27 Friday, 14:58:03] CTP MD RspLogin Success.
+[2018-July-27 Friday, 14:58:09] Create CTPTrader Thread..
+[2018-July-27 Friday, 14:58:09] 连接CTP当前时间:2018-07-27 14:58:09
+[2018-July-27 Friday, 14:58:09] AccountID:094440,Balance:916733.027
+[2018-July-27 Friday, 14:58:10] AccountID:094440,Balance:916733.027
+[2018-July-27 Friday, 14:58:15] Strategy Init..
+[2018-July-27 Friday, 14:58:16] CTP Insert!! 100003,openOrClose=0,buyOrSell=1,price=5238.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:58:17] IC-GD-00006-2_instance2,上网格开仓,卖=5238.00000,时间=14:58:12,网格:30
+[2018-July-27 Friday, 14:58:17] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7613,Status=9,VolRemain=0
+[2018-July-27 Friday, 14:58:17] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=7614,vol=1,price=5238.60000
+[2018-July-27 Friday, 14:58:17] CTP Insert!! 100004,openOrClose=1,buyOrSell=0,price=5222.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:58:17] CTP Insert!! 100005,openOrClose=0,buyOrSell=1,price=5246.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-27 Friday, 14:58:17] IC-GD-00006-2_instance2,上网格开仓,卖=5246.00000,时间=14:58:13,网格:31
+[2018-July-27 Friday, 14:58:17] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7615,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:58:17] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7616,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:59:05] 20180727,14:59:01,TimeEnd,CancelOpen,Id=7616
+[2018-July-27 Friday, 14:59:05] IC-GD-00006-2_instance2,ReqOrderDelete,7616
+[2018-July-27 Friday, 14:59:05] 20180727,14:59:01,TimeEnd,CancelClose,Id=7615
+[2018-July-27 Friday, 14:59:05] IC-GD-00006-2_instance2,ReqOrderDelete,7615
+[2018-July-27 Friday, 14:59:05] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7616,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:59:05] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7615,Status=3,VolRemain=1
+[2018-July-27 Friday, 14:59:05] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7645,Status=7,VolRemain=1
+[2018-July-27 Friday, 14:59:05] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=7646,Status=7,VolRemain=1
+[2018-July-27 Friday, 15:07:43] IC-GD-00006-2_instance2,Stop
+[2018-July-27 Friday, 15:17:02] Log File Opened..
+[2018-July-27 Friday, 15:17:03] CTP MD RspLogin Success.
+[2018-July-27 Friday, 15:17:11] Create CTPTrader Thread..
+[2018-July-27 Friday, 15:17:11] 连接CTP当前时间:2018-07-27 15:17:11
+[2018-July-27 Friday, 15:17:11] AccountID:094440,Balance:918423.929
+[2018-July-27 Friday, 15:17:12] AccountID:094440,Balance:918423.929
+[2018-July-27 Friday, 15:17:38] Strategy Init..
+[2018-July-27 Friday, 15:17:38] IC-GD-00006-2_instance2,StrategyGridOpen,重启恢复,当前时间=15:17:38
+[2018-July-27 Friday, 15:19:58] AccountID:094440,Balance:918423.929
+[2018-July-27 Friday, 15:19:59] AccountID:094440,Balance:918423.929
+[2018-July-27 Friday, 15:22:19] IC-GD-00006-2_instance2,Stop
+[2018-July-27 Friday, 15:22:19] CTP MD RspLogin Success.
+[2018-July-27 Friday, 15:22:19] AccountID:094440,Balance:918423.929
+[2018-July-27 Friday, 15:22:20] AccountID:094440,Balance:918423.929

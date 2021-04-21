@@ -1,0 +1,542 @@
+[2020-March-12 Thursday, 08:58:51] Log File Opened..
+[2020-March-12 Thursday, 08:58:52] CTP MD RspLogin Success.
+[2020-March-12 Thursday, 08:58:59] Create CTPTrader Thread..
+[2020-March-12 Thursday, 08:59:00] AccountID:932535,Balance:18124.280
+[2020-March-12 Thursday, 09:13:05] Strategy Init..
+[2020-March-12 Thursday, 09:13:11] TA-GD-00006_instance1,Stop
+[2020-March-12 Thursday, 09:13:40] Strategy Init..
+[2020-March-12 Thursday, 09:16:05] CTP Insert!! 3,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:16:05] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=09:16:07,利鯉:30
+[2020-March-12 Thursday, 09:16:06] DispatchTdMsg,orderSysId:5333,ref:3
+[2020-March-12 Thursday, 09:16:06] TA-GD-00006_instance1,OnRtnOrder,OrderId=5333,Status=3,VolRemain=1,OrderRef=3
+[2020-March-12 Thursday, 09:16:06] DispatchTdMsg,orderSysId:5334,ref:3
+[2020-March-12 Thursday, 09:16:06] TA-GD-00006_instance1,OnRtnOrder,OrderId=5334,Status=3,VolRemain=1,OrderRef=3
+[2020-March-12 Thursday, 09:16:06] DispatchTdMsg,orderSysId:5334,ref:3
+[2020-March-12 Thursday, 09:16:06] DispatchTdMsg,orderSysId:125335,ref:3
+[2020-March-12 Thursday, 09:16:06] TA-GD-00006_instance1,OnRtnOrder,OrderId=5334,Status=9,VolRemain=0,OrderRef=3
+[2020-March-12 Thursday, 09:16:06] TA-GD-00006_instance1,OnRtnTrade,OrderId=125335,vol=1,price=3878.00000
+[2020-March-12 Thursday, 09:16:06] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031200596801,-1,125335,-1;length:428
+[2020-March-12 Thursday, 09:23:50] CTP Insert!! 4,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:23:50] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=09:23:48,利鯉:31
+[2020-March-12 Thursday, 09:23:50] DispatchTdMsg,orderSysId:6154,ref:4
+[2020-March-12 Thursday, 09:23:50] TA-GD-00006_instance1,OnRtnOrder,OrderId=6154,Status=3,VolRemain=1,OrderRef=4
+[2020-March-12 Thursday, 09:23:50] DispatchTdMsg,orderSysId:6155,ref:4
+[2020-March-12 Thursday, 09:23:50] DispatchTdMsg,orderSysId:6155,ref:4
+[2020-March-12 Thursday, 09:23:50] DispatchTdMsg,orderSysId:126156,ref:4
+[2020-March-12 Thursday, 09:23:50] TA-GD-00006_instance1,OnRtnOrder,OrderId=6155,Status=3,VolRemain=1,OrderRef=4
+[2020-March-12 Thursday, 09:23:50] TA-GD-00006_instance1,OnRtnOrder,OrderId=6155,Status=9,VolRemain=0,OrderRef=4
+[2020-March-12 Thursday, 09:23:50] TA-GD-00006_instance1,OnRtnTrade,OrderId=126156,vol=1,price=3896.00000
+[2020-March-12 Thursday, 09:23:50] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031200750428,-1,126156,-1;length:428
+[2020-March-12 Thursday, 09:24:07] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 09:24:08] AccountID:932535,Balance:17988.257
+[2020-March-12 Thursday, 09:24:08] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3878.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 09:24:08] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3896.00,TradeVol:1,SettlePrice:3954.00,0.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 09:31:40] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3880.00
+[2020-March-12 Thursday, 09:31:40] CTP Insert!! 5,openOrClose=1,buyOrSell=0,price=4152.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:31:40] DispatchTdMsg,orderSysId:6670,ref:5
+[2020-March-12 Thursday, 09:31:40] DispatchTdMsg,orderSysId:6671,ref:5
+[2020-March-12 Thursday, 09:31:40] TA-GD-00006_instance1,OnRtnOrder,OrderId=6670,Status=3,VolRemain=1,OrderRef=5
+[2020-March-12 Thursday, 09:31:40] TA-GD-00006_instance1,OnRtnOrder,OrderId=6671,Status=3,VolRemain=1,OrderRef=5
+[2020-March-12 Thursday, 09:31:40] DispatchTdMsg,orderSysId:6671,ref:5
+[2020-March-12 Thursday, 09:31:40] DispatchTdMsg,orderSysId:126672,ref:5
+[2020-March-12 Thursday, 09:31:40] TA-GD-00006_instance1,OnRtnOrder,OrderId=6671,Status=9,VolRemain=0,OrderRef=5
+[2020-March-12 Thursday, 09:31:40] TA-GD-00006_instance1,OnRtnTrade,OrderId=126672,vol=1,price=3878.00000
+[2020-March-12 Thursday, 09:31:40] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031200904967,1,126156,126672;length:428
+[2020-March-12 Thursday, 09:31:47] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 09:31:48] AccountID:932535,Balance:18208.256
+[2020-March-12 Thursday, 09:31:48] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3896.00,TradeVol:1,SettlePrice:3954.00,0.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 09:36:20] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3860.00
+[2020-March-12 Thursday, 09:36:20] CTP Insert!! 6,openOrClose=1,buyOrSell=0,price=4152.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:36:20] DispatchTdMsg,orderSysId:7244,ref:6
+[2020-March-12 Thursday, 09:36:20] TA-GD-00006_instance1,OnRtnOrder,OrderId=7244,Status=3,VolRemain=1,OrderRef=6
+[2020-March-12 Thursday, 09:36:21] DispatchTdMsg,orderSysId:7245,ref:6
+[2020-March-12 Thursday, 09:36:21] DispatchTdMsg,orderSysId:7245,ref:6
+[2020-March-12 Thursday, 09:36:21] DispatchTdMsg,orderSysId:127246,ref:6
+[2020-March-12 Thursday, 09:36:21] TA-GD-00006_instance1,OnRtnOrder,OrderId=7245,Status=3,VolRemain=1,OrderRef=6
+[2020-March-12 Thursday, 09:36:21] TA-GD-00006_instance1,OnRtnOrder,OrderId=7245,Status=9,VolRemain=0,OrderRef=6
+[2020-March-12 Thursday, 09:36:21] TA-GD-00006_instance1,OnRtnTrade,OrderId=127246,vol=1,price=3860.00000
+[2020-March-12 Thursday, 09:36:21] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201042196,1,125335,127246;length:428
+[2020-March-12 Thursday, 09:37:22] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 09:37:22] AccountID:932535,Balance:18298.255
+[2020-March-12 Thursday, 09:38:26] CTP Insert!! 7,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:38:26] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=09:38:23,利鯉:30
+[2020-March-12 Thursday, 09:38:26] DispatchTdMsg,orderSysId:8108,ref:7
+[2020-March-12 Thursday, 09:38:26] DispatchTdMsg,orderSysId:8109,ref:7
+[2020-March-12 Thursday, 09:38:26] TA-GD-00006_instance1,OnRtnOrder,OrderId=8108,Status=3,VolRemain=1,OrderRef=7
+[2020-March-12 Thursday, 09:38:26] TA-GD-00006_instance1,OnRtnOrder,OrderId=8109,Status=3,VolRemain=1,OrderRef=7
+[2020-March-12 Thursday, 09:38:26] DispatchTdMsg,orderSysId:8109,ref:7
+[2020-March-12 Thursday, 09:38:26] DispatchTdMsg,orderSysId:128110,ref:7
+[2020-March-12 Thursday, 09:38:26] TA-GD-00006_instance1,OnRtnOrder,OrderId=8109,Status=9,VolRemain=0,OrderRef=7
+[2020-March-12 Thursday, 09:38:26] TA-GD-00006_instance1,OnRtnTrade,OrderId=128110,vol=1,price=3856.00000
+[2020-March-12 Thursday, 09:38:26] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201131093,-1,128110,-1;length:428
+[2020-March-12 Thursday, 09:39:42] CTP Insert!! 8,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:39:42] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=09:39:44,利鯉:31
+[2020-March-12 Thursday, 09:39:42] DispatchTdMsg,orderSysId:8454,ref:8
+[2020-March-12 Thursday, 09:39:42] TA-GD-00006_instance1,OnRtnOrder,OrderId=8454,Status=3,VolRemain=1,OrderRef=8
+[2020-March-12 Thursday, 09:39:42] DispatchTdMsg,orderSysId:8455,ref:8
+[2020-March-12 Thursday, 09:39:42] TA-GD-00006_instance1,OnRtnOrder,OrderId=8455,Status=3,VolRemain=1,OrderRef=8
+[2020-March-12 Thursday, 09:39:42] DispatchTdMsg,orderSysId:8455,ref:8
+[2020-March-12 Thursday, 09:39:42] DispatchTdMsg,orderSysId:128456,ref:8
+[2020-March-12 Thursday, 09:39:42] TA-GD-00006_instance1,OnRtnOrder,OrderId=8455,Status=9,VolRemain=0,OrderRef=8
+[2020-March-12 Thursday, 09:39:42] TA-GD-00006_instance1,OnRtnTrade,OrderId=128456,vol=1,price=3858.00000
+[2020-March-12 Thursday, 09:39:42] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201176705,-1,128456,-1;length:428
+[2020-March-12 Thursday, 09:49:46] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3840.00
+[2020-March-12 Thursday, 09:49:46] CTP Insert!! 9,openOrClose=1,buyOrSell=0,price=4152.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:49:46] DispatchTdMsg,orderSysId:9609,ref:9
+[2020-March-12 Thursday, 09:49:46] TA-GD-00006_instance1,OnRtnOrder,OrderId=9609,Status=3,VolRemain=1,OrderRef=9
+[2020-March-12 Thursday, 09:49:46] DispatchTdMsg,orderSysId:9610,ref:9
+[2020-March-12 Thursday, 09:49:46] DispatchTdMsg,orderSysId:9610,ref:9
+[2020-March-12 Thursday, 09:49:46] DispatchTdMsg,orderSysId:129611,ref:9
+[2020-March-12 Thursday, 09:49:46] TA-GD-00006_instance1,OnRtnOrder,OrderId=9610,Status=3,VolRemain=1,OrderRef=9
+[2020-March-12 Thursday, 09:49:46] TA-GD-00006_instance1,OnRtnOrder,OrderId=9610,Status=9,VolRemain=0,OrderRef=9
+[2020-March-12 Thursday, 09:49:46] TA-GD-00006_instance1,OnRtnTrade,OrderId=129611,vol=1,price=3842.00000
+[2020-March-12 Thursday, 09:49:46] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201404891,1,128456,129611;length:428
+[2020-March-12 Thursday, 09:50:01] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3820.00
+[2020-March-12 Thursday, 09:50:01] CTP Insert!! 10,openOrClose=1,buyOrSell=0,price=4152.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:50:01] DispatchTdMsg,orderSysId:9666,ref:10
+[2020-March-12 Thursday, 09:50:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=9666,Status=3,VolRemain=1,OrderRef=10
+[2020-March-12 Thursday, 09:50:01] DispatchTdMsg,orderSysId:9667,ref:10
+[2020-March-12 Thursday, 09:50:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=9667,Status=3,VolRemain=1,OrderRef=10
+[2020-March-12 Thursday, 09:50:01] DispatchTdMsg,orderSysId:9667,ref:10
+[2020-March-12 Thursday, 09:50:01] DispatchTdMsg,orderSysId:129668,ref:10
+[2020-March-12 Thursday, 09:50:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=9667,Status=9,VolRemain=0,OrderRef=10
+[2020-March-12 Thursday, 09:50:01] TA-GD-00006_instance1,OnRtnTrade,OrderId=129668,vol=1,price=3840.00000
+[2020-March-12 Thursday, 09:50:01] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201415195,1,128110,129668;length:428
+[2020-March-12 Thursday, 09:50:01] CTP Insert!! 11,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:50:01] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=09:50:03,利鯉:30
+[2020-March-12 Thursday, 09:50:01] DispatchTdMsg,orderSysId:9669,ref:11
+[2020-March-12 Thursday, 09:50:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=9669,Status=3,VolRemain=1,OrderRef=11
+[2020-March-12 Thursday, 09:50:01] DispatchTdMsg,orderSysId:9670,ref:11
+[2020-March-12 Thursday, 09:50:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=9670,Status=3,VolRemain=1,OrderRef=11
+[2020-March-12 Thursday, 09:50:01] DispatchTdMsg,orderSysId:9670,ref:11
+[2020-March-12 Thursday, 09:50:01] DispatchTdMsg,orderSysId:129671,ref:11
+[2020-March-12 Thursday, 09:50:01] TA-GD-00006_instance1,OnRtnOrder,OrderId=9670,Status=9,VolRemain=0,OrderRef=11
+[2020-March-12 Thursday, 09:50:01] TA-GD-00006_instance1,OnRtnTrade,OrderId=129671,vol=1,price=3838.00000
+[2020-March-12 Thursday, 09:50:01] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201415564,-1,129671,-1;length:428
+[2020-March-12 Thursday, 09:50:50] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 09:50:51] AccountID:932535,Balance:18449.218
+[2020-March-12 Thursday, 09:50:51] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3838.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 09:52:05] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3820.00
+[2020-March-12 Thursday, 09:52:05] CTP Insert!! 12,openOrClose=1,buyOrSell=0,price=4152.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:52:06] DispatchTdMsg,orderSysId:9916,ref:12
+[2020-March-12 Thursday, 09:52:06] DispatchTdMsg,orderSysId:9917,ref:12
+[2020-March-12 Thursday, 09:52:06] TA-GD-00006_instance1,OnRtnOrder,OrderId=9916,Status=3,VolRemain=1,OrderRef=12
+[2020-March-12 Thursday, 09:52:06] TA-GD-00006_instance1,OnRtnOrder,OrderId=9917,Status=3,VolRemain=1,OrderRef=12
+[2020-March-12 Thursday, 09:52:06] DispatchTdMsg,orderSysId:9917,ref:12
+[2020-March-12 Thursday, 09:52:06] DispatchTdMsg,orderSysId:129918,ref:12
+[2020-March-12 Thursday, 09:52:06] TA-GD-00006_instance1,OnRtnOrder,OrderId=9917,Status=9,VolRemain=0,OrderRef=12
+[2020-March-12 Thursday, 09:52:06] TA-GD-00006_instance1,OnRtnTrade,OrderId=129918,vol=1,price=3820.00000
+[2020-March-12 Thursday, 09:52:06] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201462219,1,129671,129918;length:428
+[2020-March-12 Thursday, 09:53:38] CTP Insert!! 13,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:53:38] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=09:53:39,利鯉:30
+[2020-March-12 Thursday, 09:53:38] DispatchTdMsg,orderSysId:10109,ref:13
+[2020-March-12 Thursday, 09:53:38] TA-GD-00006_instance1,OnRtnOrder,OrderId=10109,Status=3,VolRemain=1,OrderRef=13
+[2020-March-12 Thursday, 09:53:38] DispatchTdMsg,orderSysId:10110,ref:13
+[2020-March-12 Thursday, 09:53:38] TA-GD-00006_instance1,OnRtnOrder,OrderId=10110,Status=3,VolRemain=1,OrderRef=13
+[2020-March-12 Thursday, 09:53:38] DispatchTdMsg,orderSysId:10110,ref:13
+[2020-March-12 Thursday, 09:53:38] DispatchTdMsg,orderSysId:1210111,ref:13
+[2020-March-12 Thursday, 09:53:38] TA-GD-00006_instance1,OnRtnOrder,OrderId=10110,Status=9,VolRemain=0,OrderRef=13
+[2020-March-12 Thursday, 09:53:38] TA-GD-00006_instance1,OnRtnTrade,OrderId=1210111,vol=1,price=3818.00000
+[2020-March-12 Thursday, 09:53:38] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201511449,-1,1210111,-1;length:428
+[2020-March-12 Thursday, 09:54:23] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3800.00
+[2020-March-12 Thursday, 09:54:23] CTP Insert!! 14,openOrClose=1,buyOrSell=0,price=4152.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:54:24] DispatchTdMsg,orderSysId:10217,ref:14
+[2020-March-12 Thursday, 09:54:24] TA-GD-00006_instance1,OnRtnOrder,OrderId=10217,Status=3,VolRemain=1,OrderRef=14
+[2020-March-12 Thursday, 09:54:24] DispatchTdMsg,orderSysId:10218,ref:14
+[2020-March-12 Thursday, 09:54:24] DispatchTdMsg,orderSysId:10218,ref:14
+[2020-March-12 Thursday, 09:54:24] DispatchTdMsg,orderSysId:1210219,ref:14
+[2020-March-12 Thursday, 09:54:24] TA-GD-00006_instance1,OnRtnOrder,OrderId=10218,Status=3,VolRemain=1,OrderRef=14
+[2020-March-12 Thursday, 09:54:24] TA-GD-00006_instance1,OnRtnOrder,OrderId=10218,Status=9,VolRemain=0,OrderRef=14
+[2020-March-12 Thursday, 09:54:24] TA-GD-00006_instance1,OnRtnTrade,OrderId=1210219,vol=1,price=3798.00000
+[2020-March-12 Thursday, 09:54:24] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201539478,1,1210111,1210219;length:428
+[2020-March-12 Thursday, 09:54:56] CTP Insert!! 15,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:54:56] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=09:54:54,利鯉:30
+[2020-March-12 Thursday, 09:54:56] DispatchTdMsg,orderSysId:10350,ref:15
+[2020-March-12 Thursday, 09:54:56] DispatchTdMsg,orderSysId:10351,ref:15
+[2020-March-12 Thursday, 09:54:56] TA-GD-00006_instance1,OnRtnOrder,OrderId=10350,Status=3,VolRemain=1,OrderRef=15
+[2020-March-12 Thursday, 09:54:56] TA-GD-00006_instance1,OnRtnOrder,OrderId=10351,Status=3,VolRemain=1,OrderRef=15
+[2020-March-12 Thursday, 09:54:56] DispatchTdMsg,orderSysId:10351,ref:15
+[2020-March-12 Thursday, 09:54:56] DispatchTdMsg,orderSysId:1210352,ref:15
+[2020-March-12 Thursday, 09:54:56] TA-GD-00006_instance1,OnRtnOrder,OrderId=10351,Status=9,VolRemain=0,OrderRef=15
+[2020-March-12 Thursday, 09:54:56] TA-GD-00006_instance1,OnRtnTrade,OrderId=1210352,vol=1,price=3798.00000
+[2020-March-12 Thursday, 09:54:56] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201559721,-1,1210352,-1;length:428
+[2020-March-12 Thursday, 09:55:00] CTP Insert!! 16,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:55:00] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=09:54:58,利鯉:31
+[2020-March-12 Thursday, 09:55:00] DispatchTdMsg,orderSysId:10321,ref:16
+[2020-March-12 Thursday, 09:55:00] DispatchTdMsg,orderSysId:10322,ref:16
+[2020-March-12 Thursday, 09:55:00] TA-GD-00006_instance1,OnRtnOrder,OrderId=10321,Status=3,VolRemain=1,OrderRef=16
+[2020-March-12 Thursday, 09:55:00] TA-GD-00006_instance1,OnRtnOrder,OrderId=10322,Status=3,VolRemain=1,OrderRef=16
+[2020-March-12 Thursday, 09:55:00] DispatchTdMsg,orderSysId:10322,ref:16
+[2020-March-12 Thursday, 09:55:00] DispatchTdMsg,orderSysId:1210323,ref:16
+[2020-March-12 Thursday, 09:55:00] TA-GD-00006_instance1,OnRtnOrder,OrderId=10322,Status=9,VolRemain=0,OrderRef=16
+[2020-March-12 Thursday, 09:55:00] TA-GD-00006_instance1,OnRtnTrade,OrderId=1210323,vol=1,price=3798.00000
+[2020-March-12 Thursday, 09:55:00] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201563324,-1,1210323,-1;length:428
+[2020-March-12 Thursday, 09:55:02] CTP Insert!! 17,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:55:02] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=09:55:04,利鯉:32
+[2020-March-12 Thursday, 09:55:02] DispatchTdMsg,orderSysId:10331,ref:17
+[2020-March-12 Thursday, 09:55:02] DispatchTdMsg,orderSysId:10332,ref:17
+[2020-March-12 Thursday, 09:55:02] TA-GD-00006_instance1,OnRtnOrder,OrderId=10331,Status=3,VolRemain=1,OrderRef=17
+[2020-March-12 Thursday, 09:55:02] TA-GD-00006_instance1,OnRtnOrder,OrderId=10332,Status=3,VolRemain=1,OrderRef=17
+[2020-March-12 Thursday, 09:55:02] DispatchTdMsg,orderSysId:10332,ref:17
+[2020-March-12 Thursday, 09:55:02] DispatchTdMsg,orderSysId:1210333,ref:17
+[2020-March-12 Thursday, 09:55:02] TA-GD-00006_instance1,OnRtnOrder,OrderId=10332,Status=9,VolRemain=0,OrderRef=17
+[2020-March-12 Thursday, 09:55:02] TA-GD-00006_instance1,OnRtnTrade,OrderId=1210333,vol=1,price=3796.00000
+[2020-March-12 Thursday, 09:55:02] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201564834,-1,1210333,-1;length:428
+[2020-March-12 Thursday, 09:56:14] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 09:56:15] AccountID:932535,Balance:18497.170
+[2020-March-12 Thursday, 09:56:15] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3796.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 09:56:15] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 09:56:15] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 09:59:13] CTP Insert!! 18,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 09:59:13] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=09:59:14,利鯉:33
+[2020-March-12 Thursday, 09:59:13] DispatchTdMsg,orderSysId:10751,ref:18
+[2020-March-12 Thursday, 09:59:13] DispatchTdMsg,orderSysId:10752,ref:18
+[2020-March-12 Thursday, 09:59:13] TA-GD-00006_instance1,OnRtnOrder,OrderId=10751,Status=3,VolRemain=1,OrderRef=18
+[2020-March-12 Thursday, 09:59:13] TA-GD-00006_instance1,OnRtnOrder,OrderId=10752,Status=3,VolRemain=1,OrderRef=18
+[2020-March-12 Thursday, 09:59:13] DispatchTdMsg,orderSysId:10752,ref:18
+[2020-March-12 Thursday, 09:59:13] DispatchTdMsg,orderSysId:1210753,ref:18
+[2020-March-12 Thursday, 09:59:13] TA-GD-00006_instance1,OnRtnOrder,OrderId=10752,Status=9,VolRemain=0,OrderRef=18
+[2020-March-12 Thursday, 09:59:13] TA-GD-00006_instance1,OnRtnTrade,OrderId=1210753,vol=1,price=3818.00000
+[2020-March-12 Thursday, 09:59:13] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201655571,-1,1210753,-1;length:428
+[2020-March-12 Thursday, 10:09:02] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3800.00
+[2020-March-12 Thursday, 10:09:02] CTP Insert!! 19,openOrClose=1,buyOrSell=0,price=4152.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 10:09:02] DispatchTdMsg,orderSysId:11449,ref:19
+[2020-March-12 Thursday, 10:09:02] TA-GD-00006_instance1,OnRtnOrder,OrderId=11449,Status=3,VolRemain=1,OrderRef=19
+[2020-March-12 Thursday, 10:09:02] DispatchTdMsg,orderSysId:11450,ref:19
+[2020-March-12 Thursday, 10:09:02] DispatchTdMsg,orderSysId:11450,ref:19
+[2020-March-12 Thursday, 10:09:02] DispatchTdMsg,orderSysId:1211451,ref:19
+[2020-March-12 Thursday, 10:09:02] TA-GD-00006_instance1,OnRtnOrder,OrderId=11450,Status=3,VolRemain=1,OrderRef=19
+[2020-March-12 Thursday, 10:09:02] TA-GD-00006_instance1,OnRtnOrder,OrderId=11450,Status=9,VolRemain=0,OrderRef=19
+[2020-March-12 Thursday, 10:09:02] TA-GD-00006_instance1,OnRtnTrade,OrderId=1211451,vol=1,price=3798.00000
+[2020-March-12 Thursday, 10:09:02] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031201840419,1,1210753,1211451;length:428
+[2020-March-12 Thursday, 10:11:24] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 10:11:25] AccountID:932535,Balance:18894.157
+[2020-March-12 Thursday, 10:11:25] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:11:25] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3796.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:11:25] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:37:12] CTP Insert!! 20,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 10:37:12] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=10:37:14,利鯉:33
+[2020-March-12 Thursday, 10:37:12] DispatchTdMsg,orderSysId:13196,ref:20
+[2020-March-12 Thursday, 10:37:12] TA-GD-00006_instance1,OnRtnOrder,OrderId=13196,Status=3,VolRemain=1,OrderRef=20
+[2020-March-12 Thursday, 10:37:12] DispatchTdMsg,orderSysId:13197,ref:20
+[2020-March-12 Thursday, 10:37:12] DispatchTdMsg,orderSysId:13197,ref:20
+[2020-March-12 Thursday, 10:37:12] DispatchTdMsg,orderSysId:1213198,ref:20
+[2020-March-12 Thursday, 10:37:12] TA-GD-00006_instance1,OnRtnOrder,OrderId=13197,Status=3,VolRemain=1,OrderRef=20
+[2020-March-12 Thursday, 10:37:12] TA-GD-00006_instance1,OnRtnOrder,OrderId=13197,Status=9,VolRemain=0,OrderRef=20
+[2020-March-12 Thursday, 10:37:12] TA-GD-00006_instance1,OnRtnTrade,OrderId=1213198,vol=1,price=3818.00000
+[2020-March-12 Thursday, 10:37:12] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031202088695,-1,1213198,-1;length:428
+[2020-March-12 Thursday, 10:40:02] CTP Insert!! 21,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 10:40:02] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=10:40:05,利鯉:34
+[2020-March-12 Thursday, 10:40:02] DispatchTdMsg,orderSysId:13570,ref:21
+[2020-March-12 Thursday, 10:40:02] TA-GD-00006_instance1,OnRtnOrder,OrderId=13570,Status=3,VolRemain=1,OrderRef=21
+[2020-March-12 Thursday, 10:40:02] DispatchTdMsg,orderSysId:13571,ref:21
+[2020-March-12 Thursday, 10:40:02] TA-GD-00006_instance1,OnRtnOrder,OrderId=13571,Status=3,VolRemain=1,OrderRef=21
+[2020-March-12 Thursday, 10:40:02] DispatchTdMsg,orderSysId:13571,ref:21
+[2020-March-12 Thursday, 10:40:02] DispatchTdMsg,orderSysId:1213572,ref:21
+[2020-March-12 Thursday, 10:40:02] TA-GD-00006_instance1,OnRtnOrder,OrderId=13571,Status=9,VolRemain=0,OrderRef=21
+[2020-March-12 Thursday, 10:40:02] TA-GD-00006_instance1,OnRtnTrade,OrderId=1213572,vol=1,price=3838.00000
+[2020-March-12 Thursday, 10:40:02] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031202149638,-1,1213572,-1;length:428
+[2020-March-12 Thursday, 10:45:54] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 10:45:55] AccountID:932535,Balance:17908.135
+[2020-March-12 Thursday, 10:45:55] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3838.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:45:55] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:45:55] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:45:55] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3796.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:45:55] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:46:59] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 10:46:59] AccountID:932535,Balance:18108.135
+[2020-March-12 Thursday, 10:46:59] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3838.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:46:59] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:46:59] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:46:59] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3796.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:46:59] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:55:15] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 10:55:16] AccountID:932535,Balance:18258.135
+[2020-March-12 Thursday, 10:55:16] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3838.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:55:16] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:55:16] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:55:16] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3796.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 10:55:16] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 11:04:58] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 11:04:58] AccountID:932535,Balance:18258.135
+[2020-March-12 Thursday, 11:04:58] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3838.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 11:04:58] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 11:04:58] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 11:04:58] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3796.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 11:04:58] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 13:54:16] CTP Insert!! 22,openOrClose=0,buyOrSell=1,price=3756.0000,vol=1,inst=TA005,iRet=0
+[2020-March-12 Thursday, 13:54:16] TA-GD-00006_instance1,貧利鯉蝕花,沢=3756.00000,扮寂=13:54:18,利鯉:35
+[2020-March-12 Thursday, 13:54:16] DispatchTdMsg,orderSysId:16856,ref:22
+[2020-March-12 Thursday, 13:54:16] TA-GD-00006_instance1,OnRtnOrder,OrderId=16856,Status=3,VolRemain=1,OrderRef=22
+[2020-March-12 Thursday, 13:54:16] DispatchTdMsg,orderSysId:16857,ref:22
+[2020-March-12 Thursday, 13:54:16] DispatchTdMsg,orderSysId:16857,ref:22
+[2020-March-12 Thursday, 13:54:16] DispatchTdMsg,orderSysId:1216858,ref:22
+[2020-March-12 Thursday, 13:54:16] TA-GD-00006_instance1,OnRtnOrder,OrderId=16857,Status=3,VolRemain=1,OrderRef=22
+[2020-March-12 Thursday, 13:54:16] TA-GD-00006_instance1,OnRtnOrder,OrderId=16857,Status=9,VolRemain=0,OrderRef=22
+[2020-March-12 Thursday, 13:54:16] TA-GD-00006_instance1,OnRtnTrade,OrderId=1216858,vol=1,price=3858.00000
+[2020-March-12 Thursday, 13:54:16] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031202979482,-1,1216858,-1;length:428
+[2020-March-12 Thursday, 13:55:57] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 13:55:58] AccountID:932535,Balance:17265.123
+[2020-March-12 Thursday, 13:55:58] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3858.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 13:55:58] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3838.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 13:55:58] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 13:55:58] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 13:55:58] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3796.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 13:55:58] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 13:59:31] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 13:59:32] AccountID:932535,Balance:17025.123
+[2020-March-12 Thursday, 13:59:32] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3858.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 13:59:32] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3838.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 13:59:32] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 13:59:32] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 13:59:32] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3796.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 13:59:32] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 14:37:07] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 14:37:08] AccountID:932535,Balance:17865.123
+[2020-March-12 Thursday, 14:37:08] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3858.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 14:37:08] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3838.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 14:37:08] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 14:37:08] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 14:37:08] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3796.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 14:37:08] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 15:05:04] AccountID:932535,Balance:17505.123
+[2020-March-12 Thursday, 15:05:04] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3858.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 15:05:04] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3838.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 15:05:04] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 15:05:04] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 15:05:04] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3796.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 15:05:04] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 15:09:03] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-12 Thursday, 15:09:03] AccountID:932535,Balance:17505.123
+[2020-March-12 Thursday, 15:09:03] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3858.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 15:09:03] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3838.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 15:09:03] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 15:09:03] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 15:09:03] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3796.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 15:09:03] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3954.00,-10.00,MatchDateTime:20200312
+[2020-March-12 Thursday, 20:50:11] Create CTPTrader Thread..
+[2020-March-13 Friday, 08:46:02] Create CTPTrader Thread..
+[2020-March-13 Friday, 08:46:02] CTP MD RspLogin Success.
+[2020-March-13 Friday, 08:46:03] AccountID:932535,Balance:17625.150
+[2020-March-13 Friday, 08:46:03] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3854.00,-280.00,MatchDateTime:20200312
+[2020-March-13 Friday, 08:46:03] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3858.00,TradeVol:1,SettlePrice:3854.00,20.00,MatchDateTime:20200312
+[2020-March-13 Friday, 08:46:03] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,-80.00,MatchDateTime:20200312
+[2020-March-13 Friday, 08:46:03] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3854.00,-180.00,MatchDateTime:20200312
+[2020-March-13 Friday, 08:46:03] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3854.00,-180.00,MatchDateTime:20200312
+[2020-March-13 Friday, 08:46:03] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3796.00,TradeVol:1,SettlePrice:3854.00,-290.00,MatchDateTime:20200312
+[2020-March-13 Friday, 08:59:57] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3800.00
+[2020-March-13 Friday, 08:59:57] CTP Insert!! 24,openOrClose=1,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 08:59:57] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3820.00
+[2020-March-13 Friday, 08:59:57] CTP Insert!! 25,openOrClose=1,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 08:59:57] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3840.00
+[2020-March-13 Friday, 08:59:57] CTP Insert!! 26,openOrClose=1,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 08:59:58] DispatchTdMsg,orderSysId:101,ref:24
+[2020-March-13 Friday, 08:59:58] DispatchTdMsg,orderSysId:102,ref:24
+[2020-March-13 Friday, 08:59:58] DispatchTdMsg,orderSysId:102,ref:24
+[2020-March-13 Friday, 08:59:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=101,Status=3,VolRemain=1,OrderRef=24
+[2020-March-13 Friday, 08:59:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=102,Status=3,VolRemain=1,OrderRef=24
+[2020-March-13 Friday, 08:59:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=102,Status=9,VolRemain=0,OrderRef=24
+[2020-March-13 Friday, 08:59:58] DispatchTdMsg,orderSysId:13103,ref:24
+[2020-March-13 Friday, 08:59:58] DispatchTdMsg,orderSysId:104,ref:26
+[2020-March-13 Friday, 08:59:58] DispatchTdMsg,orderSysId:105,ref:26
+[2020-March-13 Friday, 08:59:58] DispatchTdMsg,orderSysId:105,ref:26
+[2020-March-13 Friday, 08:59:58] DispatchTdMsg,orderSysId:13106,ref:26
+[2020-March-13 Friday, 08:59:58] DispatchTdMsg,orderSysId:70,ref:25
+[2020-March-13 Friday, 08:59:58] DispatchTdMsg,orderSysId:71,ref:25
+[2020-March-13 Friday, 08:59:58] TA-GD-00006_instance1,OnRtnTrade,OrderId=13103,vol=1,price=3794.00000
+[2020-March-13 Friday, 08:59:58] DispatchTdMsg,orderSysId:71,ref:25
+[2020-March-13 Friday, 08:59:58] DispatchTdMsg,orderSysId:1372,ref:25
+[2020-March-13 Friday, 08:59:58] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300014558,1,1213198,13103;length:428
+[2020-March-13 Friday, 08:59:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=104,Status=3,VolRemain=1,OrderRef=26
+[2020-March-13 Friday, 08:59:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=105,Status=3,VolRemain=1,OrderRef=26
+[2020-March-13 Friday, 08:59:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=105,Status=9,VolRemain=0,OrderRef=26
+[2020-March-13 Friday, 08:59:58] TA-GD-00006_instance1,OnRtnTrade,OrderId=13106,vol=1,price=3794.00000
+[2020-March-13 Friday, 08:59:58] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300014560,1,1216858,13106;length:428
+[2020-March-13 Friday, 08:59:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=70,Status=3,VolRemain=1,OrderRef=25
+[2020-March-13 Friday, 08:59:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=71,Status=3,VolRemain=1,OrderRef=25
+[2020-March-13 Friday, 08:59:58] TA-GD-00006_instance1,OnRtnOrder,OrderId=71,Status=9,VolRemain=0,OrderRef=25
+[2020-March-13 Friday, 08:59:58] TA-GD-00006_instance1,OnRtnTrade,OrderId=1372,vol=1,price=3794.00000
+[2020-March-13 Friday, 08:59:58] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300014566,1,1213572,1372;length:428
+[2020-March-13 Friday, 09:00:17] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 09:00:18] AccountID:932535,Balance:19386.116
+[2020-March-13 Friday, 09:00:18] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3858.00,TradeVol:1,SettlePrice:3854.00,20.00,MatchDateTime:20200312
+[2020-March-13 Friday, 09:00:18] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3838.00,TradeVol:1,SettlePrice:3854.00,-80.00,MatchDateTime:20200312
+[2020-March-13 Friday, 09:00:18] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3818.00,TradeVol:1,SettlePrice:3854.00,-180.00,MatchDateTime:20200312
+[2020-March-13 Friday, 09:01:46] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3740.00
+[2020-March-13 Friday, 09:01:46] CTP Insert!! 27,openOrClose=1,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 09:01:46] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3760.00
+[2020-March-13 Friday, 09:01:46] CTP Insert!! 28,openOrClose=1,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 09:01:46] DispatchTdMsg,orderSysId:1043,ref:27
+[2020-March-13 Friday, 09:01:46] TA-GD-00006_instance1,OnRtnOrder,OrderId=1043,Status=3,VolRemain=1,OrderRef=27
+[2020-March-13 Friday, 09:01:46] DispatchTdMsg,orderSysId:1044,ref:27
+[2020-March-13 Friday, 09:01:46] TA-GD-00006_instance1,OnRtnOrder,OrderId=1044,Status=3,VolRemain=1,OrderRef=27
+[2020-March-13 Friday, 09:01:46] DispatchTdMsg,orderSysId:1044,ref:27
+[2020-March-13 Friday, 09:01:46] DispatchTdMsg,orderSysId:131045,ref:27
+[2020-March-13 Friday, 09:01:46] DispatchTdMsg,orderSysId:891,ref:28
+[2020-March-13 Friday, 09:01:46] DispatchTdMsg,orderSysId:892,ref:28
+[2020-March-13 Friday, 09:01:46] DispatchTdMsg,orderSysId:892,ref:28
+[2020-March-13 Friday, 09:01:46] DispatchTdMsg,orderSysId:13893,ref:28
+[2020-March-13 Friday, 09:01:46] TA-GD-00006_instance1,OnRtnOrder,OrderId=1044,Status=9,VolRemain=0,OrderRef=27
+[2020-March-13 Friday, 09:01:46] TA-GD-00006_instance1,OnRtnTrade,OrderId=131045,vol=1,price=3780.00000
+[2020-March-13 Friday, 09:01:46] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300196736,1,1210352,131045;length:428
+[2020-March-13 Friday, 09:01:46] TA-GD-00006_instance1,OnRtnOrder,OrderId=891,Status=3,VolRemain=1,OrderRef=28
+[2020-March-13 Friday, 09:01:46] TA-GD-00006_instance1,OnRtnOrder,OrderId=892,Status=3,VolRemain=1,OrderRef=28
+[2020-March-13 Friday, 09:01:46] TA-GD-00006_instance1,OnRtnOrder,OrderId=892,Status=9,VolRemain=0,OrderRef=28
+[2020-March-13 Friday, 09:01:46] TA-GD-00006_instance1,OnRtnTrade,OrderId=13893,vol=1,price=3780.00000
+[2020-March-13 Friday, 09:01:46] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300196738,1,1210323,13893;length:428
+[2020-March-13 Friday, 09:02:11] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3780.00
+[2020-March-13 Friday, 09:02:11] CTP Insert!! 29,openOrClose=1,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 09:02:11] DispatchTdMsg,orderSysId:1049,ref:29
+[2020-March-13 Friday, 09:02:11] DispatchTdMsg,orderSysId:1050,ref:29
+[2020-March-13 Friday, 09:02:11] TA-GD-00006_instance1,OnRtnOrder,OrderId=1049,Status=3,VolRemain=1,OrderRef=29
+[2020-March-13 Friday, 09:02:11] TA-GD-00006_instance1,OnRtnOrder,OrderId=1050,Status=3,VolRemain=1,OrderRef=29
+[2020-March-13 Friday, 09:02:11] DispatchTdMsg,orderSysId:1050,ref:29
+[2020-March-13 Friday, 09:02:11] DispatchTdMsg,orderSysId:131051,ref:29
+[2020-March-13 Friday, 09:02:11] TA-GD-00006_instance1,OnRtnOrder,OrderId=1050,Status=9,VolRemain=0,OrderRef=29
+[2020-March-13 Friday, 09:02:11] TA-GD-00006_instance1,OnRtnTrade,OrderId=131051,vol=1,price=3778.00000
+[2020-March-13 Friday, 09:02:11] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300223713,1,1210333,131051;length:428
+[2020-March-13 Friday, 09:02:11] CTP Insert!! 30,openOrClose=0,buyOrSell=1,price=3660.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 09:02:11] TA-GD-00006_instance1,貧利鯉蝕花,沢=3660.00000,扮寂=09:02:14,利鯉:30
+[2020-March-13 Friday, 09:02:11] DispatchTdMsg,orderSysId:1191,ref:30
+[2020-March-13 Friday, 09:02:11] DispatchTdMsg,orderSysId:1192,ref:30
+[2020-March-13 Friday, 09:02:11] TA-GD-00006_instance1,OnRtnOrder,OrderId=1191,Status=3,VolRemain=1,OrderRef=30
+[2020-March-13 Friday, 09:02:11] TA-GD-00006_instance1,OnRtnOrder,OrderId=1192,Status=3,VolRemain=1,OrderRef=30
+[2020-March-13 Friday, 09:02:11] DispatchTdMsg,orderSysId:1192,ref:30
+[2020-March-13 Friday, 09:02:11] DispatchTdMsg,orderSysId:131193,ref:30
+[2020-March-13 Friday, 09:02:11] TA-GD-00006_instance1,OnRtnOrder,OrderId=1192,Status=9,VolRemain=0,OrderRef=30
+[2020-March-13 Friday, 09:02:11] TA-GD-00006_instance1,OnRtnTrade,OrderId=131193,vol=1,price=3776.00000
+[2020-March-13 Friday, 09:02:11] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300224516,-1,131193,-1;length:428
+[2020-March-13 Friday, 09:02:45] CTP Insert!! 31,openOrClose=0,buyOrSell=1,price=3660.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 09:02:45] TA-GD-00006_instance1,貧利鯉蝕花,沢=3660.00000,扮寂=09:02:47,利鯉:31
+[2020-March-13 Friday, 09:02:45] DispatchTdMsg,orderSysId:1350,ref:31
+[2020-March-13 Friday, 09:02:45] DispatchTdMsg,orderSysId:1351,ref:31
+[2020-March-13 Friday, 09:02:45] TA-GD-00006_instance1,OnRtnOrder,OrderId=1350,Status=3,VolRemain=1,OrderRef=31
+[2020-March-13 Friday, 09:02:45] TA-GD-00006_instance1,OnRtnOrder,OrderId=1351,Status=3,VolRemain=1,OrderRef=31
+[2020-March-13 Friday, 09:02:45] DispatchTdMsg,orderSysId:1351,ref:31
+[2020-March-13 Friday, 09:02:45] DispatchTdMsg,orderSysId:131352,ref:31
+[2020-March-13 Friday, 09:02:45] TA-GD-00006_instance1,OnRtnOrder,OrderId=1351,Status=9,VolRemain=0,OrderRef=31
+[2020-March-13 Friday, 09:02:45] TA-GD-00006_instance1,OnRtnTrade,OrderId=131352,vol=1,price=3780.00000
+[2020-March-13 Friday, 09:02:45] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300257253,-1,131352,-1;length:428
+[2020-March-13 Friday, 09:06:43] CTP Insert!! 32,openOrClose=0,buyOrSell=1,price=3660.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 09:06:43] TA-GD-00006_instance1,貧利鯉蝕花,沢=3660.00000,扮寂=09:06:46,利鯉:32
+[2020-March-13 Friday, 09:06:43] DispatchTdMsg,orderSysId:2035,ref:32
+[2020-March-13 Friday, 09:06:43] TA-GD-00006_instance1,OnRtnOrder,OrderId=2035,Status=3,VolRemain=1,OrderRef=32
+[2020-March-13 Friday, 09:06:43] DispatchTdMsg,orderSysId:2036,ref:32
+[2020-March-13 Friday, 09:06:43] DispatchTdMsg,orderSysId:2036,ref:32
+[2020-March-13 Friday, 09:06:43] DispatchTdMsg,orderSysId:132037,ref:32
+[2020-March-13 Friday, 09:06:43] TA-GD-00006_instance1,OnRtnOrder,OrderId=2036,Status=3,VolRemain=1,OrderRef=32
+[2020-March-13 Friday, 09:06:43] TA-GD-00006_instance1,OnRtnOrder,OrderId=2036,Status=9,VolRemain=0,OrderRef=32
+[2020-March-13 Friday, 09:06:43] TA-GD-00006_instance1,OnRtnTrade,OrderId=132037,vol=1,price=3798.00000
+[2020-March-13 Friday, 09:06:43] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300422398,-1,132037,-1;length:428
+[2020-March-13 Friday, 09:11:19] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 09:11:19] AccountID:932535,Balance:19358.048
+[2020-March-13 Friday, 09:11:19] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3798.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 09:11:19] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3780.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 09:11:19] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3776.00,TradeVol:1,SettlePrice:3854.00,0.00,MatchDateTime:20200313
+[2020-March-13 Friday, 09:16:53] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3780.00
+[2020-March-13 Friday, 09:16:53] CTP Insert!! 33,openOrClose=1,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 09:16:54] DispatchTdMsg,orderSysId:3515,ref:33
+[2020-March-13 Friday, 09:16:54] TA-GD-00006_instance1,OnRtnOrder,OrderId=3515,Status=3,VolRemain=1,OrderRef=33
+[2020-March-13 Friday, 09:16:54] DispatchTdMsg,orderSysId:3516,ref:33
+[2020-March-13 Friday, 09:16:54] TA-GD-00006_instance1,OnRtnOrder,OrderId=3516,Status=3,VolRemain=1,OrderRef=33
+[2020-March-13 Friday, 09:16:54] DispatchTdMsg,orderSysId:3516,ref:33
+[2020-March-13 Friday, 09:16:54] DispatchTdMsg,orderSysId:133517,ref:33
+[2020-March-13 Friday, 09:16:54] TA-GD-00006_instance1,OnRtnOrder,OrderId=3516,Status=9,VolRemain=0,OrderRef=33
+[2020-March-13 Friday, 09:16:54] TA-GD-00006_instance1,OnRtnTrade,OrderId=133517,vol=1,price=3780.00000
+[2020-March-13 Friday, 09:16:54] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300735695,1,132037,133517;length:428
+[2020-March-13 Friday, 09:19:29] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3760.00
+[2020-March-13 Friday, 09:19:29] CTP Insert!! 34,openOrClose=1,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 09:19:29] DispatchTdMsg,orderSysId:3882,ref:34
+[2020-March-13 Friday, 09:19:29] TA-GD-00006_instance1,OnRtnOrder,OrderId=3882,Status=3,VolRemain=1,OrderRef=34
+[2020-March-13 Friday, 09:19:29] DispatchTdMsg,orderSysId:3883,ref:34
+[2020-March-13 Friday, 09:19:29] TA-GD-00006_instance1,OnRtnOrder,OrderId=3883,Status=3,VolRemain=1,OrderRef=34
+[2020-March-13 Friday, 09:19:29] DispatchTdMsg,orderSysId:3883,ref:34
+[2020-March-13 Friday, 09:19:29] DispatchTdMsg,orderSysId:133884,ref:34
+[2020-March-13 Friday, 09:19:29] TA-GD-00006_instance1,OnRtnOrder,OrderId=3883,Status=9,VolRemain=0,OrderRef=34
+[2020-March-13 Friday, 09:19:29] TA-GD-00006_instance1,OnRtnTrade,OrderId=133884,vol=1,price=3762.00000
+[2020-March-13 Friday, 09:19:29] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300809196,1,131352,133884;length:428
+[2020-March-13 Friday, 09:19:51] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3740.00
+[2020-March-13 Friday, 09:19:51] CTP Insert!! 35,openOrClose=1,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 09:19:51] DispatchTdMsg,orderSysId:3927,ref:35
+[2020-March-13 Friday, 09:19:51] DispatchTdMsg,orderSysId:3928,ref:35
+[2020-March-13 Friday, 09:19:51] TA-GD-00006_instance1,OnRtnOrder,OrderId=3927,Status=3,VolRemain=1,OrderRef=35
+[2020-March-13 Friday, 09:19:51] TA-GD-00006_instance1,OnRtnOrder,OrderId=3928,Status=3,VolRemain=1,OrderRef=35
+[2020-March-13 Friday, 09:19:51] DispatchTdMsg,orderSysId:3928,ref:35
+[2020-March-13 Friday, 09:19:51] DispatchTdMsg,orderSysId:133929,ref:35
+[2020-March-13 Friday, 09:19:51] TA-GD-00006_instance1,OnRtnOrder,OrderId=3928,Status=9,VolRemain=0,OrderRef=35
+[2020-March-13 Friday, 09:19:51] TA-GD-00006_instance1,OnRtnTrade,OrderId=133929,vol=1,price=3758.00000
+[2020-March-13 Friday, 09:19:51] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300821991,1,131193,133929;length:428
+[2020-March-13 Friday, 09:19:55] CTP Insert!! 36,openOrClose=0,buyOrSell=1,price=3660.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 09:19:55] TA-GD-00006_instance1,貧利鯉蝕花,沢=3660.00000,扮寂=09:19:57,利鯉:30
+[2020-March-13 Friday, 09:19:55] DispatchTdMsg,orderSysId:3977,ref:36
+[2020-March-13 Friday, 09:19:55] DispatchTdMsg,orderSysId:3978,ref:36
+[2020-March-13 Friday, 09:19:55] DispatchTdMsg,orderSysId:3978,ref:36
+[2020-March-13 Friday, 09:19:55] DispatchTdMsg,orderSysId:133979,ref:36
+[2020-March-13 Friday, 09:19:55] TA-GD-00006_instance1,OnRtnOrder,OrderId=3977,Status=3,VolRemain=1,OrderRef=36
+[2020-March-13 Friday, 09:19:55] TA-GD-00006_instance1,OnRtnOrder,OrderId=3978,Status=3,VolRemain=1,OrderRef=36
+[2020-March-13 Friday, 09:19:55] TA-GD-00006_instance1,OnRtnOrder,OrderId=3978,Status=9,VolRemain=0,OrderRef=36
+[2020-March-13 Friday, 09:19:55] TA-GD-00006_instance1,OnRtnTrade,OrderId=133979,vol=1,price=3758.00000
+[2020-March-13 Friday, 09:19:55] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300823594,-1,133979,-1;length:428
+[2020-March-13 Friday, 09:21:12] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 09:21:13] AccountID:932535,Balance:19865.033
+[2020-March-13 Friday, 09:21:13] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3758.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 09:27:03] CTP Insert!! 37,openOrClose=0,buyOrSell=1,price=3660.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 09:27:03] TA-GD-00006_instance1,貧利鯉蝕花,沢=3660.00000,扮寂=09:27:06,利鯉:31
+[2020-March-13 Friday, 09:27:03] DispatchTdMsg,orderSysId:4693,ref:37
+[2020-March-13 Friday, 09:27:03] DispatchTdMsg,orderSysId:4694,ref:37
+[2020-March-13 Friday, 09:27:03] DispatchTdMsg,orderSysId:4694,ref:37
+[2020-March-13 Friday, 09:27:03] TA-GD-00006_instance1,OnRtnOrder,OrderId=4693,Status=3,VolRemain=1,OrderRef=37
+[2020-March-13 Friday, 09:27:03] DispatchTdMsg,orderSysId:134695,ref:37
+[2020-March-13 Friday, 09:27:03] TA-GD-00006_instance1,OnRtnOrder,OrderId=4694,Status=3,VolRemain=1,OrderRef=37
+[2020-March-13 Friday, 09:27:03] TA-GD-00006_instance1,OnRtnOrder,OrderId=4694,Status=9,VolRemain=0,OrderRef=37
+[2020-March-13 Friday, 09:27:03] TA-GD-00006_instance1,OnRtnTrade,OrderId=134695,vol=1,price=3778.00000
+[2020-March-13 Friday, 09:27:03] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031300976709,-1,134695,-1;length:428
+[2020-March-13 Friday, 09:43:51] TA-GD-00006_instance1,Sell Order Close,OrderId=-1,price=3760.00
+[2020-March-13 Friday, 09:43:51] CTP Insert!! 38,openOrClose=1,buyOrSell=0,price=4048.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 09:43:51] DispatchTdMsg,orderSysId:5585,ref:38
+[2020-March-13 Friday, 09:43:51] DispatchTdMsg,orderSysId:5586,ref:38
+[2020-March-13 Friday, 09:43:51] TA-GD-00006_instance1,OnRtnOrder,OrderId=5585,Status=3,VolRemain=1,OrderRef=38
+[2020-March-13 Friday, 09:43:51] TA-GD-00006_instance1,OnRtnOrder,OrderId=5586,Status=3,VolRemain=1,OrderRef=38
+[2020-March-13 Friday, 09:43:51] DispatchTdMsg,orderSysId:5586,ref:38
+[2020-March-13 Friday, 09:43:51] DispatchTdMsg,orderSysId:135587,ref:38
+[2020-March-13 Friday, 09:43:51] TA-GD-00006_instance1,OnRtnOrder,OrderId=5586,Status=9,VolRemain=0,OrderRef=38
+[2020-March-13 Friday, 09:43:51] TA-GD-00006_instance1,OnRtnTrade,OrderId=135587,vol=1,price=3760.00000
+[2020-March-13 Friday, 09:43:51] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031301273506,1,134695,135587;length:428
+[2020-March-13 Friday, 09:44:39] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 09:44:40] AccountID:932535,Balance:19892.020
+[2020-March-13 Friday, 09:44:40] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3778.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 09:58:05] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 09:58:05] AccountID:932535,Balance:19932.020
+[2020-March-13 Friday, 09:58:05] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3778.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 10:03:27] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 10:03:28] AccountID:932535,Balance:19932.020
+[2020-March-13 Friday, 10:03:28] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3778.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 10:03:32] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 10:03:32] AccountID:932535,Balance:19932.020
+[2020-March-13 Friday, 10:03:32] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3778.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 10:07:19] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-March-13 Friday, 10:07:20] AccountID:932535,Balance:19942.020
+[2020-March-13 Friday, 10:07:20] ClientNo:932535,Inst:TA005,Direct:1,TradePrice:3778.00,TradeVol:1,SettlePrice:3854.00,-10.00,MatchDateTime:20200313
+[2020-March-13 Friday, 10:14:10] CTP Insert!! 39,openOrClose=0,buyOrSell=1,price=3660.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 10:14:10] TA-GD-00006_instance1,貧利鯉蝕花,沢=3660.00000,扮寂=10:14:13,利鯉:31
+[2020-March-13 Friday, 10:14:10] DispatchTdMsg,orderSysId:7693,ref:39
+[2020-March-13 Friday, 10:14:10] DispatchTdMsg,orderSysId:7694,ref:39
+[2020-March-13 Friday, 10:14:10] TA-GD-00006_instance1,OnRtnOrder,OrderId=7693,Status=3,VolRemain=1,OrderRef=39
+[2020-March-13 Friday, 10:14:10] TA-GD-00006_instance1,OnRtnOrder,OrderId=7694,Status=3,VolRemain=1,OrderRef=39
+[2020-March-13 Friday, 10:14:10] DispatchTdMsg,orderSysId:7694,ref:39
+[2020-March-13 Friday, 10:14:10] DispatchTdMsg,orderSysId:137695,ref:39
+[2020-March-13 Friday, 10:14:10] TA-GD-00006_instance1,OnRtnOrder,OrderId=7694,Status=9,VolRemain=0,OrderRef=39
+[2020-March-13 Friday, 10:14:10] TA-GD-00006_instance1,OnRtnTrade,OrderId=137695,vol=1,price=3776.00000
+[2020-March-13 Friday, 10:14:10] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031301760124,-1,137695,-1;length:428
+[2020-March-13 Friday, 10:57:40] CTP Insert!! 40,openOrClose=0,buyOrSell=1,price=3660.0000,vol=1,inst=TA005,iRet=0
+[2020-March-13 Friday, 10:57:40] TA-GD-00006_instance1,貧利鯉蝕花,沢=3660.00000,扮寂=10:57:42,利鯉:32
+[2020-March-13 Friday, 10:57:40] DispatchTdMsg,orderSysId:9586,ref:40
+[2020-March-13 Friday, 10:57:40] TA-GD-00006_instance1,OnRtnOrder,OrderId=9586,Status=3,VolRemain=1,OrderRef=40
+[2020-March-13 Friday, 10:57:40] DispatchTdMsg,orderSysId:9587,ref:40
+[2020-March-13 Friday, 10:57:40] DispatchTdMsg,orderSysId:9587,ref:40
+[2020-March-13 Friday, 10:57:40] DispatchTdMsg,orderSysId:139588,ref:40
+[2020-March-13 Friday, 10:57:40] TA-GD-00006_instance1,OnRtnOrder,OrderId=9587,Status=3,VolRemain=1,OrderRef=40
+[2020-March-13 Friday, 10:57:40] TA-GD-00006_instance1,OnRtnOrder,OrderId=9587,Status=9,VolRemain=0,OrderRef=40
+[2020-March-13 Friday, 10:57:40] TA-GD-00006_instance1,OnRtnTrade,OrderId=139588,vol=1,price=3798.00000
+[2020-March-13 Friday, 10:57:40] send:面面面面面面面面面面面面面面面面面面面面面面面面面instance1,TA-GD-00006,instance1,CZCE TA TA005,2020031302169378,-1,139588,-1;length:428
+[2020-March-13 Friday, 12:08:45] TA-GD-00006_instance1,Stop

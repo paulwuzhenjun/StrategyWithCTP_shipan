@@ -1,0 +1,10 @@
+[2018-October-25 Thursday, 13:34:39] Log File Opened..
+[2018-October-25 Thursday, 13:34:40] CTP MD RspLogin Success.
+[2018-October-25 Thursday, 13:34:48] Create CTPTrader Thread..
+[2018-October-25 Thursday, 13:34:48] AccountID:094440,Balance:944207.370
+[2018-October-25 Thursday, 13:34:49] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-October-25 Thursday, 13:34:50] AccountID:094440,Balance:944207.370
+[2018-October-25 Thursday, 13:34:51] AccountID:094440,Balance:943997.370
+[2018-October-25 Thursday, 13:35:13] Strategy Init..
+[2018-October-25 Thursday, 13:35:13] ag-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=13:35:13,Shmindex:0
+[2018-October-25 Thursday, 13:37:20] ag-GD-00006-2_instance1,Stop

@@ -1,0 +1,19 @@
+[2018-August-15 Wednesday, 20:47:31] Log File Opened..
+[2018-August-15 Wednesday, 20:47:32] CTP MD RspLogin Success.
+[2018-August-15 Wednesday, 20:47:39] Create CTPTrader Thread..
+[2018-August-15 Wednesday, 20:47:47] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-August-15 Wednesday, 20:48:16] Log File Opened..
+[2018-August-15 Wednesday, 20:48:17] CTP MD RspLogin Success.
+[2018-August-15 Wednesday, 20:48:25] Create CTPTrader Thread..
+[2018-August-15 Wednesday, 20:50:09] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-August-15 Wednesday, 20:51:08] Log File Opened..
+[2018-August-15 Wednesday, 20:51:09] CTP MD RspLogin Success.
+[2018-August-15 Wednesday, 20:51:19] Create CTPTrader Thread..
+[2018-August-15 Wednesday, 20:51:19] 连接CTP当前时间:2018-08-15 20:51:19
+[2018-August-15 Wednesday, 20:51:19] AccountID:094440,Balance:943171.500
+[2018-August-15 Wednesday, 20:51:20] AccountID:094440,Balance:943171.500
+[2018-August-15 Wednesday, 20:51:21] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-August-15 Wednesday, 20:51:21] AccountID:094440,Balance:943171.500
+[2018-August-15 Wednesday, 20:51:40] Strategy Init..
+[2018-August-15 Wednesday, 20:51:40] ag-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=20:51:40,Shmindex:0
+[2018-August-15 Wednesday, 20:52:14] ag-GD-00006-2_instance1,Stop

@@ -1,0 +1,103 @@
+[2019-June-17 Monday, 08:03:52] Log File Opened..
+[2019-June-17 Monday, 08:03:53] CTP MD RspLogin Success.
+[2019-June-17 Monday, 08:04:02] Create CTPTrader Thread..
+[2019-June-17 Monday, 08:04:11] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-June-17 Monday, 08:20:33] Log File Opened..
+[2019-June-17 Monday, 08:20:35] CTP MD RspLogin Success.
+[2019-June-17 Monday, 08:20:43] Create CTPTrader Thread..
+[2019-June-17 Monday, 08:20:45] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-June-17 Monday, 08:40:16] Log File Opened..
+[2019-June-17 Monday, 08:40:17] CTP MD RspLogin Success.
+[2019-June-17 Monday, 08:40:37] Create CTPTrader Thread..
+[2019-June-17 Monday, 08:40:53] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-June-17 Monday, 08:49:11] Log File Opened..
+[2019-June-17 Monday, 08:49:12] CTP MD RspLogin Success.
+[2019-June-17 Monday, 08:49:23] Create CTPTrader Thread..
+[2019-June-17 Monday, 08:54:54] Log File Opened..
+[2019-June-17 Monday, 08:54:55] CTP MD RspLogin Success.
+[2019-June-17 Monday, 08:55:05] Create CTPTrader Thread..
+[2019-June-17 Monday, 08:55:25] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-June-17 Monday, 09:01:53] Log File Opened..
+[2019-June-17 Monday, 09:01:55] CTP MD RspLogin Success.
+[2019-June-17 Monday, 09:02:04] Create CTPTrader Thread..
+[2019-June-17 Monday, 09:02:06] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-June-17 Monday, 09:18:21] Log File Opened..
+[2019-June-17 Monday, 09:18:22] CTP MD RspLogin Success.
+[2019-June-17 Monday, 09:18:30] Create CTPTrader Thread..
+[2019-June-17 Monday, 09:18:32] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-June-17 Monday, 09:31:50] Log File Opened..
+[2019-June-17 Monday, 09:31:51] CTP MD RspLogin Success.
+[2019-June-17 Monday, 09:31:59] Create CTPTrader Thread..
+[2019-June-17 Monday, 09:31:59] AccountID:2208002103,Balance:2751630.000
+[2019-June-17 Monday, 09:32:01] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-June-17 Monday, 09:32:02] AccountID:2208002103,Balance:2751630.000
+[2019-June-17 Monday, 10:11:47] Log File Opened..
+[2019-June-17 Monday, 10:11:48] CTP MD RspLogin Success.
+[2019-June-17 Monday, 10:11:58] Create CTPTrader Thread..
+[2019-June-17 Monday, 10:11:58] AccountID:2208002102,Balance:4136953.580
+[2019-June-17 Monday, 10:11:58] ClientNo:2208002102,Inst:au1912,Direct:1,TradePrice:303.15,TradeVol:2,SettlePrice:304.80,-2900.00,MatchDateTime:20190612
+[2019-June-17 Monday, 10:11:58] ClientNo:2208002102,Inst:sc1908,Direct:0,TradePrice:427.80,TradeVol:2,SettlePrice:427.50,3000.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:11:58] ClientNo:2208002102,Inst:sc1908,Direct:0,TradePrice:428.50,TradeVol:1,SettlePrice:427.50,800.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:11:58] ClientNo:2208002102,Inst:sc1908,Direct:0,TradePrice:428.50,TradeVol:1,SettlePrice:427.50,800.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:11:58] ClientNo:2208002102,Inst:sc1908,Direct:0,TradePrice:428.50,TradeVol:4,SettlePrice:427.50,3200.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:11:58] ClientNo:2208002102,Inst:au1912,Direct:1,TradePrice:307.25,TradeVol:2,SettlePrice:304.80,5300.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:11:58] ClientNo:2208002102,Inst:au1912,Direct:1,TradePrice:307.25,TradeVol:1,SettlePrice:304.80,2650.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:11:58] ClientNo:2208002102,Inst:au1912,Direct:1,TradePrice:306.25,TradeVol:2,SettlePrice:0.00,3300.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:11:58] ClientNo:2208002102,Inst:au1912,Direct:1,TradePrice:306.25,TradeVol:1,SettlePrice:0.00,1650.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:11:58] ClientNo:2208002102,Inst:au1912,Direct:1,TradePrice:303.15,TradeVol:1,SettlePrice:304.80,-1450.00,MatchDateTime:20190612
+[2019-June-17 Monday, 10:12:01] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-June-17 Monday, 10:12:01] AccountID:2208002102,Balance:4136953.580
+[2019-June-17 Monday, 10:12:01] ClientNo:2208002102,Inst:au1912,Direct:1,TradePrice:303.15,TradeVol:2,SettlePrice:304.80,-2900.00,MatchDateTime:20190612
+[2019-June-17 Monday, 10:12:01] ClientNo:2208002102,Inst:sc1908,Direct:0,TradePrice:427.80,TradeVol:2,SettlePrice:427.50,3000.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:12:01] ClientNo:2208002102,Inst:sc1908,Direct:0,TradePrice:428.50,TradeVol:1,SettlePrice:427.50,800.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:12:01] ClientNo:2208002102,Inst:sc1908,Direct:0,TradePrice:428.50,TradeVol:1,SettlePrice:427.50,800.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:12:01] ClientNo:2208002102,Inst:sc1908,Direct:0,TradePrice:428.50,TradeVol:4,SettlePrice:427.50,3200.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:12:01] ClientNo:2208002102,Inst:au1912,Direct:1,TradePrice:307.25,TradeVol:2,SettlePrice:304.80,5300.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:12:01] ClientNo:2208002102,Inst:au1912,Direct:1,TradePrice:307.25,TradeVol:1,SettlePrice:304.80,2650.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:12:01] ClientNo:2208002102,Inst:au1912,Direct:1,TradePrice:306.25,TradeVol:2,SettlePrice:0.00,3300.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:12:01] ClientNo:2208002102,Inst:au1912,Direct:1,TradePrice:306.25,TradeVol:1,SettlePrice:0.00,1650.00,MatchDateTime:20190617
+[2019-June-17 Monday, 10:12:01] ClientNo:2208002102,Inst:au1912,Direct:1,TradePrice:303.15,TradeVol:1,SettlePrice:304.80,-1450.00,MatchDateTime:20190612
+[2019-June-17 Monday, 10:16:45] Log File Opened..
+[2019-June-17 Monday, 10:16:46] CTP MD RspLogin Success.
+[2019-June-17 Monday, 10:16:55] Create CTPTrader Thread..
+[2019-June-17 Monday, 10:16:55] AccountID:2208002005,Balance:2921350.300
+[2019-June-17 Monday, 10:16:55] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4814.20,TradeVol:1,SettlePrice:4765.40,-4840.00,MatchDateTime:20190612
+[2019-June-17 Monday, 10:16:55] ClientNo:2208002005,Inst:IF1906,Direct:1,TradePrice:3678.80,TradeVol:1,SettlePrice:3645.60,3180.00,MatchDateTime:20190611
+[2019-June-17 Monday, 10:16:55] ClientNo:2208002005,Inst:IF1906,Direct:1,TradePrice:3608.20,TradeVol:1,SettlePrice:3645.60,-18000.00,MatchDateTime:20190610
+[2019-June-17 Monday, 10:16:55] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4806.80,TradeVol:1,SettlePrice:4765.40,-3360.00,MatchDateTime:20190531
+[2019-June-17 Monday, 10:16:55] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4872.00,TradeVol:1,SettlePrice:4765.40,-16400.00,MatchDateTime:20190517
+[2019-June-17 Monday, 10:16:55] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4871.00,TradeVol:1,SettlePrice:4765.40,-16200.00,MatchDateTime:20190517
+[2019-June-17 Monday, 10:16:55] ClientNo:2208002005,Inst:IH1906,Direct:0,TradePrice:2724.00,TradeVol:1,SettlePrice:2778.20,21600.00,MatchDateTime:20190517
+[2019-June-17 Monday, 10:16:55] ClientNo:2208002005,Inst:IH1906,Direct:0,TradePrice:2724.00,TradeVol:1,SettlePrice:2778.20,21600.00,MatchDateTime:20190517
+[2019-June-17 Monday, 10:16:56] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-June-17 Monday, 10:16:57] AccountID:2208002005,Balance:2920710.300
+[2019-June-17 Monday, 10:16:57] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4814.20,TradeVol:1,SettlePrice:4765.40,-5000.00,MatchDateTime:20190612
+[2019-June-17 Monday, 10:16:57] ClientNo:2208002005,Inst:IF1906,Direct:1,TradePrice:3678.80,TradeVol:1,SettlePrice:3645.60,3180.00,MatchDateTime:20190611
+[2019-June-17 Monday, 10:16:57] ClientNo:2208002005,Inst:IF1906,Direct:1,TradePrice:3608.20,TradeVol:1,SettlePrice:3645.60,-18000.00,MatchDateTime:20190610
+[2019-June-17 Monday, 10:16:57] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4806.80,TradeVol:1,SettlePrice:4765.40,-3520.00,MatchDateTime:20190531
+[2019-June-17 Monday, 10:16:57] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4872.00,TradeVol:1,SettlePrice:4765.40,-16560.00,MatchDateTime:20190517
+[2019-June-17 Monday, 10:16:57] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4871.00,TradeVol:1,SettlePrice:4765.40,-16360.00,MatchDateTime:20190517
+[2019-June-17 Monday, 10:16:57] ClientNo:2208002005,Inst:IH1906,Direct:0,TradePrice:2724.00,TradeVol:1,SettlePrice:2778.20,21600.00,MatchDateTime:20190517
+[2019-June-17 Monday, 10:16:57] ClientNo:2208002005,Inst:IH1906,Direct:0,TradePrice:2724.00,TradeVol:1,SettlePrice:2778.20,21600.00,MatchDateTime:20190517
+[2019-June-17 Monday, 13:26:36] Log File Opened..
+[2019-June-17 Monday, 13:26:37] CTP MD RspLogin Success.
+[2019-June-17 Monday, 13:26:45] Create CTPTrader Thread..
+[2019-June-17 Monday, 13:26:45] AccountID:2208002005,Balance:2915910.300
+[2019-June-17 Monday, 13:26:45] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4814.20,TradeVol:1,SettlePrice:4765.40,-8000.00,MatchDateTime:20190612
+[2019-June-17 Monday, 13:26:45] ClientNo:2208002005,Inst:IF1906,Direct:1,TradePrice:3678.80,TradeVol:1,SettlePrice:3645.60,10140.00,MatchDateTime:20190611
+[2019-June-17 Monday, 13:26:45] ClientNo:2208002005,Inst:IF1906,Direct:1,TradePrice:3608.20,TradeVol:1,SettlePrice:3645.60,-11040.00,MatchDateTime:20190610
+[2019-June-17 Monday, 13:26:45] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4806.80,TradeVol:1,SettlePrice:4765.40,-6520.00,MatchDateTime:20190531
+[2019-June-17 Monday, 13:26:45] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4872.00,TradeVol:1,SettlePrice:4765.40,-19560.00,MatchDateTime:20190517
+[2019-June-17 Monday, 13:26:45] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4871.00,TradeVol:1,SettlePrice:4765.40,-19360.00,MatchDateTime:20190517
+[2019-June-17 Monday, 13:26:45] ClientNo:2208002005,Inst:IH1906,Direct:0,TradePrice:2724.00,TradeVol:1,SettlePrice:2778.20,18240.00,MatchDateTime:20190517
+[2019-June-17 Monday, 13:26:45] ClientNo:2208002005,Inst:IH1906,Direct:0,TradePrice:2724.00,TradeVol:1,SettlePrice:2778.20,18240.00,MatchDateTime:20190517
+[2019-June-17 Monday, 13:26:48] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-June-17 Monday, 13:26:48] AccountID:2208002005,Balance:2916870.300
+[2019-June-17 Monday, 13:26:48] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4814.20,TradeVol:1,SettlePrice:4765.40,-7760.00,MatchDateTime:20190612
+[2019-June-17 Monday, 13:26:48] ClientNo:2208002005,Inst:IF1906,Direct:1,TradePrice:3678.80,TradeVol:1,SettlePrice:3645.60,10200.00,MatchDateTime:20190611
+[2019-June-17 Monday, 13:26:48] ClientNo:2208002005,Inst:IF1906,Direct:1,TradePrice:3608.20,TradeVol:1,SettlePrice:3645.60,-10980.00,MatchDateTime:20190610
+[2019-June-17 Monday, 13:26:48] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4806.80,TradeVol:1,SettlePrice:4765.40,-6280.00,MatchDateTime:20190531
+[2019-June-17 Monday, 13:26:48] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4872.00,TradeVol:1,SettlePrice:4765.40,-19320.00,MatchDateTime:20190517
+[2019-June-17 Monday, 13:26:48] ClientNo:2208002005,Inst:IC1906,Direct:0,TradePrice:4871.00,TradeVol:1,SettlePrice:4765.40,-19120.00,MatchDateTime:20190517
+[2019-June-17 Monday, 13:26:48] ClientNo:2208002005,Inst:IH1906,Direct:0,TradePrice:2724.00,TradeVol:1,SettlePrice:2778.20,18180.00,MatchDateTime:20190517
+[2019-June-17 Monday, 13:26:48] ClientNo:2208002005,Inst:IH1906,Direct:0,TradePrice:2724.00,TradeVol:1,SettlePrice:2778.20,18180.00,MatchDateTime:20190517

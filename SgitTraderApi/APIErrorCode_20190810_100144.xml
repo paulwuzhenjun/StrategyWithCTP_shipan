@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- edited with XMLSPY v2004 rel. 4 U (http://www.xmlspy.com) by wangzhaodong (ORiON) -->
+<!DOCTYPE errors SYSTEM "APIErrorCode.dtd">
+<errors>
+	<error id="NONE" value="0" prompt="sgit:操作成功"/>
+	
+	<error id="SE_REACTOR_NO_INITIALIZE" value="1" prompt="sgit:消息驱动线程尚未创建"/>
+	<error id="SE_CA_NO_INITIALIZE" value="2" prompt="sgit:CA模块尚未创建"/>
+	<error id="SE_APICONTROL_NO_INITIALIZE" value="3" prompt="sgit:API Control模块尚未创建"/>
+	<error id="SE_CHNL_CREATE_FAIL" value="4" prompt="sgit:创建TCP连接失败"/>
+	<error id="SE_SYNC_CALL_TIMEOUT" value="5" prompt="sgit:同步调用超时错误"/>
+	<error id="SE_CHNL_ERR" value="6" prompt="sgit:物理连接出错"/>
+	<error id="SE_CA_SIGN_ERROR" value="7" prompt="sgit:CA认证模块签名错误"/>
+	<error id="SE_RE_CERT" value="8" prompt="sgit:重复认证"/>
+	<error id="SE_CA_CHECKSIGN_ERROR" value="9" prompt="sgit:验证服务器端签名失败"/>
+	<error id="SE_RE_LOGIN" value="10" prompt="sgit:重复登陆"/>
+	<error id="SE_NO_CERT" value="11" prompt="sgit:尚未通过CA认证"/>
+	<error id="SE_NO_LOGIN" value="12" prompt="sgit:尚未登录前置"/>
+	<error id="SE_CA_INIT_ERR" value="13" prompt="sgit:CA模块初始化失败"/>
+	<error id="SE_NO_SERVICE" value="14" prompt="sgit:没有前置可以连接"/>
+	<error id="SE_NO_SYNCTIMEOUT" value="45" prompt="sgit:同步超时不能为零"/>
+	<error id="SE_RE_SESSION" value="16" prompt="sgit:重复会话请求"/>
+	<error id="SE_NO_SESSION" value="17" prompt="sgit:在认证之前尚未通过会话请求"/>
+	<error id="SE_DIFF_TRADERNO" value="18" prompt="sgit:会话和认证过程中席位号不同"/>
+	<error id="SE_CA_CERT_ERR" value="19" prompt="sgit:CA证书初始化错误"/>
+	<error id="SE_CA_DECODE_ERR" value="20" prompt="sgit:认证应答CA证书解密失败"/>
+	<error id="SE_CA_ERROR_LOAD_LIBRARY" value="21" prompt="sgit:装载动态库出错"/>
+	<error id="SE_CA_ERROR_PRIVATE_KEY_DEV" value="22" prompt="sgit:读写私钥设备失败"/>
+	
+<!-- 10000表示交易相关检查错误 -->
+	<error id="SE_LOGIN_OK" value="0" prompt="sgit:登录成功"/>
+	<error id="SE_TRADERID_ERROR" value="10001" prompt="sgit:席位不符"/>
+	<error id="SE_ACCOUNT_ERROR" value="10002" prompt="sgit:不能为该客户操作"/>
+	<error id="SE_TRADE_NOLOGIN" value="10003" prompt="sgit:登录未成功,拒绝发送交易"/>
+	<error id="SE_NOLOGIN" value="10004" prompt="sgit:未登录"/>
+	<error id="SE_LOGONPACKAGE_ERROR" value="10005" prompt="sgit:登录包错误"/>
+	<error id="SE_SEND_PACKAGE_ERROR" value="10006" prompt="sgit:发送失败"/>
+	<error id="SE_NO_USERID" value="10007" prompt="sgit:操作员不存在"/>
+	<error id="SE_PWD_ERROR" value="10008" prompt="sgit:密码错误"/>
+	<error id="SE_OLDPWD_ERROR" value="10009" prompt="sgit:原密码不匹配"/>
+	<error id="SE_SENDTOEXC_ERROR" value="10010" prompt="sgit:发送交易所失败"/>
+
+<!-- 11000表示定单委托检查错误 -->
+	<error id="SE_ORDER_INSERT_OK" value="0" prompt="sgit:委托成功"/>
+	<error id="SE_EXCAPI_INVALID" value="11001" prompt="sgit:交易所接口不能使用"/>
+	<error id="SE_DUPLICATE_ORDER_REF" value="11002" prompt="sgit:报单错误：本地报单号重复"/>
+	<error id="SE_EXC_NOT_TRADING" value="11003" prompt="sgit:当前状态不允许报单"/>
+	<error id="SE_NO_INVESTORID" value="11004" prompt="sgit:客户无资金帐号"/>
+	<error id="SE_NO_MARGIN_RATE" value="11005" prompt="sgit:资金帐号无保证金率"/>
+	<error id="SE_CAPITAL_LOW" value="11006" prompt="sgit:资金不足"/>
+	<error id="SE_NO_CLIENT" value="11007" prompt="sgit:无交易编码"/>	
+	
+	<error id="SE_PRICE_H_OR_L" value="11008" prompt="sgit:价格不再长跌停板"/>
+	<error id="SE_PRICE_TICK_ERROR" value="11009" prompt="sgit:价格不是tick整数倍"/>
+	<error id="SE_VOLUME_H_OR_L" value="11010" prompt="sgit:申报数量大于最大手数或小于最小手数"/>
+	<error id="SE_POSITION_H" value="11011" prompt="sgit:超过最大持仓限额"/>
+	<error id="SE_CHILD_DELIVER_MID" value="11012" prompt="sgit:子账户不允许交收操作"/>
+
+	<error id="SE_POSITON_LESS" value="11013" prompt="sgit:不足持仓可平"/>
+	<error id="SE_MATCH_SELF" value="11014" prompt="sgit:存在自成交可能"/>
+	<error id="SE_DELIVERY_POSI_LESS" value="11015" prompt="sgit:递延交割持仓不足"/>
+	
+	<error id="SE_NO_MARKET_2" value="11016" prompt="sgit:第二腿合约行情不存在"/>
+	<error id="SE_NO_MARGIN_2" value="11017" prompt="sgit:第二腿合约保证金不存在"/>
+	<error id="SE_RISK_DEGREE" value="11018" prompt="sgit:超过风险度范围"/>
+	<error id="SE_INVALID_ORDER" value="11019" prompt="sgit:无效报单"/>
+	<error id="SE_OVER_ORDERNUMBER_LIMIT" value="11020" prompt="sgit:超过持仓限额"/>
+	<error id="SE_OVER_BANOPEN" value="11021" prompt="sgit:超过反向禁开范围"/>
+
+<error id="SE_ASSET_RISK" value="11022" prompt="sgit:资管账户超过风险度"/>
+
+<!-- 11100表示账号登录管控检查错误 -->
+	<error id="SE_USER_ELIMINATE" value="0" prompt="sgit:剔除用户成功"/>
+	<error id="SE_USER_ACTIVATE" value="0" prompt="sgit:激活用户成功"/>
+	<error id="SE_NO_CORRELATION" value="11101" prompt="sgit:账号无相关性"/>
+	<error id="SE_CANTOPER_ADMIN" value="0" prompt="sgit:密码不正确"/>
+	<error id="SE_NO_COMMAND_USER" value="0" prompt="sgit:交易员号不存在"/>
+	<error id="SE_REPEAT_OPERAT" value="0" prompt="sgit:重复操作"/>
+
+<!-- 12000表示定单撤销检查错误 -->
+	<error id="SE_ORDER_CANCLE_OK" value="0" prompt="sgit:撤单成功"/>
+	<error id="SE_ORDER_ACTION_FIELD" value="12001" prompt="sgit:错误的报单操作字段"/>
+	<error id="SE_ACTION_REPEAT" value="12002" prompt="sgit:重复撤单"/>
+	<error id="SE_ORDER_NOT_FOUND" value="12003" prompt="sgit:撤单找不到相应报单"/>
+	<error id="SE_ORDER_ALL_TRADE" value="12004" prompt="sgit:报单已全成交"/>
+	<error id="SE_NO_RIGHT" value="12005" prompt="sgit:无撤单权限"/>
+
+<!-- 13000表示查询相关错误 -->
+	<error id="SE_QUERY_OK" value="0" prompt="sgit:查询成功"/>
+	<error id="SE_QUERY_NONE" value="0" prompt="sgit:查询成功无记录"/>
+	<error id="SE_QUERY_FAILE" value="13001" prompt="sgit:查询失败"/>
+
+
+<!-- 14000表示监控相关错误 -->
+	<error id="SE_NOT_CENSOR" value="14001" prompt="sgit:只有风控员可操作"/>
+	<error id="SE_CENSOR_NO_RIGHT" value="14002" prompt="sgit:无权操作该账户"/>
+	<error id="SE_NO_TEMP" value="14003" prompt="sgit:无此配置模板"/>
+	<error id="SE_NO_RIGHT_TEMP" value="14004" prompt="sgit:无权操作该账户/模板"/>
+	<error id="SE_FORBID_TRADE" value="14005" prompt="sgit:禁止交易"/>
+
+<!-- 20000表示非飞鼠系统错误 -->
+	<error id="SE_ERROR_NOT" value="20000" prompt="sgit:非飞鼠错误码"/>
+	
+
+</errors>

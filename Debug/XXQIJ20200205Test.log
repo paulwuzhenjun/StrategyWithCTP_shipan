@@ -1,0 +1,557 @@
+[2020-February-05 Wednesday, 08:58:42] Log File Opened..
+[2020-February-05 Wednesday, 08:58:43] CTP MD RspLogin Success.
+[2020-February-05 Wednesday, 08:58:51] Create CTPTrader Thread..
+[2020-February-05 Wednesday, 08:58:51] AccountID:932535,Balance:11247.530
+[2020-February-05 Wednesday, 08:58:58] Strategy Init..
+[2020-February-05 Wednesday, 09:00:58] CTP Insert!! 3,openOrClose=0,buyOrSell=0,price=2638.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:00:58] DispatchTdMsg,orderSysId:1456,ref:3
+[2020-February-05 Wednesday, 09:00:58] c-GD-00006_instance1,OnRtnOrder,OrderId=1456,Status=3,VolRemain=1,OrderRef=3
+[2020-February-05 Wednesday, 09:00:59] DispatchTdMsg,orderSysId:1456,ref:3
+[2020-February-05 Wednesday, 09:00:59] DispatchTdMsg,orderSysId:51477,ref:3
+[2020-February-05 Wednesday, 09:00:59] c-GD-00006_instance1,OnRtnOrder,OrderId=1456,Status=9,VolRemain=0,OrderRef=3
+[2020-February-05 Wednesday, 09:01:18] CTP Insert!! 4,openOrClose=1,buyOrSell=1,price=2638.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:01:18] DispatchTdMsg,orderSysId:1716,ref:4
+[2020-February-05 Wednesday, 09:01:18] c-GD-00006_instance1,OnRtnOrder,OrderId=1716,Status=3,VolRemain=1,OrderRef=4
+[2020-February-05 Wednesday, 09:01:22] DispatchTdMsg,orderSysId:1716,ref:4
+[2020-February-05 Wednesday, 09:01:22] DispatchTdMsg,orderSysId:51743,ref:4
+[2020-February-05 Wednesday, 09:01:22] c-GD-00006_instance1,OnRtnOrder,OrderId=1716,Status=9,VolRemain=0,OrderRef=4
+[2020-February-05 Wednesday, 09:01:24] CTP Insert!! 5,openOrClose=0,buyOrSell=0,price=2637.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:01:24] DispatchTdMsg,orderSysId:1772,ref:5
+[2020-February-05 Wednesday, 09:01:24] c-GD-00006_instance1,OnRtnOrder,OrderId=1772,Status=3,VolRemain=1,OrderRef=5
+[2020-February-05 Wednesday, 09:01:37] DispatchTdMsg,orderSysId:1772,ref:5
+[2020-February-05 Wednesday, 09:01:37] DispatchTdMsg,orderSysId:51860,ref:5
+[2020-February-05 Wednesday, 09:01:37] c-GD-00006_instance1,OnRtnOrder,OrderId=1772,Status=9,VolRemain=0,OrderRef=5
+[2020-February-05 Wednesday, 09:01:45] CTP Insert!! 6,openOrClose=1,buyOrSell=1,price=2634.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:01:45] DispatchTdMsg,orderSysId:1923,ref:6
+[2020-February-05 Wednesday, 09:01:45] c-GD-00006_instance1,OnRtnOrder,OrderId=1923,Status=3,VolRemain=1,OrderRef=6
+[2020-February-05 Wednesday, 09:01:47] DispatchTdMsg,orderSysId:1923,ref:6
+[2020-February-05 Wednesday, 09:01:47] DispatchTdMsg,orderSysId:51937,ref:6
+[2020-February-05 Wednesday, 09:01:47] c-GD-00006_instance1,OnRtnOrder,OrderId=1923,Status=9,VolRemain=0,OrderRef=6
+[2020-February-05 Wednesday, 09:01:47] CTP Insert!! 7,openOrClose=0,buyOrSell=1,price=2635.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:01:47] DispatchTdMsg,orderSysId:1940,ref:7
+[2020-February-05 Wednesday, 09:01:47] c-GD-00006_instance1,OnRtnOrder,OrderId=1940,Status=3,VolRemain=1,OrderRef=7
+[2020-February-05 Wednesday, 09:01:49] CTP Insert!! 9,openOrClose=0,buyOrSell=1,price=2633.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:01:49] DispatchTdMsg,orderSysId:1940,ref:7
+[2020-February-05 Wednesday, 09:01:49] c-GD-00006_instance1,OnRtnOrder,OrderId=1940,Status=3,VolRemain=1,OrderRef=7
+[2020-February-05 Wednesday, 09:01:49] DispatchTdMsg,orderSysId:1952,ref:7
+[2020-February-05 Wednesday, 09:01:49] c-GD-00006_instance1,OnRtnOrder,OrderId=1952,Status=7,VolRemain=1,OrderRef=7
+[2020-February-05 Wednesday, 09:01:49] DispatchTdMsg,orderSysId:1953,ref:9
+[2020-February-05 Wednesday, 09:01:49] c-GD-00006_instance1,OnRtnOrder,OrderId=1953,Status=3,VolRemain=1,OrderRef=9
+[2020-February-05 Wednesday, 09:01:49] DispatchTdMsg,orderSysId:1953,ref:9
+[2020-February-05 Wednesday, 09:01:49] DispatchTdMsg,orderSysId:51958,ref:9
+[2020-February-05 Wednesday, 09:01:49] c-GD-00006_instance1,OnRtnOrder,OrderId=1953,Status=9,VolRemain=0,OrderRef=9
+[2020-February-05 Wednesday, 09:02:08] CTP Insert!! 10,openOrClose=1,buyOrSell=0,price=2633.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:02:08] DispatchTdMsg,orderSysId:2054,ref:10
+[2020-February-05 Wednesday, 09:02:08] c-GD-00006_instance1,OnRtnOrder,OrderId=2054,Status=3,VolRemain=1,OrderRef=10
+[2020-February-05 Wednesday, 09:02:13] DispatchTdMsg,orderSysId:2054,ref:10
+[2020-February-05 Wednesday, 09:02:13] c-GD-00006_instance1,OnRtnOrder,OrderId=2054,Status=3,VolRemain=1,OrderRef=10
+[2020-February-05 Wednesday, 09:02:13] DispatchTdMsg,orderSysId:2121,ref:10
+[2020-February-05 Wednesday, 09:02:13] c-GD-00006_instance1,OnRtnOrder,OrderId=2121,Status=7,VolRemain=1,OrderRef=10
+[2020-February-05 Wednesday, 09:02:13] CTP Insert!! 12,openOrClose=1,buyOrSell=0,price=2634.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:02:13] DispatchTdMsg,orderSysId:2123,ref:12
+[2020-February-05 Wednesday, 09:02:13] c-GD-00006_instance1,OnRtnOrder,OrderId=2123,Status=3,VolRemain=1,OrderRef=12
+[2020-February-05 Wednesday, 09:02:18] DispatchTdMsg,orderSysId:2123,ref:12
+[2020-February-05 Wednesday, 09:02:18] DispatchTdMsg,orderSysId:52148,ref:12
+[2020-February-05 Wednesday, 09:02:18] c-GD-00006_instance1,OnRtnOrder,OrderId=2123,Status=9,VolRemain=0,OrderRef=12
+[2020-February-05 Wednesday, 09:02:19] CTP Insert!! 13,openOrClose=0,buyOrSell=1,price=2635.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:02:19] DispatchTdMsg,orderSysId:2157,ref:13
+[2020-February-05 Wednesday, 09:02:19] c-GD-00006_instance1,OnRtnOrder,OrderId=2157,Status=3,VolRemain=1,OrderRef=13
+[2020-February-05 Wednesday, 09:02:27] DispatchTdMsg,orderSysId:2157,ref:13
+[2020-February-05 Wednesday, 09:02:27] DispatchTdMsg,orderSysId:52205,ref:13
+[2020-February-05 Wednesday, 09:02:27] c-GD-00006_instance1,OnRtnOrder,OrderId=2157,Status=9,VolRemain=0,OrderRef=13
+[2020-February-05 Wednesday, 09:02:46] CTP Insert!! 14,openOrClose=1,buyOrSell=0,price=2634.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:02:46] DispatchTdMsg,orderSysId:2355,ref:14
+[2020-February-05 Wednesday, 09:02:46] c-GD-00006_instance1,OnRtnOrder,OrderId=2355,Status=3,VolRemain=1,OrderRef=14
+[2020-February-05 Wednesday, 09:02:50] DispatchTdMsg,orderSysId:2355,ref:14
+[2020-February-05 Wednesday, 09:02:50] c-GD-00006_instance1,OnRtnOrder,OrderId=2355,Status=3,VolRemain=1,OrderRef=14
+[2020-February-05 Wednesday, 09:02:50] DispatchTdMsg,orderSysId:2380,ref:14
+[2020-February-05 Wednesday, 09:02:50] c-GD-00006_instance1,OnRtnOrder,OrderId=2380,Status=7,VolRemain=1,OrderRef=14
+[2020-February-05 Wednesday, 09:02:50] CTP Insert!! 16,openOrClose=1,buyOrSell=0,price=2635.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:02:50] DispatchTdMsg,orderSysId:2381,ref:16
+[2020-February-05 Wednesday, 09:02:50] c-GD-00006_instance1,OnRtnOrder,OrderId=2381,Status=3,VolRemain=1,OrderRef=16
+[2020-February-05 Wednesday, 09:03:00] DispatchTdMsg,orderSysId:2381,ref:16
+[2020-February-05 Wednesday, 09:03:00] c-GD-00006_instance1,OnRtnOrder,OrderId=2381,Status=3,VolRemain=1,OrderRef=16
+[2020-February-05 Wednesday, 09:03:00] DispatchTdMsg,orderSysId:2416,ref:16
+[2020-February-05 Wednesday, 09:03:00] c-GD-00006_instance1,OnRtnOrder,OrderId=2416,Status=7,VolRemain=1,OrderRef=16
+[2020-February-05 Wednesday, 09:03:00] CTP Insert!! 18,openOrClose=1,buyOrSell=0,price=2636.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:03:00] DispatchTdMsg,orderSysId:2418,ref:18
+[2020-February-05 Wednesday, 09:03:00] c-GD-00006_instance1,OnRtnOrder,OrderId=2418,Status=3,VolRemain=1,OrderRef=18
+[2020-February-05 Wednesday, 09:03:01] DispatchTdMsg,orderSysId:2418,ref:18
+[2020-February-05 Wednesday, 09:03:01] c-GD-00006_instance1,OnRtnOrder,OrderId=2418,Status=3,VolRemain=1,OrderRef=18
+[2020-February-05 Wednesday, 09:03:01] DispatchTdMsg,orderSysId:2419,ref:18
+[2020-February-05 Wednesday, 09:03:01] c-GD-00006_instance1,OnRtnOrder,OrderId=2419,Status=7,VolRemain=1,OrderRef=18
+[2020-February-05 Wednesday, 09:03:01] CTP Insert!! 20,openOrClose=1,buyOrSell=0,price=2637.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:03:01] DispatchTdMsg,orderSysId:2421,ref:20
+[2020-February-05 Wednesday, 09:03:01] c-GD-00006_instance1,OnRtnOrder,OrderId=2421,Status=3,VolRemain=1,OrderRef=20
+[2020-February-05 Wednesday, 09:03:02] DispatchTdMsg,orderSysId:2421,ref:20
+[2020-February-05 Wednesday, 09:03:02] DispatchTdMsg,orderSysId:52429,ref:20
+[2020-February-05 Wednesday, 09:03:02] c-GD-00006_instance1,OnRtnOrder,OrderId=2421,Status=9,VolRemain=0,OrderRef=20
+[2020-February-05 Wednesday, 09:03:37] CTP Insert!! 21,openOrClose=0,buyOrSell=1,price=2635.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:03:37] DispatchTdMsg,orderSysId:2681,ref:21
+[2020-February-05 Wednesday, 09:03:37] c-GD-00006_instance1,OnRtnOrder,OrderId=2681,Status=3,VolRemain=1,OrderRef=21
+[2020-February-05 Wednesday, 09:03:45] CTP Insert!! 23,openOrClose=0,buyOrSell=1,price=2633.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:03:45] DispatchTdMsg,orderSysId:2681,ref:21
+[2020-February-05 Wednesday, 09:03:45] c-GD-00006_instance1,OnRtnOrder,OrderId=2681,Status=3,VolRemain=1,OrderRef=21
+[2020-February-05 Wednesday, 09:03:45] DispatchTdMsg,orderSysId:2742,ref:21
+[2020-February-05 Wednesday, 09:03:45] c-GD-00006_instance1,OnRtnOrder,OrderId=2742,Status=7,VolRemain=1,OrderRef=21
+[2020-February-05 Wednesday, 09:03:45] DispatchTdMsg,orderSysId:2743,ref:23
+[2020-February-05 Wednesday, 09:03:45] c-GD-00006_instance1,OnRtnOrder,OrderId=2743,Status=3,VolRemain=1,OrderRef=23
+[2020-February-05 Wednesday, 09:03:46] DispatchTdMsg,orderSysId:2743,ref:23
+[2020-February-05 Wednesday, 09:03:46] DispatchTdMsg,orderSysId:52745,ref:23
+[2020-February-05 Wednesday, 09:03:46] c-GD-00006_instance1,OnRtnOrder,OrderId=2743,Status=9,VolRemain=0,OrderRef=23
+[2020-February-05 Wednesday, 09:03:55] CTP Insert!! 24,openOrClose=1,buyOrSell=0,price=2632.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:03:55] DispatchTdMsg,orderSysId:2782,ref:24
+[2020-February-05 Wednesday, 09:03:55] DispatchTdMsg,orderSysId:2782,ref:24
+[2020-February-05 Wednesday, 09:03:55] c-GD-00006_instance1,OnRtnOrder,OrderId=2782,Status=3,VolRemain=1,OrderRef=24
+[2020-February-05 Wednesday, 09:03:55] c-GD-00006_instance1,OnRtnOrder,OrderId=2782,Status=9,VolRemain=0,OrderRef=24
+[2020-February-05 Wednesday, 09:03:55] DispatchTdMsg,orderSysId:52783,ref:24
+[2020-February-05 Wednesday, 09:03:56] CTP Insert!! 25,openOrClose=0,buyOrSell=1,price=2631.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:03:56] DispatchTdMsg,orderSysId:2785,ref:25
+[2020-February-05 Wednesday, 09:03:56] c-GD-00006_instance1,OnRtnOrder,OrderId=2785,Status=3,VolRemain=1,OrderRef=25
+[2020-February-05 Wednesday, 09:03:56] DispatchTdMsg,orderSysId:2785,ref:25
+[2020-February-05 Wednesday, 09:03:56] DispatchTdMsg,orderSysId:52786,ref:25
+[2020-February-05 Wednesday, 09:03:56] c-GD-00006_instance1,OnRtnOrder,OrderId=2785,Status=9,VolRemain=0,OrderRef=25
+[2020-February-05 Wednesday, 09:04:16] CTP Insert!! 26,openOrClose=1,buyOrSell=0,price=2632.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:04:16] DispatchTdMsg,orderSysId:2889,ref:26
+[2020-February-05 Wednesday, 09:04:16] c-GD-00006_instance1,OnRtnOrder,OrderId=2889,Status=3,VolRemain=1,OrderRef=26
+[2020-February-05 Wednesday, 09:04:19] DispatchTdMsg,orderSysId:2889,ref:26
+[2020-February-05 Wednesday, 09:04:19] c-GD-00006_instance1,OnRtnOrder,OrderId=2889,Status=3,VolRemain=1,OrderRef=26
+[2020-February-05 Wednesday, 09:04:19] DispatchTdMsg,orderSysId:2910,ref:26
+[2020-February-05 Wednesday, 09:04:19] c-GD-00006_instance1,OnRtnOrder,OrderId=2910,Status=7,VolRemain=1,OrderRef=26
+[2020-February-05 Wednesday, 09:04:19] CTP Insert!! 28,openOrClose=1,buyOrSell=0,price=2633.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:04:20] DispatchTdMsg,orderSysId:2911,ref:28
+[2020-February-05 Wednesday, 09:04:20] c-GD-00006_instance1,OnRtnOrder,OrderId=2911,Status=3,VolRemain=1,OrderRef=28
+[2020-February-05 Wednesday, 09:04:22] DispatchTdMsg,orderSysId:2911,ref:28
+[2020-February-05 Wednesday, 09:04:22] c-GD-00006_instance1,OnRtnOrder,OrderId=2911,Status=3,VolRemain=1,OrderRef=28
+[2020-February-05 Wednesday, 09:04:23] DispatchTdMsg,orderSysId:2919,ref:28
+[2020-February-05 Wednesday, 09:04:23] c-GD-00006_instance1,OnRtnOrder,OrderId=2919,Status=7,VolRemain=1,OrderRef=28
+[2020-February-05 Wednesday, 09:04:23] CTP Insert!! 30,openOrClose=1,buyOrSell=0,price=2634.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:04:23] DispatchTdMsg,orderSysId:2925,ref:30
+[2020-February-05 Wednesday, 09:04:23] c-GD-00006_instance1,OnRtnOrder,OrderId=2925,Status=3,VolRemain=1,OrderRef=30
+[2020-February-05 Wednesday, 09:04:25] DispatchTdMsg,orderSysId:2925,ref:30
+[2020-February-05 Wednesday, 09:04:25] c-GD-00006_instance1,OnRtnOrder,OrderId=2925,Status=3,VolRemain=1,OrderRef=30
+[2020-February-05 Wednesday, 09:04:25] DispatchTdMsg,orderSysId:2945,ref:30
+[2020-February-05 Wednesday, 09:04:25] c-GD-00006_instance1,OnRtnOrder,OrderId=2945,Status=7,VolRemain=1,OrderRef=30
+[2020-February-05 Wednesday, 09:04:25] CTP Insert!! 32,openOrClose=1,buyOrSell=0,price=2641.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:04:26] DispatchTdMsg,orderSysId:2946,ref:32
+[2020-February-05 Wednesday, 09:04:26] DispatchTdMsg,orderSysId:2946,ref:32
+[2020-February-05 Wednesday, 09:04:26] c-GD-00006_instance1,OnRtnOrder,OrderId=2946,Status=3,VolRemain=1,OrderRef=32
+[2020-February-05 Wednesday, 09:04:26] c-GD-00006_instance1,OnRtnOrder,OrderId=2946,Status=9,VolRemain=0,OrderRef=32
+[2020-February-05 Wednesday, 09:04:26] DispatchTdMsg,orderSysId:52947,ref:32
+[2020-February-05 Wednesday, 09:04:37] CTP Insert!! 33,openOrClose=0,buyOrSell=1,price=2635.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:04:37] DispatchTdMsg,orderSysId:2997,ref:33
+[2020-February-05 Wednesday, 09:04:37] c-GD-00006_instance1,OnRtnOrder,OrderId=2997,Status=3,VolRemain=1,OrderRef=33
+[2020-February-05 Wednesday, 09:04:55] DispatchTdMsg,orderSysId:2997,ref:33
+[2020-February-05 Wednesday, 09:04:55] c-GD-00006_instance1,OnRtnOrder,OrderId=2997,Status=9,VolRemain=0,OrderRef=33
+[2020-February-05 Wednesday, 09:04:55] DispatchTdMsg,orderSysId:53097,ref:33
+[2020-February-05 Wednesday, 09:05:14] CTP Insert!! 34,openOrClose=1,buyOrSell=0,price=2633.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:05:14] DispatchTdMsg,orderSysId:3163,ref:34
+[2020-February-05 Wednesday, 09:05:14] c-GD-00006_instance1,OnRtnOrder,OrderId=3163,Status=3,VolRemain=1,OrderRef=34
+[2020-February-05 Wednesday, 09:05:22] DispatchTdMsg,orderSysId:3163,ref:34
+[2020-February-05 Wednesday, 09:05:22] c-GD-00006_instance1,OnRtnOrder,OrderId=3163,Status=3,VolRemain=1,OrderRef=34
+[2020-February-05 Wednesday, 09:05:22] DispatchTdMsg,orderSysId:3184,ref:34
+[2020-February-05 Wednesday, 09:05:22] c-GD-00006_instance1,OnRtnOrder,OrderId=3184,Status=7,VolRemain=1,OrderRef=34
+[2020-February-05 Wednesday, 09:05:22] CTP Insert!! 36,openOrClose=1,buyOrSell=0,price=2634.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:05:22] DispatchTdMsg,orderSysId:3185,ref:36
+[2020-February-05 Wednesday, 09:05:22] c-GD-00006_instance1,OnRtnOrder,OrderId=3185,Status=3,VolRemain=1,OrderRef=36
+[2020-February-05 Wednesday, 09:05:22] DispatchTdMsg,orderSysId:3185,ref:36
+[2020-February-05 Wednesday, 09:05:22] c-GD-00006_instance1,OnRtnOrder,OrderId=3185,Status=9,VolRemain=0,OrderRef=36
+[2020-February-05 Wednesday, 09:05:22] DispatchTdMsg,orderSysId:53186,ref:36
+[2020-February-05 Wednesday, 09:05:48] CTP Insert!! 37,openOrClose=0,buyOrSell=1,price=2633.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:05:48] DispatchTdMsg,orderSysId:3237,ref:37
+[2020-February-05 Wednesday, 09:05:48] c-GD-00006_instance1,OnRtnOrder,OrderId=3237,Status=3,VolRemain=1,OrderRef=37
+[2020-February-05 Wednesday, 09:05:51] DispatchTdMsg,orderSysId:3237,ref:37
+[2020-February-05 Wednesday, 09:05:51] DispatchTdMsg,orderSysId:53260,ref:37
+[2020-February-05 Wednesday, 09:05:51] c-GD-00006_instance1,OnRtnOrder,OrderId=3237,Status=9,VolRemain=0,OrderRef=37
+[2020-February-05 Wednesday, 09:06:10] CTP Insert!! 38,openOrClose=1,buyOrSell=0,price=2632.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:06:10] DispatchTdMsg,orderSysId:3346,ref:38
+[2020-February-05 Wednesday, 09:06:10] c-GD-00006_instance1,OnRtnOrder,OrderId=3346,Status=3,VolRemain=1,OrderRef=38
+[2020-February-05 Wednesday, 09:06:12] DispatchTdMsg,orderSysId:3346,ref:38
+[2020-February-05 Wednesday, 09:06:12] c-GD-00006_instance1,OnRtnOrder,OrderId=3346,Status=3,VolRemain=1,OrderRef=38
+[2020-February-05 Wednesday, 09:06:12] DispatchTdMsg,orderSysId:3347,ref:38
+[2020-February-05 Wednesday, 09:06:12] c-GD-00006_instance1,OnRtnOrder,OrderId=3347,Status=7,VolRemain=1,OrderRef=38
+[2020-February-05 Wednesday, 09:06:12] CTP Insert!! 40,openOrClose=1,buyOrSell=0,price=2633.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:06:12] DispatchTdMsg,orderSysId:3352,ref:40
+[2020-February-05 Wednesday, 09:06:12] c-GD-00006_instance1,OnRtnOrder,OrderId=3352,Status=3,VolRemain=1,OrderRef=40
+[2020-February-05 Wednesday, 09:06:24] DispatchTdMsg,orderSysId:3352,ref:40
+[2020-February-05 Wednesday, 09:06:24] c-GD-00006_instance1,OnRtnOrder,OrderId=3352,Status=3,VolRemain=1,OrderRef=40
+[2020-February-05 Wednesday, 09:06:24] DispatchTdMsg,orderSysId:3438,ref:40
+[2020-February-05 Wednesday, 09:06:24] c-GD-00006_instance1,OnRtnOrder,OrderId=3438,Status=7,VolRemain=1,OrderRef=40
+[2020-February-05 Wednesday, 09:06:24] CTP Insert!! 42,openOrClose=1,buyOrSell=0,price=2634.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:06:24] DispatchTdMsg,orderSysId:3439,ref:42
+[2020-February-05 Wednesday, 09:06:24] c-GD-00006_instance1,OnRtnOrder,OrderId=3439,Status=3,VolRemain=1,OrderRef=42
+[2020-February-05 Wednesday, 09:06:41] DispatchTdMsg,orderSysId:3439,ref:42
+[2020-February-05 Wednesday, 09:06:41] DispatchTdMsg,orderSysId:3516,ref:42
+[2020-February-05 Wednesday, 09:06:41] c-GD-00006_instance1,OnRtnOrder,OrderId=3439,Status=3,VolRemain=1,OrderRef=42
+[2020-February-05 Wednesday, 09:06:41] c-GD-00006_instance1,OnRtnOrder,OrderId=3516,Status=7,VolRemain=1,OrderRef=42
+[2020-February-05 Wednesday, 09:06:41] CTP Insert!! 44,openOrClose=1,buyOrSell=0,price=2635.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:06:41] DispatchTdMsg,orderSysId:3522,ref:44
+[2020-February-05 Wednesday, 09:06:41] c-GD-00006_instance1,OnRtnOrder,OrderId=3522,Status=3,VolRemain=1,OrderRef=44
+[2020-February-05 Wednesday, 09:06:51] DispatchTdMsg,orderSysId:3522,ref:44
+[2020-February-05 Wednesday, 09:06:51] c-GD-00006_instance1,OnRtnOrder,OrderId=3522,Status=3,VolRemain=1,OrderRef=44
+[2020-February-05 Wednesday, 09:06:51] DispatchTdMsg,orderSysId:3576,ref:44
+[2020-February-05 Wednesday, 09:06:51] c-GD-00006_instance1,OnRtnOrder,OrderId=3576,Status=7,VolRemain=1,OrderRef=44
+[2020-February-05 Wednesday, 09:06:51] CTP Insert!! 46,openOrClose=1,buyOrSell=0,price=2636.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:06:51] DispatchTdMsg,orderSysId:3577,ref:46
+[2020-February-05 Wednesday, 09:06:51] c-GD-00006_instance1,OnRtnOrder,OrderId=3577,Status=3,VolRemain=1,OrderRef=46
+[2020-February-05 Wednesday, 09:06:58] DispatchTdMsg,orderSysId:3577,ref:46
+[2020-February-05 Wednesday, 09:06:58] c-GD-00006_instance1,OnRtnOrder,OrderId=3577,Status=3,VolRemain=1,OrderRef=46
+[2020-February-05 Wednesday, 09:06:58] DispatchTdMsg,orderSysId:3595,ref:46
+[2020-February-05 Wednesday, 09:06:58] c-GD-00006_instance1,OnRtnOrder,OrderId=3595,Status=7,VolRemain=1,OrderRef=46
+[2020-February-05 Wednesday, 09:06:58] CTP Insert!! 48,openOrClose=1,buyOrSell=0,price=2642.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:06:58] DispatchTdMsg,orderSysId:3597,ref:48
+[2020-February-05 Wednesday, 09:06:58] DispatchTdMsg,orderSysId:3597,ref:48
+[2020-February-05 Wednesday, 09:06:58] c-GD-00006_instance1,OnRtnOrder,OrderId=3597,Status=3,VolRemain=1,OrderRef=48
+[2020-February-05 Wednesday, 09:06:58] c-GD-00006_instance1,OnRtnOrder,OrderId=3597,Status=9,VolRemain=0,OrderRef=48
+[2020-February-05 Wednesday, 09:06:58] DispatchTdMsg,orderSysId:53598,ref:48
+[2020-February-05 Wednesday, 09:07:06] CTP Insert!! 49,openOrClose=0,buyOrSell=0,price=2638.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:07:06] DispatchTdMsg,orderSysId:3634,ref:49
+[2020-February-05 Wednesday, 09:07:06] c-GD-00006_instance1,OnRtnOrder,OrderId=3634,Status=3,VolRemain=1,OrderRef=49
+[2020-February-05 Wednesday, 09:07:11] CTP Insert!! 51,openOrClose=0,buyOrSell=0,price=2640.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:07:11] DispatchTdMsg,orderSysId:3634,ref:49
+[2020-February-05 Wednesday, 09:07:11] c-GD-00006_instance1,OnRtnOrder,OrderId=3634,Status=3,VolRemain=1,OrderRef=49
+[2020-February-05 Wednesday, 09:07:11] DispatchTdMsg,orderSysId:3641,ref:49
+[2020-February-05 Wednesday, 09:07:11] DispatchTdMsg,orderSysId:3642,ref:51
+[2020-February-05 Wednesday, 09:07:11] c-GD-00006_instance1,OnRtnOrder,OrderId=3641,Status=7,VolRemain=1,OrderRef=49
+[2020-February-05 Wednesday, 09:07:11] c-GD-00006_instance1,OnRtnOrder,OrderId=3642,Status=3,VolRemain=1,OrderRef=51
+[2020-February-05 Wednesday, 09:07:23] CTP Insert!! 53,openOrClose=0,buyOrSell=0,price=2643.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:07:23] DispatchTdMsg,orderSysId:3642,ref:51
+[2020-February-05 Wednesday, 09:07:23] c-GD-00006_instance1,OnRtnOrder,OrderId=3642,Status=3,VolRemain=1,OrderRef=51
+[2020-February-05 Wednesday, 09:07:23] DispatchTdMsg,orderSysId:3678,ref:51
+[2020-February-05 Wednesday, 09:07:23] c-GD-00006_instance1,OnRtnOrder,OrderId=3678,Status=7,VolRemain=1,OrderRef=51
+[2020-February-05 Wednesday, 09:07:23] DispatchTdMsg,orderSysId:3679,ref:53
+[2020-February-05 Wednesday, 09:07:23] c-GD-00006_instance1,OnRtnOrder,OrderId=3679,Status=3,VolRemain=1,OrderRef=53
+[2020-February-05 Wednesday, 09:07:23] DispatchTdMsg,orderSysId:3679,ref:53
+[2020-February-05 Wednesday, 09:07:23] c-GD-00006_instance1,OnRtnOrder,OrderId=3679,Status=9,VolRemain=0,OrderRef=53
+[2020-February-05 Wednesday, 09:07:23] DispatchTdMsg,orderSysId:53680,ref:53
+[2020-February-05 Wednesday, 09:07:42] CTP Insert!! 54,openOrClose=1,buyOrSell=1,price=2643.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:07:42] DispatchTdMsg,orderSysId:3745,ref:54
+[2020-February-05 Wednesday, 09:07:42] c-GD-00006_instance1,OnRtnOrder,OrderId=3745,Status=3,VolRemain=1,OrderRef=54
+[2020-February-05 Wednesday, 09:07:42] DispatchTdMsg,orderSysId:3745,ref:54
+[2020-February-05 Wednesday, 09:07:42] c-GD-00006_instance1,OnRtnOrder,OrderId=3745,Status=9,VolRemain=0,OrderRef=54
+[2020-February-05 Wednesday, 09:07:42] DispatchTdMsg,orderSysId:53746,ref:54
+[2020-February-05 Wednesday, 09:07:43] CTP Insert!! 55,openOrClose=0,buyOrSell=0,price=2642.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:07:43] DispatchTdMsg,orderSysId:3749,ref:55
+[2020-February-05 Wednesday, 09:07:43] c-GD-00006_instance1,OnRtnOrder,OrderId=3749,Status=3,VolRemain=1,OrderRef=55
+[2020-February-05 Wednesday, 09:07:44] DispatchTdMsg,orderSysId:3749,ref:55
+[2020-February-05 Wednesday, 09:07:44] DispatchTdMsg,orderSysId:53752,ref:55
+[2020-February-05 Wednesday, 09:07:44] c-GD-00006_instance1,OnRtnOrder,OrderId=3749,Status=9,VolRemain=0,OrderRef=55
+[2020-February-05 Wednesday, 09:08:03] CTP Insert!! 56,openOrClose=1,buyOrSell=1,price=2642.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:08:03] DispatchTdMsg,orderSysId:3813,ref:56
+[2020-February-05 Wednesday, 09:08:03] c-GD-00006_instance1,OnRtnOrder,OrderId=3813,Status=3,VolRemain=1,OrderRef=56
+[2020-February-05 Wednesday, 09:08:05] DispatchTdMsg,orderSysId:3813,ref:56
+[2020-February-05 Wednesday, 09:08:05] c-GD-00006_instance1,OnRtnOrder,OrderId=3813,Status=3,VolRemain=1,OrderRef=56
+[2020-February-05 Wednesday, 09:08:05] DispatchTdMsg,orderSysId:3818,ref:56
+[2020-February-05 Wednesday, 09:08:05] c-GD-00006_instance1,OnRtnOrder,OrderId=3818,Status=7,VolRemain=1,OrderRef=56
+[2020-February-05 Wednesday, 09:08:05] CTP Insert!! 58,openOrClose=1,buyOrSell=1,price=2641.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:08:05] DispatchTdMsg,orderSysId:3819,ref:58
+[2020-February-05 Wednesday, 09:08:05] c-GD-00006_instance1,OnRtnOrder,OrderId=3819,Status=3,VolRemain=1,OrderRef=58
+[2020-February-05 Wednesday, 09:08:08] DispatchTdMsg,orderSysId:3819,ref:58
+[2020-February-05 Wednesday, 09:08:08] DispatchTdMsg,orderSysId:53822,ref:58
+[2020-February-05 Wednesday, 09:08:08] c-GD-00006_instance1,OnRtnOrder,OrderId=3819,Status=9,VolRemain=0,OrderRef=58
+[2020-February-05 Wednesday, 09:08:09] CTP Insert!! 59,openOrClose=0,buyOrSell=0,price=2640.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:08:09] DispatchTdMsg,orderSysId:3831,ref:59
+[2020-February-05 Wednesday, 09:08:09] c-GD-00006_instance1,OnRtnOrder,OrderId=3831,Status=3,VolRemain=1,OrderRef=59
+[2020-February-05 Wednesday, 09:08:46] DispatchTdMsg,orderSysId:3831,ref:59
+[2020-February-05 Wednesday, 09:08:46] c-GD-00006_instance1,OnRtnOrder,OrderId=3831,Status=3,VolRemain=1,OrderRef=59
+[2020-February-05 Wednesday, 09:08:46] DispatchTdMsg,orderSysId:3952,ref:59
+[2020-February-05 Wednesday, 09:08:46] c-GD-00006_instance1,OnRtnOrder,OrderId=3952,Status=7,VolRemain=1,OrderRef=59
+[2020-February-05 Wednesday, 09:09:00] CTP Insert!! 61,openOrClose=0,buyOrSell=1,price=2638.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:09:00] DispatchTdMsg,orderSysId:3993,ref:61
+[2020-February-05 Wednesday, 09:09:00] c-GD-00006_instance1,OnRtnOrder,OrderId=3993,Status=3,VolRemain=1,OrderRef=61
+[2020-February-05 Wednesday, 09:09:03] DispatchTdMsg,orderSysId:3993,ref:61
+[2020-February-05 Wednesday, 09:09:03] DispatchTdMsg,orderSysId:54005,ref:61
+[2020-February-05 Wednesday, 09:09:03] c-GD-00006_instance1,OnRtnOrder,OrderId=3993,Status=9,VolRemain=0,OrderRef=61
+[2020-February-05 Wednesday, 09:09:22] CTP Insert!! 62,openOrClose=1,buyOrSell=0,price=2640.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:09:22] DispatchTdMsg,orderSysId:4045,ref:62
+[2020-February-05 Wednesday, 09:09:22] c-GD-00006_instance1,OnRtnOrder,OrderId=4045,Status=3,VolRemain=1,OrderRef=62
+[2020-February-05 Wednesday, 09:09:35] DispatchTdMsg,orderSysId:4045,ref:62
+[2020-February-05 Wednesday, 09:09:35] DispatchTdMsg,orderSysId:54117,ref:62
+[2020-February-05 Wednesday, 09:09:35] c-GD-00006_instance1,OnRtnOrder,OrderId=4045,Status=9,VolRemain=0,OrderRef=62
+[2020-February-05 Wednesday, 09:18:01] CTP Insert!! 63,openOrClose=0,buyOrSell=1,price=2645.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:18:01] DispatchTdMsg,orderSysId:6656,ref:63
+[2020-February-05 Wednesday, 09:18:01] c-GD-00006_instance1,OnRtnOrder,OrderId=6656,Status=3,VolRemain=1,OrderRef=63
+[2020-February-05 Wednesday, 09:18:10] DispatchTdMsg,orderSysId:6656,ref:63
+[2020-February-05 Wednesday, 09:18:10] DispatchTdMsg,orderSysId:56699,ref:63
+[2020-February-05 Wednesday, 09:18:10] c-GD-00006_instance1,OnRtnOrder,OrderId=6656,Status=9,VolRemain=0,OrderRef=63
+[2020-February-05 Wednesday, 09:18:29] CTP Insert!! 64,openOrClose=1,buyOrSell=0,price=2646.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:18:29] DispatchTdMsg,orderSysId:6769,ref:64
+[2020-February-05 Wednesday, 09:18:29] c-GD-00006_instance1,OnRtnOrder,OrderId=6769,Status=3,VolRemain=1,OrderRef=64
+[2020-February-05 Wednesday, 09:18:30] DispatchTdMsg,orderSysId:6769,ref:64
+[2020-February-05 Wednesday, 09:18:30] DispatchTdMsg,orderSysId:56774,ref:64
+[2020-February-05 Wednesday, 09:18:30] c-GD-00006_instance1,OnRtnOrder,OrderId=6769,Status=9,VolRemain=0,OrderRef=64
+[2020-February-05 Wednesday, 09:18:52] CTP Insert!! 65,openOrClose=0,buyOrSell=1,price=2645.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:18:53] DispatchTdMsg,orderSysId:6858,ref:65
+[2020-February-05 Wednesday, 09:18:53] c-GD-00006_instance1,OnRtnOrder,OrderId=6858,Status=3,VolRemain=1,OrderRef=65
+[2020-February-05 Wednesday, 09:18:57] CTP Insert!! 67,openOrClose=0,buyOrSell=1,price=2643.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:18:57] DispatchTdMsg,orderSysId:6858,ref:65
+[2020-February-05 Wednesday, 09:18:57] c-GD-00006_instance1,OnRtnOrder,OrderId=6858,Status=3,VolRemain=1,OrderRef=65
+[2020-February-05 Wednesday, 09:18:57] DispatchTdMsg,orderSysId:6876,ref:65
+[2020-February-05 Wednesday, 09:18:57] c-GD-00006_instance1,OnRtnOrder,OrderId=6876,Status=7,VolRemain=1,OrderRef=65
+[2020-February-05 Wednesday, 09:18:57] DispatchTdMsg,orderSysId:6877,ref:67
+[2020-February-05 Wednesday, 09:18:57] c-GD-00006_instance1,OnRtnOrder,OrderId=6877,Status=3,VolRemain=1,OrderRef=67
+[2020-February-05 Wednesday, 09:18:58] DispatchTdMsg,orderSysId:6877,ref:67
+[2020-February-05 Wednesday, 09:18:58] DispatchTdMsg,orderSysId:56886,ref:67
+[2020-February-05 Wednesday, 09:18:58] c-GD-00006_instance1,OnRtnOrder,OrderId=6877,Status=9,VolRemain=0,OrderRef=67
+[2020-February-05 Wednesday, 09:19:17] CTP Insert!! 68,openOrClose=1,buyOrSell=0,price=2643.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:19:17] DispatchTdMsg,orderSysId:6960,ref:68
+[2020-February-05 Wednesday, 09:19:17] c-GD-00006_instance1,OnRtnOrder,OrderId=6960,Status=3,VolRemain=1,OrderRef=68
+[2020-February-05 Wednesday, 09:19:20] DispatchTdMsg,orderSysId:6960,ref:68
+[2020-February-05 Wednesday, 09:19:20] DispatchTdMsg,orderSysId:56994,ref:68
+[2020-February-05 Wednesday, 09:19:20] c-GD-00006_instance1,OnRtnOrder,OrderId=6960,Status=9,VolRemain=0,OrderRef=68
+[2020-February-05 Wednesday, 09:19:43] CTP Insert!! 69,openOrClose=0,buyOrSell=1,price=2642.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:19:43] DispatchTdMsg,orderSysId:7103,ref:69
+[2020-February-05 Wednesday, 09:19:43] c-GD-00006_instance1,OnRtnOrder,OrderId=7103,Status=3,VolRemain=1,OrderRef=69
+[2020-February-05 Wednesday, 09:19:43] DispatchTdMsg,orderSysId:7103,ref:69
+[2020-February-05 Wednesday, 09:19:43] DispatchTdMsg,orderSysId:57106,ref:69
+[2020-February-05 Wednesday, 09:19:43] c-GD-00006_instance1,OnRtnOrder,OrderId=7103,Status=9,VolRemain=0,OrderRef=69
+[2020-February-05 Wednesday, 09:20:02] CTP Insert!! 70,openOrClose=1,buyOrSell=0,price=2641.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:20:02] DispatchTdMsg,orderSysId:7178,ref:70
+[2020-February-05 Wednesday, 09:20:02] c-GD-00006_instance1,OnRtnOrder,OrderId=7178,Status=3,VolRemain=1,OrderRef=70
+[2020-February-05 Wednesday, 09:20:05] DispatchTdMsg,orderSysId:7178,ref:70
+[2020-February-05 Wednesday, 09:20:05] DispatchTdMsg,orderSysId:7191,ref:70
+[2020-February-05 Wednesday, 09:20:05] c-GD-00006_instance1,OnRtnOrder,OrderId=7178,Status=3,VolRemain=1,OrderRef=70
+[2020-February-05 Wednesday, 09:20:05] c-GD-00006_instance1,OnRtnOrder,OrderId=7191,Status=7,VolRemain=1,OrderRef=70
+[2020-February-05 Wednesday, 09:20:05] CTP Insert!! 72,openOrClose=1,buyOrSell=0,price=2642.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:20:06] DispatchTdMsg,orderSysId:7193,ref:72
+[2020-February-05 Wednesday, 09:20:06] c-GD-00006_instance1,OnRtnOrder,OrderId=7193,Status=3,VolRemain=1,OrderRef=72
+[2020-February-05 Wednesday, 09:20:09] DispatchTdMsg,orderSysId:7193,ref:72
+[2020-February-05 Wednesday, 09:20:09] DispatchTdMsg,orderSysId:57207,ref:72
+[2020-February-05 Wednesday, 09:20:09] c-GD-00006_instance1,OnRtnOrder,OrderId=7193,Status=9,VolRemain=0,OrderRef=72
+[2020-February-05 Wednesday, 09:35:23] CTP Insert!! 73,openOrClose=0,buyOrSell=1,price=2641.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:35:23] DispatchTdMsg,orderSysId:9012,ref:73
+[2020-February-05 Wednesday, 09:35:23] c-GD-00006_instance1,OnRtnOrder,OrderId=9012,Status=3,VolRemain=1,OrderRef=73
+[2020-February-05 Wednesday, 09:36:00] DispatchTdMsg,orderSysId:9012,ref:73
+[2020-February-05 Wednesday, 09:36:00] c-GD-00006_instance1,OnRtnOrder,OrderId=9012,Status=3,VolRemain=1,OrderRef=73
+[2020-February-05 Wednesday, 09:36:00] DispatchTdMsg,orderSysId:9057,ref:73
+[2020-February-05 Wednesday, 09:36:00] c-GD-00006_instance1,OnRtnOrder,OrderId=9057,Status=7,VolRemain=1,OrderRef=73
+[2020-February-05 Wednesday, 09:36:10] CTP Insert!! 75,openOrClose=0,buyOrSell=1,price=2642.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:36:10] DispatchTdMsg,orderSysId:9065,ref:75
+[2020-February-05 Wednesday, 09:36:10] c-GD-00006_instance1,OnRtnOrder,OrderId=9065,Status=3,VolRemain=1,OrderRef=75
+[2020-February-05 Wednesday, 09:36:15] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-February-05 Wednesday, 09:36:15] AccountID:932535,Balance:11036.198
+[2020-February-05 Wednesday, 09:36:47] DispatchTdMsg,orderSysId:9065,ref:75
+[2020-February-05 Wednesday, 09:36:47] c-GD-00006_instance1,OnRtnOrder,OrderId=9065,Status=3,VolRemain=1,OrderRef=75
+[2020-February-05 Wednesday, 09:36:47] DispatchTdMsg,orderSysId:9161,ref:75
+[2020-February-05 Wednesday, 09:36:47] c-GD-00006_instance1,OnRtnOrder,OrderId=9161,Status=7,VolRemain=1,OrderRef=75
+[2020-February-05 Wednesday, 09:37:05] CTP Insert!! 77,openOrClose=0,buyOrSell=1,price=2641.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:37:05] DispatchTdMsg,orderSysId:9199,ref:77
+[2020-February-05 Wednesday, 09:37:05] c-GD-00006_instance1,OnRtnOrder,OrderId=9199,Status=3,VolRemain=1,OrderRef=77
+[2020-February-05 Wednesday, 09:37:42] DispatchTdMsg,orderSysId:9199,ref:77
+[2020-February-05 Wednesday, 09:37:42] c-GD-00006_instance1,OnRtnOrder,OrderId=9199,Status=3,VolRemain=1,OrderRef=77
+[2020-February-05 Wednesday, 09:37:42] DispatchTdMsg,orderSysId:9278,ref:77
+[2020-February-05 Wednesday, 09:37:42] c-GD-00006_instance1,OnRtnOrder,OrderId=9278,Status=7,VolRemain=1,OrderRef=77
+[2020-February-05 Wednesday, 09:37:49] CTP Insert!! 79,openOrClose=0,buyOrSell=1,price=2640.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:37:49] DispatchTdMsg,orderSysId:9280,ref:79
+[2020-February-05 Wednesday, 09:37:49] c-GD-00006_instance1,OnRtnOrder,OrderId=9280,Status=3,VolRemain=1,OrderRef=79
+[2020-February-05 Wednesday, 09:37:49] DispatchTdMsg,orderSysId:9280,ref:79
+[2020-February-05 Wednesday, 09:37:49] DispatchTdMsg,orderSysId:59281,ref:79
+[2020-February-05 Wednesday, 09:37:49] c-GD-00006_instance1,OnRtnOrder,OrderId=9280,Status=9,VolRemain=0,OrderRef=79
+[2020-February-05 Wednesday, 09:38:08] CTP Insert!! 80,openOrClose=1,buyOrSell=0,price=2639.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:38:08] DispatchTdMsg,orderSysId:9311,ref:80
+[2020-February-05 Wednesday, 09:38:08] c-GD-00006_instance1,OnRtnOrder,OrderId=9311,Status=3,VolRemain=1,OrderRef=80
+[2020-February-05 Wednesday, 09:38:11] DispatchTdMsg,orderSysId:9311,ref:80
+[2020-February-05 Wednesday, 09:38:11] c-GD-00006_instance1,OnRtnOrder,OrderId=9311,Status=3,VolRemain=1,OrderRef=80
+[2020-February-05 Wednesday, 09:38:11] DispatchTdMsg,orderSysId:9319,ref:80
+[2020-February-05 Wednesday, 09:38:11] c-GD-00006_instance1,OnRtnOrder,OrderId=9319,Status=7,VolRemain=1,OrderRef=80
+[2020-February-05 Wednesday, 09:38:11] CTP Insert!! 82,openOrClose=1,buyOrSell=0,price=2640.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:38:11] DispatchTdMsg,orderSysId:9320,ref:82
+[2020-February-05 Wednesday, 09:38:11] DispatchTdMsg,orderSysId:9320,ref:82
+[2020-February-05 Wednesday, 09:38:11] DispatchTdMsg,orderSysId:59324,ref:82
+[2020-February-05 Wednesday, 09:38:11] c-GD-00006_instance1,OnRtnOrder,OrderId=9320,Status=3,VolRemain=1,OrderRef=82
+[2020-February-05 Wednesday, 09:38:11] c-GD-00006_instance1,OnRtnOrder,OrderId=9320,Status=9,VolRemain=0,OrderRef=82
+[2020-February-05 Wednesday, 09:38:38] CTP Insert!! 83,openOrClose=0,buyOrSell=1,price=2641.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:38:38] DispatchTdMsg,orderSysId:9387,ref:83
+[2020-February-05 Wednesday, 09:38:38] c-GD-00006_instance1,OnRtnOrder,OrderId=9387,Status=3,VolRemain=1,OrderRef=83
+[2020-February-05 Wednesday, 09:38:55] DispatchTdMsg,orderSysId:9387,ref:83
+[2020-February-05 Wednesday, 09:38:55] c-GD-00006_instance1,OnRtnOrder,OrderId=9387,Status=3,VolRemain=1,OrderRef=83
+[2020-February-05 Wednesday, 09:38:55] DispatchTdMsg,orderSysId:9432,ref:83
+[2020-February-05 Wednesday, 09:38:55] c-GD-00006_instance1,OnRtnOrder,OrderId=9432,Status=7,VolRemain=1,OrderRef=83
+[2020-February-05 Wednesday, 09:42:50] CTP Insert!! 85,openOrClose=0,buyOrSell=1,price=2642.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:42:50] DispatchTdMsg,orderSysId:9769,ref:85
+[2020-February-05 Wednesday, 09:42:50] c-GD-00006_instance1,OnRtnOrder,OrderId=9769,Status=3,VolRemain=1,OrderRef=85
+[2020-February-05 Wednesday, 09:43:26] CTP Insert!! 87,openOrClose=0,buyOrSell=1,price=2641.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:43:27] DispatchTdMsg,orderSysId:9769,ref:85
+[2020-February-05 Wednesday, 09:43:27] c-GD-00006_instance1,OnRtnOrder,OrderId=9769,Status=3,VolRemain=1,OrderRef=85
+[2020-February-05 Wednesday, 09:43:27] DispatchTdMsg,orderSysId:9785,ref:85
+[2020-February-05 Wednesday, 09:43:27] DispatchTdMsg,orderSysId:9786,ref:87
+[2020-February-05 Wednesday, 09:43:27] c-GD-00006_instance1,OnRtnOrder,OrderId=9785,Status=7,VolRemain=1,OrderRef=85
+[2020-February-05 Wednesday, 09:43:27] c-GD-00006_instance1,OnRtnOrder,OrderId=9786,Status=3,VolRemain=1,OrderRef=87
+[2020-February-05 Wednesday, 09:43:42] DispatchTdMsg,orderSysId:9786,ref:87
+[2020-February-05 Wednesday, 09:43:42] DispatchTdMsg,orderSysId:59799,ref:87
+[2020-February-05 Wednesday, 09:43:42] c-GD-00006_instance1,OnRtnOrder,OrderId=9786,Status=9,VolRemain=0,OrderRef=87
+[2020-February-05 Wednesday, 09:44:19] CTP Insert!! 88,openOrClose=1,buyOrSell=0,price=2641.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:44:19] DispatchTdMsg,orderSysId:9828,ref:88
+[2020-February-05 Wednesday, 09:44:19] c-GD-00006_instance1,OnRtnOrder,OrderId=9828,Status=3,VolRemain=1,OrderRef=88
+[2020-February-05 Wednesday, 09:44:26] DispatchTdMsg,orderSysId:9828,ref:88
+[2020-February-05 Wednesday, 09:44:26] DispatchTdMsg,orderSysId:59833,ref:88
+[2020-February-05 Wednesday, 09:44:26] c-GD-00006_instance1,OnRtnOrder,OrderId=9828,Status=9,VolRemain=0,OrderRef=88
+[2020-February-05 Wednesday, 09:44:26] CTP Insert!! 89,openOrClose=0,buyOrSell=1,price=2642.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:44:26] DispatchTdMsg,orderSysId:9834,ref:89
+[2020-February-05 Wednesday, 09:44:26] c-GD-00006_instance1,OnRtnOrder,OrderId=9834,Status=3,VolRemain=1,OrderRef=89
+[2020-February-05 Wednesday, 09:45:03] DispatchTdMsg,orderSysId:9834,ref:89
+[2020-February-05 Wednesday, 09:45:03] c-GD-00006_instance1,OnRtnOrder,OrderId=9834,Status=3,VolRemain=1,OrderRef=89
+[2020-February-05 Wednesday, 09:45:03] DispatchTdMsg,orderSysId:9890,ref:89
+[2020-February-05 Wednesday, 09:45:03] c-GD-00006_instance1,OnRtnOrder,OrderId=9890,Status=7,VolRemain=1,OrderRef=89
+[2020-February-05 Wednesday, 09:45:22] CTP Insert!! 91,openOrClose=0,buyOrSell=1,price=2641.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:45:22] DispatchTdMsg,orderSysId:9935,ref:91
+[2020-February-05 Wednesday, 09:45:22] c-GD-00006_instance1,OnRtnOrder,OrderId=9935,Status=3,VolRemain=1,OrderRef=91
+[2020-February-05 Wednesday, 09:45:56] DispatchTdMsg,orderSysId:9935,ref:91
+[2020-February-05 Wednesday, 09:45:56] c-GD-00006_instance1,OnRtnOrder,OrderId=9935,Status=3,VolRemain=1,OrderRef=91
+[2020-February-05 Wednesday, 09:45:56] DispatchTdMsg,orderSysId:10003,ref:91
+[2020-February-05 Wednesday, 09:45:56] c-GD-00006_instance1,OnRtnOrder,OrderId=10003,Status=7,VolRemain=1,OrderRef=91
+[2020-February-05 Wednesday, 09:47:19] CTP Insert!! 93,openOrClose=0,buyOrSell=1,price=2640.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:47:19] DispatchTdMsg,orderSysId:10204,ref:93
+[2020-February-05 Wednesday, 09:47:19] c-GD-00006_instance1,OnRtnOrder,OrderId=10204,Status=3,VolRemain=1,OrderRef=93
+[2020-February-05 Wednesday, 09:47:47] DispatchTdMsg,orderSysId:10204,ref:93
+[2020-February-05 Wednesday, 09:47:47] DispatchTdMsg,orderSysId:510232,ref:93
+[2020-February-05 Wednesday, 09:47:47] c-GD-00006_instance1,OnRtnOrder,OrderId=10204,Status=9,VolRemain=0,OrderRef=93
+[2020-February-05 Wednesday, 09:53:47] CTP Insert!! 94,openOrClose=1,buyOrSell=0,price=2638.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:53:48] DispatchTdMsg,orderSysId:10869,ref:94
+[2020-February-05 Wednesday, 09:53:48] c-GD-00006_instance1,OnRtnOrder,OrderId=10869,Status=3,VolRemain=1,OrderRef=94
+[2020-February-05 Wednesday, 09:54:18] DispatchTdMsg,orderSysId:10869,ref:94
+[2020-February-05 Wednesday, 09:54:18] c-GD-00006_instance1,OnRtnOrder,OrderId=10869,Status=3,VolRemain=1,OrderRef=94
+[2020-February-05 Wednesday, 09:54:18] DispatchTdMsg,orderSysId:10956,ref:94
+[2020-February-05 Wednesday, 09:54:18] c-GD-00006_instance1,OnRtnOrder,OrderId=10956,Status=7,VolRemain=1,OrderRef=94
+[2020-February-05 Wednesday, 09:54:18] CTP Insert!! 96,openOrClose=1,buyOrSell=0,price=2639.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:54:18] DispatchTdMsg,orderSysId:10957,ref:96
+[2020-February-05 Wednesday, 09:54:18] c-GD-00006_instance1,OnRtnOrder,OrderId=10957,Status=3,VolRemain=1,OrderRef=96
+[2020-February-05 Wednesday, 09:54:19] DispatchTdMsg,orderSysId:10957,ref:96
+[2020-February-05 Wednesday, 09:54:19] DispatchTdMsg,orderSysId:510964,ref:96
+[2020-February-05 Wednesday, 09:54:19] c-GD-00006_instance1,OnRtnOrder,OrderId=10957,Status=9,VolRemain=0,OrderRef=96
+[2020-February-05 Wednesday, 09:56:42] CTP Insert!! 97,openOrClose=0,buyOrSell=1,price=2640.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 09:56:42] DispatchTdMsg,orderSysId:11217,ref:97
+[2020-February-05 Wednesday, 09:56:42] c-GD-00006_instance1,OnRtnOrder,OrderId=11217,Status=3,VolRemain=1,OrderRef=97
+[2020-February-05 Wednesday, 09:57:43] DispatchTdMsg,orderSysId:11217,ref:97
+[2020-February-05 Wednesday, 09:57:43] c-GD-00006_instance1,OnRtnOrder,OrderId=11217,Status=3,VolRemain=1,OrderRef=97
+[2020-February-05 Wednesday, 09:57:43] DispatchTdMsg,orderSysId:11297,ref:97
+[2020-February-05 Wednesday, 09:57:43] c-GD-00006_instance1,OnRtnOrder,OrderId=11297,Status=7,VolRemain=1,OrderRef=97
+[2020-February-05 Wednesday, 10:00:00] DispatchTdMsg,orderSysId:11471,ref:53423
+[2020-February-05 Wednesday, 10:00:25] DispatchTdMsg,orderSysId:11471,ref:53423
+[2020-February-05 Wednesday, 10:00:25] DispatchTdMsg,orderSysId:11517,ref:53423
+[2020-February-05 Wednesday, 10:00:27] DispatchTdMsg,orderSysId:11525,ref:53425
+[2020-February-05 Wednesday, 10:00:33] DispatchTdMsg,orderSysId:11525,ref:53425
+[2020-February-05 Wednesday, 10:00:33] DispatchTdMsg,orderSysId:511540,ref:53425
+[2020-February-05 Wednesday, 10:15:04] DispatchTdMsg,orderSysId:0,ref:53426
+[2020-February-05 Wednesday, 10:31:10] DispatchTdMsg,orderSysId:12722,ref:53427
+[2020-February-05 Wednesday, 10:31:22] DispatchTdMsg,orderSysId:12722,ref:53427
+[2020-February-05 Wednesday, 10:31:22] DispatchTdMsg,orderSysId:512740,ref:53427
+[2020-February-05 Wednesday, 10:31:29] DispatchTdMsg,orderSysId:12751,ref:53428
+[2020-February-05 Wednesday, 10:31:33] DispatchTdMsg,orderSysId:12751,ref:53428
+[2020-February-05 Wednesday, 10:31:33] DispatchTdMsg,orderSysId:512757,ref:53428
+[2020-February-05 Wednesday, 10:32:33] DispatchTdMsg,orderSysId:12829,ref:53429
+[2020-February-05 Wednesday, 10:32:34] DispatchTdMsg,orderSysId:12829,ref:53429
+[2020-February-05 Wednesday, 10:32:34] DispatchTdMsg,orderSysId:512831,ref:53429
+[2020-February-05 Wednesday, 10:32:41] DispatchTdMsg,orderSysId:12869,ref:53430
+[2020-February-05 Wednesday, 10:33:06] DispatchTdMsg,orderSysId:12869,ref:53430
+[2020-February-05 Wednesday, 10:33:06] DispatchTdMsg,orderSysId:512941,ref:53430
+[2020-February-05 Wednesday, 10:34:39] CTP Insert!! 99,openOrClose=0,buyOrSell=1,price=2641.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 10:34:39] DispatchTdMsg,orderSysId:13122,ref:99
+[2020-February-05 Wednesday, 10:34:39] c-GD-00006_instance1,OnRtnOrder,OrderId=13122,Status=3,VolRemain=1,OrderRef=99
+[2020-February-05 Wednesday, 10:35:39] DispatchTdMsg,orderSysId:13248,ref:53431
+[2020-February-05 Wednesday, 10:35:39] DispatchTdMsg,orderSysId:13248,ref:53431
+[2020-February-05 Wednesday, 10:35:39] DispatchTdMsg,orderSysId:513249,ref:53431
+[2020-February-05 Wednesday, 10:35:39] DispatchTdMsg,orderSysId:13122,ref:99
+[2020-February-05 Wednesday, 10:35:39] c-GD-00006_instance1,OnRtnOrder,OrderId=13122,Status=3,VolRemain=1,OrderRef=99
+[2020-February-05 Wednesday, 10:35:40] DispatchTdMsg,orderSysId:13253,ref:99
+[2020-February-05 Wednesday, 10:35:40] c-GD-00006_instance1,OnRtnOrder,OrderId=13253,Status=7,VolRemain=1,OrderRef=99
+[2020-February-05 Wednesday, 10:35:54] DispatchTdMsg,orderSysId:13294,ref:53432
+[2020-February-05 Wednesday, 10:36:00] DispatchTdMsg,orderSysId:13294,ref:53432
+[2020-February-05 Wednesday, 10:36:00] DispatchTdMsg,orderSysId:513306,ref:53432
+[2020-February-05 Wednesday, 10:36:12] DispatchTdMsg,orderSysId:13326,ref:53433
+[2020-February-05 Wednesday, 10:36:32] DispatchTdMsg,orderSysId:13326,ref:53433
+[2020-February-05 Wednesday, 10:36:32] DispatchTdMsg,orderSysId:13361,ref:53433
+[2020-February-05 Wednesday, 10:36:37] CTP Insert!! 101,openOrClose=0,buyOrSell=1,price=2642.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 10:36:38] DispatchTdMsg,orderSysId:13373,ref:101
+[2020-February-05 Wednesday, 10:36:38] c-GD-00006_instance1,OnRtnOrder,OrderId=13373,Status=3,VolRemain=1,OrderRef=101
+[2020-February-05 Wednesday, 10:36:52] DispatchTdMsg,orderSysId:13373,ref:101
+[2020-February-05 Wednesday, 10:36:52] DispatchTdMsg,orderSysId:513400,ref:101
+[2020-February-05 Wednesday, 10:36:52] c-GD-00006_instance1,OnRtnOrder,OrderId=13373,Status=9,VolRemain=0,OrderRef=101
+[2020-February-05 Wednesday, 10:38:00] DispatchTdMsg,orderSysId:13507,ref:53435
+[2020-February-05 Wednesday, 10:38:09] CTP Insert!! 102,openOrClose=1,buyOrSell=0,price=2640.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 10:38:09] DispatchTdMsg,orderSysId:13514,ref:102
+[2020-February-05 Wednesday, 10:38:09] DispatchTdMsg,orderSysId:13514,ref:102
+[2020-February-05 Wednesday, 10:38:09] c-GD-00006_instance1,OnRtnOrder,OrderId=13514,Status=3,VolRemain=1,OrderRef=102
+[2020-February-05 Wednesday, 10:38:09] c-GD-00006_instance1,OnRtnOrder,OrderId=13514,Status=9,VolRemain=0,OrderRef=102
+[2020-February-05 Wednesday, 10:38:09] DispatchTdMsg,orderSysId:513515,ref:102
+[2020-February-05 Wednesday, 10:38:21] CTP Insert!! 103,openOrClose=0,buyOrSell=1,price=2641.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 10:38:21] DispatchTdMsg,orderSysId:13539,ref:103
+[2020-February-05 Wednesday, 10:38:21] c-GD-00006_instance1,OnRtnOrder,OrderId=13539,Status=3,VolRemain=1,OrderRef=103
+[2020-February-05 Wednesday, 10:39:21] DispatchTdMsg,orderSysId:13539,ref:103
+[2020-February-05 Wednesday, 10:39:21] c-GD-00006_instance1,OnRtnOrder,OrderId=13539,Status=3,VolRemain=1,OrderRef=103
+[2020-February-05 Wednesday, 10:39:22] DispatchTdMsg,orderSysId:13608,ref:103
+[2020-February-05 Wednesday, 10:39:22] c-GD-00006_instance1,OnRtnOrder,OrderId=13608,Status=7,VolRemain=1,OrderRef=103
+[2020-February-05 Wednesday, 10:39:35] CTP Insert!! 105,openOrClose=0,buyOrSell=1,price=2640.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 10:39:35] DispatchTdMsg,orderSysId:13624,ref:105
+[2020-February-05 Wednesday, 10:39:35] c-GD-00006_instance1,OnRtnOrder,OrderId=13624,Status=3,VolRemain=1,OrderRef=105
+[2020-February-05 Wednesday, 10:39:48] DispatchTdMsg,orderSysId:13624,ref:105
+[2020-February-05 Wednesday, 10:39:48] DispatchTdMsg,orderSysId:513638,ref:105
+[2020-February-05 Wednesday, 10:39:48] c-GD-00006_instance1,OnRtnOrder,OrderId=13624,Status=9,VolRemain=0,OrderRef=105
+[2020-February-05 Wednesday, 10:40:10] DispatchTdMsg,orderSysId:13507,ref:53435
+[2020-February-05 Wednesday, 10:40:10] DispatchTdMsg,orderSysId:13667,ref:53435
+[2020-February-05 Wednesday, 10:41:26] DispatchTdMsg,orderSysId:13741,ref:53437
+[2020-February-05 Wednesday, 10:42:17] DispatchTdMsg,orderSysId:13741,ref:53437
+[2020-February-05 Wednesday, 10:42:17] DispatchTdMsg,orderSysId:513820,ref:53437
+[2020-February-05 Wednesday, 10:42:26] DispatchTdMsg,orderSysId:13829,ref:53438
+[2020-February-05 Wednesday, 10:42:31] DispatchTdMsg,orderSysId:13829,ref:53438
+[2020-February-05 Wednesday, 10:42:31] DispatchTdMsg,orderSysId:513838,ref:53438
+[2020-February-05 Wednesday, 10:42:40] DispatchTdMsg,orderSysId:13860,ref:53439
+[2020-February-05 Wednesday, 10:42:47] DispatchTdMsg,orderSysId:13860,ref:53439
+[2020-February-05 Wednesday, 10:42:47] DispatchTdMsg,orderSysId:513870,ref:53439
+[2020-February-05 Wednesday, 10:44:05] DispatchTdMsg,orderSysId:13964,ref:53440
+[2020-February-05 Wednesday, 10:44:07] DispatchTdMsg,orderSysId:13964,ref:53440
+[2020-February-05 Wednesday, 10:44:07] DispatchTdMsg,orderSysId:513967,ref:53440
+[2020-February-05 Wednesday, 10:44:43] DispatchTdMsg,orderSysId:14016,ref:53441
+[2020-February-05 Wednesday, 10:44:50] DispatchTdMsg,orderSysId:14016,ref:53441
+[2020-February-05 Wednesday, 10:44:50] DispatchTdMsg,orderSysId:14022,ref:53441
+[2020-February-05 Wednesday, 10:44:52] DispatchTdMsg,orderSysId:14027,ref:53443
+[2020-February-05 Wednesday, 10:45:21] DispatchTdMsg,orderSysId:14027,ref:53443
+[2020-February-05 Wednesday, 10:45:21] DispatchTdMsg,orderSysId:14059,ref:53443
+[2020-February-05 Wednesday, 10:45:49] CTP Insert!! 106,openOrClose=1,buyOrSell=0,price=2639.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 10:45:49] DispatchTdMsg,orderSysId:14089,ref:106
+[2020-February-05 Wednesday, 10:45:49] c-GD-00006_instance1,OnRtnOrder,OrderId=14089,Status=3,VolRemain=1,OrderRef=106
+[2020-February-05 Wednesday, 10:46:38] DispatchTdMsg,orderSysId:14089,ref:106
+[2020-February-05 Wednesday, 10:46:38] DispatchTdMsg,orderSysId:514174,ref:106
+[2020-February-05 Wednesday, 10:46:38] c-GD-00006_instance1,OnRtnOrder,OrderId=14089,Status=9,VolRemain=0,OrderRef=106
+[2020-February-05 Wednesday, 10:59:24] CTP Insert!! 107,openOrClose=0,buyOrSell=1,price=2636.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 10:59:24] DispatchTdMsg,orderSysId:15437,ref:107
+[2020-February-05 Wednesday, 10:59:24] c-GD-00006_instance1,OnRtnOrder,OrderId=15437,Status=3,VolRemain=1,OrderRef=107
+[2020-February-05 Wednesday, 10:59:51] DispatchTdMsg,orderSysId:15437,ref:107
+[2020-February-05 Wednesday, 10:59:51] c-GD-00006_instance1,OnRtnOrder,OrderId=15437,Status=3,VolRemain=1,OrderRef=107
+[2020-February-05 Wednesday, 10:59:51] DispatchTdMsg,orderSysId:15480,ref:107
+[2020-February-05 Wednesday, 10:59:51] c-GD-00006_instance1,OnRtnOrder,OrderId=15480,Status=7,VolRemain=1,OrderRef=107
+[2020-February-05 Wednesday, 13:37:41] CTP Insert!! 109,openOrClose=0,buyOrSell=1,price=2634.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 13:37:41] DispatchTdMsg,orderSysId:18861,ref:109
+[2020-February-05 Wednesday, 13:37:41] c-GD-00006_instance1,OnRtnOrder,OrderId=18861,Status=3,VolRemain=1,OrderRef=109
+[2020-February-05 Wednesday, 13:38:42] DispatchTdMsg,orderSysId:18861,ref:109
+[2020-February-05 Wednesday, 13:38:42] c-GD-00006_instance1,OnRtnOrder,OrderId=18861,Status=3,VolRemain=1,OrderRef=109
+[2020-February-05 Wednesday, 13:38:42] DispatchTdMsg,orderSysId:18970,ref:109
+[2020-February-05 Wednesday, 13:38:42] c-GD-00006_instance1,OnRtnOrder,OrderId=18970,Status=7,VolRemain=1,OrderRef=109
+[2020-February-05 Wednesday, 13:49:38] CTP Insert!! 111,openOrClose=0,buyOrSell=1,price=2631.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 13:49:39] DispatchTdMsg,orderSysId:20049,ref:111
+[2020-February-05 Wednesday, 13:49:39] c-GD-00006_instance1,OnRtnOrder,OrderId=20049,Status=3,VolRemain=1,OrderRef=111
+[2020-February-05 Wednesday, 13:50:38] DispatchTdMsg,orderSysId:20049,ref:111
+[2020-February-05 Wednesday, 13:50:38] c-GD-00006_instance1,OnRtnOrder,OrderId=20049,Status=3,VolRemain=1,OrderRef=111
+[2020-February-05 Wednesday, 13:50:38] DispatchTdMsg,orderSysId:20127,ref:111
+[2020-February-05 Wednesday, 13:50:38] c-GD-00006_instance1,OnRtnOrder,OrderId=20127,Status=7,VolRemain=1,OrderRef=111
+[2020-February-05 Wednesday, 13:52:43] CTP Insert!! 113,openOrClose=0,buyOrSell=1,price=2632.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 13:52:43] DispatchTdMsg,orderSysId:20275,ref:113
+[2020-February-05 Wednesday, 13:52:43] c-GD-00006_instance1,OnRtnOrder,OrderId=20275,Status=3,VolRemain=1,OrderRef=113
+[2020-February-05 Wednesday, 13:53:44] DispatchTdMsg,orderSysId:20275,ref:113
+[2020-February-05 Wednesday, 13:53:44] c-GD-00006_instance1,OnRtnOrder,OrderId=20275,Status=3,VolRemain=1,OrderRef=113
+[2020-February-05 Wednesday, 13:53:44] DispatchTdMsg,orderSysId:20372,ref:113
+[2020-February-05 Wednesday, 13:53:44] c-GD-00006_instance1,OnRtnOrder,OrderId=20372,Status=7,VolRemain=1,OrderRef=113
+[2020-February-05 Wednesday, 13:54:39] CTP Insert!! 115,openOrClose=0,buyOrSell=1,price=2633.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 13:54:39] DispatchTdMsg,orderSysId:20427,ref:115
+[2020-February-05 Wednesday, 13:54:39] c-GD-00006_instance1,OnRtnOrder,OrderId=20427,Status=3,VolRemain=1,OrderRef=115
+[2020-February-05 Wednesday, 13:55:04] CTP Insert!! 117,openOrClose=0,buyOrSell=1,price=2631.0000,vol=1,inst=m2005,iRet=0
+[2020-February-05 Wednesday, 13:55:04] DispatchTdMsg,orderSysId:20427,ref:115
+[2020-February-05 Wednesday, 13:55:04] c-GD-00006_instance1,OnRtnOrder,OrderId=20427,Status=3,VolRemain=1,OrderRef=115
+[2020-February-05 Wednesday, 13:55:04] DispatchTdMsg,orderSysId:20482,ref:115
+[2020-February-05 Wednesday, 13:55:04] c-GD-00006_instance1,OnRtnOrder,OrderId=20482,Status=7,VolRemain=1,OrderRef=115
+[2020-February-05 Wednesday, 14:06:16] gStrategyImplIndex=1,gMapView->strategynum=1
+[2020-February-05 Wednesday, 14:06:16] AccountID:932535,Balance:10713.426
+[2020-February-05 Wednesday, 14:06:16] ClientNo:932535,Inst:p2005,Direct:0,TradePrice:5748.00,TradeVol:1,SettlePrice:5640.00,0.00,MatchDateTime:20200205
+[2020-February-05 Wednesday, 14:06:48] c-GD-00006_instance1,Stop
+[2020-February-05 Wednesday, 14:31:20] Log File Opened..
+[2020-February-05 Wednesday, 14:31:25] CTP MD RspLogin Success.

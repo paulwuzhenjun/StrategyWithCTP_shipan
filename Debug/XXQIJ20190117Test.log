@@ -1,0 +1,49 @@
+[2019-January-17 Thursday, 13:37:19] Log File Opened..
+[2019-January-17 Thursday, 13:37:20] CTP MD RspLogin Success.
+[2019-January-17 Thursday, 13:37:27] Create CTPTrader Thread..
+[2019-January-17 Thursday, 13:37:27] AccountID:094440,Balance:492535.920
+[2019-January-17 Thursday, 13:37:57] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-January-17 Thursday, 13:37:57] AccountID:094440,Balance:492535.920
+[2019-January-17 Thursday, 13:38:19] Strategy Init..
+[2019-January-17 Thursday, 13:39:06] sc-GD-00006-3_instance1,Stop
+[2019-January-17 Thursday, 13:39:27] Strategy Init..
+[2019-January-17 Thursday, 13:44:20] Log File Opened..
+[2019-January-17 Thursday, 13:44:21] CTP MD RspLogin Success.
+[2019-January-17 Thursday, 13:44:28] Create CTPTrader Thread..
+[2019-January-17 Thursday, 13:44:28] AccountID:094440,Balance:492535.920
+[2019-January-17 Thursday, 13:44:35] Strategy Init..
+[2019-January-17 Thursday, 13:44:58] gStrategyImplIndex=1,gMapView->strategynum=1
+[2019-January-17 Thursday, 13:44:59] AccountID:094440,Balance:492535.920
+[2019-January-17 Thursday, 13:49:02] Log File Opened..
+[2019-January-17 Thursday, 13:49:04] CTP MD RspLogin Success.
+[2019-January-17 Thursday, 13:49:13] Create CTPTrader Thread..
+[2019-January-17 Thursday, 13:49:13] AccountID:094440,Balance:492535.920
+[2019-January-17 Thursday, 13:49:19] Strategy Init..
+[2019-January-17 Thursday, 13:49:22] CTP Insert!! 3,openOrClose=0,buyOrSell=1,price=452.5000,vol=2,inst=sc1903,iRet=0
+[2019-January-17 Thursday, 13:49:22] sc-GD-00006-3_instance1,上网格开仓,卖=452.50000,时间=13:49:15,网格:30
+[2019-January-17 Thursday, 13:49:22] DispatchTdMsg,orderSysId:303,ref:3
+[2019-January-17 Thursday, 13:49:22] sc-GD-00006-3_instance1,OnRtnOrder,OrderId=303,Status=3,VolRemain=2,OrderRef=3
+[2019-January-17 Thursday, 13:52:45] Log File Opened..
+[2019-January-17 Thursday, 13:52:46] CTP MD RspLogin Success.
+[2019-January-17 Thursday, 13:52:53] Create CTPTrader Thread..
+[2019-January-17 Thursday, 13:52:53] AccountID:043714,Balance:1141367.850
+[2019-January-17 Thursday, 13:52:56] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-January-17 Thursday, 13:52:56] AccountID:043714,Balance:1141367.850
+[2019-January-17 Thursday, 13:53:04] Strategy Init..
+[2019-January-17 Thursday, 13:53:05] CTP Insert!! 3,openOrClose=0,buyOrSell=1,price=452.5000,vol=2,inst=sc1903,iRet=0
+[2019-January-17 Thursday, 13:53:05] sc-GD-00006-3_instance1,上网格开仓,卖=452.50000,时间=13:53:01,网格:30
+[2019-January-17 Thursday, 13:53:40] sc-GD-00006-3_instance1,Stop
+[2019-January-17 Thursday, 13:57:40] Log File Opened..
+[2019-January-17 Thursday, 13:57:41] CTP MD RspLogin Success.
+[2019-January-17 Thursday, 13:57:48] Create CTPTrader Thread..
+[2019-January-17 Thursday, 13:57:48] AccountID:043714,Balance:1141367.850
+[2019-January-17 Thursday, 13:57:59] Strategy Init..
+[2019-January-17 Thursday, 13:57:59] sc-GD-00006-3_instance1,StrategyGridOpen,重启恢复,当前时间=13:57:59,Shmindex:0
+[2019-January-17 Thursday, 13:58:56] sc-GD-00006-3_instance1,Stop
+[2019-January-17 Thursday, 14:00:09] Log File Opened..
+[2019-January-17 Thursday, 14:00:10] CTP MD RspLogin Success.
+[2019-January-17 Thursday, 14:00:17] Create CTPTrader Thread..
+[2019-January-17 Thursday, 14:00:18] AccountID:043714,Balance:1141367.850
+[2019-January-17 Thursday, 14:00:30] Strategy Init..
+[2019-January-17 Thursday, 14:00:30] sc-GD-00006-3_instance1,StrategyGridOpen,重启恢复,当前时间=14:00:30,Shmindex:0
+[2019-January-17 Thursday, 14:03:19] sc-GD-00006-3_instance1,Stop

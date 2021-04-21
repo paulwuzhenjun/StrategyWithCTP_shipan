@@ -1,0 +1,113 @@
+[2018-July-30 Monday, 09:55:09] Log File Opened..
+[2018-July-30 Monday, 09:55:13] CTP MD RspLogin Success.
+[2018-July-30 Monday, 09:55:22] Create CTPTrader Thread..
+[2018-July-30 Monday, 09:55:22] 连接CTP当前时间:2018-07-30 09:55:22
+[2018-July-30 Monday, 09:55:24] AccountID:094440,Balance:917383.930
+[2018-July-30 Monday, 09:55:26] AccountID:094440,Balance:917663.930
+[2018-July-30 Monday, 10:00:00] Log File Opened..
+[2018-July-30 Monday, 10:00:01] CTP MD RspLogin Success.
+[2018-July-30 Monday, 10:00:09] Create CTPTrader Thread..
+[2018-July-30 Monday, 10:00:09] 连接CTP当前时间:2018-07-30 10:00:09
+[2018-July-30 Monday, 10:00:12] AccountID:094440,Balance:918116.865
+[2018-July-30 Monday, 10:00:13] AccountID:094440,Balance:918116.865
+[2018-July-30 Monday, 10:00:19] Strategy Init..
+[2018-July-30 Monday, 10:00:20] CTP Insert!! 100003,openOrClose=0,buyOrSell=1,price=5218.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-30 Monday, 10:00:20] IC-GD-00006-2_instance2,上网格开仓,卖=5218.00000,时间=10:00:19,网格:30
+[2018-July-30 Monday, 10:00:20] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=1611,Status=9,VolRemain=0
+[2018-July-30 Monday, 10:00:20] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=1612,vol=1,price=5231.60000
+[2018-July-30 Monday, 10:00:20] CTP Insert!! 100004,openOrClose=1,buyOrSell=0,price=5202.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-30 Monday, 10:00:20] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=1613,Status=3,VolRemain=1
+[2018-July-30 Monday, 10:00:20] CTP Insert!! 100005,openOrClose=0,buyOrSell=1,price=5226.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-30 Monday, 10:00:21] IC-GD-00006-2_instance2,上网格开仓,卖=5226.00000,时间=10:00:19,网格:31
+[2018-July-30 Monday, 10:00:21] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=1614,Status=9,VolRemain=0
+[2018-July-30 Monday, 10:00:21] IC-GD-00006-2_instance2,OnRtnTrade,OrderId=1615,vol=1,price=5231.60000
+[2018-July-30 Monday, 10:00:21] CTP Insert!! 100006,openOrClose=1,buyOrSell=0,price=5210.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-30 Monday, 10:00:21] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=1616,Status=3,VolRemain=1
+[2018-July-30 Monday, 10:11:51] IC-GD-00006-2_instance2,Stop
+[2018-July-30 Monday, 10:13:14] Log File Opened..
+[2018-July-30 Monday, 10:13:15] CTP MD RspLogin Success.
+[2018-July-30 Monday, 10:13:22] Create CTPTrader Thread..
+[2018-July-30 Monday, 10:13:22] 连接CTP当前时间:2018-07-30 10:13:22
+[2018-July-30 Monday, 10:13:22] AccountID:094440,Balance:922541.568
+[2018-July-30 Monday, 10:13:23] AccountID:094440,Balance:922541.568
+[2018-July-30 Monday, 10:13:28] Strategy Init..
+[2018-July-30 Monday, 10:13:29] CTP Insert!! 100003,openOrClose=0,buyOrSell=1,price=5350.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-30 Monday, 10:13:29] IC-GD-00006-2_instance2,上网格开仓,卖=5350.00000,时间=10:13:28,网格:30
+[2018-July-30 Monday, 10:13:29] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=1971,Status=3,VolRemain=1
+[2018-July-30 Monday, 10:21:24] IC-GD-00006-2_instance2,Stop
+[2018-July-30 Monday, 12:59:32] Log File Opened..
+[2018-July-30 Monday, 12:59:33] CTP MD RspLogin Success.
+[2018-July-30 Monday, 12:59:40] Create CTPTrader Thread..
+[2018-July-30 Monday, 12:59:40] 连接CTP当前时间:2018-07-30 12:59:40
+[2018-July-30 Monday, 12:59:41] AccountID:094440,Balance:922539.568
+[2018-July-30 Monday, 12:59:42] AccountID:094440,Balance:922539.568
+[2018-July-30 Monday, 12:59:42] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-30 Monday, 12:59:43] AccountID:094440,Balance:922539.568
+[2018-July-30 Monday, 12:59:49] Strategy Init..
+[2018-July-30 Monday, 12:59:56] Strategy Init..
+[2018-July-30 Monday, 13:00:01] CTP Insert!! 100003,openOrClose=0,buyOrSell=1,price=5330.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-30 Monday, 13:00:01] CTP Insert!! 100004,openOrClose=0,buyOrSell=1,price=5350.0000,vol=1,inst=IC1808,iRet=0
+[2018-July-30 Monday, 13:00:01] IC-GD-00006-2_instance2,上网格开仓,卖=5350.00000,时间=13:00:00,网格:30
+[2018-July-30 Monday, 13:00:01] IC-GD-00006-2_instance1,上网格开仓,卖=5330.00000,时间=13:00:00,网格:30
+[2018-July-30 Monday, 13:00:01] IC-GD-00006-2_instance2,OnRtnOrder,OrderId=4624,Status=3,VolRemain=1
+[2018-July-30 Monday, 13:00:01] IC-GD-00006-2_instance1,OnRtnOrder,OrderId=4623,Status=3,VolRemain=1
+[2018-July-30 Monday, 13:00:35] IC-GD-00006-2_instance1,Stop
+[2018-July-30 Monday, 13:00:39] IC-GD-00006-2_instance2,Stop
+[2018-July-30 Monday, 14:37:40] Log File Opened..
+[2018-July-30 Monday, 14:37:42] CTP MD RspLogin Success.
+[2018-July-30 Monday, 14:37:42] Esun MD RspLogin Success.
+[2018-July-30 Monday, 14:40:03] Log File Opened..
+[2018-July-30 Monday, 14:40:04] CTP MD RspLogin Success.
+[2018-July-30 Monday, 14:40:05] Esun MD RspLogin Success.
+[2018-July-30 Monday, 14:44:30] Log File Opened..
+[2018-July-30 Monday, 14:44:31] CTP MD RspLogin Success.
+[2018-July-30 Monday, 14:44:39] Create CTPTrader Thread..
+[2018-July-30 Monday, 14:44:39] 连接CTP当前时间:2018-07-30 14:44:39
+[2018-July-30 Monday, 14:44:45] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-30 Monday, 14:45:33] Log File Opened..
+[2018-July-30 Monday, 14:45:34] CTP MD RspLogin Success.
+[2018-July-30 Monday, 14:45:40] Create CTPTrader Thread..
+[2018-July-30 Monday, 14:45:40] 连接CTP当前时间:2018-07-30 14:45:40
+[2018-July-30 Monday, 14:45:40] AccountID:094440,Balance:922535.568
+[2018-July-30 Monday, 14:45:41] AccountID:094440,Balance:922535.568
+[2018-July-30 Monday, 14:45:49] Strategy Init..
+[2018-July-30 Monday, 21:00:48] Log File Opened..
+[2018-July-30 Monday, 21:00:49] CTP MD RspLogin Success.
+[2018-July-30 Monday, 21:00:57] Create CTPTrader Thread..
+[2018-July-30 Monday, 21:00:57] 连接CTP当前时间:2018-07-30 21:00:57
+[2018-July-30 Monday, 21:00:59] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-30 Monday, 21:01:30] Log File Opened..
+[2018-July-30 Monday, 21:01:31] CTP MD RspLogin Success.
+[2018-July-30 Monday, 21:01:38] Create CTPTrader Thread..
+[2018-July-30 Monday, 21:01:38] 连接CTP当前时间:2018-07-30 21:01:38
+[2018-July-30 Monday, 21:01:39] AccountID:094440,Balance:922551.550
+[2018-July-30 Monday, 21:01:39] AccountID:094440,Balance:922551.550
+[2018-July-30 Monday, 21:01:40] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-30 Monday, 21:01:41] AccountID:094440,Balance:922551.550
+[2018-July-30 Monday, 21:02:19] Strategy Init..
+[2018-July-30 Monday, 21:05:22] Log File Opened..
+[2018-July-30 Monday, 21:05:23] CTP MD RspLogin Success.
+[2018-July-30 Monday, 21:05:34] Create CTPTrader Thread..
+[2018-July-30 Monday, 21:05:34] 连接CTP当前时间:2018-07-30 21:05:34
+[2018-July-30 Monday, 21:05:50] Strategy Init..
+[2018-July-30 Monday, 21:05:50] CTP Insert!! 100003,openOrClose=0,buyOrSell=0,price=506.0000,vol=1,inst=sc1809,iRet=0
+[2018-July-30 Monday, 21:05:50] SC-GD-00006-2_instance1,下网格开仓,买=506.00000,时间=21:05:50,网格:29
+[2018-July-30 Monday, 21:06:05] AccountID:094440,Balance:922551.550
+[2018-July-30 Monday, 21:06:05] AccountID:094440,Balance:922551.550
+[2018-July-30 Monday, 21:06:05] SC-GD-00006-2_instance1,OnRtnOrder,OrderId=5,Status=3,VolRemain=1
+[2018-July-30 Monday, 21:06:21] SC-GD-00006-2_instance1,Stop
+[2018-July-30 Monday, 21:08:37] Log File Opened..
+[2018-July-30 Monday, 21:08:38] CTP MD RspLogin Success.
+[2018-July-30 Monday, 21:08:44] Create CTPTrader Thread..
+[2018-July-30 Monday, 21:08:44] 连接CTP当前时间:2018-07-30 21:08:44
+[2018-July-30 Monday, 21:08:44] AccountID:094440,Balance:922551.550
+[2018-July-30 Monday, 21:08:45] AccountID:094440,Balance:922551.550
+[2018-July-30 Monday, 21:09:48] Strategy Init..
+[2018-July-30 Monday, 21:09:48] ag-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=21:09:48
+[2018-July-30 Monday, 21:09:57] Strategy Init..
+[2018-July-30 Monday, 21:09:57] au-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=21:09:57
+[2018-July-30 Monday, 21:10:04] Strategy Init..
+[2018-July-30 Monday, 21:10:04] au-GD-00006-2_instance2,StrategyGridOpen,重启恢复,当前时间=21:10:04
+[2018-July-30 Monday, 21:12:21] ag-GD-00006-2_instance1,Stop
+[2018-July-30 Monday, 21:12:21] au-GD-00006-2_instance1,Stop
+[2018-July-30 Monday, 21:12:21] au-GD-00006-2_instance2,Stop

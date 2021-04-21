@@ -1,0 +1,33 @@
+[2019-March-27 Wednesday, 09:50:09] Log File Opened..
+[2019-March-27 Wednesday, 09:50:10] CTP MD RspLogin Success.
+[2019-March-27 Wednesday, 09:50:23] Create CTPTrader Thread..
+[2019-March-27 Wednesday, 09:50:23] AccountID:2208002005,Balance:3108784.980
+[2019-March-27 Wednesday, 09:50:38] ClientNo:2208002005,Inst:IH1904,Direct:0,TradePrice:2753.80,TradeVol:1,SettlePrice:2706.40,-5700.00,MatchDateTime:20190325
+[2019-March-27 Wednesday, 09:50:41] ClientNo:2208002005,Inst:IC1904,Direct:1,TradePrice:5467.00,TradeVol:1,SettlePrice:5368.40,20000.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:50:54] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5276.00,TradeVol:1,SettlePrice:5368.40,18200.00,MatchDateTime:20190315
+[2019-March-27 Wednesday, 09:50:54] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5360.40,TradeVol:1,SettlePrice:5368.40,1320.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:50:55] ClientNo:2208002005,Inst:IH1904,Direct:0,TradePrice:2802.80,TradeVol:1,SettlePrice:2706.40,-20400.00,MatchDateTime:20190322
+[2019-March-27 Wednesday, 09:51:00] ClientNo:2208002005,Inst:IH1904,Direct:0,TradePrice:2705.40,TradeVol:1,SettlePrice:2706.40,8820.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:52:56] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5461.00,TradeVol:1,SettlePrice:5368.40,-18800.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:53:02] CTP MD RspLogin Success.
+[2019-March-27 Wednesday, 09:54:28] Log File Opened..
+[2019-March-27 Wednesday, 09:54:29] CTP MD RspLogin Success.
+[2019-March-27 Wednesday, 09:54:43] Create CTPTrader Thread..
+[2019-March-27 Wednesday, 09:54:43] AccountID:2208002005,Balance:3118444.980
+[2019-March-27 Wednesday, 09:54:43] ClientNo:2208002005,Inst:IH1904,Direct:0,TradePrice:2753.80,TradeVol:1,SettlePrice:2706.40,-5040.00,MatchDateTime:20190325
+[2019-March-27 Wednesday, 09:54:43] ClientNo:2208002005,Inst:IC1904,Direct:1,TradePrice:5467.00,TradeVol:1,SettlePrice:5368.40,17440.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:54:43] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5276.00,TradeVol:1,SettlePrice:5368.40,20760.00,MatchDateTime:20190315
+[2019-March-27 Wednesday, 09:54:43] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5360.40,TradeVol:1,SettlePrice:5368.40,3880.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:54:43] ClientNo:2208002005,Inst:IH1904,Direct:0,TradePrice:2802.80,TradeVol:1,SettlePrice:2706.40,-19740.00,MatchDateTime:20190322
+[2019-March-27 Wednesday, 09:54:43] ClientNo:2208002005,Inst:IH1904,Direct:0,TradePrice:2705.40,TradeVol:1,SettlePrice:2706.40,9480.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:54:43] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5461.00,TradeVol:1,SettlePrice:5368.40,-16240.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:54:43] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5461.00,TradeVol:1,SettlePrice:5368.40,-16240.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:55:30] AccountID:2208002005,Balance:3115624.980
+[2019-March-27 Wednesday, 09:55:30] ClientNo:2208002005,Inst:IH1904,Direct:0,TradePrice:2753.80,TradeVol:1,SettlePrice:2706.40,-5220.00,MatchDateTime:20190325
+[2019-March-27 Wednesday, 09:55:30] ClientNo:2208002005,Inst:IC1904,Direct:1,TradePrice:5467.00,TradeVol:1,SettlePrice:5368.40,18200.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:55:30] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5276.00,TradeVol:1,SettlePrice:5368.40,20000.00,MatchDateTime:20190315
+[2019-March-27 Wednesday, 09:55:30] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5360.40,TradeVol:1,SettlePrice:5368.40,3120.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:55:42] ClientNo:2208002005,Inst:IH1904,Direct:0,TradePrice:2802.80,TradeVol:1,SettlePrice:2706.40,-19920.00,MatchDateTime:20190322
+[2019-March-27 Wednesday, 09:55:42] ClientNo:2208002005,Inst:IH1904,Direct:0,TradePrice:2705.40,TradeVol:1,SettlePrice:2706.40,9300.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:55:42] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5461.00,TradeVol:1,SettlePrice:5368.40,-17000.00,MatchDateTime:20190326
+[2019-March-27 Wednesday, 09:55:42] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5461.00,TradeVol:1,SettlePrice:5368.40,-17000.00,MatchDateTime:20190326

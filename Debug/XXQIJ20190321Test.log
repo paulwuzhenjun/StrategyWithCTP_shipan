@@ -1,0 +1,99 @@
+[2019-March-21 Thursday, 21:11:10] Log File Opened..
+[2019-March-21 Thursday, 21:11:11] CTP MD RspLogin Success.
+[2019-March-21 Thursday, 21:11:22] Create CTPTrader Thread..
+[2019-March-21 Thursday, 21:11:22] AccountID:094440,Balance:640119.430
+[2019-March-21 Thursday, 21:11:23] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:11:23] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:11:23] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:11:23] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:11:30] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-March-21 Thursday, 21:11:30] AccountID:094440,Balance:640119.430
+[2019-March-21 Thursday, 21:11:31] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:11:31] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:11:31] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:11:31] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:12:08] Strategy Init..
+[2019-March-21 Thursday, 21:14:54] Log File Opened..
+[2019-March-21 Thursday, 21:14:55] CTP MD RspLogin Success.
+[2019-March-21 Thursday, 21:15:02] Create CTPTrader Thread..
+[2019-March-21 Thursday, 21:15:02] AccountID:094440,Balance:640119.430
+[2019-March-21 Thursday, 21:15:03] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:15:03] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:15:03] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:15:03] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:15:31] Strategy Init..
+[2019-March-21 Thursday, 21:16:13] sc-GD-00006-3_instance1,Stop
+[2019-March-21 Thursday, 21:17:57] Log File Opened..
+[2019-March-21 Thursday, 21:17:58] CTP MD RspLogin Success.
+[2019-March-21 Thursday, 21:18:15] Create CTPTrader Thread..
+[2019-March-21 Thursday, 21:18:15] AccountID:094440,Balance:640119.430
+[2019-March-21 Thursday, 21:18:16] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:18:16] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:18:16] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:18:16] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:18:40] Strategy Init..
+[2019-March-21 Thursday, 21:20:46] Log File Opened..
+[2019-March-21 Thursday, 21:20:47] CTP MD RspLogin Success.
+[2019-March-21 Thursday, 21:20:53] Create CTPTrader Thread..
+[2019-March-21 Thursday, 21:20:53] AccountID:094440,Balance:640119.430
+[2019-March-21 Thursday, 21:20:54] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:20:54] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:20:54] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:20:54] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:21:03] Strategy Init..
+[2019-March-21 Thursday, 21:25:33] Log File Opened..
+[2019-March-21 Thursday, 21:25:34] CTP MD RspLogin Success.
+[2019-March-21 Thursday, 21:25:44] Create CTPTrader Thread..
+[2019-March-21 Thursday, 21:25:44] AccountID:094440,Balance:640119.430
+[2019-March-21 Thursday, 21:25:45] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:25:45] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:25:45] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:25:45] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:25:51] Strategy Init..
+[2019-March-21 Thursday, 21:27:22] Log File Opened..
+[2019-March-21 Thursday, 21:27:24] CTP MD RspLogin Success.
+[2019-March-21 Thursday, 21:27:30] Create CTPTrader Thread..
+[2019-March-21 Thursday, 21:27:30] AccountID:094440,Balance:640119.430
+[2019-March-21 Thursday, 21:27:31] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:27:31] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:27:31] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:27:31] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:27:52] Strategy Init..
+[2019-March-21 Thursday, 21:27:52] CTP Insert!! 3,openOrClose=0,buyOrSell=0,price=2638.0000,vol=1,inst=m1905,iRet=0
+[2019-March-21 Thursday, 21:27:52] sc-GD-00006-3_instance1,下网格开仓,买=2638.00000,时间=21:27:50,网格:29
+[2019-March-21 Thursday, 21:27:52] DispatchTdMsg,orderSysId:12394,ref:3
+[2019-March-21 Thursday, 21:27:52] sc-GD-00006-3_instance1,OnRtnOrder,OrderId=12394,Status=9,VolRemain=0,OrderRef=3
+[2019-March-21 Thursday, 21:27:52] DispatchTdMsg,orderSysId:2212395,ref:3
+[2019-March-21 Thursday, 21:27:52] sc-GD-00006-3_instance1,OnRtnTrade,OrderId=2212395,vol=1,price=2537.00000
+[2019-March-21 Thursday, 21:27:59] CTP Insert!! 4,openOrClose=0,buyOrSell=0,price=2638.0000,vol=1,inst=m1905,iRet=0
+[2019-March-21 Thursday, 21:27:59] sc-GD-00006-3_instance1,下网格开仓,买=2638.00000,时间=21:27:57,网格:28
+[2019-March-21 Thursday, 21:27:59] DispatchTdMsg,orderSysId:12418,ref:4
+[2019-March-21 Thursday, 21:27:59] DispatchTdMsg,orderSysId:2212419,ref:4
+[2019-March-21 Thursday, 21:27:59] sc-GD-00006-3_instance1,OnRtnOrder,OrderId=12418,Status=9,VolRemain=0,OrderRef=4
+[2019-March-21 Thursday, 21:27:59] sc-GD-00006-3_instance1,OnRtnTrade,OrderId=2212419,vol=1,price=2536.00000
+[2019-March-21 Thursday, 21:35:06] Log File Opened..
+[2019-March-21 Thursday, 21:35:07] CTP MD RspLogin Success.
+[2019-March-21 Thursday, 21:35:14] Create CTPTrader Thread..
+[2019-March-21 Thursday, 21:35:14] AccountID:094440,Balance:640126.430
+[2019-March-21 Thursday, 21:35:15] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:35:15] ClientNo:094440,Inst:m1905,Direct:0,TradePrice:2536.00,TradeVol:1,SettlePrice:2537.00,0.00,MatchDateTime:20190322
+[2019-March-21 Thursday, 21:35:15] ClientNo:094440,Inst:m1905,Direct:0,TradePrice:2537.00,TradeVol:1,SettlePrice:2537.00,-10.00,MatchDateTime:20190322
+[2019-March-21 Thursday, 21:35:15] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:35:15] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:35:15] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:35:15] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-March-21 Thursday, 21:35:16] AccountID:094440,Balance:640146.430
+[2019-March-21 Thursday, 21:35:17] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:35:17] ClientNo:094440,Inst:m1905,Direct:0,TradePrice:2536.00,TradeVol:1,SettlePrice:2537.00,0.00,MatchDateTime:20190322
+[2019-March-21 Thursday, 21:35:17] ClientNo:094440,Inst:m1905,Direct:0,TradePrice:2537.00,TradeVol:1,SettlePrice:2537.00,-10.00,MatchDateTime:20190322
+[2019-March-21 Thursday, 21:35:17] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:35:17] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:35:17] ClientNo:094440,Inst:sc1904,Direct:0,TradePrice:450.90,TradeVol:1,SettlePrice:476.00,25100.00,MatchDateTime:20190313
+[2019-March-21 Thursday, 21:35:31] Strategy Init..
+[2019-March-21 Thursday, 21:35:31] CTP Insert!! 3,openOrClose=0,buyOrSell=0,price=2638.0000,vol=1,inst=m1905,iRet=0
+[2019-March-21 Thursday, 21:35:31] sc-GD-00006-3_instance1,下网格开仓,买=2638.00000,时间=21:35:29,网格:29
+[2019-March-21 Thursday, 21:35:31] DispatchTdMsg,orderSysId:13845,ref:3
+[2019-March-21 Thursday, 21:35:31] DispatchTdMsg,orderSysId:2213846,ref:3
+[2019-March-21 Thursday, 21:35:31] sc-GD-00006-3_instance1,OnRtnOrder,OrderId=13845,Status=9,VolRemain=0,OrderRef=3
+[2019-March-21 Thursday, 21:35:31] sc-GD-00006-3_instance1,OnRtnTrade,OrderId=2213846,vol=1,price=2538.00000
+[2019-March-21 Thursday, 21:35:59] sc-GD-00006-3_instance1,Stop

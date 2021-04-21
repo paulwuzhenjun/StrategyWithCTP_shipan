@@ -1,0 +1,192 @@
+[2018-October-10 Wednesday, 10:55:36] Log File Opened..
+[2018-October-10 Wednesday, 10:55:37] CTP MD RspLogin Success.
+[2018-October-10 Wednesday, 10:55:45] Create CTPTrader Thread..
+[2018-October-10 Wednesday, 10:55:45] 连接CTP当前时间:2018-10-10 10:55:45
+[2018-October-10 Wednesday, 10:55:45] AccountID:094440,Balance:959421.070
+[2018-October-10 Wednesday, 10:55:46] AccountID:094440,Balance:959421.070
+[2018-October-10 Wednesday, 10:55:49] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-October-10 Wednesday, 10:55:50] AccountID:094440,Balance:959001.070
+[2018-October-10 Wednesday, 10:56:12] Strategy Init..
+[2018-October-10 Wednesday, 10:56:12] au-GD-00006-2_instance2,StrategyGridOpen,重启恢复,当前时间=10:56:12,Shmindex:0
+[2018-October-10 Wednesday, 10:56:15] CTP Insert!! 110263,openOrClose=1,buyOrSell=0,price=265.1000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:15] CTP Insert!! 110264,openOrClose=1,buyOrSell=0,price=265.4000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:15] CTP Insert!! 110265,openOrClose=0,buyOrSell=1,price=266.1000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:15] au-GD-00006-2_instance2,上网格开仓,卖=266.10000,时间=10:56:13,网格:38
+[2018-October-10 Wednesday, 10:56:15] DispatchTdMsg,orderSysId:135477,ref:110265
+[2018-October-10 Wednesday, 10:56:15] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135477,Status=9,VolRemain=0,OrderRef=110265
+[2018-October-10 Wednesday, 10:56:15] DispatchTdMsg,orderSysId:10135478,ref:110265
+[2018-October-10 Wednesday, 10:56:15] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10135478,vol=1,price=267.90000
+[2018-October-10 Wednesday, 10:56:15] CTP Insert!! 110266,openOrClose=1,buyOrSell=0,price=265.7000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:15] DispatchTdMsg,orderSysId:135479,ref:110266
+[2018-October-10 Wednesday, 10:56:15] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135479,Status=3,VolRemain=1,OrderRef=110266
+[2018-October-10 Wednesday, 10:56:15] CTP Insert!! 110267,openOrClose=0,buyOrSell=1,price=266.4000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:15] au-GD-00006-2_instance2,上网格开仓,卖=266.40000,时间=10:56:13,网格:39
+[2018-October-10 Wednesday, 10:56:15] DispatchTdMsg,orderSysId:135480,ref:110267
+[2018-October-10 Wednesday, 10:56:15] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135480,Status=9,VolRemain=0,OrderRef=110267
+[2018-October-10 Wednesday, 10:56:15] DispatchTdMsg,orderSysId:10135481,ref:110267
+[2018-October-10 Wednesday, 10:56:15] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10135481,vol=1,price=267.90000
+[2018-October-10 Wednesday, 10:56:15] CTP Insert!! 110268,openOrClose=1,buyOrSell=0,price=266.0000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:15] DispatchTdMsg,orderSysId:135485,ref:110268
+[2018-October-10 Wednesday, 10:56:15] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135485,Status=3,VolRemain=1,OrderRef=110268
+[2018-October-10 Wednesday, 10:56:18] CTP Insert!! 110269,openOrClose=0,buyOrSell=1,price=266.7000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:18] au-GD-00006-2_instance2,上网格开仓,卖=266.70000,时间=10:56:17,网格:40
+[2018-October-10 Wednesday, 10:56:19] DispatchTdMsg,orderSysId:135505,ref:110269
+[2018-October-10 Wednesday, 10:56:19] DispatchTdMsg,orderSysId:10135506,ref:110269
+[2018-October-10 Wednesday, 10:56:19] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135505,Status=9,VolRemain=0,OrderRef=110269
+[2018-October-10 Wednesday, 10:56:19] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10135506,vol=1,price=267.90000
+[2018-October-10 Wednesday, 10:56:19] CTP Insert!! 110270,openOrClose=1,buyOrSell=0,price=266.3000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:19] DispatchTdMsg,orderSysId:135507,ref:110270
+[2018-October-10 Wednesday, 10:56:19] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135507,Status=3,VolRemain=1,OrderRef=110270
+[2018-October-10 Wednesday, 10:56:20] CTP Insert!! 110271,openOrClose=0,buyOrSell=1,price=267.0000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:20] au-GD-00006-2_instance2,上网格开仓,卖=267.00000,时间=10:56:18,网格:41
+[2018-October-10 Wednesday, 10:56:20] DispatchTdMsg,orderSysId:135516,ref:110271
+[2018-October-10 Wednesday, 10:56:20] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135516,Status=9,VolRemain=0,OrderRef=110271
+[2018-October-10 Wednesday, 10:56:20] DispatchTdMsg,orderSysId:10135517,ref:110271
+[2018-October-10 Wednesday, 10:56:20] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10135517,vol=1,price=267.90000
+[2018-October-10 Wednesday, 10:56:20] CTP Insert!! 110272,openOrClose=1,buyOrSell=0,price=266.6000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:20] DispatchTdMsg,orderSysId:135518,ref:110272
+[2018-October-10 Wednesday, 10:56:20] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135518,Status=3,VolRemain=1,OrderRef=110272
+[2018-October-10 Wednesday, 10:56:21] CTP Insert!! 110273,openOrClose=0,buyOrSell=1,price=267.3000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:21] au-GD-00006-2_instance2,上网格开仓,卖=267.30000,时间=10:56:20,网格:42
+[2018-October-10 Wednesday, 10:56:21] DispatchTdMsg,orderSysId:135522,ref:110273
+[2018-October-10 Wednesday, 10:56:21] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135522,Status=9,VolRemain=0,OrderRef=110273
+[2018-October-10 Wednesday, 10:56:21] DispatchTdMsg,orderSysId:10135523,ref:110273
+[2018-October-10 Wednesday, 10:56:21] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10135523,vol=1,price=267.90000
+[2018-October-10 Wednesday, 10:56:21] CTP Insert!! 110274,openOrClose=1,buyOrSell=0,price=266.9000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:22] DispatchTdMsg,orderSysId:135524,ref:110274
+[2018-October-10 Wednesday, 10:56:22] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135524,Status=3,VolRemain=1,OrderRef=110274
+[2018-October-10 Wednesday, 10:56:22] CTP Insert!! 110275,openOrClose=0,buyOrSell=1,price=267.6000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:22] au-GD-00006-2_instance2,上网格开仓,卖=267.60000,时间=10:56:20,网格:43
+[2018-October-10 Wednesday, 10:56:22] DispatchTdMsg,orderSysId:135530,ref:110275
+[2018-October-10 Wednesday, 10:56:22] DispatchTdMsg,orderSysId:10135531,ref:110275
+[2018-October-10 Wednesday, 10:56:22] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135530,Status=9,VolRemain=0,OrderRef=110275
+[2018-October-10 Wednesday, 10:56:22] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10135531,vol=1,price=267.90000
+[2018-October-10 Wednesday, 10:56:22] CTP Insert!! 110276,openOrClose=1,buyOrSell=0,price=267.2000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:23] CTP Insert!! 110277,openOrClose=0,buyOrSell=1,price=267.9000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 10:56:23] au-GD-00006-2_instance2,上网格开仓,卖=267.90000,时间=10:56:21,网格:44
+[2018-October-10 Wednesday, 10:56:23] DispatchTdMsg,orderSysId:135532,ref:110276
+[2018-October-10 Wednesday, 10:56:23] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135532,Status=3,VolRemain=1,OrderRef=110276
+[2018-October-10 Wednesday, 10:56:23] DispatchTdMsg,orderSysId:135538,ref:110277
+[2018-October-10 Wednesday, 10:56:23] au-GD-00006-2_instance2,OnRtnOrder,OrderId=135538,Status=3,VolRemain=1,OrderRef=110277
+[2018-October-10 Wednesday, 10:57:55] au-GD-00006-2_instance2,Stop
+[2018-October-10 Wednesday, 11:09:56] Log File Opened..
+[2018-October-10 Wednesday, 11:09:57] CTP MD RspLogin Success.
+[2018-October-10 Wednesday, 11:10:07] Create CTPTrader Thread..
+[2018-October-10 Wednesday, 11:10:07] 连接CTP当前时间:2018-10-10 11:10:07
+[2018-October-10 Wednesday, 11:10:11] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-October-10 Wednesday, 11:10:14] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-October-10 Wednesday, 11:10:38] AccountID:094440,Balance:958916.070
+[2018-October-10 Wednesday, 11:10:38] AccountID:094440,Balance:958141.070
+[2018-October-10 Wednesday, 11:10:39] AccountID:094440,Balance:958071.070
+[2018-October-10 Wednesday, 11:10:40] AccountID:094440,Balance:958071.070
+[2018-October-10 Wednesday, 11:18:37] Strategy Init..
+[2018-October-10 Wednesday, 11:18:37] au-GD-00006-2_instance2,StrategyGridOpen,重启恢复,当前时间=11:18:37,Shmindex:0
+[2018-October-10 Wednesday, 11:18:39] CTP Insert!! 110265,openOrClose=1,buyOrSell=0,price=263.3000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:39] CTP Insert!! 110266,openOrClose=1,buyOrSell=0,price=263.6000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:39] CTP Insert!! 110267,openOrClose=1,buyOrSell=0,price=263.9000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:39] CTP Insert!! 110268,openOrClose=1,buyOrSell=0,price=264.2000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:39] CTP Insert!! 110269,openOrClose=0,buyOrSell=1,price=266.1000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:39] au-GD-00006-2_instance2,上网格开仓,卖=266.10000,时间=11:18:37,网格:38
+[2018-October-10 Wednesday, 11:18:40] CTP Insert!! 110270,openOrClose=1,buyOrSell=0,price=264.5000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:40] CTP Insert!! 110271,openOrClose=1,buyOrSell=0,price=264.8000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:40] CTP Insert!! 110272,openOrClose=1,buyOrSell=0,price=265.1000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:40] CTP Insert!! 110273,openOrClose=1,buyOrSell=0,price=265.4000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:40] DispatchTdMsg,orderSysId:148510,ref:110269
+[2018-October-10 Wednesday, 11:18:40] DispatchTdMsg,orderSysId:10148511,ref:110269
+[2018-October-10 Wednesday, 11:18:40] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148510,Status=9,VolRemain=0,OrderRef=110269
+[2018-October-10 Wednesday, 11:18:40] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10148511,vol=1,price=268.00000
+[2018-October-10 Wednesday, 11:18:40] CTP Insert!! 110274,openOrClose=1,buyOrSell=0,price=265.7000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:40] DispatchTdMsg,orderSysId:148512,ref:110274
+[2018-October-10 Wednesday, 11:18:40] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148512,Status=3,VolRemain=1,OrderRef=110274
+[2018-October-10 Wednesday, 11:18:40] CTP Insert!! 110275,openOrClose=0,buyOrSell=1,price=266.4000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:40] au-GD-00006-2_instance2,上网格开仓,卖=266.40000,时间=11:18:39,网格:39
+[2018-October-10 Wednesday, 11:18:40] DispatchTdMsg,orderSysId:148517,ref:110275
+[2018-October-10 Wednesday, 11:18:40] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148517,Status=9,VolRemain=0,OrderRef=110275
+[2018-October-10 Wednesday, 11:18:40] DispatchTdMsg,orderSysId:10148518,ref:110275
+[2018-October-10 Wednesday, 11:18:40] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10148518,vol=1,price=268.00000
+[2018-October-10 Wednesday, 11:18:40] CTP Insert!! 110276,openOrClose=1,buyOrSell=0,price=266.0000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:41] DispatchTdMsg,orderSysId:148519,ref:110276
+[2018-October-10 Wednesday, 11:18:41] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148519,Status=3,VolRemain=1,OrderRef=110276
+[2018-October-10 Wednesday, 11:18:41] CTP Insert!! 110277,openOrClose=0,buyOrSell=1,price=266.7000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:41] au-GD-00006-2_instance2,上网格开仓,卖=266.70000,时间=11:18:39,网格:40
+[2018-October-10 Wednesday, 11:18:41] DispatchTdMsg,orderSysId:148525,ref:110277
+[2018-October-10 Wednesday, 11:18:41] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148525,Status=9,VolRemain=0,OrderRef=110277
+[2018-October-10 Wednesday, 11:18:41] DispatchTdMsg,orderSysId:10148526,ref:110277
+[2018-October-10 Wednesday, 11:18:41] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10148526,vol=1,price=268.00000
+[2018-October-10 Wednesday, 11:18:41] CTP Insert!! 110278,openOrClose=1,buyOrSell=0,price=266.3000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:41] DispatchTdMsg,orderSysId:148527,ref:110278
+[2018-October-10 Wednesday, 11:18:41] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148527,Status=3,VolRemain=1,OrderRef=110278
+[2018-October-10 Wednesday, 11:18:43] CTP Insert!! 110279,openOrClose=0,buyOrSell=1,price=267.0000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:43] au-GD-00006-2_instance2,上网格开仓,卖=267.00000,时间=11:18:41,网格:41
+[2018-October-10 Wednesday, 11:18:43] DispatchTdMsg,orderSysId:148542,ref:110279
+[2018-October-10 Wednesday, 11:18:43] DispatchTdMsg,orderSysId:10148543,ref:110279
+[2018-October-10 Wednesday, 11:18:43] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148542,Status=9,VolRemain=0,OrderRef=110279
+[2018-October-10 Wednesday, 11:18:43] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10148543,vol=1,price=268.00000
+[2018-October-10 Wednesday, 11:18:43] CTP Insert!! 110280,openOrClose=1,buyOrSell=0,price=266.6000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:43] DispatchTdMsg,orderSysId:148544,ref:110280
+[2018-October-10 Wednesday, 11:18:43] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148544,Status=3,VolRemain=1,OrderRef=110280
+[2018-October-10 Wednesday, 11:18:44] CTP Insert!! 110281,openOrClose=0,buyOrSell=1,price=267.3000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:44] au-GD-00006-2_instance2,上网格开仓,卖=267.30000,时间=11:18:42,网格:42
+[2018-October-10 Wednesday, 11:18:44] DispatchTdMsg,orderSysId:148545,ref:110281
+[2018-October-10 Wednesday, 11:18:44] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148545,Status=9,VolRemain=0,OrderRef=110281
+[2018-October-10 Wednesday, 11:18:44] DispatchTdMsg,orderSysId:10148546,ref:110281
+[2018-October-10 Wednesday, 11:18:44] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10148546,vol=1,price=268.00000
+[2018-October-10 Wednesday, 11:18:44] CTP Insert!! 110282,openOrClose=1,buyOrSell=0,price=266.9000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:44] DispatchTdMsg,orderSysId:148547,ref:110282
+[2018-October-10 Wednesday, 11:18:44] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148547,Status=3,VolRemain=1,OrderRef=110282
+[2018-October-10 Wednesday, 11:18:45] CTP Insert!! 110283,openOrClose=0,buyOrSell=1,price=267.6000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:45] au-GD-00006-2_instance2,上网格开仓,卖=267.60000,时间=11:18:43,网格:43
+[2018-October-10 Wednesday, 11:18:45] DispatchTdMsg,orderSysId:148554,ref:110283
+[2018-October-10 Wednesday, 11:18:45] DispatchTdMsg,orderSysId:10148555,ref:110283
+[2018-October-10 Wednesday, 11:18:45] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148554,Status=9,VolRemain=0,OrderRef=110283
+[2018-October-10 Wednesday, 11:18:45] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10148555,vol=1,price=268.00000
+[2018-October-10 Wednesday, 11:18:45] CTP Insert!! 110284,openOrClose=1,buyOrSell=0,price=267.2000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:45] DispatchTdMsg,orderSysId:148556,ref:110284
+[2018-October-10 Wednesday, 11:18:45] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148556,Status=3,VolRemain=1,OrderRef=110284
+[2018-October-10 Wednesday, 11:18:47] CTP Insert!! 110285,openOrClose=0,buyOrSell=1,price=267.9000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:47] au-GD-00006-2_instance2,上网格开仓,卖=267.90000,时间=11:18:45,网格:44
+[2018-October-10 Wednesday, 11:18:47] DispatchTdMsg,orderSysId:148573,ref:110285
+[2018-October-10 Wednesday, 11:18:47] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148573,Status=9,VolRemain=0,OrderRef=110285
+[2018-October-10 Wednesday, 11:18:47] DispatchTdMsg,orderSysId:10148574,ref:110285
+[2018-October-10 Wednesday, 11:18:47] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10148574,vol=1,price=268.00000
+[2018-October-10 Wednesday, 11:18:47] CTP Insert!! 110286,openOrClose=1,buyOrSell=0,price=267.5000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:47] DispatchTdMsg,orderSysId:148578,ref:110286
+[2018-October-10 Wednesday, 11:18:47] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148578,Status=3,VolRemain=1,OrderRef=110286
+[2018-October-10 Wednesday, 11:18:47] CTP Insert!! 110287,openOrClose=0,buyOrSell=1,price=268.2000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 11:18:47] au-GD-00006-2_instance2,上网格开仓,卖=268.20000,时间=11:18:46,网格:45
+[2018-October-10 Wednesday, 11:18:47] DispatchTdMsg,orderSysId:148580,ref:110287
+[2018-October-10 Wednesday, 11:18:47] au-GD-00006-2_instance2,OnRtnOrder,OrderId=148580,Status=3,VolRemain=1,OrderRef=110287
+[2018-October-10 Wednesday, 11:19:35] au-GD-00006-2_instance2,Stop
+[2018-October-10 Wednesday, 13:34:27] Log File Opened..
+[2018-October-10 Wednesday, 13:34:28] CTP MD RspLogin Success.
+[2018-October-10 Wednesday, 13:34:34] Create CTPTrader Thread..
+[2018-October-10 Wednesday, 13:34:34] 连接CTP当前时间:2018-10-10 13:34:34
+[2018-October-10 Wednesday, 13:34:36] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-October-10 Wednesday, 13:34:45] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-October-10 Wednesday, 13:34:54] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-October-10 Wednesday, 13:35:07] Log File Opened..
+[2018-October-10 Wednesday, 13:35:08] CTP MD RspLogin Success.
+[2018-October-10 Wednesday, 13:35:15] Create CTPTrader Thread..
+[2018-October-10 Wednesday, 13:35:15] 连接CTP当前时间:2018-10-10 13:35:15
+[2018-October-10 Wednesday, 13:35:15] AccountID:094440,Balance:958656.070
+[2018-October-10 Wednesday, 13:35:16] AccountID:094440,Balance:958656.070
+[2018-October-10 Wednesday, 13:35:35] Strategy Init..
+[2018-October-10 Wednesday, 13:35:35] au-GD-00006-2_instance2,StrategyGridOpen,重启恢复,当前时间=13:35:35,Shmindex:0
+[2018-October-10 Wednesday, 13:35:39] CTP Insert!! 110273,openOrClose=0,buyOrSell=1,price=266.1000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 13:36:13] au-GD-00006-2_instance2,上网格开仓,卖=266.10000,时间=13:35:37,网格:38
+[2018-October-10 Wednesday, 13:36:13] DispatchTdMsg,orderSysId:156777,ref:110273
+[2018-October-10 Wednesday, 13:36:13] DispatchTdMsg,orderSysId:10156778,ref:110273
+[2018-October-10 Wednesday, 13:36:13] au-GD-00006-2_instance2,OnRtnOrder,OrderId=156777,Status=9,VolRemain=0,OrderRef=110273
+[2018-October-10 Wednesday, 13:36:13] au-GD-00006-2_instance2,OnRtnTrade,OrderId=10156778,vol=1,price=267.95000
+[2018-October-10 Wednesday, 13:36:13] CTP Insert!! 110274,openOrClose=1,buyOrSell=0,price=265.7000,vol=1,inst=au1812,iRet=0
+[2018-October-10 Wednesday, 16:05:42] Log File Opened..
+[2018-October-10 Wednesday, 16:05:43] CTP MD RspLogin Success.
+[2018-October-10 Wednesday, 16:05:49] Create CTPTrader Thread..
+[2018-October-10 Wednesday, 16:06:29] Log File Opened..
+[2018-October-10 Wednesday, 16:06:30] CTP MD RspLogin Success.
+[2018-October-10 Wednesday, 16:06:37] Create CTPTrader Thread..
+[2018-October-10 Wednesday, 16:06:47] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-October-10 Wednesday, 16:06:51] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-October-10 Wednesday, 16:07:20] Log File Opened..
+[2018-October-10 Wednesday, 16:07:21] CTP MD RspLogin Success.
+[2018-October-10 Wednesday, 16:07:31] Create CTPTrader Thread..

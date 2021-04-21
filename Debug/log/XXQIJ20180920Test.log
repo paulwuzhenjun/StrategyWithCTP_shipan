@@ -1,0 +1,389 @@
+[2018-September-20 Thursday, 13:35:47] Log File Opened..
+[2018-September-20 Thursday, 13:35:48] CTP MD RspLogin Success.
+[2018-September-20 Thursday, 13:35:55] Create CTPTrader Thread..
+[2018-September-20 Thursday, 13:35:55] 连接CTP当前时间:2018-09-20 13:35:55
+[2018-September-20 Thursday, 13:35:55] AccountID:094440,Balance:963174.598
+[2018-September-20 Thursday, 13:35:56] AccountID:094440,Balance:963174.598
+[2018-September-20 Thursday, 13:35:58] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-September-20 Thursday, 13:35:58] AccountID:094440,Balance:963089.598
+[2018-September-20 Thursday, 13:36:07] Strategy Init..
+[2018-September-20 Thursday, 13:36:08] ag-RD-00011_instance1,OpenPriceOpening,13:36:06,开盘价=3456.00000
+[2018-September-20 Thursday, 13:36:08] CTP Insert!! 100003,openOrClose=0,buyOrSell=0,price=3441.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:36:08] ag-RD-00011_instance1,开仓,买=3441.00000,时间=13:36:06,手数=1
+[2018-September-20 Thursday, 13:36:08] CTP Insert!! 100004,openOrClose=0,buyOrSell=1,price=3471.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:36:08] DispatchTdMsg,orderSysId:1037816,ref:100003
+[2018-September-20 Thursday, 13:36:08] ag-RD-00011_instance1,开仓,卖=3471.00000,时间=13:36:06,手数=1
+[2018-September-20 Thursday, 13:36:08] DispatchTdMsg,orderSysId:1037817,ref:100004
+[2018-September-20 Thursday, 13:36:08] ag-RD-00011_instance1,OnRtnOrder,OrderId=1037816,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:36:08] ag-RD-00011_instance1,OnRtnOrder,OrderId=1037817,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:38:42] Log File Opened..
+[2018-September-20 Thursday, 13:38:43] CTP MD RspLogin Success.
+[2018-September-20 Thursday, 13:38:49] Create CTPTrader Thread..
+[2018-September-20 Thursday, 13:38:49] 连接CTP当前时间:2018-09-20 13:38:49
+[2018-September-20 Thursday, 13:38:49] AccountID:094440,Balance:961879.598
+[2018-September-20 Thursday, 13:38:50] AccountID:094440,Balance:961739.598
+[2018-September-20 Thursday, 13:38:59] Strategy Init..
+[2018-September-20 Thursday, 13:38:59] ag-RD-00011_instance1,OpenPriceOpening,13:38:57,开盘价=3454.00000
+[2018-September-20 Thursday, 13:39:41] CTP Insert!! 100003,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:41] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:39,手数=1
+[2018-September-20 Thursday, 13:39:41] CTP Insert!! 100004,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:41] DispatchTdMsg,orderSysId:1049161,ref:100003
+[2018-September-20 Thursday, 13:39:41] DispatchTdMsg,orderSysId:1049162,ref:100004
+[2018-September-20 Thursday, 13:39:41] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:39,手数=1
+[2018-September-20 Thursday, 13:39:41] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049161,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:41] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049162,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:41] 20180920,13:39:39,OpenOrderId=1049161
+[2018-September-20 Thursday, 13:39:41] ReqOrderDelete,1049161
+[2018-September-20 Thursday, 13:39:41] 20180920,13:39:39,OpenOrderId=1049162
+[2018-September-20 Thursday, 13:39:41] ReqOrderDelete,1049162
+[2018-September-20 Thursday, 13:39:41] DispatchTdMsg,orderSysId:1049161,ref:100003
+[2018-September-20 Thursday, 13:39:41] DispatchTdMsg,orderSysId:1049162,ref:100004
+[2018-September-20 Thursday, 13:39:41] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049161,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:41] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049162,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:41] DispatchTdMsg,orderSysId:1049164,ref:100003
+[2018-September-20 Thursday, 13:39:41] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049164,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:41] DispatchTdMsg,orderSysId:1049165,ref:100004
+[2018-September-20 Thursday, 13:39:41] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049165,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:41] CTP Insert!! 100007,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:41] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:40,手数=1
+[2018-September-20 Thursday, 13:39:41] CTP Insert!! 100008,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:41] DispatchTdMsg,orderSysId:1049179,ref:100007
+[2018-September-20 Thursday, 13:39:41] DispatchTdMsg,orderSysId:1049180,ref:100008
+[2018-September-20 Thursday, 13:39:41] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:40,手数=1
+[2018-September-20 Thursday, 13:39:41] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049179,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:41] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049180,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:42] 20180920,13:39:40,OpenOrderId=1049179
+[2018-September-20 Thursday, 13:39:42] ReqOrderDelete,1049179
+[2018-September-20 Thursday, 13:39:42] 20180920,13:39:40,OpenOrderId=1049180
+[2018-September-20 Thursday, 13:39:42] ReqOrderDelete,1049180
+[2018-September-20 Thursday, 13:39:42] DispatchTdMsg,orderSysId:1049179,ref:100007
+[2018-September-20 Thursday, 13:39:42] DispatchTdMsg,orderSysId:1049180,ref:100008
+[2018-September-20 Thursday, 13:39:42] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049179,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:42] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049180,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:42] DispatchTdMsg,orderSysId:1049197,ref:100007
+[2018-September-20 Thursday, 13:39:42] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049197,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:42] DispatchTdMsg,orderSysId:1049198,ref:100008
+[2018-September-20 Thursday, 13:39:42] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049198,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:42] CTP Insert!! 100011,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:42] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:41,手数=1
+[2018-September-20 Thursday, 13:39:42] CTP Insert!! 100012,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:42] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:41,手数=1
+[2018-September-20 Thursday, 13:39:42] DispatchTdMsg,orderSysId:1049226,ref:100011
+[2018-September-20 Thursday, 13:39:42] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049226,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:42] DispatchTdMsg,orderSysId:1049227,ref:100012
+[2018-September-20 Thursday, 13:39:42] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049227,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:43] 20180920,13:39:41,OpenOrderId=1049226
+[2018-September-20 Thursday, 13:39:43] ReqOrderDelete,1049226
+[2018-September-20 Thursday, 13:39:43] 20180920,13:39:41,OpenOrderId=1049227
+[2018-September-20 Thursday, 13:39:43] ReqOrderDelete,1049227
+[2018-September-20 Thursday, 13:39:43] DispatchTdMsg,orderSysId:1049226,ref:100011
+[2018-September-20 Thursday, 13:39:43] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049226,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:43] DispatchTdMsg,orderSysId:1049227,ref:100012
+[2018-September-20 Thursday, 13:39:43] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049227,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:43] DispatchTdMsg,orderSysId:1049281,ref:100011
+[2018-September-20 Thursday, 13:39:43] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049281,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:43] DispatchTdMsg,orderSysId:1049282,ref:100012
+[2018-September-20 Thursday, 13:39:43] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049282,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:43] CTP Insert!! 100015,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:43] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:42,手数=1
+[2018-September-20 Thursday, 13:39:43] CTP Insert!! 100016,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:43] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:42,手数=1
+[2018-September-20 Thursday, 13:39:43] DispatchTdMsg,orderSysId:1049285,ref:100015
+[2018-September-20 Thursday, 13:39:43] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049285,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:43] DispatchTdMsg,orderSysId:1049286,ref:100016
+[2018-September-20 Thursday, 13:39:43] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049286,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:44] 20180920,13:39:42,OpenOrderId=1049285
+[2018-September-20 Thursday, 13:39:44] ReqOrderDelete,1049285
+[2018-September-20 Thursday, 13:39:44] 20180920,13:39:42,OpenOrderId=1049286
+[2018-September-20 Thursday, 13:39:44] ReqOrderDelete,1049286
+[2018-September-20 Thursday, 13:39:44] DispatchTdMsg,orderSysId:1049285,ref:100015
+[2018-September-20 Thursday, 13:39:44] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049285,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:44] DispatchTdMsg,orderSysId:1049286,ref:100016
+[2018-September-20 Thursday, 13:39:44] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049286,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:44] DispatchTdMsg,orderSysId:1049310,ref:100015
+[2018-September-20 Thursday, 13:39:44] DispatchTdMsg,orderSysId:1049311,ref:100016
+[2018-September-20 Thursday, 13:39:44] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049310,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:44] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049311,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:44] CTP Insert!! 100019,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:44] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:43,手数=1
+[2018-September-20 Thursday, 13:39:44] CTP Insert!! 100020,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:44] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:43,手数=1
+[2018-September-20 Thursday, 13:39:44] DispatchTdMsg,orderSysId:1049343,ref:100019
+[2018-September-20 Thursday, 13:39:44] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049343,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:45] 20180920,13:39:43,OpenOrderId=1049343
+[2018-September-20 Thursday, 13:39:45] ReqOrderDelete,1049343
+[2018-September-20 Thursday, 13:39:45] 20180920,13:39:43,OpenOrderId=-1
+[2018-September-20 Thursday, 13:39:45] ReqOrderDelete,-1
+[2018-September-20 Thursday, 13:39:45] DispatchTdMsg,orderSysId:1049344,ref:100020
+[2018-September-20 Thursday, 13:39:45] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049344,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:45] DispatchTdMsg,orderSysId:1049343,ref:100019
+[2018-September-20 Thursday, 13:39:45] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049343,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:45] DispatchTdMsg,orderSysId:1049344,ref:100020
+[2018-September-20 Thursday, 13:39:45] DispatchTdMsg,orderSysId:1049363,ref:100019
+[2018-September-20 Thursday, 13:39:45] DispatchTdMsg,orderSysId:1049364,ref:100020
+[2018-September-20 Thursday, 13:39:45] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049344,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:45] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049363,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:45] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049364,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:46] CTP Insert!! 100023,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:46] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:44,手数=1
+[2018-September-20 Thursday, 13:39:46] CTP Insert!! 100024,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:46] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:44,手数=1
+[2018-September-20 Thursday, 13:39:46] 20180920,13:39:44,OpenOrderId=-1
+[2018-September-20 Thursday, 13:39:46] ReqOrderDelete,-1
+[2018-September-20 Thursday, 13:39:46] 20180920,13:39:44,OpenOrderId=-1
+[2018-September-20 Thursday, 13:39:46] ReqOrderDelete,-1
+[2018-September-20 Thursday, 13:39:46] DispatchTdMsg,orderSysId:1049417,ref:100023
+[2018-September-20 Thursday, 13:39:46] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049417,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:46] DispatchTdMsg,orderSysId:1049418,ref:100024
+[2018-September-20 Thursday, 13:39:46] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049418,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:46] DispatchTdMsg,orderSysId:1049417,ref:100023
+[2018-September-20 Thursday, 13:39:46] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049417,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:46] DispatchTdMsg,orderSysId:1049418,ref:100024
+[2018-September-20 Thursday, 13:39:46] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049418,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:46] DispatchTdMsg,orderSysId:1049420,ref:100023
+[2018-September-20 Thursday, 13:39:46] DispatchTdMsg,orderSysId:1049421,ref:100024
+[2018-September-20 Thursday, 13:39:46] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049420,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:46] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049421,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:47] CTP Insert!! 100027,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:47] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:45,手数=1
+[2018-September-20 Thursday, 13:39:47] CTP Insert!! 100028,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:47] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:45,手数=1
+[2018-September-20 Thursday, 13:39:47] DispatchTdMsg,orderSysId:1049475,ref:100027
+[2018-September-20 Thursday, 13:39:47] DispatchTdMsg,orderSysId:1049476,ref:100028
+[2018-September-20 Thursday, 13:39:47] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049475,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:47] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049476,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:47] 20180920,13:39:46,OpenOrderId=1049475
+[2018-September-20 Thursday, 13:39:47] ReqOrderDelete,1049475
+[2018-September-20 Thursday, 13:39:47] 20180920,13:39:46,OpenOrderId=1049476
+[2018-September-20 Thursday, 13:39:47] ReqOrderDelete,1049476
+[2018-September-20 Thursday, 13:39:47] DispatchTdMsg,orderSysId:1049475,ref:100027
+[2018-September-20 Thursday, 13:39:47] DispatchTdMsg,orderSysId:1049476,ref:100028
+[2018-September-20 Thursday, 13:39:47] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049475,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:47] DispatchTdMsg,orderSysId:1049508,ref:100027
+[2018-September-20 Thursday, 13:39:47] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049476,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:47] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049508,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:47] DispatchTdMsg,orderSysId:1049509,ref:100028
+[2018-September-20 Thursday, 13:39:47] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049509,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:48] CTP Insert!! 100031,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:48] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:46,手数=1
+[2018-September-20 Thursday, 13:39:48] CTP Insert!! 100032,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:48] DispatchTdMsg,orderSysId:1049537,ref:100031
+[2018-September-20 Thursday, 13:39:48] DispatchTdMsg,orderSysId:1049538,ref:100032
+[2018-September-20 Thursday, 13:39:48] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:46,手数=1
+[2018-September-20 Thursday, 13:39:48] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049537,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:48] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049538,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:49] 20180920,13:39:47,OpenOrderId=1049537
+[2018-September-20 Thursday, 13:39:49] ReqOrderDelete,1049537
+[2018-September-20 Thursday, 13:39:49] 20180920,13:39:47,OpenOrderId=1049538
+[2018-September-20 Thursday, 13:39:49] ReqOrderDelete,1049538
+[2018-September-20 Thursday, 13:39:49] DispatchTdMsg,orderSysId:1049537,ref:100031
+[2018-September-20 Thursday, 13:39:49] DispatchTdMsg,orderSysId:1049538,ref:100032
+[2018-September-20 Thursday, 13:39:49] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049537,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:49] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049538,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:49] DispatchTdMsg,orderSysId:1049616,ref:100031
+[2018-September-20 Thursday, 13:39:49] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049616,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:49] DispatchTdMsg,orderSysId:1049617,ref:100032
+[2018-September-20 Thursday, 13:39:49] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049617,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:51] CTP Insert!! 100035,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:51] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:49,手数=1
+[2018-September-20 Thursday, 13:39:51] CTP Insert!! 100036,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:51] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:49,手数=1
+[2018-September-20 Thursday, 13:39:51] DispatchTdMsg,orderSysId:1049698,ref:100035
+[2018-September-20 Thursday, 13:39:51] DispatchTdMsg,orderSysId:1049699,ref:100036
+[2018-September-20 Thursday, 13:39:51] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049698,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:51] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049699,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:51] 20180920,13:39:49,OpenOrderId=1049698
+[2018-September-20 Thursday, 13:39:51] ReqOrderDelete,1049698
+[2018-September-20 Thursday, 13:39:51] 20180920,13:39:49,OpenOrderId=1049699
+[2018-September-20 Thursday, 13:39:51] ReqOrderDelete,1049699
+[2018-September-20 Thursday, 13:39:51] DispatchTdMsg,orderSysId:1049698,ref:100035
+[2018-September-20 Thursday, 13:39:51] DispatchTdMsg,orderSysId:1049699,ref:100036
+[2018-September-20 Thursday, 13:39:51] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049698,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:51] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049699,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:51] DispatchTdMsg,orderSysId:1049700,ref:100035
+[2018-September-20 Thursday, 13:39:51] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049700,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:51] DispatchTdMsg,orderSysId:1049701,ref:100036
+[2018-September-20 Thursday, 13:39:51] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049701,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:51] CTP Insert!! 100039,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:51] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:50,手数=1
+[2018-September-20 Thursday, 13:39:51] CTP Insert!! 100040,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:51] DispatchTdMsg,orderSysId:1049731,ref:100039
+[2018-September-20 Thursday, 13:39:51] DispatchTdMsg,orderSysId:1049732,ref:100040
+[2018-September-20 Thursday, 13:39:51] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:50,手数=1
+[2018-September-20 Thursday, 13:39:51] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049731,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:51] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049732,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:52] 20180920,13:39:50,OpenOrderId=1049731
+[2018-September-20 Thursday, 13:39:52] ReqOrderDelete,1049731
+[2018-September-20 Thursday, 13:39:52] 20180920,13:39:50,OpenOrderId=1049732
+[2018-September-20 Thursday, 13:39:52] ReqOrderDelete,1049732
+[2018-September-20 Thursday, 13:39:52] DispatchTdMsg,orderSysId:1049731,ref:100039
+[2018-September-20 Thursday, 13:39:52] DispatchTdMsg,orderSysId:1049732,ref:100040
+[2018-September-20 Thursday, 13:39:52] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049731,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:52] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049732,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:52] DispatchTdMsg,orderSysId:1049757,ref:100039
+[2018-September-20 Thursday, 13:39:52] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049757,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:52] DispatchTdMsg,orderSysId:1049758,ref:100040
+[2018-September-20 Thursday, 13:39:52] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049758,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:52] CTP Insert!! 100043,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:52] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:51,手数=1
+[2018-September-20 Thursday, 13:39:52] CTP Insert!! 100044,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:52] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:51,手数=1
+[2018-September-20 Thursday, 13:39:52] DispatchTdMsg,orderSysId:1049779,ref:100043
+[2018-September-20 Thursday, 13:39:52] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049779,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:52] DispatchTdMsg,orderSysId:1049780,ref:100044
+[2018-September-20 Thursday, 13:39:52] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049780,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:53] 20180920,13:39:51,OpenOrderId=1049779
+[2018-September-20 Thursday, 13:39:53] ReqOrderDelete,1049779
+[2018-September-20 Thursday, 13:39:53] 20180920,13:39:51,OpenOrderId=1049780
+[2018-September-20 Thursday, 13:39:53] ReqOrderDelete,1049780
+[2018-September-20 Thursday, 13:39:53] DispatchTdMsg,orderSysId:1049779,ref:100043
+[2018-September-20 Thursday, 13:39:53] DispatchTdMsg,orderSysId:1049780,ref:100044
+[2018-September-20 Thursday, 13:39:53] DispatchTdMsg,orderSysId:1049838,ref:100043
+[2018-September-20 Thursday, 13:39:53] DispatchTdMsg,orderSysId:1049839,ref:100044
+[2018-September-20 Thursday, 13:39:53] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049779,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:53] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049780,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:54] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049838,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:54] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049839,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:54] CTP Insert!! 100047,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:54] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:52,手数=1
+[2018-September-20 Thursday, 13:39:54] CTP Insert!! 100048,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:54] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:52,手数=1
+[2018-September-20 Thursday, 13:39:54] DispatchTdMsg,orderSysId:1049866,ref:100047
+[2018-September-20 Thursday, 13:39:54] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049866,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:54] DispatchTdMsg,orderSysId:1049867,ref:100048
+[2018-September-20 Thursday, 13:39:54] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049867,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:55] 20180920,13:39:53,OpenOrderId=1049866
+[2018-September-20 Thursday, 13:39:55] ReqOrderDelete,1049866
+[2018-September-20 Thursday, 13:39:55] 20180920,13:39:53,OpenOrderId=1049867
+[2018-September-20 Thursday, 13:39:55] ReqOrderDelete,1049867
+[2018-September-20 Thursday, 13:39:55] DispatchTdMsg,orderSysId:1049866,ref:100047
+[2018-September-20 Thursday, 13:39:55] DispatchTdMsg,orderSysId:1049867,ref:100048
+[2018-September-20 Thursday, 13:39:55] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049866,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:55] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049867,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:55] DispatchTdMsg,orderSysId:1049896,ref:100047
+[2018-September-20 Thursday, 13:39:55] DispatchTdMsg,orderSysId:1049897,ref:100048
+[2018-September-20 Thursday, 13:39:55] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049896,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:55] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049897,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:55] CTP Insert!! 100051,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:55] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:53,手数=1
+[2018-September-20 Thursday, 13:39:55] CTP Insert!! 100052,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:55] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:53,手数=1
+[2018-September-20 Thursday, 13:39:55] DispatchTdMsg,orderSysId:1049903,ref:100051
+[2018-September-20 Thursday, 13:39:55] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049903,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:55] DispatchTdMsg,orderSysId:1049904,ref:100052
+[2018-September-20 Thursday, 13:39:55] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049904,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:56] 20180920,13:39:54,OpenOrderId=1049903
+[2018-September-20 Thursday, 13:39:56] ReqOrderDelete,1049903
+[2018-September-20 Thursday, 13:39:56] 20180920,13:39:54,OpenOrderId=1049904
+[2018-September-20 Thursday, 13:39:56] ReqOrderDelete,1049904
+[2018-September-20 Thursday, 13:39:56] DispatchTdMsg,orderSysId:1049903,ref:100051
+[2018-September-20 Thursday, 13:39:56] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049903,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:56] DispatchTdMsg,orderSysId:1049904,ref:100052
+[2018-September-20 Thursday, 13:39:56] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049904,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:56] DispatchTdMsg,orderSysId:1049959,ref:100051
+[2018-September-20 Thursday, 13:39:56] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049959,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:56] DispatchTdMsg,orderSysId:1049960,ref:100052
+[2018-September-20 Thursday, 13:39:56] ag-RD-00011_instance1,OnRtnOrder,OrderId=1049960,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:57] CTP Insert!! 100055,openOrClose=0,buyOrSell=0,price=3439.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:57] ag-RD-00011_instance1,开仓,买=3439.00000,时间=13:39:55,手数=1
+[2018-September-20 Thursday, 13:39:57] CTP Insert!! 100056,openOrClose=0,buyOrSell=1,price=3469.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:39:57] ag-RD-00011_instance1,开仓,卖=3469.00000,时间=13:39:55,手数=1
+[2018-September-20 Thursday, 13:39:57] 20180920,13:39:55,OpenOrderId=-1
+[2018-September-20 Thursday, 13:39:57] ReqOrderDelete,-1
+[2018-September-20 Thursday, 13:39:57] 20180920,13:39:55,OpenOrderId=-1
+[2018-September-20 Thursday, 13:39:57] ReqOrderDelete,-1
+[2018-September-20 Thursday, 13:39:57] DispatchTdMsg,orderSysId:1050015,ref:100055
+[2018-September-20 Thursday, 13:39:57] DispatchTdMsg,orderSysId:1050016,ref:100056
+[2018-September-20 Thursday, 13:39:57] ag-RD-00011_instance1,OnRtnOrder,OrderId=1050015,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:57] ag-RD-00011_instance1,OnRtnOrder,OrderId=1050016,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:57] DispatchTdMsg,orderSysId:1050015,ref:100055
+[2018-September-20 Thursday, 13:39:57] DispatchTdMsg,orderSysId:1050016,ref:100056
+[2018-September-20 Thursday, 13:39:57] ag-RD-00011_instance1,OnRtnOrder,OrderId=1050015,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:57] ag-RD-00011_instance1,OnRtnOrder,OrderId=1050016,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:39:57] DispatchTdMsg,orderSysId:1050017,ref:100055
+[2018-September-20 Thursday, 13:39:57] DispatchTdMsg,orderSysId:1050018,ref:100056
+[2018-September-20 Thursday, 13:39:57] ag-RD-00011_instance1,OnRtnOrder,OrderId=1050017,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:57] ag-RD-00011_instance1,OnRtnOrder,OrderId=1050018,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:39:57] ag-RD-00011_instance1,Stop
+[2018-September-20 Thursday, 13:42:05] DispatchTdMsg,orderSysId:1037816,ref:100003
+[2018-September-20 Thursday, 13:42:05] DispatchTdMsg,orderSysId:1037817,ref:100004
+[2018-September-20 Thursday, 13:42:05] DispatchTdMsg,orderSysId:1056681,ref:100003
+[2018-September-20 Thursday, 13:42:05] DispatchTdMsg,orderSysId:1056682,ref:100004
+[2018-September-20 Thursday, 13:53:05] Strategy Init..
+[2018-September-20 Thursday, 13:53:05] CTP Insert!! 100059,openOrClose=0,buyOrSell=0,price=3410.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:53:05] ag-RD-00011_instance1,开仓,买=3410.00000,时间=13:53:03,手数=1
+[2018-September-20 Thursday, 13:53:05] CTP Insert!! 100060,openOrClose=0,buyOrSell=1,price=3440.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:53:05] DispatchTdMsg,orderSysId:1088729,ref:100059
+[2018-September-20 Thursday, 13:53:05] DispatchTdMsg,orderSysId:1088730,ref:100060
+[2018-September-20 Thursday, 13:53:05] DispatchTdMsg,orderSysId:201088731,ref:100060
+[2018-September-20 Thursday, 13:53:05] ag-RD-00011_instance1,开仓,卖=3440.00000,时间=13:53:03,手数=1
+[2018-September-20 Thursday, 13:53:05] ag-RD-00011_instance1,OnRtnOrder,OrderId=1088729,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:53:05] ag-RD-00011_instance1,OnRtnOrder,OrderId=1088730,Status=9,VolRemain=0
+[2018-September-20 Thursday, 13:53:05] ag-RD-00011_instance1,OnRtnTrade,OrderId=201088731,vol=1,price=3457.00000
+[2018-September-20 Thursday, 13:53:05] CTP Insert!! 100061,openOrClose=1,buyOrSell=0,price=3415.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:53:05] ReqOrderDelete,1088729
+[2018-September-20 Thursday, 13:53:05] DispatchTdMsg,orderSysId:1088729,ref:100059
+[2018-September-20 Thursday, 13:53:05] ag-RD-00011_instance1,OnRtnOrder,OrderId=1088729,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:53:05] DispatchTdMsg,orderSysId:1088732,ref:100061
+[2018-September-20 Thursday, 13:53:05] DispatchTdMsg,orderSysId:1088733,ref:100059
+[2018-September-20 Thursday, 13:53:05] ag-RD-00011_instance1,OnRtnOrder,OrderId=1088732,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:53:05] ag-RD-00011_instance1,OnRtnOrder,OrderId=1088733,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:55:00] ag-RD-00011_instance1,Stop
+[2018-September-20 Thursday, 13:55:05] DispatchTdMsg,orderSysId:1088732,ref:100061
+[2018-September-20 Thursday, 13:55:05] DispatchTdMsg,orderSysId:1095316,ref:100061
+[2018-September-20 Thursday, 13:56:10] Strategy Init..
+[2018-September-20 Thursday, 13:56:21] ag-RD-00011_instance1,Stop
+[2018-September-20 Thursday, 13:56:37] Strategy Init..
+[2018-September-20 Thursday, 13:56:37] CTP Insert!! 100063,openOrClose=0,buyOrSell=0,price=3410.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:56:37] ag-RD-00011_instance1,开仓,买=3410.00000,时间=13:56:36,手数=1
+[2018-September-20 Thursday, 13:56:37] CTP Insert!! 100064,openOrClose=0,buyOrSell=1,price=3440.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:56:37] DispatchTdMsg,orderSysId:1100086,ref:100063
+[2018-September-20 Thursday, 13:56:37] DispatchTdMsg,orderSysId:1100087,ref:100064
+[2018-September-20 Thursday, 13:56:37] DispatchTdMsg,orderSysId:201100088,ref:100064
+[2018-September-20 Thursday, 13:56:37] ag-RD-00011_instance1,开仓,卖=3440.00000,时间=13:56:36,手数=1
+[2018-September-20 Thursday, 13:56:37] ag-RD-00011_instance1,OnRtnOrder,OrderId=1100086,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:56:37] ag-RD-00011_instance1,OnRtnOrder,OrderId=1100087,Status=9,VolRemain=0
+[2018-September-20 Thursday, 13:56:37] ag-RD-00011_instance1,OnRtnTrade,OrderId=201100088,vol=1,price=3459.00000
+[2018-September-20 Thursday, 13:56:37] CTP Insert!! 100065,openOrClose=1,buyOrSell=0,price=3415.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:56:37] ReqOrderDelete,1100086
+[2018-September-20 Thursday, 13:56:37] DispatchTdMsg,orderSysId:1100086,ref:100063
+[2018-September-20 Thursday, 13:56:37] ag-RD-00011_instance1,OnRtnOrder,OrderId=1100086,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:56:37] DispatchTdMsg,orderSysId:1100091,ref:100065
+[2018-September-20 Thursday, 13:56:37] ag-RD-00011_instance1,OnRtnOrder,OrderId=1100091,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:56:37] DispatchTdMsg,orderSysId:1100092,ref:100063
+[2018-September-20 Thursday, 13:56:37] ag-RD-00011_instance1,OnRtnOrder,OrderId=1100092,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:57:03] ag-RD-00011_instance1,Sell Order timeRuleForClose Close,OrderId=1100091
+[2018-September-20 Thursday, 13:57:03] ReqOrderDelete,1100091
+[2018-September-20 Thursday, 13:57:03] DispatchTdMsg,orderSysId:1100091,ref:100065
+[2018-September-20 Thursday, 13:57:03] DispatchTdMsg,orderSysId:1101182,ref:100065
+[2018-September-20 Thursday, 13:57:03] ag-RD-00011_instance1,OnRtnOrder,OrderId=1100091,Status=3,VolRemain=1
+[2018-September-20 Thursday, 13:57:03] ag-RD-00011_instance1,OnRtnOrder,OrderId=1101182,Status=7,VolRemain=1
+[2018-September-20 Thursday, 13:57:03] ag-RD-00011_instance1,Sell Order Stoploss Close,OrderId=1101182
+[2018-September-20 Thursday, 13:57:03] CTP Insert!! 100068,openOrClose=1,buyOrSell=0,price=3460.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 13:57:03] DispatchTdMsg,orderSysId:1101183,ref:100068
+[2018-September-20 Thursday, 13:57:03] ag-RD-00011_instance1,OnRtnOrder,OrderId=1101183,Status=9,VolRemain=0
+[2018-September-20 Thursday, 13:57:03] DispatchTdMsg,orderSysId:201101184,ref:100068
+[2018-September-20 Thursday, 13:57:03] ag-RD-00011_instance1,OnRtnTrade,OrderId=201101184,vol=1,price=3460.00000
+[2018-September-20 Thursday, 14:00:51] ag-RD-00011_instance1,Stop
+[2018-September-20 Thursday, 14:01:16] Strategy Init..
+[2018-September-20 Thursday, 14:01:17] CTP Insert!! 100069,openOrClose=0,buyOrSell=0,price=3445.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 14:01:17] DispatchTdMsg,orderSysId:1114491,ref:100069
+[2018-September-20 Thursday, 14:01:18] ag-RD-00011_instance1,开仓,买=3445.00000,时间=14:01:16,手数=1
+[2018-September-20 Thursday, 14:01:18] CTP Insert!! 100070,openOrClose=0,buyOrSell=1,price=3475.0000,vol=1,inst=ag1812,iRet=0
+[2018-September-20 Thursday, 14:01:18] ag-RD-00011_instance1,开仓,卖=3475.00000,时间=14:01:16,手数=1
+[2018-September-20 Thursday, 14:01:18] ag-RD-00011_instance1,OnRtnOrder,OrderId=1114491,Status=3,VolRemain=1
+[2018-September-20 Thursday, 14:01:18] DispatchTdMsg,orderSysId:1114540,ref:100070
+[2018-September-20 Thursday, 14:01:18] ag-RD-00011_instance1,OnRtnOrder,OrderId=1114540,Status=3,VolRemain=1
+[2018-September-20 Thursday, 14:02:01] 20180920,14:02:00,OpenOrderId=1114491
+[2018-September-20 Thursday, 14:02:01] ReqOrderDelete,1114491
+[2018-September-20 Thursday, 14:02:01] 20180920,14:02:00,OpenOrderId=1114540
+[2018-September-20 Thursday, 14:02:01] ReqOrderDelete,1114540
+[2018-September-20 Thursday, 14:02:01] DispatchTdMsg,orderSysId:1114491,ref:100069
+[2018-September-20 Thursday, 14:02:01] DispatchTdMsg,orderSysId:1114540,ref:100070
+[2018-September-20 Thursday, 14:02:01] ag-RD-00011_instance1,OnRtnOrder,OrderId=1114491,Status=3,VolRemain=1
+[2018-September-20 Thursday, 14:02:01] ag-RD-00011_instance1,OnRtnOrder,OrderId=1114540,Status=3,VolRemain=1
+[2018-September-20 Thursday, 14:02:01] DispatchTdMsg,orderSysId:1116182,ref:100069
+[2018-September-20 Thursday, 14:02:01] DispatchTdMsg,orderSysId:1116183,ref:100070
+[2018-September-20 Thursday, 14:02:01] ag-RD-00011_instance1,OnRtnOrder,OrderId=1116182,Status=7,VolRemain=1
+[2018-September-20 Thursday, 14:02:01] ag-RD-00011_instance1,OnRtnOrder,OrderId=1116183,Status=7,VolRemain=1
+[2018-September-20 Thursday, 14:11:02] ag-RD-00011_instance1,Stop

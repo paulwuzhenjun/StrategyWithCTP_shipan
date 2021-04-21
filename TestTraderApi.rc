@@ -1,0 +1,507 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE
+BEGIN
+"resource.h\0"
+END
+
+2 TEXTINCLUDE
+BEGIN
+"#ifndef APSTUDIO_INVOKED\r\n"
+"#include ""targetver.h""\r\n"
+"#endif\r\n"
+"#include ""afxres.h""\r\n"
+"\0"
+END
+
+3 TEXTINCLUDE
+BEGIN
+"#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+"#define _AFX_NO_OLE_RESOURCES\r\n"
+"#define _AFX_NO_TRACKER_RESOURCES\r\n"
+"#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+"\r\n"
+"#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+"LANGUAGE 9, 1\r\n"
+"#pragma code_page(1252)\r\n"
+"#include ""res\\TestTraderApi.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+"#include ""afxres.rc""     // Standard components\r\n"
+"#endif\r\n"
+"\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\TestTraderApi.ico"
+IDI_STRATEGY_ICON24     ICON                    "res\\market_strategy_24px_1163368_easyicon.ico"
+IDI_STRATEGY_ICON       ICON                    "res\\strategy_16px_1158446_easyicon.net.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_TRADER_MAIN_DLG DIALOGEX 0, 0, 616, 386
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "策略运行管理"
+MENU IDR_MAIN_MENU
+FONT 8, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+CONTROL         "", IDC_STRATEGY_TREE, "SysTreeView32", WS_BORDER | WS_HSCROLL | WS_TABSTOP, 7, 7, 127, 320
+EDITTEXT        IDC_MAX_POSITION, 207, 25, 37, 14, ES_AUTOHSCROLL
+EDITTEXT        IDC_STRATEGY_MAX_POSITION, 207, 44, 36, 14, ES_AUTOHSCROLL
+PUSHBUTTON      "修改持仓限额", IDC_SET_POSITION_LIMIT_BTN, 148, 109, 76, 14
+PUSHBUTTON      "资金刷新", IDC_REFRESH_ORDER_COUNT_BTN, 519, 121, 55, 14
+PUSHBUTTON      "启动策略", IDC_START_STRATEGY_BTN, 515, 195, 64, 14
+PUSHBUTTON      "关闭策略", IDC_STOP_STRATEGY_BTN, 516, 228, 66, 14
+PUSHBUTTON      "连接服务器", IDC_BTNConnect, 166, 339, 67, 14
+DEFPUSHBUTTON   "OK", IDOK, 259, 366, 50, 14
+PUSHBUTTON      "Cancel", IDCANCEL, 373, 367, 50, 14
+LISTBOX         IDC_PUBLIC_MSG_LIST, 391, 21, 103, 108, LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_HSCROLL | WS_TABSTOP
+LTEXT           "提示 ", IDC_STATIC, 393, 8, 19, 8
+GROUPBOX        "状态", IDC_STATUS_BOX, 504, 10, 104, 106
+LTEXT           "日期", IDC_DAY1, 518, 22, 17, 8
+LTEXT           "--------", IDC_DAY, 554, 22, 55, 8
+LTEXT           "可用", IDC_AVAIL_MON, 518, 51, 34, 13
+LTEXT           "0000", IDC_MONEY, 555, 52, 45, 10
+LTEXT           "Esun账号", IDC_USER0, 517, 38, 32, 8
+LTEXT           "--------", IDC_USERNAME, 555, 37, 49, 12
+LTEXT           "当前策略名称", IDC_STRATEGY_NAME_STATIC, 148, 8, 119, 16
+CONTROL         "", IDC_MAINTAB, "SysTabControl32", 0x0, 147, 145, 364, 182
+LTEXT           "策略最大持仓", IDC_STRATEGY_POSITION_D, 147, 46, 55, 8
+LTEXT           "允许最大持仓", IDC_TOTAL_POSITION_D, 147, 28, 49, 8
+LTEXT           "行情信息 ", IDC_STATIC_MD, 278, 8, 35, 8
+CONTROL         "", IDC_MD_MSG_LIST, "SysListView32", LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP, 274, 21, 99, 107
+LTEXT           "权益", IDC_STATIC_BALANCE, 518, 66, 17, 8
+LTEXT           "0000", IDC_BALANCE, 556, 66, 45, 10
+LTEXT           "CTP账号", IDC_USER1, 517, 81, 30, 8
+LTEXT           "可用", IDC_AVAIL_MON2, 518, 92, 25, 9
+LTEXT           "权益", IDC_STATIC_BALANCE2, 518, 104, 17, 8
+LTEXT           "--------", IDC_USERNAME_CTP, 555, 81, 49, 12
+LTEXT           "0000", IDC_MONEY_CTP, 556, 92, 45, 10
+LTEXT           "0000", IDC_BALANCE_CTP, 556, 104, 45, 10
+LTEXT           "允许最大撤单", IDC_TOTAL_CANCELTIME_D, 147, 65, 51, 8
+EDITTEXT        IDC_MAX_CANCELTIME, 207, 65, 37, 14, ES_AUTOHSCROLL
+LTEXT           "tcp服务器ip", IDC_STATIC_SEVERIP, 151, 87, 48, 12
+EDITTEXT        IDC_RS_SERVER_IP, 206, 84, 40, 14, ES_AUTOHSCROLL
+END
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 195, 127
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_DISABLED | WS_CAPTION
+CAPTION "属性页"
+FONT 9, "宋体", 400, 0, 0x0
+BEGIN
+LTEXT           "TODO: 布局属性页", IDC_STATIC, 53, 59, 90, 8
+END
+
+IDD_INSERT_ORDERS_DLG DIALOGEX 0, 0, 245, 178
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+DEFPUSHBUTTON   "确定", IDOK, 69, 157, 50, 14
+PUSHBUTTON      "取消", IDCANCEL, 143, 157, 50, 14
+EDITTEXT        IDC_OpenPrice, 72, 86, 40, 14, ES_AUTOHSCROLL
+EDITTEXT        IDC_OpenVol, 72, 107, 40, 14, ES_AUTOHSCROLL
+LTEXT           "合约ID", IDC_STATIC, 36, 24, 24, 8
+LTEXT           "价格", IDC_STATIC, 35, 89, 17, 8
+LTEXT           "数量", IDC_STATIC, 36, 108, 17, 8
+LTEXT           "方向", IDC_STATIC, 35, 47, 17, 8
+COMBOBOX        IDC_COMBDirection, 72, 44, 55, 30, CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+LTEXT           "关联策略", IDC_STATIC, 35, 131, 33, 8
+COMBOBOX        IDC_MAMUAL_ORDER_STRA, 72, 130, 147, 30, CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+COMBOBOX        IDC_COMB_InstCode, 73, 20, 105, 30, CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+LTEXT           "开平", IDC_STATIC, 35, 66, 17, 8
+COMBOBOX        IDC_COMBOPENCLOSE, 72, 66, 55, 30, CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_CTP_USER DIALOGEX 0, 0, 342, 141
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "CTP User"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+DEFPUSHBUTTON   "确定", IDOK, 97, 119, 50, 14
+PUSHBUTTON      "取消", IDCANCEL, 178, 119, 50, 14
+LTEXT           "内盘用户:", IDC_STATIC, 37, 60, 36, 8
+EDITTEXT        IDC_CTP_USER_NAME_CTP, 81, 57, 67, 15, ES_AUTOHSCROLL
+LTEXT           "密码:", IDC_STATIC, 181, 62, 20, 8
+EDITTEXT        IDC_CTP_USER_PWD_CTP, 209, 58, 67, 14, ES_PASSWORD | ES_AUTOHSCROLL
+END
+
+IDD_PARAMS_DLG DIALOGEX 0, 0, 339, 174
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+CONTROL         "", IDC_PARAM_LIST, "SysListView32", LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP, 7, 21, 325, 123
+EDITTEXT        IDC_EDIT1, 14, 147, 40, 14, ES_AUTOHSCROLL | NOT WS_VISIBLE | NOT WS_BORDER
+PUSHBUTTON      "保存修改", IDC_SAVE_BTN, 246, 146, 50, 14
+PUSHBUTTON      "新增实例", IDC_ADD_INSTANCE_BTN, 88, 145, 50, 14
+PUSHBUTTON      "删除实例", IDC_DELETE_INSTANCE_BTN, 168, 146, 50, 14
+END
+
+IDD_ORDERS_DLG DIALOGEX 0, 0, 361, 138
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+CONTROL         "", IDC_ORDERS_LIST, "SysListView32", LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP, 7, 24, 347, 107
+PUSHBUTTON      "查询委托", IDC_QRY_ORDERS_BTN, 33, 4, 50, 14
+END
+
+IDD_POSITIONS_DLG DIALOGEX 0, 0, 399, 155
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+CONTROL         "", IDC_POSITIONS_LIST, "SysListView32", LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP, 7, 29, 382, 113
+PUSHBUTTON      "查询持仓", IDC_QRY_POSITIONS_BTN, 29, 7, 50, 14
+END
+
+IDD_STRATEGY_LOCAL_CL DIALOGEX 0, 0, 382, 174
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+CONTROL         "", IDC_STRATEGY_LOCAL_CL_LIST, "SysListView32", LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP, 7, 34, 368, 128
+PUSHBUTTON      "查询策略在手开平", IDC_QRY_STRA_LOCAL_CL_BTN, 33, 7, 87, 15
+EDITTEXT        IDC_EDIT1, 307, 3, 40, 14, ES_AUTOHSCROLL | NOT WS_VISIBLE
+PUSHBUTTON      "保存在手信息", IDC_SAVE_CL_BTN, 163, 6, 75, 14
+END
+
+IDD_TRADES_DLG DIALOGEX 0, 0, 341, 163
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+CONTROL         "", IDC_TRADE_LST, "SysListView32", LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP, 7, 15, 327, 134
+END
+
+IDD_INST_DLG DIALOGEX 0, 0, 414, 190
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "可供交易的合约信息"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+DEFPUSHBUTTON   "确定", IDOK, 251, 169, 50, 14
+PUSHBUTTON      "取消", IDCANCEL, 324, 169, 50, 14
+CONTROL         "", IDC_INST_LIST, "SysListView32", LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP, 7, 27, 400, 124
+END
+
+IDD_RECOVER_DLG DIALOGEX 0, 0, 661, 325
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_MAXIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "策略运行恢复"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+PUSHBUTTON      "关闭", IDOK, 538, 304, 59, 14
+CONTROL         "", IDC_STRATEGY_TOBE_RECOVER_LST, "SysListView32", LVS_SINGLESEL | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP, 7, 26, 210, 110
+CONTROL         "", IDC_RECOVER_PARAM_LIST, "SysListView32", LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP, 7, 169, 647, 110
+CONTROL         "", IDC_RECOVER_ORDER_LIST, "SysListView32", LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP, 337, 27, 317, 110
+LTEXT           "参数列表", IDC_STATIC3, 7, 149, 54, 15
+LTEXT           "持仓策略列表", IDC_STATIC1, 7, 7, 97, 15
+LTEXT           "未平仓订单", IDC_STATIC2, 339, 7, 125, 15
+PUSHBUTTON      "启动", IDC_RESTART_INSTANCE_BTN, 246, 42, 67, 17
+PUSHBUTTON      "清除", IDC_CLEAR_INSTANCE_BTN, 246, 75, 66, 17
+PUSHBUTTON      "保存订单修改", IDC_SAVE_RECOV_ORDERS_BTN, 246, 108, 66, 17
+EDITTEXT        IDC_EDIT1, 62, 143, 40, 14, ES_AUTOHSCROLL | NOT WS_VISIBLE
+END
+
+IDD_MD_DLG DIALOGEX 0, 0, 393, 208
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "行情接收"
+MENU IDR_MD_MENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+DEFPUSHBUTTON   "连接行情", IDC_CONNECT_MD_SERVER, 263, 187, 50, 14
+PUSHBUTTON      "取消", IDCANCEL, 336, 187, 50, 14
+LISTBOX         IDC_INST_LIST, 10, 25, 164, 114, LBS_SORT | LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+LISTBOX         IDC_MSG_LIST, 200, 25, 183, 113, LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+EDITTEXT        IDC_USER_NAME_CTP, 113, 153, 40, 14, ES_AUTOHSCROLL
+EDITTEXT        IDC_USER_PWD_CTP, 209, 153, 40, 14, ES_AUTOHSCROLL
+LTEXT           "内盘用户名:", IDC_STATIC, 64, 155, 44, 8
+LTEXT           "密码:", IDC_STATIC, 180, 155, 20, 8
+LTEXT           "信息提示:", IDC_STATIC, 206, 7, 36, 8
+LTEXT           "订阅合约列表", IDC_STATIC, 21, 7, 49, 8
+END
+
+IDD_INST_MGR_DLG DIALOGEX 0, 0, 649, 182
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "订阅合约管理"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+DEFPUSHBUTTON   "确定", IDC_SUB_BTN, 577, 54, 50, 14
+PUSHBUTTON      "关闭", IDCANCEL, 578, 89, 50, 14
+LISTBOX         IDC_SUB_LIST, 383, 25, 186, 125, LBS_SORT | LBS_MULTIPLESEL | LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+PUSHBUTTON      "选入>>", IDC_ADDINTO_SUBLIST, 316, 31, 50, 14
+PUSHBUTTON      "移出<<", IDC_REMOVEFROM_SUBLIST, 316, 59, 50, 14
+PUSHBUTTON      "新增", IDC_ADD_BTN, 316, 88, 50, 14
+PUSHBUTTON      "删除", IDC_DELETE_BTN, 315, 111, 50, 14
+PUSHBUTTON      "保存", IDC_SAVE_BTN, 315, 132, 50, 14
+EDITTEXT        IDC_EDIT1, 7, 163, 40, 14, ES_AUTOHSCROLL | NOT WS_VISIBLE
+CONTROL         "", IDC_ALL_INST_LIST, "SysListView32", LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP, 7, 24, 289, 128
+END
+
+IDD_INST_LIST_DLG DIALOGEX 0, 0, 409, 249
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "选择合约"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+DEFPUSHBUTTON   "确定", IDOK, 285, 228, 50, 14
+PUSHBUTTON      "取消", IDCANCEL, 345, 228, 50, 14
+END
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+IDD_TRADER_MAIN_DLG, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 608
+TOPMARGIN, 7
+BOTTOMMARGIN, 380
+END
+
+IDD_ABOUTBOX, DIALOG
+BEGIN
+END
+
+IDD_INSERT_ORDERS_DLG, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 239
+TOPMARGIN, 7
+BOTTOMMARGIN, 171
+END
+
+IDD_CTP_USER, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 337
+TOPMARGIN, 7
+BOTTOMMARGIN, 133
+END
+
+IDD_PARAMS_DLG, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 332
+TOPMARGIN, 7
+BOTTOMMARGIN, 167
+END
+
+IDD_ORDERS_DLG, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 354
+TOPMARGIN, 4
+BOTTOMMARGIN, 131
+END
+
+IDD_POSITIONS_DLG, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 392
+TOPMARGIN, 7
+BOTTOMMARGIN, 148
+END
+
+IDD_STRATEGY_LOCAL_CL, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 375
+TOPMARGIN, 3
+BOTTOMMARGIN, 166
+END
+
+IDD_TRADES_DLG, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 334
+TOPMARGIN, 7
+BOTTOMMARGIN, 156
+END
+
+IDD_INST_DLG, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 407
+TOPMARGIN, 7
+BOTTOMMARGIN, 183
+END
+
+IDD_RECOVER_DLG, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 654
+TOPMARGIN, 7
+BOTTOMMARGIN, 318
+END
+
+IDD_MD_DLG, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 386
+TOPMARGIN, 7
+BOTTOMMARGIN, 201
+END
+
+IDD_INST_MGR_DLG, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 642
+TOPMARGIN, 7
+BOTTOMMARGIN, 177
+END
+
+IDD_INST_LIST_DLG, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 402
+TOPMARGIN, 7
+BOTTOMMARGIN, 242
+END
+END
+#endif    // APSTUDIO_INVOKED
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAIN_MENU MENU
+BEGIN
+POPUP "操作"
+BEGIN
+MENUITEM "已订阅合约", ID_MENU_OPTIONS
+MENUITEM "下单", ID_MENU_INSERT_ORDER
+MENUITEM "盈亏统计", ID_MENU_PROFIT_ANALYZE
+MENUITEM "重连交易服务器", ID_RECONNECT_TD
+MENUITEM "行情登陆", ID_MD_DLG
+MENUITEM "策略恢复", ID_ST_RECOVER
+END
+END
+
+IDR_MD_MENU MENU
+BEGIN
+POPUP "设置"
+BEGIN
+MENUITEM "订阅合约管理", ID_MENU_INST_MGR
+MENUITEM "重新连接", ID_RECONNECT_MENU
+END
+END
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+IDS_ABOUTBOX            "&About TestTraderApi..."
+END
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////////////////////
+// 英语(美国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 1, 0, 0, 1
+PRODUCTVERSION 1, 0, 0, 1
+FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+FILEFLAGS 0x1L
+#else
+FILEFLAGS 0x0L
+#endif
+FILEOS 0x4L
+FILETYPE 0x1L
+FILESUBTYPE 0x0L
+BEGIN
+BLOCK "StringFileInfo"
+BEGIN
+BLOCK "040904e4"
+BEGIN
+VALUE "CompanyName", "TODO: <Company name>"
+VALUE "FileDescription", "TODO: <File description>"
+VALUE "FileVersion", "1.0.0.1"
+VALUE "InternalName", "TestTraderApi.exe"
+VALUE "LegalCopyright", "TODO: (c) <Company name>.  All rights reserved."
+VALUE "OriginalFilename", "TestTraderApi.exe"
+VALUE "ProductName", "TODO: <Product name>"
+VALUE "ProductVersion", "1.0.0.1"
+END
+END
+BLOCK "VarFileInfo"
+BEGIN
+VALUE "Translation", 0x409, 1252
+END
+END
+
+#endif    // 英语(美国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#include "res\TestTraderApi.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"     // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED

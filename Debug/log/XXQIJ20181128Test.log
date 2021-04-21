@@ -1,0 +1,24 @@
+[2018-November-28 Wednesday, 09:25:24] Log File Opened..
+[2018-November-28 Wednesday, 09:25:25] CTP MD RspLogin Success.
+[2018-November-28 Wednesday, 09:54:52] Log File Opened..
+[2018-November-28 Wednesday, 09:54:53] CTP MD RspLogin Success.
+[2018-November-28 Wednesday, 09:55:00] Create CTPTrader Thread..
+[2018-November-28 Wednesday, 09:55:00] AccountID:094440,Balance:955090.350
+[2018-November-28 Wednesday, 09:55:01] AccountID:094440,Balance:955090.350
+[2018-November-28 Wednesday, 10:00:18] Log File Opened..
+[2018-November-28 Wednesday, 10:00:19] CTP MD RspLogin Success.
+[2018-November-28 Wednesday, 10:00:27] Create CTPTrader Thread..
+[2018-November-28 Wednesday, 10:00:27] AccountID:094440,Balance:954385.350
+[2018-November-28 Wednesday, 10:00:28] AccountID:094440,Balance:954385.350
+[2018-November-28 Wednesday, 10:00:29] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-November-28 Wednesday, 10:00:30] AccountID:094440,Balance:954435.350
+[2018-November-28 Wednesday, 10:01:17] Strategy Init..
+[2018-November-28 Wednesday, 10:01:17] m-RD-00011_instance1,OpenPriceOpening,10:01:16,开盘价=3038.00000
+[2018-November-28 Wednesday, 10:01:17] CTP Insert!! 3,openOrClose=0,buyOrSell=1,price=3054.0000,vol=2,inst=m1901,iRet=0
+[2018-November-28 Wednesday, 10:01:17] m-RD-00011_instance1,开仓,卖=3054.00000,时间=10:01:16,手数=2
+[2018-November-28 Wednesday, 10:01:17] DispatchTdMsg,orderSysId:45729,ref:3
+[2018-November-28 Wednesday, 10:01:17] m-RD-00011_instance1,OnRtnOrder,OrderId=45729,Status=3,VolRemain=2,mPosition=0
+[2018-November-28 Wednesday, 10:01:17] m-RD-00011_instance1,OnRtnOrder,mPosition=0
+[2018-November-28 Wednesday, 10:02:49] m-RD-00011_instance1,Stop
+[2018-November-28 Wednesday, 10:02:57] DispatchTdMsg,orderSysId:45729,ref:3
+[2018-November-28 Wednesday, 10:02:57] DispatchTdMsg,orderSysId:45951,ref:3

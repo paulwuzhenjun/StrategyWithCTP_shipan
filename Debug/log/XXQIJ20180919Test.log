@@ -1,0 +1,43 @@
+[2018-September-19 Wednesday, 14:19:39] Log File Opened..
+[2018-September-19 Wednesday, 14:19:40] CTP MD RspLogin Success.
+[2018-September-19 Wednesday, 14:19:46] Create CTPTrader Thread..
+[2018-September-19 Wednesday, 14:19:46] 连接CTP当前时间:2018-09-19 14:19:46
+[2018-September-19 Wednesday, 14:19:52] Strategy Init..
+[2018-September-19 Wednesday, 14:20:17] rb-GD-00016_instance1,ResetAction
+[2018-September-19 Wednesday, 14:20:30] rb-GD-00016_instance1,ResetAction Done.
+[2018-September-19 Wednesday, 14:20:44] end initHstDataFromCSV.mBarIndex=31
+[2018-September-19 Wednesday, 14:20:44] AccountID:094440,Balance:974876.231
+[2018-September-19 Wednesday, 14:20:44] AccountID:094440,Balance:974636.231
+[2018-September-19 Wednesday, 14:20:48] rb-GD-00016_instance1,BarIndex=32,BarSize=300
+[2018-September-19 Wednesday, 14:21:04] rb-GD-00016_instance1,Stop
+[2018-September-19 Wednesday, 14:21:17] Strategy Init..
+[2018-September-19 Wednesday, 14:21:17] rb-GD-00016_instance1,OpenPriceOpening,重启恢复,当前时间=14:21:17,原始开盘价=0.00000
+[2018-September-19 Wednesday, 14:21:21] rb-GD-00016_instance1,BarIndex=0,BarSize=300
+[2018-September-19 Wednesday, 14:21:27] rb-GD-00016_instance1,Stop
+[2018-September-19 Wednesday, 14:24:57] Log File Opened..
+[2018-September-19 Wednesday, 14:24:58] CTP MD RspLogin Success.
+[2018-September-19 Wednesday, 14:25:04] Create CTPTrader Thread..
+[2018-September-19 Wednesday, 14:25:04] 连接CTP当前时间:2018-09-19 14:25:04
+[2018-September-19 Wednesday, 14:25:20] Strategy Init..
+[2018-September-19 Wednesday, 14:25:23] rb-GD-00016_instance1,ResetAction
+[2018-September-19 Wednesday, 14:25:23] rb-GD-00016_instance1,ResetAction Done.
+[2018-September-19 Wednesday, 14:25:24] end initHstDataFromCSV.mBarIndex=31
+[2018-September-19 Wednesday, 14:25:24] rb-GD-00016_instance1,OpenPriceOpening,重启恢复,当前时间=14:25:24,原始开盘价=0.00000
+[2018-September-19 Wednesday, 14:25:33] rb-GD-00016_instance1,BarIndex=32,BarSize=300
+[2018-September-19 Wednesday, 14:25:35] AccountID:094440,Balance:961371.231
+[2018-September-19 Wednesday, 14:25:35] AccountID:094440,Balance:961761.231
+[2018-September-19 Wednesday, 14:25:39] rb-GD-00016_instance1,BarIndex=32,BarSize=300
+[2018-September-19 Wednesday, 14:28:28] rb-GD-00016_instance1,Stop
+[2018-September-19 Wednesday, 14:33:16] Log File Opened..
+[2018-September-19 Wednesday, 14:33:17] CTP MD RspLogin Success.
+[2018-September-19 Wednesday, 14:33:23] Create CTPTrader Thread..
+[2018-September-19 Wednesday, 14:33:23] 连接CTP当前时间:2018-09-19 14:33:23
+[2018-September-19 Wednesday, 14:33:23] AccountID:094440,Balance:969196.231
+[2018-September-19 Wednesday, 14:33:25] AccountID:094440,Balance:969341.231
+[2018-September-19 Wednesday, 14:33:45] Strategy Init..
+[2018-September-19 Wednesday, 14:33:48] rb-GD-00016_instance1,ResetAction
+[2018-September-19 Wednesday, 14:33:48] rb-GD-00016_instance1,ResetAction Done.
+[2018-September-19 Wednesday, 14:33:49] end initHstDataFromCSV.mBarIndex=32
+[2018-September-19 Wednesday, 14:33:49] rb-GD-00016_instance1,OpenPriceOpening,重启恢复,当前时间=14:33:49,原始开盘价=0.00000
+[2018-September-19 Wednesday, 14:33:56] rb-GD-00016_instance1,BarIndex=33,BarSize=300
+[2018-September-19 Wednesday, 14:34:34] rb-GD-00016_instance1,Stop

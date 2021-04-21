@@ -1,0 +1,18 @@
+[2018-October-17 Wednesday, 09:38:00] Log File Opened..
+[2018-October-17 Wednesday, 09:38:01] CTP MD RspLogin Success.
+[2018-October-17 Wednesday, 09:38:11] Create CTPTrader Thread..
+[2018-October-17 Wednesday, 09:38:11] AccountID:094440,Balance:949526.070
+[2018-October-17 Wednesday, 09:38:12] AccountID:094440,Balance:949401.070
+[2018-October-17 Wednesday, 09:38:13] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-October-17 Wednesday, 09:38:13] AccountID:094440,Balance:949401.070
+[2018-October-17 Wednesday, 09:38:41] Strategy Init..
+[2018-October-17 Wednesday, 09:38:41] au-GD-00006-2_instance2,StrategyGridOpen,重启恢复,当前时间=09:38:41,Shmindex:0
+[2018-October-17 Wednesday, 09:42:22] Log File Opened..
+[2018-October-17 Wednesday, 09:42:23] CTP MD RspLogin Success.
+[2018-October-17 Wednesday, 09:42:30] Create CTPTrader Thread..
+[2018-October-17 Wednesday, 09:42:30] AccountID:094440,Balance:949026.070
+[2018-October-17 Wednesday, 09:42:31] AccountID:094440,Balance:949026.070
+[2018-October-17 Wednesday, 09:42:32] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-October-17 Wednesday, 09:42:32] AccountID:094440,Balance:948796.070
+[2018-October-17 Wednesday, 09:43:02] Strategy Init..
+[2018-October-17 Wednesday, 09:43:02] au-GD-00006-2_instance2,StrategyGridOpen,重启恢复,当前时间=09:43:02,Shmindex:0

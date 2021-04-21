@@ -1,0 +1,85 @@
+[2019-August-08 Thursday, 15:15:48] Log File Opened..
+[2019-August-08 Thursday, 15:15:49] CTP MD RspLogin Success.
+[2019-August-08 Thursday, 15:16:26] Create CTPTrader Thread..
+[2019-August-08 Thursday, 15:16:26] AccountID:2208002004,Balance:19543.893
+[2019-August-08 Thursday, 15:16:26] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1950.00,TradeVol:1,SettlePrice:1972.00,-210.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:16:26] ClientNo:2208002004,Inst:rb1910,Direct:0,TradePrice:3668.00,TradeVol:1,SettlePrice:3711.00,40.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:16:26] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1937.00,TradeVol:1,SettlePrice:1972.00,-80.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:16:26] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1947.00,TradeVol:1,SettlePrice:1972.00,-180.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:16:30] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-August-08 Thursday, 15:16:30] AccountID:2208002004,Balance:19543.893
+[2019-August-08 Thursday, 15:16:30] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1950.00,TradeVol:1,SettlePrice:1972.00,-210.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:16:30] ClientNo:2208002004,Inst:rb1910,Direct:0,TradePrice:3668.00,TradeVol:1,SettlePrice:3711.00,40.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:16:30] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1937.00,TradeVol:1,SettlePrice:1972.00,-80.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:16:30] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1947.00,TradeVol:1,SettlePrice:1972.00,-180.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:18:19] Log File Opened..
+[2019-August-08 Thursday, 15:18:20] CTP MD RspLogin Success.
+[2019-August-08 Thursday, 15:18:44] Create CTPTrader Thread..
+[2019-August-08 Thursday, 15:18:44] AccountID:2208002004,Balance:19543.893
+[2019-August-08 Thursday, 15:18:44] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1950.00,TradeVol:1,SettlePrice:1972.00,-210.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:18:44] ClientNo:2208002004,Inst:rb1910,Direct:0,TradePrice:3668.00,TradeVol:1,SettlePrice:3711.00,40.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:18:44] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1937.00,TradeVol:1,SettlePrice:1972.00,-80.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:18:44] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1947.00,TradeVol:1,SettlePrice:1972.00,-180.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:18:45] gStrategyImplIndex=0,gMapView->strategynum=0
+[2019-August-08 Thursday, 15:18:46] AccountID:2208002004,Balance:19543.893
+[2019-August-08 Thursday, 15:18:46] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1950.00,TradeVol:1,SettlePrice:1972.00,-210.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:18:46] ClientNo:2208002004,Inst:rb1910,Direct:0,TradePrice:3668.00,TradeVol:1,SettlePrice:3711.00,40.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:18:46] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1937.00,TradeVol:1,SettlePrice:1972.00,-80.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:18:46] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1947.00,TradeVol:1,SettlePrice:1972.00,-180.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:19:25] Strategy Init..
+[2019-August-08 Thursday, 15:19:25] c-GD-00006-3_instance1,StrategyGridOpen,重启恢复,当前时间=15:19:25,Shmindex:0
+[2019-August-08 Thursday, 15:19:36] Strategy Init..
+[2019-August-08 Thursday, 15:19:36] rb-GD-00006-3_instance1,StrategyGridOpen,重启恢复,当前时间=15:19:36,Shmindex:1
+[2019-August-08 Thursday, 15:20:08] MaxTotalOnHandPosition:200,TotalOnHandPosition:0,MaxTotalCancelTimes:200,TotalCancelTimes:0
+[2019-August-08 Thursday, 15:20:13] RS Tcp connected.
+[2019-August-08 Thursday, 15:20:13] 192.168.130.10
+[2019-August-08 Thursday, 15:20:14] MaxTotalOnHandPosition:200,TotalOnHandPosition:0,MaxTotalCancelTimes:200,TotalCancelTimes:0
+[2019-August-08 Thursday, 15:20:18] RS Tcp connected.
+[2019-August-08 Thursday, 15:20:18] 192.168.130.10
+[2019-August-08 Thursday, 15:20:19] MaxTotalOnHandPosition:200,TotalOnHandPosition:0,MaxTotalCancelTimes:200,TotalCancelTimes:0
+[2019-August-08 Thursday, 15:20:32] c-GD-00006-3_instance1,Stop
+[2019-August-08 Thursday, 15:20:32] rb-GD-00006-3_instance1,Stop
+[2019-August-08 Thursday, 15:43:50] Log File Opened..
+[2019-August-08 Thursday, 15:43:51] CTP MD RspLogin Success.
+[2019-August-08 Thursday, 15:44:23] Create CTPTrader Thread..
+[2019-August-08 Thursday, 15:44:23] AccountID:2208002004,Balance:19543.893
+[2019-August-08 Thursday, 15:44:23] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1950.00,TradeVol:1,SettlePrice:1972.00,-210.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:44:23] ClientNo:2208002004,Inst:rb1910,Direct:0,TradePrice:3668.00,TradeVol:1,SettlePrice:3711.00,40.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:44:23] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1937.00,TradeVol:1,SettlePrice:1972.00,-80.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:44:23] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1947.00,TradeVol:1,SettlePrice:1972.00,-180.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:44:37] Strategy Init..
+[2019-August-08 Thursday, 15:44:37] c-GD-00006-3_instance1,StrategyGridOpen,重启恢复,当前时间=15:44:37,Shmindex:0
+[2019-August-08 Thursday, 15:45:42] MaxTotalOnHandPosition:200,TotalOnHandPosition:0,MaxTotalCancelTimes:200,TotalCancelTimes:0
+[2019-August-08 Thursday, 15:45:44] MaxTotalOnHandPosition:200,TotalOnHandPosition:0,MaxTotalCancelTimes:200,TotalCancelTimes:0
+[2019-August-08 Thursday, 15:48:05] MaxTotalOnHandPosition:200,TotalOnHandPosition:0,MaxTotalCancelTimes:200,TotalCancelTimes:0
+[2019-August-08 Thursday, 15:50:04] Log File Opened..
+[2019-August-08 Thursday, 15:50:05] CTP MD RspLogin Success.
+[2019-August-08 Thursday, 15:50:22] Create CTPTrader Thread..
+[2019-August-08 Thursday, 15:50:22] AccountID:2208002004,Balance:19543.893
+[2019-August-08 Thursday, 15:50:22] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1950.00,TradeVol:1,SettlePrice:1972.00,-210.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:50:22] ClientNo:2208002004,Inst:rb1910,Direct:0,TradePrice:3668.00,TradeVol:1,SettlePrice:3711.00,40.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:50:22] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1937.00,TradeVol:1,SettlePrice:1972.00,-80.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:50:22] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1947.00,TradeVol:1,SettlePrice:1972.00,-180.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:50:34] Strategy Init..
+[2019-August-08 Thursday, 15:50:34] c-GD-00006-3_instance1,StrategyGridOpen,重启恢复,当前时间=15:50:34,Shmindex:0
+[2019-August-08 Thursday, 15:51:44] MaxTotalOnHandPosition:200,TotalOnHandPosition:0,MaxTotalCancelTimes:200,TotalCancelTimes:0
+[2019-August-08 Thursday, 15:51:48] AccountID:2208002004,Balance:19543.893
+[2019-August-08 Thursday, 15:51:48] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1950.00,TradeVol:1,SettlePrice:1972.00,-210.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:51:48] ClientNo:2208002004,Inst:rb1910,Direct:0,TradePrice:3668.00,TradeVol:1,SettlePrice:3711.00,40.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:51:48] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1937.00,TradeVol:1,SettlePrice:1972.00,-80.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:51:48] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1947.00,TradeVol:1,SettlePrice:1972.00,-180.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:53:20] RS Tcp connected.
+[2019-August-08 Thursday, 15:53:20] 192.168.130.10
+[2019-August-08 Thursday, 15:53:29] AccountID:2208002004,Balance:19543.893
+[2019-August-08 Thursday, 15:53:29] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1950.00,TradeVol:1,SettlePrice:1972.00,-210.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:53:29] ClientNo:2208002004,Inst:rb1910,Direct:0,TradePrice:3668.00,TradeVol:1,SettlePrice:3711.00,40.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:53:29] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1937.00,TradeVol:1,SettlePrice:1972.00,-80.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:53:29] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1947.00,TradeVol:1,SettlePrice:1972.00,-180.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:55:41] RS Tcp connected.
+[2019-August-08 Thursday, 15:55:41] 192.168.130.10
+[2019-August-08 Thursday, 15:55:47] AccountID:2208002004,Balance:19543.893
+[2019-August-08 Thursday, 15:55:47] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1950.00,TradeVol:1,SettlePrice:1972.00,-210.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:55:47] ClientNo:2208002004,Inst:rb1910,Direct:0,TradePrice:3668.00,TradeVol:1,SettlePrice:3711.00,40.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:55:47] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1937.00,TradeVol:1,SettlePrice:1972.00,-80.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:55:47] ClientNo:2208002004,Inst:c2001,Direct:0,TradePrice:1947.00,TradeVol:1,SettlePrice:1972.00,-180.00,MatchDateTime:20190808
+[2019-August-08 Thursday, 15:56:52] MaxTotalOnHandPosition:200,TotalOnHandPosition:0,MaxTotalCancelTimes:200,TotalCancelTimes:0

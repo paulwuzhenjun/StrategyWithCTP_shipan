@@ -1,0 +1,49 @@
+[2021-April-12 Monday, 11:27:23] Log File Opened..
+[2021-April-12 Monday, 11:27:25] CTP MD RspLogin Success.
+[2021-April-12 Monday, 11:27:32] Create CTPTrader Thread..
+[2021-April-12 Monday, 11:27:33] AccountID:932535,Balance:4271.648
+[2021-April-12 Monday, 11:27:33] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2450.00,10.00,MatchDateTime:20210412
+[2021-April-12 Monday, 15:05:33] AccountID:932535,Balance:4331.648
+[2021-April-12 Monday, 15:05:33] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2450.00,10.00,MatchDateTime:20210412
+[2021-April-12 Monday, 20:50:36] Create CTPTrader Thread..
+[2021-April-12 Monday, 20:50:36] CTP MD RspLogin Success.
+[2021-April-12 Monday, 20:50:38] AccountID:932535,Balance:3901.660
+[2021-April-12 Monday, 20:50:38] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2399.00,-290.00,MatchDateTime:20210412
+[2021-April-13 Tuesday, 08:45:38] Create CTPTrader Thread..
+[2021-April-13 Tuesday, 08:45:39] CTP MD RspLogin Success.
+[2021-April-13 Tuesday, 08:45:41] AccountID:932535,Balance:4251.660
+[2021-April-13 Tuesday, 08:45:41] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2399.00,-290.00,MatchDateTime:20210412
+[2021-April-13 Tuesday, 15:05:36] AccountID:932535,Balance:4081.660
+[2021-April-13 Tuesday, 15:05:36] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2399.00,-290.00,MatchDateTime:20210412
+[2021-April-13 Tuesday, 20:50:40] Create CTPTrader Thread..
+[2021-April-13 Tuesday, 20:50:40] CTP MD RspLogin Success.
+[2021-April-13 Tuesday, 20:50:42] AccountID:932535,Balance:4171.660
+[2021-April-13 Tuesday, 20:50:42] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2372.00,-20.00,MatchDateTime:20210412
+[2021-April-14 Wednesday, 08:45:42] Create CTPTrader Thread..
+[2021-April-14 Wednesday, 08:45:43] CTP MD RspLogin Success.
+[2021-April-14 Wednesday, 08:45:45] AccountID:932535,Balance:3861.660
+[2021-April-14 Wednesday, 08:45:45] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2372.00,-20.00,MatchDateTime:20210412
+[2021-April-14 Wednesday, 15:05:41] AccountID:932535,Balance:3641.660
+[2021-April-14 Wednesday, 15:05:41] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2372.00,-20.00,MatchDateTime:20210412
+[2021-April-14 Wednesday, 20:50:45] Create CTPTrader Thread..
+[2021-April-14 Wednesday, 20:50:45] CTP MD RspLogin Success.
+[2021-April-14 Wednesday, 20:50:46] AccountID:932535,Balance:3791.660
+[2021-April-14 Wednesday, 20:50:46] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2410.00,-400.00,MatchDateTime:20210412
+[2021-April-15 Thursday, 08:45:47] Create CTPTrader Thread..
+[2021-April-15 Thursday, 08:45:47] CTP MD RspLogin Success.
+[2021-April-15 Thursday, 08:45:50] AccountID:932535,Balance:3551.660
+[2021-April-15 Thursday, 08:45:50] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2410.00,-400.00,MatchDateTime:20210412
+[2021-April-15 Thursday, 15:05:45] AccountID:932535,Balance:3111.660
+[2021-April-15 Thursday, 15:05:45] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2410.00,-400.00,MatchDateTime:20210412
+[2021-April-15 Thursday, 20:50:49] Create CTPTrader Thread..
+[2021-April-15 Thursday, 20:50:49] CTP MD RspLogin Success.
+[2021-April-15 Thursday, 20:50:50] AccountID:932535,Balance:3491.660
+[2021-April-15 Thursday, 20:50:50] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2440.00,-700.00,MatchDateTime:20210412
+[2021-April-16 Friday, 08:45:51] Create CTPTrader Thread..
+[2021-April-16 Friday, 08:45:53] CTP MD RspLogin Success.
+[2021-April-16 Friday, 08:45:54] AccountID:932535,Balance:3211.660
+[2021-April-16 Friday, 08:45:54] ClientNo:932535,Inst:MA105,Direct:1,TradePrice:2370.00,TradeVol:1,SettlePrice:2440.00,-700.00,MatchDateTime:20210412
+[2021-April-16 Friday, 09:50:45] DispatchTdMsg,orderSysId:14853,ref:47
+[2021-April-16 Friday, 09:50:45] DispatchTdMsg,orderSysId:14854,ref:47
+[2021-April-16 Friday, 09:50:45] DispatchTdMsg,orderSysId:14854,ref:47
+[2021-April-16 Friday, 09:50:45] DispatchTdMsg,orderSysId:1614855,ref:47

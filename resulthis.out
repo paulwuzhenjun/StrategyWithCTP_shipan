@@ -1,0 +1,8 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on 星期五 5月 3 21:59:09 2013
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+SQL*Loader-500:  无法打开文件 (ActiveOrderCTL.ctl)
+SQL*Loader-553:  未找到文件
+SQL*Loader-509:  系统错误: 系统找不到指定的文件。

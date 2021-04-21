@@ -1,0 +1,92 @@
+[2018-November-19 Monday, 10:50:42] Log File Opened..
+[2018-November-19 Monday, 10:50:43] CTP MD RspLogin Success.
+[2018-November-19 Monday, 10:50:56] Create CTPTrader Thread..
+[2018-November-19 Monday, 10:50:56] AccountID:094440,Balance:978636.850
+[2018-November-19 Monday, 10:50:57] AccountID:094440,Balance:978636.850
+[2018-November-19 Monday, 10:50:57] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-November-19 Monday, 10:50:58] AccountID:094440,Balance:978586.850
+[2018-November-19 Monday, 10:52:20] Strategy Init..
+[2018-November-19 Monday, 10:52:52] Log File Opened..
+[2018-November-19 Monday, 10:52:53] CTP MD RspLogin Success.
+[2018-November-19 Monday, 10:53:04] Create CTPTrader Thread..
+[2018-November-19 Monday, 10:53:05] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-November-19 Monday, 10:53:09] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-November-19 Monday, 10:53:35] AccountID:094440,Balance:978976.850
+[2018-November-19 Monday, 10:53:35] AccountID:094440,Balance:979106.850
+[2018-November-19 Monday, 10:53:36] AccountID:094440,Balance:979376.850
+[2018-November-19 Monday, 10:53:37] AccountID:094440,Balance:979376.850
+[2018-November-19 Monday, 10:55:08] Strategy Init..
+[2018-November-19 Monday, 10:58:07] M-RD-00011_instance1,Stop
+[2018-November-19 Monday, 10:59:36] Strategy Init..
+[2018-November-19 Monday, 10:59:36] CTP Insert!! 3,openOrClose=0,buyOrSell=0,price=3138.0000,vol=1,inst=m1901,iRet=0
+[2018-November-19 Monday, 10:59:36] M-RD-00011_instance1,开仓,买=3138.00000,时间=10:59:36,手数=1
+[2018-November-19 Monday, 10:59:36] CTP Insert!! 4,openOrClose=0,buyOrSell=1,price=3178.0000,vol=1,inst=m1901,iRet=0
+[2018-November-19 Monday, 10:59:36] M-RD-00011_instance1,开仓,卖=3178.00000,时间=10:59:36,手数=1
+[2018-November-19 Monday, 10:59:37] DispatchTdMsg,orderSysId:49457,ref:3
+[2018-November-19 Monday, 10:59:37] DispatchTdMsg,orderSysId:1949458,ref:3
+[2018-November-19 Monday, 10:59:37] DispatchTdMsg,orderSysId:49459,ref:4
+[2018-November-19 Monday, 10:59:37] M-RD-00011_instance1,OnRtnOrder,OrderId=49457,Status=9,VolRemain=0,mPosition=0
+[2018-November-19 Monday, 10:59:37] M-RD-00011_instance1,OnRtnOrder,mPosition=0
+[2018-November-19 Monday, 10:59:37] M-RD-00011_instance1,OnRtnTrade,OrderId=1949458,vol=1,price=3135.00000
+[2018-November-19 Monday, 10:59:37] CTP Insert!! 5,openOrClose=1,buyOrSell=1,price=3143.0000,vol=1,inst=m1901,iRet=0
+[2018-November-19 Monday, 10:59:37] ReqOrderDelete,-1
+[2018-November-19 Monday, 10:59:37] M-RD-00011_instance1,OnRtnTrade,OnHandPositionCount=2
+[2018-November-19 Monday, 10:59:37] M-RD-00011_instance1,OnRtnOrder,OrderId=49459,Status=3,VolRemain=1,mPosition=1
+[2018-November-19 Monday, 10:59:37] M-RD-00011_instance1,OnRtnOrder,mPosition=1
+[2018-November-19 Monday, 10:59:37] DispatchTdMsg,orderSysId:49459,ref:4
+[2018-November-19 Monday, 10:59:37] M-RD-00011_instance1,OnRtnOrder,OrderId=49459,Status=3,VolRemain=1,mPosition=1
+[2018-November-19 Monday, 10:59:37] M-RD-00011_instance1,OnRtnOrder,mPosition=1
+[2018-November-19 Monday, 10:59:37] DispatchTdMsg,orderSysId:49460,ref:5
+[2018-November-19 Monday, 10:59:37] M-RD-00011_instance1,OnRtnOrder,OrderId=49460,Status=3,VolRemain=1,mPosition=1
+[2018-November-19 Monday, 10:59:37] M-RD-00011_instance1,OnRtnOrder,mPosition=1
+[2018-November-19 Monday, 10:59:37] DispatchTdMsg,orderSysId:49461,ref:4
+[2018-November-19 Monday, 10:59:37] M-RD-00011_instance1,OnRtnOrder,OrderId=49461,Status=7,VolRemain=1,mPosition=1
+[2018-November-19 Monday, 10:59:37] M-RD-00011_instance1,OnRtnOrder,mPosition=1
+[2018-November-19 Monday, 11:02:54] M-RD-00011_instance1,Stop
+[2018-November-19 Monday, 11:03:36] Strategy Init..
+[2018-November-19 Monday, 11:03:36] M-RD-00011_instance1,OpenPriceOpening,重启恢复,当前时间=11:03:36,原始开盘价=3158.00000
+[2018-November-19 Monday, 11:09:06] M-RD-00011_instance1,Stop
+[2018-November-19 Monday, 11:09:30] Strategy Init..
+[2018-November-19 Monday, 11:09:30] M-RD-00011_instance1,OpenPriceOpening,重启恢复,当前时间=11:09:30,原始开盘价=3158.00000
+[2018-November-19 Monday, 11:09:59] M-RD-00011_instance1,Buy Order timeRuleForClose Close,OrderId=49460
+[2018-November-19 Monday, 11:09:59] ReqOrderDelete,49460
+[2018-November-19 Monday, 11:10:01] DispatchTdMsg,orderSysId:49460,ref:5
+[2018-November-19 Monday, 11:10:01] DispatchTdMsg,orderSysId:51825,ref:5
+[2018-November-19 Monday, 11:10:01] M-RD-00011_instance1,OnRtnOrder,OrderId=49460,Status=3,VolRemain=1,mPosition=1
+[2018-November-19 Monday, 11:10:01] M-RD-00011_instance1,OnRtnOrder,OrderId=51825,Status=7,VolRemain=1,mPosition=1
+[2018-November-19 Monday, 11:10:01] M-RD-00011_instance1,Buy Order Stoploss Close,OrderId=51825
+[2018-November-19 Monday, 11:10:01] CTP Insert!! 8,openOrClose=1,buyOrSell=1,price=3130.0000,vol=1,inst=m1901,iRet=0
+[2018-November-19 Monday, 11:10:01] DispatchTdMsg,orderSysId:51882,ref:8
+[2018-November-19 Monday, 11:10:01] DispatchTdMsg,orderSysId:1951883,ref:8
+[2018-November-19 Monday, 11:10:01] M-RD-00011_instance1,OnRtnOrder,OrderId=51882,Status=9,VolRemain=0,mPosition=1
+[2018-November-19 Monday, 11:10:01] M-RD-00011_instance1,OnRtnTrade,OrderId=1951883,vol=1,price=3130.00000
+[2018-November-19 Monday, 11:10:01] M-RD-00011_instance1,OnRtnTrade,OnHandPositionCount=0
+[2018-November-19 Monday, 11:11:57] M-RD-00011_instance1,Stop
+[2018-November-19 Monday, 11:12:39] Strategy Init..
+[2018-November-19 Monday, 11:12:40] CTP Insert!! 9,openOrClose=0,buyOrSell=0,price=3108.0000,vol=1,inst=m1901,iRet=0
+[2018-November-19 Monday, 11:12:40] M-RD-00011_instance1,开仓,买=3108.00000,时间=11:12:40,手数=1
+[2018-November-19 Monday, 11:12:40] CTP Insert!! 10,openOrClose=0,buyOrSell=1,price=3208.0000,vol=1,inst=m1901,iRet=0
+[2018-November-19 Monday, 11:12:40] M-RD-00011_instance1,开仓,卖=3208.00000,时间=11:12:40,手数=1
+[2018-November-19 Monday, 11:12:40] DispatchTdMsg,orderSysId:52710,ref:9
+[2018-November-19 Monday, 11:12:40] DispatchTdMsg,orderSysId:52711,ref:10
+[2018-November-19 Monday, 11:12:40] M-RD-00011_instance1,OnRtnOrder,OrderId=52710,Status=3,VolRemain=1,mPosition=0
+[2018-November-19 Monday, 11:12:40] M-RD-00011_instance1,OnRtnOrder,mPosition=0
+[2018-November-19 Monday, 11:12:40] M-RD-00011_instance1,OnRtnOrder,OrderId=52711,Status=3,VolRemain=1,mPosition=0
+[2018-November-19 Monday, 11:12:40] M-RD-00011_instance1,OnRtnOrder,mPosition=0
+[2018-November-19 Monday, 11:14:02] 20181119,11:14:02,OpenOrderId=52710
+[2018-November-19 Monday, 11:14:02] ReqOrderDelete,52710
+[2018-November-19 Monday, 11:14:02] 20181119,11:14:02,OpenOrderId=52711
+[2018-November-19 Monday, 11:14:02] ReqOrderDelete,52711
+[2018-November-19 Monday, 11:14:02] DispatchTdMsg,orderSysId:52710,ref:9
+[2018-November-19 Monday, 11:14:02] M-RD-00011_instance1,OnRtnOrder,OrderId=52710,Status=3,VolRemain=1,mPosition=0
+[2018-November-19 Monday, 11:14:02] M-RD-00011_instance1,OnRtnOrder,mPosition=0
+[2018-November-19 Monday, 11:14:02] DispatchTdMsg,orderSysId:52711,ref:10
+[2018-November-19 Monday, 11:14:02] M-RD-00011_instance1,OnRtnOrder,OrderId=52711,Status=3,VolRemain=1,mPosition=0
+[2018-November-19 Monday, 11:14:02] M-RD-00011_instance1,OnRtnOrder,mPosition=0
+[2018-November-19 Monday, 11:14:02] DispatchTdMsg,orderSysId:53043,ref:9
+[2018-November-19 Monday, 11:14:02] DispatchTdMsg,orderSysId:53044,ref:10
+[2018-November-19 Monday, 11:14:02] M-RD-00011_instance1,OnRtnOrder,OrderId=53043,Status=7,VolRemain=1,mPosition=0
+[2018-November-19 Monday, 11:14:02] M-RD-00011_instance1,OnRtnOrder,mPosition=0
+[2018-November-19 Monday, 11:14:02] M-RD-00011_instance1,OnRtnOrder,OrderId=53044,Status=7,VolRemain=1,mPosition=0
+[2018-November-19 Monday, 11:14:02] M-RD-00011_instance1,OnRtnOrder,mPosition=0
+[2018-November-19 Monday, 11:20:56] M-RD-00011_instance1,Stop

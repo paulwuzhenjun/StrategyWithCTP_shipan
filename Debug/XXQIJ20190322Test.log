@@ -1,0 +1,19 @@
+[2019-March-22 Friday, 13:13:17] Log File Opened..
+[2019-March-22 Friday, 13:13:18] CTP MD RspLogin Success.
+[2019-March-22 Friday, 13:16:25] Create CTPTrader Thread..
+[2019-March-22 Friday, 13:16:25] AccountID:2208002005,Balance:3180715.840
+[2019-March-22 Friday, 13:16:25] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5276.00,TradeVol:1,SettlePrice:5579.60,51240.00,MatchDateTime:20190315
+[2019-March-22 Friday, 13:16:25] ClientNo:2208002005,Inst:IC1904,Direct:1,TradePrice:5476.00,TradeVol:1,SettlePrice:5579.60,-11240.00,MatchDateTime:20190320
+[2019-March-22 Friday, 13:16:50] Strategy Init..
+[2019-March-22 Friday, 13:17:18] Strategy Init..
+[2019-March-22 Friday, 13:17:48] IH-GD-00007_instance1,Stop
+[2019-March-22 Friday, 13:17:54] IC-GD-00006-3_instance1,Stop
+[2019-March-22 Friday, 13:37:01] Log File Opened..
+[2019-March-22 Friday, 13:37:02] CTP MD RspLogin Success.
+[2019-March-22 Friday, 13:37:16] Create CTPTrader Thread..
+[2019-March-22 Friday, 13:37:16] AccountID:2208002005,Balance:3185207.718
+[2019-March-22 Friday, 13:37:16] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5276.00,TradeVol:1,SettlePrice:5579.60,60880.00,MatchDateTime:20190315
+[2019-March-22 Friday, 13:37:26] Strategy Init..
+[2019-March-22 Friday, 13:37:35] IH-GD-00007_instance1,Stop
+[2019-March-22 Friday, 13:37:43] Strategy Init..
+[2019-March-22 Friday, 13:37:52] IC-GD-00006-3_instance1,Stop

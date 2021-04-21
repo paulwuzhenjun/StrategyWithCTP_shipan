@@ -1,0 +1,161 @@
+[2018-July-24 Tuesday, 09:09:38] Log File Opened..
+[2018-July-24 Tuesday, 09:09:39] CTP MD RspLogin Success.
+[2018-July-24 Tuesday, 09:09:39] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 09:11:41] Log File Opened..
+[2018-July-24 Tuesday, 09:11:42] CTP MD RspLogin Success.
+[2018-July-24 Tuesday, 09:11:52] Create CTPTrader Thread..
+[2018-July-24 Tuesday, 09:11:52] 连接CTP当前时间:2018-07-24 09:11:52
+[2018-July-24 Tuesday, 09:11:54] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 09:12:42] Strategy Init..
+[2018-July-24 Tuesday, 09:12:42] CTP Insert!! 100003,openOrClose=0,buyOrSell=1,price=3685.0000,vol=2,inst=ag1812,iRet=0
+[2018-July-24 Tuesday, 09:12:42] BaseGridOpen_instance1,上网格开仓,卖=3685.00000,时间=09:12:41,网格:30
+[2018-July-24 Tuesday, 09:12:42] BaseGridOpen_instance1,OnRtnOrder,OrderId=390640,Status=3,VolRemain=2
+[2018-July-24 Tuesday, 09:16:19] BaseGridOpen_instance1,OnRtnOrder,OrderId=395765,Status=3,VolRemain=2
+[2018-July-24 Tuesday, 09:16:19] BaseGridOpen_instance1,OnRtnOrder,OrderId=395765,Status=9,VolRemain=0
+[2018-July-24 Tuesday, 09:16:19] BaseGridOpen_instance1,OnRtnTrade,OrderId=395766,vol=2,price=3685.00000
+[2018-July-24 Tuesday, 09:16:19] CTP Insert!! 100004,openOrClose=1,buyOrSell=0,price=3682.0000,vol=2,inst=ag1812,iRet=0
+[2018-July-24 Tuesday, 09:16:19] CTP Insert!! 100005,openOrClose=0,buyOrSell=1,price=3690.0000,vol=2,inst=ag1812,iRet=0
+[2018-July-24 Tuesday, 09:16:19] BaseGridOpen_instance1,开仓,卖=3690.00000,时间=20180724 09:16:17,网格:31
+[2018-July-24 Tuesday, 09:16:20] BaseGridOpen_instance1,OnRtnOrder,OrderId=395769,Status=3,VolRemain=2
+[2018-July-24 Tuesday, 09:16:20] BaseGridOpen_instance1,OnRtnOrder,OrderId=395770,Status=3,VolRemain=2
+[2018-July-24 Tuesday, 09:18:39] BaseGridOpen_instance1,OnRtnOrder,OrderId=400761,Status=3,VolRemain=2
+[2018-July-24 Tuesday, 09:18:39] BaseGridOpen_instance1,OnRtnOrder,OrderId=400761,Status=9,VolRemain=0
+[2018-July-24 Tuesday, 09:18:39] BaseGridOpen_instance1,OnRtnTrade,OrderId=400762,vol=2,price=3682.00000
+[2018-July-24 Tuesday, 09:18:39] CTP Insert!! 100006,openOrClose=0,buyOrSell=1,price=3685.0000,vol=2,inst=ag1812,iRet=0
+[2018-July-24 Tuesday, 09:18:39] BaseGridOpen_instance1,开仓,卖=3685.00000,时间=20180724 09:18:37,网格:30
+[2018-July-24 Tuesday, 09:18:39] BaseGridOpen_instance1,ReqOrderDelete,395770
+[2018-July-24 Tuesday, 09:18:39] BaseGridOpen_instance1,OnRtnOrder,OrderId=400797,Status=3,VolRemain=2
+[2018-July-24 Tuesday, 09:18:39] BaseGridOpen_instance1,OnRtnOrder,OrderId=395770,Status=3,VolRemain=2
+[2018-July-24 Tuesday, 09:18:39] BaseGridOpen_instance1,OnRtnOrder,OrderId=400798,Status=7,VolRemain=2
+[2018-July-24 Tuesday, 09:26:59] BaseGridOpen_instance1,Stop
+[2018-July-24 Tuesday, 09:27:22] Log File Opened..
+[2018-July-24 Tuesday, 09:27:24] CTP MD RspLogin Success.
+[2018-July-24 Tuesday, 09:27:32] Create CTPTrader Thread..
+[2018-July-24 Tuesday, 09:27:32] 连接CTP当前时间:2018-07-24 09:27:32
+[2018-July-24 Tuesday, 09:27:46] Strategy Init..
+[2018-July-24 Tuesday, 09:27:47] BaseGridOpen_instance1,StrategyGridOpen,重启恢复,当前时间=09:27:47
+[2018-July-24 Tuesday, 09:59:30] BaseGridOpen_instance1,Stop
+[2018-July-24 Tuesday, 10:55:01] Log File Opened..
+[2018-July-24 Tuesday, 10:55:02] CTP MD RspLogin Success.
+[2018-July-24 Tuesday, 10:55:08] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 10:55:35] Log File Opened..
+[2018-July-24 Tuesday, 10:55:44] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 10:56:03] Create Trader Thread..
+[2018-July-24 Tuesday, 10:56:03] Esun Trader Initialize..
+[2018-July-24 Tuesday, 10:56:03] Esun Trader Open..
+[2018-July-24 Tuesday, 10:56:10] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 13:44:44] Log File Opened..
+[2018-July-24 Tuesday, 13:44:54] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 13:45:02] Create Trader Thread..
+[2018-July-24 Tuesday, 13:45:02] Esun Trader Initialize..
+[2018-July-24 Tuesday, 13:45:02] Esun Trader Open..
+[2018-July-24 Tuesday, 13:45:03] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 14:14:13] Log File Opened..
+[2018-July-24 Tuesday, 14:14:20] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 14:14:39] Log File Opened..
+[2018-July-24 Tuesday, 14:14:47] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 14:14:53] Create Trader Thread..
+[2018-July-24 Tuesday, 14:14:53] Esun Trader Initialize..
+[2018-July-24 Tuesday, 14:14:53] Esun Trader Open..
+[2018-July-24 Tuesday, 14:14:55] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 14:16:50] Log File Opened..
+[2018-July-24 Tuesday, 14:16:57] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 14:17:02] Create Trader Thread..
+[2018-July-24 Tuesday, 14:17:02] Esun Trader Initialize..
+[2018-July-24 Tuesday, 14:17:02] Esun Trader Open..
+[2018-July-24 Tuesday, 14:17:05] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 14:20:13] Log File Opened..
+[2018-July-24 Tuesday, 14:20:21] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 14:20:24] Create Trader Thread..
+[2018-July-24 Tuesday, 14:20:24] Esun Trader Initialize..
+[2018-July-24 Tuesday, 14:20:24] Esun Trader Open..
+[2018-July-24 Tuesday, 14:20:27] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 14:23:46] Log File Opened..
+[2018-July-24 Tuesday, 14:23:54] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 14:23:58] Create Trader Thread..
+[2018-July-24 Tuesday, 14:23:58] Esun Trader Initialize..
+[2018-July-24 Tuesday, 14:23:58] Esun Trader Open..
+[2018-July-24 Tuesday, 14:24:00] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 14:25:58] Log File Opened..
+[2018-July-24 Tuesday, 14:26:05] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 14:26:09] Create Trader Thread..
+[2018-July-24 Tuesday, 14:26:09] Esun Trader Initialize..
+[2018-July-24 Tuesday, 14:26:09] Esun Trader Open..
+[2018-July-24 Tuesday, 14:26:15] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 14:28:48] Log File Opened..
+[2018-July-24 Tuesday, 14:28:56] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 14:29:00] Create Trader Thread..
+[2018-July-24 Tuesday, 14:29:00] Esun Trader Initialize..
+[2018-July-24 Tuesday, 14:29:00] Esun Trader Open..
+[2018-July-24 Tuesday, 14:29:02] ClientNo:89501007,Inst:CL 1809,Direct:B,TradePrice:67.6400,TradeVol:1,YSettlePrice:67.8900,TNewPrice:67.7700,MatchDateTime:2018-07-24 08:41:00,Deposit:4744.0000
+[2018-July-24 Tuesday, 14:34:19] Log File Opened..
+[2018-July-24 Tuesday, 14:34:26] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 14:34:30] Create Trader Thread..
+[2018-July-24 Tuesday, 14:34:30] Esun Trader Initialize..
+[2018-July-24 Tuesday, 14:34:30] Esun Trader Open..
+[2018-July-24 Tuesday, 14:34:37] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 14:35:31] ClientNo:89501007,Inst:CL 1809,Direct:B,TradePrice:67.6400,TradeVol:1,YSettlePrice:67.8900,TNewPrice:67.7400,MatchDateTime:2018-07-24 08:41:00,Deposit:4744.0000
+[2018-July-24 Tuesday, 14:42:37] Log File Opened..
+[2018-July-24 Tuesday, 14:42:45] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 14:43:04] Log File Opened..
+[2018-July-24 Tuesday, 14:43:12] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 14:43:16] Create Trader Thread..
+[2018-July-24 Tuesday, 14:43:16] Esun Trader Initialize..
+[2018-July-24 Tuesday, 14:43:16] Esun Trader Open..
+[2018-July-24 Tuesday, 15:05:04] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 15:10:38] Log File Opened..
+[2018-July-24 Tuesday, 15:10:52] Esun MD RspLogin Success.
+[2018-July-24 Tuesday, 15:10:57] Create Trader Thread..
+[2018-July-24 Tuesday, 15:10:57] Esun Trader Initialize..
+[2018-July-24 Tuesday, 15:10:57] Esun Trader Open..
+[2018-July-24 Tuesday, 15:10:58] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:CN 1807,Direct:B,TradePrice:11450.0000,TradeVol:1,YSettlePrice:11667.5000,TNewPrice:11855.0000,MatchDateTime:2018-07-16 09:42:20,Deposit:1188.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:CN 1807,Direct:B,TradePrice:11450.0000,TradeVol:1,YSettlePrice:11667.5000,TNewPrice:11855.0000,MatchDateTime:2018-07-16 09:42:20,Deposit:1188.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7300,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-13 16:45:00,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7247,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-13 18:15:00,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7200,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-16 09:48:52,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7200,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-16 09:48:52,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7270,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-16 10:06:36,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7300,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-16 10:07:21,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7300,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-16 10:07:58,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7070,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-16 20:34:51,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7100,TradeVol:2,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-16 21:12:25,Deposit:29700.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7100,TradeVol:2,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-17 17:46:36,Deposit:29700.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7170,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-17 18:17:38,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7200,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-17 18:36:29,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7200,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-17 18:36:29,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7270,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-17 21:07:41,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7300,TradeVol:2,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-17 21:19:21,Deposit:29700.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7370,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-18 07:25:31,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7376,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-18 12:57:37,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7804,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-23 09:49:48,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7904,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-23 13:50:45,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.7885,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-23 14:05:44,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.8004,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-23 15:09:58,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:12:58] ClientNo:89501009,Inst:UC 1809,Direct:S,TradePrice:6.8196,TradeVol:1,YSettlePrice:6.8156,TNewPrice:6.8356,MatchDateTime:2018-07-24 07:34:40,Deposit:14850.0000
+[2018-July-24 Tuesday, 15:59:25] Log File Opened..
+[2018-July-24 Tuesday, 15:59:26] CTP MD RspLogin Success.
+[2018-July-24 Tuesday, 15:59:34] Create CTPTrader Thread..
+[2018-July-24 Tuesday, 15:59:48] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 16:02:27] Log File Opened..
+[2018-July-24 Tuesday, 16:02:28] CTP MD RspLogin Success.
+[2018-July-24 Tuesday, 16:02:37] Create CTPTrader Thread..
+[2018-July-24 Tuesday, 16:02:56] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-July-24 Tuesday, 16:04:12] Log File Opened..
+[2018-July-24 Tuesday, 16:04:13] CTP MD RspLogin Success.
+[2018-July-24 Tuesday, 16:04:20] Create CTPTrader Thread..
+[2018-July-24 Tuesday, 20:06:48] Log File Opened..
+[2018-July-24 Tuesday, 20:06:49] CTP MD RspLogin Success.
+[2018-July-24 Tuesday, 20:08:50] Log File Opened..
+[2018-July-24 Tuesday, 20:08:51] CTP MD RspLogin Success.
+[2018-July-24 Tuesday, 20:09:44] Create CTPTrader Thread..
+[2018-July-24 Tuesday, 20:12:02] Log File Opened..
+[2018-July-24 Tuesday, 20:12:03] CTP MD RspLogin Success.
+[2018-July-24 Tuesday, 20:12:27] Create CTPTrader Thread..
+[2018-July-24 Tuesday, 20:34:49] Log File Opened..
+[2018-July-24 Tuesday, 20:34:50] CTP MD RspLogin Success.
+[2018-July-24 Tuesday, 20:35:01] Create CTPTrader Thread..
+[2018-July-24 Tuesday, 20:35:58] Log File Opened..
+[2018-July-24 Tuesday, 20:36:00] CTP MD RspLogin Success.
+[2018-July-24 Tuesday, 20:36:07] Create CTPTrader Thread..
+[2018-July-24 Tuesday, 20:36:15] gStrategyImplIndex=0,gMapView->strategynum=0

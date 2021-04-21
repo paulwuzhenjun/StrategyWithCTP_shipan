@@ -1,0 +1,53 @@
+[2019-March-14 Thursday, 09:11:56] Log File Opened..
+[2019-March-14 Thursday, 09:11:57] CTP MD RspLogin Success.
+[2019-March-14 Thursday, 09:12:13] Create CTPTrader Thread..
+[2019-March-14 Thursday, 09:12:13] AccountID:2208002005,Balance:3067526.700
+[2019-March-14 Thursday, 09:15:52] Log File Opened..
+[2019-March-14 Thursday, 09:15:53] CTP MD RspLogin Success.
+[2019-March-14 Thursday, 09:16:08] Create CTPTrader Thread..
+[2019-March-14 Thursday, 09:16:08] AccountID:2208002005,Balance:3067526.700
+[2019-March-14 Thursday, 09:16:08] ClientNo:2208002005,Inst:IC1903,Direct:0,TradePrice:5495.00,TradeVol:1,SettlePrice:5405.60,-18280.00,MatchDateTime:20190312
+[2019-March-14 Thursday, 09:16:08] ClientNo:2208002005,Inst:IC1903,Direct:0,TradePrice:5495.00,TradeVol:1,SettlePrice:5405.60,-18280.00,MatchDateTime:20190312
+[2019-March-14 Thursday, 09:16:25] Strategy Init..
+[2019-March-14 Thursday, 09:16:25] IC-GD-00006-3_instance1,StrategyGridOpen,重启恢复,当前时间=09:16:25,Shmindex:0
+[2019-March-14 Thursday, 09:16:50] IC-GD-00006-3_instance1,Stop
+[2019-March-14 Thursday, 09:23:20] Log File Opened..
+[2019-March-14 Thursday, 09:23:21] CTP MD RspLogin Success.
+[2019-March-14 Thursday, 09:23:37] Create CTPTrader Thread..
+[2019-March-14 Thursday, 09:23:37] AccountID:2208002005,Balance:3067526.700
+[2019-March-14 Thursday, 09:23:37] ClientNo:2208002005,Inst:IC1903,Direct:0,TradePrice:5495.00,TradeVol:1,SettlePrice:5405.60,-18280.00,MatchDateTime:20190312
+[2019-March-14 Thursday, 09:23:37] ClientNo:2208002005,Inst:IC1903,Direct:0,TradePrice:5495.00,TradeVol:1,SettlePrice:5405.60,-18280.00,MatchDateTime:20190312
+[2019-March-14 Thursday, 09:23:49] Strategy Init..
+[2019-March-14 Thursday, 09:23:49] IC-GD-00006-3_instance1,StrategyGridOpen,重启恢复,当前时间=09:23:49,Shmindex:0
+[2019-March-14 Thursday, 09:24:13] IC-GD-00006-3_instance1,Stop
+[2019-March-14 Thursday, 09:27:28] Log File Opened..
+[2019-March-14 Thursday, 09:27:29] CTP MD RspLogin Success.
+[2019-March-14 Thursday, 09:27:48] Create CTPTrader Thread..
+[2019-March-14 Thursday, 09:28:02] Log File Opened..
+[2019-March-14 Thursday, 09:28:03] CTP MD RspLogin Success.
+[2019-March-14 Thursday, 09:28:19] Create CTPTrader Thread..
+[2019-March-14 Thursday, 09:28:19] AccountID:2208002005,Balance:3067526.700
+[2019-March-14 Thursday, 09:28:19] ClientNo:2208002005,Inst:IC1903,Direct:0,TradePrice:5495.00,TradeVol:1,SettlePrice:5405.60,-18280.00,MatchDateTime:20190312
+[2019-March-14 Thursday, 09:28:19] ClientNo:2208002005,Inst:IC1903,Direct:0,TradePrice:5495.00,TradeVol:1,SettlePrice:5405.60,-18280.00,MatchDateTime:20190312
+[2019-March-14 Thursday, 09:28:28] Strategy Init..
+[2019-March-14 Thursday, 09:28:28] IC-GD-00006-3_instance1,StrategyGridOpen,重启恢复,当前时间=09:28:28,Shmindex:0
+[2019-March-14 Thursday, 09:29:15] IC-GD-00006-3_instance1,Stop
+[2019-March-14 Thursday, 10:02:45] Log File Opened..
+[2019-March-14 Thursday, 10:02:46] CTP MD RspLogin Success.
+[2019-March-14 Thursday, 10:03:04] Create CTPTrader Thread..
+[2019-March-14 Thursday, 10:03:17] Log File Opened..
+[2019-March-14 Thursday, 10:03:18] CTP MD RspLogin Success.
+[2019-March-14 Thursday, 10:03:31] Create CTPTrader Thread..
+[2019-March-14 Thursday, 10:03:31] AccountID:2208002005,Balance:3048294.926
+[2019-March-14 Thursday, 10:06:03] Log File Opened..
+[2019-March-14 Thursday, 10:06:04] CTP MD RspLogin Success.
+[2019-March-14 Thursday, 10:06:19] Log File Opened..
+[2019-March-14 Thursday, 10:06:20] CTP MD RspLogin Success.
+[2019-March-14 Thursday, 10:06:32] Create CTPTrader Thread..
+[2019-March-14 Thursday, 10:06:32] AccountID:2208002005,Balance:3045574.926
+[2019-March-14 Thursday, 10:06:32] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5391.00,TradeVol:2,SettlePrice:5393.00,-24320.00,MatchDateTime:20190314
+[2019-March-14 Thursday, 10:06:54] Log File Opened..
+[2019-March-14 Thursday, 10:06:55] CTP MD RspLogin Success.
+[2019-March-14 Thursday, 10:07:06] Create CTPTrader Thread..
+[2019-March-14 Thursday, 10:07:06] AccountID:2208002005,Balance:3042294.926
+[2019-March-14 Thursday, 10:07:15] ClientNo:2208002005,Inst:IC1904,Direct:0,TradePrice:5391.00,TradeVol:2,SettlePrice:5393.00,-27600.00,MatchDateTime:20190314

@@ -1,0 +1,98 @@
+[2021-April-08 Thursday, 22:33:56] Log File Opened..
+[2021-April-08 Thursday, 22:33:58] CTP MD RspLogin Success.
+[2021-April-08 Thursday, 22:34:11] Create CTPTrader Thread..
+[2021-April-08 Thursday, 22:34:12] AccountID:932535,Balance:2201.730
+[2021-April-08 Thursday, 22:38:16] Strategy Init..
+[2021-April-08 Thursday, 22:38:17] Strategy Init..
+[2021-April-08 Thursday, 22:38:18] Strategy Init..
+[2021-April-08 Thursday, 22:38:19] Strategy Init..
+[2021-April-08 Thursday, 22:38:22] Strategy Init..
+[2021-April-09 Friday, 08:45:16] Create CTPTrader Thread..
+[2021-April-09 Friday, 08:45:18] CTP MD RspLogin Success.
+[2021-April-09 Friday, 08:45:19] AccountID:932535,Balance:2201.730
+[2021-April-09 Friday, 11:17:24] 限时撤单_instance1,Stop
+[2021-April-09 Friday, 11:17:25] 限时撤单_instance3,Stop
+[2021-April-09 Friday, 11:17:26] 限时撤单_instance5,Stop
+[2021-April-09 Friday, 11:18:20] gStrategyImplIndex=4,gMapView->strategynum=4
+[2021-April-09 Friday, 11:18:21] AccountID:932535,Balance:4227.730
+[2021-April-09 Friday, 13:49:26] CTP Insert!! 4,openOrClose=0,buyOrSell=1,price=2451.0000,vol=1,inst=MA105,iRet=0
+[2021-April-09 Friday, 13:49:26] DispatchTdMsg,orderSysId:15823,ref:4
+[2021-April-09 Friday, 13:49:26] 限时撤单_instance2,OnRtnOrder,OrderId=15823,Status=3,VolRemain=1,OrderRef=4
+[2021-April-09 Friday, 13:49:28] CTP Insert!! 6,openOrClose=0,buyOrSell=1,price=2449.0000,vol=1,inst=MA105,iRet=0
+[2021-April-09 Friday, 13:49:28] DispatchTdMsg,orderSysId:15823,ref:4
+[2021-April-09 Friday, 13:49:28] 限时撤单_instance2,OnRtnOrder,OrderId=15823,Status=3,VolRemain=1,OrderRef=4
+[2021-April-09 Friday, 13:49:28] DispatchTdMsg,orderSysId:15825,ref:4
+[2021-April-09 Friday, 13:49:28] 限时撤单_instance2,OnRtnOrder,OrderId=15825,Status=7,VolRemain=1,OrderRef=4
+[2021-April-09 Friday, 14:45:03] 限时撤单_instance2,Stop
+[2021-April-09 Friday, 14:45:08] Strategy Init..
+[2021-April-09 Friday, 15:05:14] AccountID:932535,Balance:4227.730
+[2021-April-09 Friday, 20:50:18] Create CTPTrader Thread..
+[2021-April-09 Friday, 20:50:18] CTP MD RspLogin Success.
+[2021-April-09 Friday, 20:50:20] AccountID:932535,Balance:4227.730
+[2021-April-12 Monday, 08:45:28] Create CTPTrader Thread..
+[2021-April-12 Monday, 08:45:28] CTP MD RspLogin Success.
+[2021-April-12 Monday, 08:45:31] AccountID:932535,Balance:4227.730
+[2021-April-12 Monday, 09:01:59] CTP Insert!! 9,openOrClose=0,buyOrSell=0,price=2433.0000,vol=1,inst=MA105,iRet=0
+[2021-April-12 Monday, 09:01:59] DispatchTdMsg,orderSysId:8313,ref:9
+[2021-April-12 Monday, 09:01:59] 限时撤单_instance2,OnRtnOrder,OrderId=8313,Status=3,VolRemain=1,OrderRef=9
+[2021-April-12 Monday, 09:02:00] DispatchTdMsg,orderSysId:8319,ref:9
+[2021-April-12 Monday, 09:02:00] 限时撤单_instance2,OnRtnOrder,OrderId=8319,Status=3,VolRemain=1,OrderRef=9
+[2021-April-12 Monday, 09:02:00] DispatchTdMsg,orderSysId:8319,ref:9
+[2021-April-12 Monday, 09:02:00] 限时撤单_instance2,OnRtnOrder,OrderId=8319,Status=9,VolRemain=0,OrderRef=9
+[2021-April-12 Monday, 09:02:00] DispatchTdMsg,orderSysId:128320,ref:9
+[2021-April-12 Monday, 09:04:22] CTP Insert!! 10,openOrClose=1,buyOrSell=1,price=2429.0000,vol=1,inst=MA105,iRet=0
+[2021-April-12 Monday, 09:04:22] DispatchTdMsg,orderSysId:9261,ref:10
+[2021-April-12 Monday, 09:04:22] DispatchTdMsg,orderSysId:9262,ref:10
+[2021-April-12 Monday, 09:04:22] DispatchTdMsg,orderSysId:9262,ref:10
+[2021-April-12 Monday, 09:04:22] 限时撤单_instance2,OnRtnOrder,OrderId=9261,Status=3,VolRemain=1,OrderRef=10
+[2021-April-12 Monday, 09:04:22] 限时撤单_instance2,OnRtnOrder,OrderId=9262,Status=3,VolRemain=1,OrderRef=10
+[2021-April-12 Monday, 09:04:22] DispatchTdMsg,orderSysId:129263,ref:10
+[2021-April-12 Monday, 09:04:22] 限时撤单_instance2,OnRtnOrder,OrderId=9262,Status=9,VolRemain=0,OrderRef=10
+[2021-April-12 Monday, 09:04:23] CTP Insert!! 11,openOrClose=0,buyOrSell=0,price=2428.0000,vol=1,inst=MA105,iRet=0
+[2021-April-12 Monday, 09:04:23] DispatchTdMsg,orderSysId:9277,ref:11
+[2021-April-12 Monday, 09:04:23] 限时撤单_instance2,OnRtnOrder,OrderId=9277,Status=3,VolRemain=1,OrderRef=11
+[2021-April-12 Monday, 09:04:23] DispatchTdMsg,orderSysId:9278,ref:11
+[2021-April-12 Monday, 09:04:23] DispatchTdMsg,orderSysId:9278,ref:11
+[2021-April-12 Monday, 09:04:23] 限时撤单_instance2,OnRtnOrder,OrderId=9278,Status=3,VolRemain=1,OrderRef=11
+[2021-April-12 Monday, 09:04:23] 限时撤单_instance2,OnRtnOrder,OrderId=9278,Status=9,VolRemain=0,OrderRef=11
+[2021-April-12 Monday, 09:04:23] DispatchTdMsg,orderSysId:129279,ref:11
+[2021-April-12 Monday, 09:07:04] CTP Insert!! 12,openOrClose=1,buyOrSell=1,price=2429.0000,vol=1,inst=MA105,iRet=0
+[2021-April-12 Monday, 09:07:04] DispatchTdMsg,orderSysId:9232,ref:12
+[2021-April-12 Monday, 09:07:04] 限时撤单_instance2,OnRtnOrder,OrderId=9232,Status=3,VolRemain=1,OrderRef=12
+[2021-April-12 Monday, 09:07:12] DispatchTdMsg,orderSysId:9232,ref:12
+[2021-April-12 Monday, 09:07:12] 限时撤单_instance2,OnRtnOrder,OrderId=9232,Status=3,VolRemain=1,OrderRef=12
+[2021-April-12 Monday, 09:07:12] DispatchTdMsg,orderSysId:9244,ref:12
+[2021-April-12 Monday, 09:07:12] 限时撤单_instance2,OnRtnOrder,OrderId=9244,Status=7,VolRemain=1,OrderRef=12
+[2021-April-12 Monday, 09:07:12] CTP Insert!! 14,openOrClose=1,buyOrSell=1,price=2428.0000,vol=1,inst=MA105,iRet=0
+[2021-April-12 Monday, 09:07:12] DispatchTdMsg,orderSysId:9245,ref:14
+[2021-April-12 Monday, 09:07:12] 限时撤单_instance2,OnRtnOrder,OrderId=9245,Status=3,VolRemain=1,OrderRef=14
+[2021-April-12 Monday, 09:07:15] DispatchTdMsg,orderSysId:9253,ref:14
+[2021-April-12 Monday, 09:07:15] DispatchTdMsg,orderSysId:9253,ref:14
+[2021-April-12 Monday, 09:07:15] 限时撤单_instance2,OnRtnOrder,OrderId=9253,Status=3,VolRemain=1,OrderRef=14
+[2021-April-12 Monday, 09:07:15] DispatchTdMsg,orderSysId:129254,ref:14
+[2021-April-12 Monday, 09:07:15] 限时撤单_instance2,OnRtnOrder,OrderId=9253,Status=9,VolRemain=0,OrderRef=14
+[2021-April-12 Monday, 09:15:31] CTP Insert!! 15,openOrClose=0,buyOrSell=0,price=2418.0000,vol=1,inst=MA105,iRet=0
+[2021-April-12 Monday, 09:15:31] DispatchTdMsg,orderSysId:10896,ref:15
+[2021-April-12 Monday, 09:15:31] 限时撤单_instance2,OnRtnOrder,OrderId=10896,Status=3,VolRemain=1,OrderRef=15
+[2021-April-12 Monday, 09:15:32] DispatchTdMsg,orderSysId:10900,ref:15
+[2021-April-12 Monday, 09:15:32] 限时撤单_instance2,OnRtnOrder,OrderId=10900,Status=3,VolRemain=1,OrderRef=15
+[2021-April-12 Monday, 09:15:32] DispatchTdMsg,orderSysId:10900,ref:15
+[2021-April-12 Monday, 09:15:32] 限时撤单_instance2,OnRtnOrder,OrderId=10900,Status=9,VolRemain=0,OrderRef=15
+[2021-April-12 Monday, 09:15:32] DispatchTdMsg,orderSysId:1210901,ref:15
+[2021-April-12 Monday, 09:17:44] CTP Insert!! 16,openOrClose=1,buyOrSell=1,price=2421.0000,vol=1,inst=MA105,iRet=0
+[2021-April-12 Monday, 09:17:44] DispatchTdMsg,orderSysId:11531,ref:16
+[2021-April-12 Monday, 09:17:44] DispatchTdMsg,orderSysId:11532,ref:16
+[2021-April-12 Monday, 09:17:44] DispatchTdMsg,orderSysId:11532,ref:16
+[2021-April-12 Monday, 09:17:44] DispatchTdMsg,orderSysId:1211533,ref:16
+[2021-April-12 Monday, 09:17:44] 限时撤单_instance2,OnRtnOrder,OrderId=11531,Status=3,VolRemain=1,OrderRef=16
+[2021-April-12 Monday, 09:17:44] 限时撤单_instance2,OnRtnOrder,OrderId=11532,Status=3,VolRemain=1,OrderRef=16
+[2021-April-12 Monday, 09:17:44] 限时撤单_instance2,OnRtnOrder,OrderId=11532,Status=9,VolRemain=0,OrderRef=16
+[2021-April-12 Monday, 09:20:13] CTP Insert!! 17,openOrClose=0,buyOrSell=0,price=2413.0000,vol=1,inst=MA105,iRet=0
+[2021-April-12 Monday, 09:20:13] DispatchTdMsg,orderSysId:11845,ref:17
+[2021-April-12 Monday, 09:20:13] 限时撤单_instance2,OnRtnOrder,OrderId=11845,Status=3,VolRemain=1,OrderRef=17
+[2021-April-12 Monday, 09:20:29] CTP Insert!! 19,openOrClose=0,buyOrSell=0,price=2415.0000,vol=1,inst=MA105,iRet=0
+[2021-April-12 Monday, 09:20:29] DispatchTdMsg,orderSysId:11845,ref:17
+[2021-April-12 Monday, 09:20:29] 限时撤单_instance2,OnRtnOrder,OrderId=11845,Status=3,VolRemain=1,OrderRef=17
+[2021-April-12 Monday, 09:20:29] DispatchTdMsg,orderSysId:11874,ref:17
+[2021-April-12 Monday, 09:20:29] 限时撤单_instance2,OnRtnOrder,OrderId=11874,Status=7,VolRemain=1,OrderRef=17
+[2021-April-12 Monday, 10:59:31] 限时撤单_instance2,Stop

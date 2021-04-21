@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Template|Win32">
+      <Configuration>Template</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectName>StrategyWithCTPFinalMDTD</ProjectName>
+    <ProjectGuid>{18613C08-DBB9-444E-95CA-0787601E6F56}</ProjectGuid>
+    <RootNamespace>TestTraderApi</RootNamespace>
+    <Keyword>MFCProj</Keyword>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Static</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Template|Win32'">
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.30319.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Configuration)\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Configuration)\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+    </Midl>
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;_TEST;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <StructMemberAlignment>Default</StructMemberAlignment>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0804</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>EsunnyQuot.lib;ForeignTradeApi.lib;.\ThostTraderApi\thostmduserapi_se.lib;.\ThostTraderApi\thosttraderapi_se.lib;.\SgitTraderApi\sgittradeapi.lib;.\SgitTraderApi\sgitquotapi.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+    </Midl>
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="ado_conn.cpp" />
+    <ClCompile Include="CMdInstMgrDlg.cpp" />
+    <ClCompile Include="database.cpp" />
+    <ClCompile Include="EnterCTPUserDlg.cpp" />
+    <ClCompile Include="EsunMdSpi.cpp" />
+    <ClCompile Include="GlobalFunc.cpp" />
+    <ClCompile Include="InstListDlg.cpp" />
+    <ClCompile Include="LockVariable.cpp" />
+    <ClCompile Include="InstMgrDlg.cpp" />
+    <ClCompile Include="MDDataDispatchThread.cpp" />
+    <ClCompile Include="MdDlg.cpp" />
+    <ClCompile Include="RiskManagementTcp.cpp" />
+    <ClCompile Include="RSMsgList.cpp" />
+    <ClCompile Include="SgitMdSpi.cpp" />
+    <ClCompile Include="SgitTraderSpi.cpp" />
+    <ClCompile Include="StrategyAvgDown.cpp" />
+    <ClCompile Include="StrategyAvgLine.cpp" />
+    <ClCompile Include="StrategyBandMomnt.cpp" />
+    <ClCompile Include="StrategyBaoChe.cpp" />
+    <ClCompile Include="StrategyBar.cpp" />
+    <ClCompile Include="StrategyBaseGridMAStopOpen.cpp" />
+    <ClCompile Include="StrategyBaseGridMAStopOpenCffex.cpp" />
+    <ClCompile Include="StrategyBaseGridOpen.cpp" />
+    <ClCompile Include="StrategyBaseGridOpenCffex.cpp" />
+    <ClCompile Include="StrategyBaseGridOpen_plus.cpp" />
+    <ClCompile Include="StrategyDT.cpp" />
+    <ClCompile Include="StrategyGridMAStopGTCChop.cpp" />
+    <ClCompile Include="StrategyGridOpen.cpp" />
+    <ClCompile Include="StrategyKDJ.cpp" />
+    <ClCompile Include="StrategyLastTTimeOpen.cpp" />
+    <ClCompile Include="LogMsgThread.cpp" />
+    <ClCompile Include="MessageList.cpp" />
+    <ClCompile Include="MyThread.cpp" />
+    <ClCompile Include="HitTraderApi.cpp" />
+    <ClCompile Include="HitTraderApiDlg.cpp" />
+    <ClCompile Include="InsertOrderDlg.cpp" />
+    <ClCompile Include="MdSpi.cpp" />
+    <ClCompile Include="Message.cpp" />
+    <ClCompile Include="MIndicator.cpp" />
+    <ClCompile Include="MyTimer.cpp" />
+    <ClCompile Include="OrderDataList.cpp" />
+    <ClCompile Include="OrdersMgrDlg.cpp" />
+    <ClCompile Include="ParamsMgrDlg.cpp" />
+    <ClCompile Include="PositionsMgrDlg.cpp" />
+    <ClCompile Include="DispatchTdMsgThread.cpp" />
+    <ClCompile Include="ScreenDisplayThread.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Strategy.cpp" />
+    <ClCompile Include="LocalCLMgrDlg.cpp" />
+    <ClCompile Include="StrategyOpenPriceOpeningAsia.cpp" />
+    <ClCompile Include="StrategyOpenPriceOpeningNew.cpp" />
+    <ClCompile Include="StrategyOpenPriceOpeningNight.cpp" />
+    <ClCompile Include="StrategyRecoverDlg.cpp" />
+    <ClCompile Include="StrategySpeedBreak.cpp" />
+    <ClCompile Include="StrategyThreeK.cpp" />
+    <ClCompile Include="StrategyUpDownR.cpp" />
+    <ClCompile Include="StrategyWaveOpen.cpp" />
+    <ClCompile Include="StrategyWaveOpenAdd.cpp" />
+    <ClCompile Include="ThostMdSpi.cpp" />
+    <ClCompile Include="ThostTraderSpi.cpp" />
+    <ClCompile Include="TickDataList.cpp" />
+    <ClCompile Include="EsunTraderSpi.cpp" />
+    <ClCompile Include="StrategyOpenPriceOpening.cpp" />
+    <ClCompile Include="TradeDataList.cpp" />
+    <ClCompile Include="TradesDisplayDlg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ado_conn.h" />
+    <ClInclude Include="ado_pool.h" />
+    <ClInclude Include="CMdInstMgrDlg.h" />
+    <ClInclude Include="database.h" />
+    <ClInclude Include="EnterCTPUserDlg.h" />
+    <ClInclude Include="EsunMdSpi.h" />
+    <ClInclude Include="EsunnyQuot.h" />
+    <ClInclude Include="Global.h" />
+    <ClInclude Include="GlobalFunc.h" />
+    <ClInclude Include="InstListDlg.h" />
+    <ClInclude Include="LockVariable.h" />
+    <ClInclude Include="InstMgrDlg.h" />
+    <ClInclude Include="MDDataDispatchThread.h" />
+    <ClInclude Include="MdDlg.h" />
+    <ClInclude Include="RiskManagementTcp.h" />
+    <ClInclude Include="RSMsgList.h" />
+    <ClInclude Include="SgitMdSpi.h" />
+    <ClInclude Include="SgitTraderSpi.h" />
+    <ClInclude Include="StrategyAvgDown.h" />
+    <ClInclude Include="StrategyAvgLine.h" />
+    <ClInclude Include="StrategyBandMomnt.h" />
+    <ClInclude Include="StrategyBaoChe.h" />
+    <ClInclude Include="StrategyBar.h" />
+    <ClInclude Include="StrategyBaseGridMAStopOpen.h" />
+    <ClInclude Include="StrategyBaseGridMAStopOpenCffex.h" />
+    <ClInclude Include="StrategyBaseGridOpen.h" />
+    <ClInclude Include="StrategyBaseGridOpenCffex.h" />
+    <ClInclude Include="StrategyBaseGridOpen_plus.h" />
+    <ClInclude Include="StrategyDT.h" />
+    <ClInclude Include="StrategyGridMAStopGTCChop.h" />
+    <ClInclude Include="StrategyGridOpen.h" />
+    <ClInclude Include="StrategyKDJ.h" />
+    <ClInclude Include="StrategyLastTTimeOpen.h" />
+    <ClInclude Include="LogMsgThread.h" />
+    <ClInclude Include="MessageList.h" />
+    <ClInclude Include="MyThread.h" />
+    <ClInclude Include="HitTraderApi.h" />
+    <ClInclude Include="HitTraderApiDlg.h" />
+    <ClInclude Include="InsertOrderDlg.h" />
+    <ClInclude Include="MdSpi.h" />
+    <ClInclude Include="Message.h" />
+    <ClInclude Include="MIndicator.h" />
+    <ClInclude Include="MyStruct.h" />
+    <ClInclude Include="MyTimer.h" />
+    <ClInclude Include="OrderDataList.h" />
+    <ClInclude Include="OrdersMgrDlg.h" />
+    <ClInclude Include="ParamsMgrDlg.h" />
+    <ClInclude Include="PositionsMgrDlg.h" />
+    <ClInclude Include="DispatchTdMsgThread.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="ScreenDisplayThread.h" />
+    <ClInclude Include="shmstruct.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Strategy.h" />
+    <ClInclude Include="LocalCLMgrDlg.h" />
+    <ClInclude Include="StrategyOpenPriceOpeningAsia.h" />
+    <ClInclude Include="StrategyOpenPriceOpeningNew.h" />
+    <ClInclude Include="StrategyOpenPriceOpeningNight.h" />
+    <ClInclude Include="StrategyRecoverDlg.h" />
+    <ClInclude Include="StrategySpeedBreak.h" />
+    <ClInclude Include="StrategyThreeK.h" />
+    <ClInclude Include="StrategyUpDownR.h" />
+    <ClInclude Include="StrategyWaveOpen.h" />
+    <ClInclude Include="StrategyWaveOpenAdd.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="ThostMdSpi.h" />
+    <ClInclude Include="ThostTraderSpi.h" />
+    <ClInclude Include="TickDataList.h" />
+    <ClInclude Include="EsunTraderSpi.h" />
+    <ClInclude Include="StrategyOpenPriceOpening.h" />
+    <ClInclude Include="TradeDataList.h" />
+    <ClInclude Include="TradesDisplayDlg.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\market_strategy_24px_1163368_easyicon.ico" />
+    <None Include="res\strategy_16px_1158446_easyicon.net.ico" />
+    <None Include="res\TestTraderApi.ico" />
+    <None Include="res\TestTraderApi.rc2" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TestTraderApi.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="TestTraderApi.rc" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,24 @@
+[2018-August-14 Tuesday, 09:18:08] Log File Opened..
+[2018-August-14 Tuesday, 09:18:09] CTP MD RspLogin Success.
+[2018-August-14 Tuesday, 09:18:20] Create CTPTrader Thread..
+[2018-August-14 Tuesday, 09:18:20] 连接CTP当前时间:2018-08-14 09:18:20
+[2018-August-14 Tuesday, 09:18:24] AccountID:094440,Balance:917731.500
+[2018-August-14 Tuesday, 09:18:25] AccountID:094440,Balance:917731.500
+[2018-August-14 Tuesday, 09:18:27] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-August-14 Tuesday, 09:18:27] AccountID:094440,Balance:917731.500
+[2018-August-14 Tuesday, 09:19:01] Strategy Init..
+[2018-August-14 Tuesday, 09:19:01] IC-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=09:19:01,Shmindex:0
+[2018-August-14 Tuesday, 09:19:41] Strategy Init..
+[2018-August-14 Tuesday, 09:25:53] IC-GD-00006-2_instance1,Stop
+[2018-August-14 Tuesday, 09:26:14] Strategy Init..
+[2018-August-14 Tuesday, 09:26:14] IC-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=09:26:14,Shmindex:0
+[2018-August-14 Tuesday, 09:29:45] CTP Insert!! 102727,openOrClose=1,buyOrSell=0,price=4845.4000,vol=1,inst=IC1808,iRet=0
+[2018-August-14 Tuesday, 09:29:45] CTP Insert!! 102728,openOrClose=1,buyOrSell=0,price=4945.4000,vol=1,inst=IC1808,iRet=0
+[2018-August-14 Tuesday, 09:29:45] CTP Insert!! 102729,openOrClose=0,buyOrSell=1,price=5155.4000,vol=1,inst=IC1808,iRet=0
+[2018-August-14 Tuesday, 09:29:45] CTP Insert!! 102726,openOrClose=0,buyOrSell=1,price=5350.0000,vol=1,inst=IC1808,iRet=0
+[2018-August-14 Tuesday, 09:29:45] IC-GD-00006-2_instance1,上网格开仓,卖=5155.40000,时间=09:30:00,网格:32
+[2018-August-14 Tuesday, 09:29:45] IC-GD-00006_instance1,上网格开仓,卖=5350.00000,时间=09:30:00,网格:30
+[2018-August-14 Tuesday, 09:29:46] DispatchTdMsg,orderSysId:480,ref:102727
+[2018-August-14 Tuesday, 09:29:46] IC-GD-00006-2_instance1,OnRtnOrder,OrderId=480,Status=3,VolRemain=1,OrderRef=102727
+[2018-August-14 Tuesday, 09:32:59] IC-GD-00006-2_instance1,Stop
+[2018-August-14 Tuesday, 09:32:59] IC-GD-00006_instance1,Stop

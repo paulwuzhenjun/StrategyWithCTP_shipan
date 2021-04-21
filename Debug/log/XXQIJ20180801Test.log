@@ -1,0 +1,59 @@
+[2018-August-01 Wednesday, 10:45:20] Log File Opened..
+[2018-August-01 Wednesday, 10:45:21] CTP MD RspLogin Success.
+[2018-August-01 Wednesday, 10:45:28] Create CTPTrader Thread..
+[2018-August-01 Wednesday, 10:45:28] 连接CTP当前时间:2018-08-01 10:45:28
+[2018-August-01 Wednesday, 10:45:30] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-August-01 Wednesday, 10:45:43] Log File Opened..
+[2018-August-01 Wednesday, 10:45:44] CTP MD RspLogin Success.
+[2018-August-01 Wednesday, 10:45:50] Create CTPTrader Thread..
+[2018-August-01 Wednesday, 10:45:50] 连接CTP当前时间:2018-08-01 10:45:50
+[2018-August-01 Wednesday, 10:45:52] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-August-01 Wednesday, 10:45:53] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-August-01 Wednesday, 10:46:09] Log File Opened..
+[2018-August-01 Wednesday, 10:46:10] CTP MD RspLogin Success.
+[2018-August-01 Wednesday, 10:46:22] Create CTPTrader Thread..
+[2018-August-01 Wednesday, 10:46:22] 连接CTP当前时间:2018-08-01 10:46:22
+[2018-August-01 Wednesday, 10:46:29] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-August-01 Wednesday, 10:47:18] Log File Opened..
+[2018-August-01 Wednesday, 10:47:19] CTP MD RspLogin Success.
+[2018-August-01 Wednesday, 10:47:26] Create CTPTrader Thread..
+[2018-August-01 Wednesday, 10:47:26] 连接CTP当前时间:2018-08-01 10:47:26
+[2018-August-01 Wednesday, 10:47:27] AccountID:094440,Balance:936925.678
+[2018-August-01 Wednesday, 10:47:28] AccountID:094440,Balance:936925.678
+[2018-August-01 Wednesday, 10:47:34] Strategy Init..
+[2018-August-01 Wednesday, 10:47:35] CTP Insert!! 100003,openOrClose=0,buyOrSell=1,price=3695.0000,vol=2,inst=ag1812,iRet=0
+[2018-August-01 Wednesday, 10:47:36] ag-GD-00006-2_instance1,上网格开仓,卖=3695.00000,时间=10:47:34,网格:30
+[2018-August-01 Wednesday, 10:47:36] CTP Insert!! 100004,openOrClose=0,buyOrSell=0,price=3685.0000,vol=2,inst=ag1812,iRet=0
+[2018-August-01 Wednesday, 10:47:36] ag-GD-00006-2_instance1,下网格开仓,买=3685.00000,时间=10:47:34,网格:29
+[2018-August-01 Wednesday, 10:47:36] ag-GD-00006-2_instance1,OnRtnOrder,OrderId=708829,Status=3,VolRemain=2
+[2018-August-01 Wednesday, 10:47:36] ag-GD-00006-2_instance1,OnRtnOrder,OrderId=708877,Status=3,VolRemain=2
+[2018-August-01 Wednesday, 10:47:41] Strategy Init..
+[2018-August-01 Wednesday, 10:47:43] CTP Insert!! 100005,openOrClose=0,buyOrSell=1,price=3690.0000,vol=1,inst=ag1812,iRet=0
+[2018-August-01 Wednesday, 10:47:43] ag-GD-00007_instance1,上网格开仓,卖=3690.00000,时间=10:47:42,网格:30
+[2018-August-01 Wednesday, 10:47:43] ag-GD-00007_instance1,OnRtnOrder,OrderId=709274,Status=9,VolRemain=0,OrderRef=100005
+[2018-August-01 Wednesday, 10:47:43] ag-GD-00007_instance1,OnRtnTrade,OrderId=709275,vol=1,price=3692.00000,ref=100005
+[2018-August-01 Wednesday, 10:47:43] CTP Insert!! 100006,openOrClose=0,buyOrSell=1,price=3695.0000,vol=1,inst=ag1812,iRet=0
+[2018-August-01 Wednesday, 10:47:43] ag-GD-00007_instance1,上网格开仓,卖=3695.00000,时间=10:47:42,网格:31
+[2018-August-01 Wednesday, 10:47:44] ag-GD-00007_instance1,OnRtnOrder,OrderId=709285,Status=3,VolRemain=1,OrderRef=100006
+[2018-August-01 Wednesday, 14:05:50] ag-GD-00006-2_instance1,Stop
+[2018-August-01 Wednesday, 14:05:50] ag-GD-00007_instance1,Stop
+[2018-August-01 Wednesday, 14:09:24] Log File Opened..
+[2018-August-01 Wednesday, 14:09:26] CTP MD RspLogin Success.
+[2018-August-01 Wednesday, 14:09:33] Create CTPTrader Thread..
+[2018-August-01 Wednesday, 14:09:33] 连接CTP当前时间:2018-08-01 14:09:33
+[2018-August-01 Wednesday, 14:09:33] AccountID:094440,Balance:936892.909
+[2018-August-01 Wednesday, 14:09:34] AccountID:094440,Balance:936892.909
+[2018-August-01 Wednesday, 14:09:52] Strategy Init..
+[2018-August-01 Wednesday, 14:09:52] ag-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=14:09:52
+[2018-August-01 Wednesday, 14:10:21] Strategy Init..
+[2018-August-01 Wednesday, 14:10:21] au-GD-00006-2_instance2,StrategyGridOpen,重启恢复,当前时间=14:10:21
+[2018-August-01 Wednesday, 14:10:39] Strategy Init..
+[2018-August-01 Wednesday, 14:10:39] SC-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=14:10:39
+[2018-August-01 Wednesday, 14:11:05] Strategy Init..
+[2018-August-01 Wednesday, 14:11:11] CTP Insert!! 100003,openOrClose=0,buyOrSell=1,price=3718.0000,vol=2,inst=ag1812,iRet=0
+[2018-August-01 Wednesday, 14:11:11] ag-GD-00007_instance1,上网格开仓,卖=3718.00000,时间=14:11:10,网格:30
+[2018-August-01 Wednesday, 14:11:11] au-GD-00006-2_instance2,OnRtnOrder,OrderId=966546,Status=3,VolRemain=2
+[2018-August-01 Wednesday, 14:12:37] ag-GD-00006-2_instance1,Stop
+[2018-August-01 Wednesday, 14:12:37] au-GD-00006-2_instance2,Stop
+[2018-August-01 Wednesday, 14:12:37] SC-GD-00006-2_instance1,Stop
+[2018-August-01 Wednesday, 14:12:37] ag-GD-00007_instance1,Stop

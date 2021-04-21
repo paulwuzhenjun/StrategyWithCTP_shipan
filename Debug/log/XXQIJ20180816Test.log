@@ -1,0 +1,37 @@
+[2018-August-16 Thursday, 21:06:51] Log File Opened..
+[2018-August-16 Thursday, 21:06:52] CTP MD RspLogin Success.
+[2018-August-16 Thursday, 21:06:58] Create CTPTrader Thread..
+[2018-August-16 Thursday, 21:06:58] 连接CTP当前时间:2018-08-16 21:06:58
+[2018-August-16 Thursday, 21:06:58] AccountID:094440,Balance:949811.500
+[2018-August-16 Thursday, 21:06:59] AccountID:094440,Balance:949811.500
+[2018-August-16 Thursday, 21:06:59] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-August-16 Thursday, 21:07:00] AccountID:094440,Balance:949811.500
+[2018-August-16 Thursday, 21:07:40] Strategy Init..
+[2018-August-16 Thursday, 21:07:40] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=21:07:40,Shmindex:0
+[2018-August-16 Thursday, 21:11:02] Log File Opened..
+[2018-August-16 Thursday, 21:11:03] CTP MD RspLogin Success.
+[2018-August-16 Thursday, 21:11:10] Create CTPTrader Thread..
+[2018-August-16 Thursday, 21:11:10] 连接CTP当前时间:2018-08-16 21:11:10
+[2018-August-16 Thursday, 21:11:10] AccountID:094440,Balance:949811.500
+[2018-August-16 Thursday, 21:11:11] AccountID:094440,Balance:949811.500
+[2018-August-16 Thursday, 21:11:11] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-August-16 Thursday, 21:11:12] AccountID:094440,Balance:949811.500
+[2018-August-16 Thursday, 21:12:03] Strategy Init..
+[2018-August-16 Thursday, 21:12:03] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=21:12:03,Shmindex:0
+[2018-August-16 Thursday, 21:17:39] Log File Opened..
+[2018-August-16 Thursday, 21:17:40] CTP MD RspLogin Success.
+[2018-August-16 Thursday, 21:17:46] Create CTPTrader Thread..
+[2018-August-16 Thursday, 21:17:46] 连接CTP当前时间:2018-08-16 21:17:46
+[2018-August-16 Thursday, 21:17:46] AccountID:094440,Balance:949811.500
+[2018-August-16 Thursday, 21:17:47] AccountID:094440,Balance:949811.500
+[2018-August-16 Thursday, 21:17:47] gStrategyImplIndex=0,gMapView->strategynum=0
+[2018-August-16 Thursday, 21:17:48] AccountID:094440,Balance:949811.500
+[2018-August-16 Thursday, 21:17:59] Strategy Init..
+[2018-August-16 Thursday, 21:17:59] sc-GD-00006-2_instance1,StrategyGridOpen,重启恢复,当前时间=21:17:59,Shmindex:0
+[2018-August-16 Thursday, 21:18:00] CTP Insert!! 100620,openOrClose=1,buyOrSell=1,price=512.6000,vol=1,inst=sc1812,iRet=0
+[2018-August-16 Thursday, 21:18:00] CTP Insert!! 100621,openOrClose=1,buyOrSell=1,price=515.6000,vol=1,inst=sc1812,iRet=0
+[2018-August-16 Thursday, 21:18:00] CTP Insert!! 100622,openOrClose=1,buyOrSell=1,price=524.6000,vol=1,inst=sc1812,iRet=0
+[2018-August-16 Thursday, 21:18:00] CTP Insert!! 100623,openOrClose=1,buyOrSell=1,price=521.6000,vol=1,inst=sc1812,iRet=0
+[2018-August-16 Thursday, 21:18:00] CTP Insert!! 100624,openOrClose=1,buyOrSell=1,price=518.6000,vol=1,inst=sc1812,iRet=0
+[2018-August-16 Thursday, 21:18:00] CTP Insert!! 100625,openOrClose=1,buyOrSell=1,price=509.6000,vol=1,inst=sc1812,iRet=0
+[2018-August-16 Thursday, 21:18:12] sc-GD-00006-2_instance1,Stop
